@@ -1,0 +1,1510 @@
+Adrianus Barlandus:
+  id: '1'
+  entity_type: Person
+  pnv_first_name: Adrianus
+  pnv_surname: Barlandus
+  earliest_birth_date: '1486-09-28'
+  latest_birth_date: '1486-09-28'
+  birthplace: Baarland
+  earliest_death_date: '1538-11-30'
+  latest_death_date: '1538-11-30'
+  deathplace: Leuven
+  alternative_literal_name1: Hadrianus Barlandus
+  alternative_literal_name2: Adriaan van Baarland
+  occupation: historian; philosopher; philologist; university teacher
+  link_viaf: http://viaf.org/viaf/19701114
+  link_nta1: http://data.bibliotheken.nl/id/thes/p074778692
+  link_wikidata: http://www.wikidata.org/entity/Q2067100
+Andreas Hoius:
+  id: '2'
+  entity_type: Person
+  pnv_first_name: Andreas
+  pnv_surname: Hoius
+  earliest_birth_date: '1551-01-01'
+  latest_birth_date: '1551-12-31'
+  birthplace: Brugge
+  earliest_death_date: '1631-01-01'
+  latest_death_date: '1631-12-31'
+  alternative_literal_name1: Adreas van Hoye
+  alternative_literal_name2: André van Hoye
+  link_viaf: http://viaf.org/viaf/12649466
+  link_nta1: http://data.bibliotheken.nl/id/thes/p070171947
+Aquila Cruso:
+  id: '3'
+  entity_type: Person
+  pnv_first_name: Aquila
+  pnv_surname: Cruso
+  earliest_birth_date: '1595-01-01'
+  latest_birth_date: '1595-12-31'
+  earliest_death_date: '1660-01-01'
+  latest_death_date: '1660-12-31'
+  link_viaf: http://viaf.org/viaf/5681148997648659870002
+Augustinians:
+  id: '4'
+  entity_type: Organization
+Augustinians of Antwerpen:
+  id: '5'
+  entity_type: Organization
+  link_wikidata: http://www.wikidata.org/entity/Q48526662
+Augustinians of Gent:
+  id: '6'
+  entity_type: Organization
+Augustus Alstenius Bloemertius:
+  id: '7'
+  entity_type: Person
+  pnv_first_name: Augustus Alstenius
+  pnv_surname: Bloemertius
+  earliest_birth_date: '1585-01-01'
+  latest_birth_date: '1585-12-31'
+  birthplace: Haarlem
+  earliest_death_date: '1659-11-04'
+  latest_death_date: '1659-11-04'
+  deathplace: Haarlem
+  alternative_literal_name1: Augustyn Alsten Bloemaert
+  link_viaf: http://viaf.org/viaf/220560966
+  link_nta1: http://data.bibliotheken.nl/id/thes/p070550611
+Aulus Gerardus Dalanthus:
+  id: '8'
+  entity_type: Person
+  pnv_first_name: Aulus Gerardus
+  pnv_surname: Dalanthus
+  earliest_death_date: '1577-01-01'
+  latest_death_date: '1577-12-31'
+  link_viaf: http://viaf.org/viaf/69743382
+Bernardinis Stephonius Sabinus:
+  id: '9'
+  entity_type: Person
+  pnv_first_name: Bernardinis Stephonius
+  pnv_surname: Sabinus
+  link_viaf: http://viaf.org/viaf/99332018
+Carolus Malapertius:
+  id: '10'
+  entity_type: Person
+  pnv_first_name: Carolus
+  pnv_surname: Malapertius
+  earliest_birth_date: '1581-07-12'
+  latest_birth_date: '1581-07-12'
+  birthplace: Mons
+  earliest_death_date: '1630-11-05'
+  latest_death_date: '1630-11-05'
+  deathplace: Vitoria-Gasteiz
+  alternative_literal_name1: Charles Malapert
+  alternative_literal_name2: Karel Malapert
+  occupation: astronomer; poet; mathematician
+  religion: Catholicism
+  link_viaf: http://viaf.org/viaf/89295135
+  link_nta1: http://data.bibliotheken.nl/id/thes/p070687633
+  link_wikidata: http://www.wikidata.org/entity/Q744091
+Cornelius Schonaeus:
+  id: '11'
+  entity_type: Person
+  pnv_first_name: Cornelius
+  pnv_surname: Schonaeus
+  earliest_birth_date: '1540-01-01'
+  latest_birth_date: '1541-12-31'
+  birthplace: Gouda
+  earliest_death_date: '1611-11-23'
+  latest_death_date: '1611-11-23'
+  deathplace: Haarlem
+  alternative_literal_name1: Cornelis Schoon
+  alternative_literal_name2: cornelius schoneaus
+  occupation: playwright; writer
+  image: https://commons.wikimedia.org/wiki/File:Cornelius_Schon%C3%A4us.jpg
+  link_viaf: http://viaf.org/viaf/9991678
+  link_nta1: http://data.bibliotheken.nl/id/thes/p069979855
+  link_wikidata: http://www.wikidata.org/entity/Q2707820
+Cornelius Crocus:
+  id: '12'
+  entity_type: Person
+  pnv_first_name: Cornelius
+  pnv_surname: Crocus
+  earliest_birth_date: '1495-01-01'
+  latest_birth_date: '1505-12-31'
+  birthplace: Amsterdam
+  earliest_death_date: '1550-10-01'
+  latest_death_date: '1550-10-01'
+  deathplace: Rome
+  alternative_literal_name1: Cornelius Kroock
+  occupation: playwright
+  link_viaf: http://viaf.org/viaf/8306045
+  link_nta1: http://data.bibliotheken.nl/id/thes/p070287783
+  link_wikidata: http://www.wikidata.org/entity/Q55194213
+Cornelius Laurimanus:
+  id: '13'
+  entity_type: Person
+  pnv_first_name: Cornelius
+  pnv_surname: Laurimanus
+  earliest_birth_date: '1515-01-01'
+  latest_birth_date: '1525-12-31'
+  earliest_death_date: '1573-01-01'
+  latest_death_date: '1573-12-31'
+  alternative_literal_name1: Cornelius Laurimannus
+  alternative_literal_name2: Cornelius Lauwerman
+  occupation: playwright
+  link_viaf: http://viaf.org/viaf/47103933
+  link_nta1: http://data.bibliotheken.nl/id/thes/p070198020
+  link_wikidata: http://www.wikidata.org/entity/Q2341707
+Daniel Heinsius:
+  id: '14'
+  entity_type: Person
+  pnv_first_name: Daniel
+  pnv_surname: Heinsius
+  earliest_birth_date: '1580-06-09'
+  latest_birth_date: '1580-06-09'
+  birthplace: Gent
+  earliest_death_date: '1655-02-25'
+  latest_death_date: '1655-02-25'
+  deathplace: Leiden
+  occupation: poet; librarian; writer; university teacher; classical scholar; philologist;
+    playwright; translator; publisher
+  image: https://commons.wikimedia.org/wiki/File:Daniel_Heinsius_-_Imagines_philologorum.jpg
+  link_viaf: http://viaf.org/viaf/56635500
+  link_nta1: http://data.bibliotheken.nl/id/thes/p06836914X
+  link_wikidata: http://www.wikidata.org/entity/Q918731
+Eligius Eucharius:
+  id: '15'
+  entity_type: Person
+  pnv_first_name: Eligius
+  pnv_surname: Eucharius
+  earliest_birth_date: '1483-01-01'
+  latest_birth_date: '1493-12-31'
+  earliest_death_date: '1544-01-01'
+  latest_death_date: '1544-12-31'
+  alternative_literal_name1: Houcarius
+  alternative_literal_name2: Gillis Hoockaert
+  alternative_literal_name3: Elooi van Houcke
+  alternative_literal_name4: Eligius Lucharius
+  link_viaf: http://viaf.org/viaf/22956806
+Emmanuel Rodriguez:
+  id: '16'
+  entity_type: Person
+  pnv_first_name: Emmanuel
+  pnv_surname: Rodriguez
+Emmanuel Lobb:
+  id: '17'
+  entity_type: Person
+  pnv_first_name: Emmanuel
+  pnv_surname: Lobb
+  earliest_birth_date: '1594-01-01'
+  latest_birth_date: '1594-12-31'
+  birthplace: Portsmouth
+  earliest_death_date: '1671-07-24'
+  latest_death_date: '1671-07-24'
+  deathplace: London
+  alternative_literal_name1: Joseph Simeons
+  occupation: playwright
+  religion: Catholicism
+  link_viaf: http://viaf.org/viaf/69799707
+  link_nta1: http://data.bibliotheken.nl/id/thes/p141311355
+  link_wikidata: http://www.wikidata.org/entity/Q3810270
+Eusebius Candidus:
+  id: '18'
+  entity_type: Person
+  pnv_first_name: Eusebius
+  pnv_surname: Candidus
+  link_viaf: http://viaf.org/viaf/37730253
+Fabricius Ruremundanus:
+  id: '19'
+  entity_type: Person
+  pnv_first_name: Fabricius
+  pnv_surname: Ruremundanus
+  earliest_birth_date: '1495-01-01'
+  latest_birth_date: '1495-12-31'
+  earliest_death_date: '1560-01-01'
+  latest_death_date: '1560-12-31'
+  alternative_literal_name1: Franciscus Fabricius
+  link_viaf: http://viaf.org/viaf/122211457
+Franciscus Eutrachelus:
+  id: '20'
+  entity_type: Person
+  pnv_first_name: Franciscus
+  pnv_surname: Eutrachelus
+  earliest_birth_date: '1539-01-01'
+  latest_birth_date: '1539-12-31'
+  earliest_death_date: '1616-01-01'
+  latest_death_date: '1616-12-31'
+  alternative_literal_name1: François Goethals
+  alternative_literal_name2: Franciscus Eucollus
+  alternative_literal_name3: Franciscus Panagathus
+  link_viaf: http://viaf.org/viaf/45131034
+Franciscus van den Enden:
+  id: '21'
+  entity_type: Person
+  pnv_first_name: Franciscus
+  pnv_prefix: van den
+  pnv_surname: Enden
+  earliest_birth_date: '1602-02-09'
+  latest_birth_date: '1602-02-09'
+  birthplace: Antwerpen
+  earliest_death_date: '1674-11-24'
+  latest_death_date: '1674-11-24'
+  deathplace: Parijs
+  alternative_literal_name1: Franciscus van den Eijnde
+  alternative_literal_name2: Afinius
+  occupation: physician; poet; philosopher, writer; politician
+  link_viaf: http://viaf.org/viaf/61624240
+  link_nta1: http://data.bibliotheken.nl/id/thes/p074590588
+  link_wikidata: http://www.wikidata.org/entity/Q596911
+Franciscus Noël:
+  id: '22'
+  entity_type: Person
+  pnv_first_name: Franciscus
+  pnv_surname: Noël
+  earliest_birth_date: '1651-08-18'
+  latest_birth_date: '1651-08-18'
+  birthplace: Hestrud
+  earliest_death_date: '1729-09-17'
+  latest_death_date: '1729-09-17'
+  deathplace: Lille
+  alternative_literal_name1: François Noe͏̈l
+  occupation: father; writer; translator; theologian; cartographer
+  religion: Catholicism
+  link_viaf: http://viaf.org/viaf/49566217
+  link_nta1: http://data.bibliotheken.nl/id/thes/p188919902
+  link_nta2: http://data.bibliotheken.nl/id/thes/p181046210
+  link_wikidata: http://www.wikidata.org/entity/Q1451148
+Fredericus Piroüel:
+  id: '23'
+  entity_type: Person
+  pnv_first_name: Fredericus
+  pnv_surname: Piroüel
+  earliest_death_date: '1650-01-01'
+  latest_death_date: '1650-12-31'
+  alternative_literal_name1: Frédéric Pirouel
+  link_viaf: http://viaf.org/viaf/265146331933218692082
+Casparus Casparius:
+  id: '24'
+  entity_type: Person
+  pnv_first_name: Casparus
+  pnv_surname: Casparius
+  earliest_birth_date: '1569-01-01'
+  latest_birth_date: '1569-12-31'
+  earliest_death_date: '1642-01-01'
+  latest_death_date: '1652-12-31'
+  alternative_literal_name1: Caspar Ens
+  alternative_literal_name2: Gaspar Ens
+  occupation: mathematician
+  link_viaf: http://viaf.org/viaf/100217037
+  link_nta1: http://data.bibliotheken.nl/id/thes/p072609133
+  link_wikidata: http://www.wikidata.org/entity/Q18945332
+Gregorius Holonius:
+  id: '25'
+  entity_type: Person
+  pnv_first_name: Gregorius
+  pnv_surname: Holonius
+  earliest_birth_date: '1531-01-01'
+  latest_birth_date: '1531-12-31'
+  earliest_death_date: '1594-01-01'
+  latest_death_date: '1594-12-31'
+  alternative_literal_name1: Grégoire de Hologne
+  link_viaf: http://viaf.org/viaf/52505116
+Guilielmus Druraeus:
+  id: '26'
+  entity_type: Person
+  pnv_first_name: Guilielmus
+  pnv_surname: Druraeus
+  link_viaf: http://viaf.org/viaf/314871309
+  link_nta1: http://data.bibliotheken.nl/id/thes/p413073785
+Gulielmus Gazaeus:
+  id: '27'
+  entity_type: Person
+  pnv_first_name: Gulielmus
+  pnv_surname: Gazaeus
+  earliest_death_date: '1562-01-01'
+  latest_death_date: '1562-12-31'
+  alternative_literal_name1: Gulielmus Gazaeus
+  alternative_literal_name2: Guillaume Gazeau
+  link_viaf: http://viaf.org/viaf/34786650
+  link_wikidata: http://www.wikidata.org/entity/Q59529698
+Guilliam Caudron Jr.:
+  id: '28'
+  entity_type: Person
+  pnv_first_name: Guilliam
+  pnv_surname: Caudron Jr.
+  earliest_birth_date: '1607-01-01'
+  latest_birth_date: '1607-12-31'
+  birthplace: Aalst
+  earliest_death_date: '1692-01-01'
+  latest_death_date: '1692-12-31'
+  alternative_literal_name1: Guilliam Caudron
+  link_viaf: http://viaf.org/viaf/280998266
+  link_nta1: http://data.bibliotheken.nl/id/thes/p135766621
+Guilielmus Jennyn:
+  id: '29'
+  entity_type: Person
+  pnv_first_name: Guilielmus
+  pnv_surname: Jennyn
+  earliest_birth_date: '1636-01-01'
+  latest_birth_date: '1636-12-31'
+  earliest_death_date: '1673-12-12'
+  latest_death_date: '1673-12-12'
+  deathplace: Westkapelle (BE)
+Haarlemse rederijker:
+  id: '30'
+  entity_type: Person
+Henricus Canisius:
+  id: '31'
+  entity_type: Person
+  pnv_first_name: Henricus
+  pnv_surname: Canisius
+  earliest_birth_date: '1562-01-01'
+  latest_birth_date: '1562-12-31'
+  birthplace: Nijmegen
+  earliest_death_date: '1610-09-02'
+  latest_death_date: '1610-09-02'
+  deathplace: Ingolstadt
+  alternative_literal_name1: Heinrich Canisius
+  alternative_literal_name2: Hendrik de Hondt
+  occupation: jurist; university teacher
+  religion: Catholicism
+  link_viaf: http://viaf.org/viaf/120726862
+  link_wikidata: http://www.wikidata.org/entity/Q4212454
+Hugo Grotius:
+  id: '32'
+  entity_type: Person
+  pnv_first_name: Hugo
+  pnv_surname: Grotius
+  earliest_birth_date: '1583-04-10'
+  latest_birth_date: '1583-04-10'
+  birthplace: Delft
+  earliest_death_date: '1645-08-28'
+  latest_death_date: '1645-08-28'
+  deathplace: Rostock
+  alternative_literal_name1: Hugo de Groot
+  occupation: poet; laywright; jurist; politician; writer; diplomat; historian; philosopher;
+    theologian; laywer; university teacher; ambassador
+  religion: Arminianism
+  image: https://commons.wikimedia.org/wiki/File:Michiel_Jansz_van_Mierevelt_-_Hugo_Grotius.jpg
+  link_viaf: http://viaf.org/viaf/32005141
+  link_nta1: http://data.bibliotheken.nl/id/thes/p068407017
+  link_wikidata: http://www.wikidata.org/entity/Q154959
+Jacob Zevecotius:
+  id: '33'
+  entity_type: Person
+  pnv_first_name: Jacob
+  pnv_surname: Zevecotius
+  earliest_birth_date: '1596-01-16'
+  latest_birth_date: '1596-01-16'
+  birthplace: Gent
+  earliest_death_date: '1642-03-17'
+  latest_death_date: '1642-03-17'
+  deathplace: Harderwijk
+  alternative_literal_name1: Jacob van Zevecote
+  link_viaf: http://viaf.org/viaf/9829017
+  link_nta1: http://data.bibliotheken.nl/id/thes/p069409765
+Jacobus Cornelius Lummenaeus a Marca:
+  id: '34'
+  entity_type: Person
+  pnv_first_name: Jacobus Cornelius
+  pnv_surname: Lummenaeus a Marca
+  earliest_birth_date: '1575-01-01'
+  latest_birth_date: '1585-12-31'
+  earliest_death_date: '1623-01-01'
+  latest_death_date: '1633-12-31'
+  link_viaf: http://viaf.org/viaf/1396152636173620052837
+Jacobus de Keghel:
+  id: '35'
+  entity_type: Person
+  pnv_first_name: Jacobus
+  pnv_prefix: de
+  pnv_surname: Keghel
+  link_viaf: http://viaf.org/viaf/37772321
+Jacobus Libenius:
+  id: '36'
+  entity_type: Person
+  pnv_first_name: Jacobus
+  pnv_surname: Libenius
+  earliest_birth_date: '1603-01-01'
+  latest_birth_date: '1603-12-31'
+  birthplace: Antwerpen
+  earliest_death_date: '1678-01-01'
+  latest_death_date: '1678-12-31'
+  alternative_literal_name1: Jacques Libens
+  link_viaf: http://viaf.org/viaf/80604715
+Jacobus Zovitius:
+  id: '37'
+  entity_type: Person
+  pnv_first_name: Jacobus
+  pnv_surname: Zovitius
+  earliest_birth_date: '1512-01-01'
+  latest_birth_date: '1512-12-31'
+  birthplace: Dreischor
+  alternative_literal_name1: Jacoppen Pietersen
+  alternative_literal_name2: Jacobus Zovitius Driescharus
+  alternative_literal_name3: Jacobus Zovitius Triburbius
+  occupation: writer
+  link_viaf: http://viaf.org/viaf/296546670
+  link_nta1: http://data.bibliotheken.nl/id/thes/p354528890
+  link_wikidata: http://www.wikidata.org/entity/Q15876822
+Jean-Baptiste Gramaye:
+  id: '38'
+  entity_type: Person
+  pnv_first_name: Jean-Baptiste
+  pnv_surname: Gramaye
+  earliest_birth_date: '1580-01-01'
+  latest_birth_date: '1580-12-31'
+  birthplace: Antwerpen
+  earliest_death_date: '1635-01-01'
+  latest_death_date: '1635-12-31'
+  deathplace: Lübeck
+  alternative_literal_name1: Jean Baptiste Gramaye
+  alternative_literal_name2: Joannes Baptista Gramaius
+  alternative_literal_name3: Johannes Baptistes Gramaius
+  occupation: historian; university teacher; diplomat; canon; archdeacon
+  religion: Catholicism
+  link_viaf: http://viaf.org/viaf/19824580
+  link_nta1: http://data.bibliotheken.nl/id/thes/p068414927
+  link_wikidata: http://www.wikidata.org/entity/Q1922212
+Jesuits:
+  id: '39'
+  entity_type: Organization
+  link_wikidata: http://www.wikidata.org/entity/Q36380
+Jesuits of Aalst:
+  id: '40'
+  entity_type: Organization
+Jesuits of Antwerpen:
+  id: '41'
+  entity_type: Organization
+  link_wikidata: http://www.wikidata.org/entity/Q48177345
+Jesuits of Bailleul:
+  id: '42'
+  entity_type: Organization
+Jesuits of Brugge:
+  id: '43'
+  entity_type: Organization
+Jesuits of Brussel:
+  id: '45'
+  entity_type: Organization
+Jesuits of Cassel:
+  id: '46'
+  entity_type: Organization
+Jesuits of Gent:
+  id: '47'
+  entity_type: Organization
+  link_wikidata: http://www.wikidata.org/entity/Q47112139
+Jesuits of Halle:
+  id: '48'
+  entity_type: Organization
+  link_wikidata: http://www.wikidata.org/entity/Q49986360
+Jesuits of Hasselt:
+  id: '49'
+  entity_type: Organization
+Jesuits of Ieper:
+  id: '50'
+  entity_type: Organization
+Jesuits of Kortrijk:
+  id: '51'
+  entity_type: Organization
+Jesuits of Maastricht:
+  id: '52'
+  entity_type: Organization
+Jesuits of Mechelen:
+  id: '53'
+  entity_type: Organization
+  link_wikidata: http://www.wikidata.org/entity/Q48185364
+Jesuits of Roermond:
+  id: '54'
+  entity_type: Organization
+Jesuits of Bergues:
+  id: '55'
+  entity_type: Organization
+Joannes Chrysostomus Loots:
+  id: '56'
+  entity_type: Person
+  pnv_first_name: Joannes Chrysostomus
+  pnv_surname: Loots
+  earliest_birth_date: '1598-01-01'
+  latest_birth_date: '1598-12-31'
+  earliest_death_date: '1656-01-01'
+  latest_death_date: '1656-12-31'
+  alternative_literal_name1: Jean Chrysostome Loots
+  link_viaf: http://viaf.org/viaf/290494241
+Joannes David:
+  id: '57'
+  entity_type: Person
+  pnv_first_name: Joannes
+  pnv_surname: David
+  earliest_birth_date: '1545-01-01'
+  latest_birth_date: '1546-12-31'
+  birthplace: Kortrijk
+  earliest_death_date: '1613-08-09'
+  latest_death_date: '1613-08-09'
+  deathplace: Antwerpen
+  link_viaf: http://viaf.org/viaf/66522352
+  link_nta1: http://data.bibliotheken.nl/id/thes/p070791775
+Joannes-Baptista Holvoet:
+  id: '58'
+  entity_type: Person
+  pnv_first_name: Joannes-Baptista
+  pnv_surname: Holvoet
+  earliest_birth_date: '1691-01-01'
+  latest_birth_date: '1691-12-31'
+  earliest_death_date: '1766-01-01'
+  latest_death_date: '1766-12-31'
+  alternative_literal_name1: Johannes Baptista Holvoet
+  link_viaf: http://viaf.org/viaf/285342742
+Johannes Groethuyse:
+  id: '59'
+  entity_type: Person
+  pnv_first_name: Johannes
+  pnv_surname: Groethuyse
+Johannes Placentius:
+  id: '60'
+  entity_type: Person
+  pnv_first_name: Johannes
+  pnv_surname: Placentius
+  earliest_birth_date: '1485-01-01'
+  latest_birth_date: '1500-12-31'
+  birthplace: St. Truiden
+  earliest_death_date: '1538-01-01'
+  latest_death_date: '1549-12-31'
+  deathplace: Leuven
+  alternative_literal_name1: Johannes Struyven
+  alternative_literal_name2: Jean le Plaisant
+  alternative_literal_name3: Johannes Plaisant
+  alternative_literal_name4: Joannes Leo Placentius
+  occupation: religious; poet
+  religion: Catholicism
+  link_viaf: http://viaf.org/viaf/289132217
+  link_viaf2: http://viaf.org/viaf/84588010
+  link_nta1: http://data.bibliotheken.nl/id/thes/p070065179
+  link_wikidata: http://www.wikidata.org/entity/Q1243416
+Joannes Surius:
+  id: '61'
+  entity_type: Person
+  pnv_first_name: Joannes
+  pnv_surname: Surius
+  earliest_birth_date: '1554-01-01'
+  latest_birth_date: '1554-12-31'
+  earliest_death_date: '1626-01-01'
+  latest_death_date: '1631-12-31'
+  alternative_literal_name1: Jean Surius
+  alternative_literal_name2: Johannes Surius Bethuniensis
+  link_viaf: http://viaf.org/viaf/374159474198227661349
+Johannes van Aelhuisen:
+  id: '62'
+  entity_type: Person
+  pnv_first_name: Johannes
+  pnv_prefix: van
+  pnv_surname: Aelhuisen
+  earliest_birth_date: '1626-01-01'
+  latest_birth_date: '1626-12-31'
+  birthplace: Tiel
+  earliest_death_date: '1685-01-01'
+  latest_death_date: '1685-12-31'
+  deathplace: Tiel
+  alternative_literal_name1: Johannes van Aelhuysen
+  alternative_literal_name2: Johannes van Aalhuisen
+  link_viaf: http://viaf.org/viaf/14779431
+  link_nta1: http://data.bibliotheken.nl/id/thes/p069398003
+Johannes Heckius:
+  id: '63'
+  entity_type: Person
+  pnv_first_name: Johannes
+  pnv_surname: Heckius
+  earliest_birth_date: '1579-02-02'
+  latest_birth_date: '1579-02-02'
+  birthplace: Deventer
+  earliest_death_date: '1620-01-01'
+  latest_death_date: '1625-12-31'
+  deathplace: Sant'Angelo Romano
+  alternative_literal_name1: Johannes van Heeck
+  occupation: astronomer; mathematician; physician; physicist; naturalist;
+  link_viaf: http://viaf.org/viaf/95454935
+  link_wikidata: http://www.wikidata.org/entity/Q1698718
+Johannes Amos Comenius:
+  id: '64'
+  entity_type: Person
+  pnv_first_name: Johannes Amos
+  pnv_surname: Comenius
+  earliest_birth_date: '1592-03-18'
+  latest_birth_date: '1592-03-18'
+  birthplace: Uherský Brod
+  earliest_death_date: '1670-11-15'
+  latest_death_date: '1670-11-15'
+  deathplace: Amsterdam
+  alternative_literal_name1: Jan Amos Comenius
+  alternative_literal_name2: Jan Amos Komenský
+  alternative_literal_name3: Jan Komenský
+  occupation: writer; linguist; presbyter; theologian; pedagogue; philosopher; scientist;
+    teacher; educator; dramaturge; head teacher; bishop
+  religion: Unity of the Brethren
+  image: https://commons.wikimedia.org/wiki/File:Jan_Amos_Comenius_(Komensky)_(1592-1670)._Tsjechisch_humanist_en_pedagoog._Als_voorganger_van_de_Moravische_of_Boheemse_Broedergemeente_verdreven_en_sedert_1656_gevestigd_te_Amsterdam_Rijksmuseum_SK-A-2161.jpeg
+  link_viaf: http://viaf.org/viaf/29835535
+  link_nta1: http://data.bibliotheken.nl/id/thes/p068709331
+  link_wikidata: http://www.wikidata.org/entity/Q12735
+Josephus Justus Scaliger:
+  id: '65'
+  entity_type: Person
+  pnv_first_name: Josephus Justus
+  pnv_surname: Scaliger
+  earliest_birth_date: '1540-08-05'
+  latest_birth_date: '1540-08-05'
+  birthplace: Agen
+  earliest_death_date: '1609-01-21'
+  latest_death_date: '1609-01-21'
+  deathplace: Leiden
+  alternative_literal_name1: Joseph Justus Scaliger
+  occupation: historian; writer; archaeologist; professor; translator; university
+    teacher; classical scholar; poet; numismatist; philologist
+  religion: Calvinism
+  image: https://commons.wikimedia.org/wiki/File:Scaliger.jpg
+  link_viaf: http://viaf.org/viaf/29540435
+  link_nta1: http://data.bibliotheken.nl/id/thes/p068556225
+  link_wikidata: http://www.wikidata.org/entity/Q315163
+Juventus studiosa Leuven:
+  id: '66'
+  entity_type: Organization
+Carmelites of Munsterbilsen:
+  id: '67'
+  entity_type: Organization
+Lambertus Schenkelius:
+  id: '68'
+  entity_type: Person
+  pnv_first_name: Lambertus
+  pnv_surname: Schenkelius
+  earliest_birth_date: '1547-03-07'
+  latest_birth_date: '1547-03-07'
+  birthplace: Den Bosch
+  alternative_literal_name1: Lambert Thomas Schenkel
+  alternative_literal_name2: Lambertus Thomas Schenckels
+  link_viaf: http://viaf.org/viaf/1498149296307880670003
+Livinus Brechtus:
+  id: '69'
+  entity_type: Person
+  pnv_first_name: Livinus
+  pnv_surname: Brechtus
+  earliest_birth_date: '1503-01-01'
+  latest_birth_date: '1515-12-31'
+  earliest_death_date: '1558-01-01'
+  latest_death_date: '1558-12-31'
+  alternative_literal_name1: Liévin van Brecht
+  link_viaf: http://viaf.org/viaf/30350250
+  link_nta1: http://data.bibliotheken.nl/id/thes/p073476595
+  link_wikidata: http://www.wikidata.org/entity/Q55876001
+Ludovicus Cellotius:
+  id: '70'
+  entity_type: Person
+  pnv_first_name: Ludovicus
+  pnv_surname: Cellotius
+  earliest_birth_date: '1588-01-01'
+  latest_birth_date: '1588-12-31'
+  birthplace: Paris
+  earliest_death_date: '1658-10-10'
+  latest_death_date: '1658-10-10'
+  alternative_literal_name1: Louis Cellot
+  occupation: theologian; poet
+  religion: Catholicism
+  link_viaf: http://viaf.org/viaf/77389516
+  link_wikidata: http://www.wikidata.org/entity/Q6686878
+Georgius Macropedius:
+  id: '71'
+  entity_type: Person
+  pnv_first_name: Georgius
+  pnv_surname: Macropedius
+  earliest_birth_date: '1487-04-23'
+  latest_birth_date: '1487-04-23'
+  birthplace: Gemert
+  earliest_death_date: '1558-07-20'
+  latest_death_date: '1558-07-31'
+  deathplace: '''s-Hertogenbosch'
+  alternative_literal_name1: Macropedius
+  alternative_literal_name2: Joris van Lanckvelt
+  occupation: playwright
+  religion: Catholicism
+  image: https://commons.wikimedia.org/wiki/File:Portret_van_Georgius_Macropedius_Georgivs_Macropedivs_(titel_op_object),_RP-P-1906-1493.jpg
+  link_viaf: http://viaf.org/viaf/69053873
+  link_nta1: http://data.bibliotheken.nl/id/thes/p06966613X
+  link_wikidata: http://www.wikidata.org/entity/Q710836
+Martinus du Cygne:
+  id: '72'
+  entity_type: Person
+  pnv_first_name: Martinus
+  pnv_prefix: du
+  pnv_surname: Cygne
+  earliest_birth_date: '1619-01-01'
+  latest_birth_date: '1619-12-31'
+  earliest_death_date: '1669-01-01'
+  latest_death_date: '1669-12-31'
+  alternative_literal_name1: Martin du Cygne
+  link_viaf: http://viaf.org/viaf/20743786
+  link_nta1: http://data.bibliotheken.nl/id/thes/p071290974
+  link_nta2: http://data.bibliotheken.nl/id/thes/p070422087
+  link_wikidata: http://www.wikidata.org/entity/Q21545079
+Johannes Molanus:
+  id: '73'
+  entity_type: Person
+  pnv_first_name: Johannes
+  pnv_surname: Molanus
+  earliest_birth_date: '1510-01-01'
+  latest_birth_date: '1533-12-31'
+  birthplace: Lille
+  earliest_death_date: '1585-09-18'
+  latest_death_date: '1585-09-18'
+  deathplace: Leuven
+  alternative_literal_name1: Johannes van der Meulen
+  alternative_literal_name2: Jan van der Meulen
+  alternative_literal_name3: Jan Vermeulen
+  occupation: theologian; university teacher; Catholic priest
+  religion: Catholicism
+  image: https://commons.wikimedia.org/wiki/File:123_9_molanus_pt.jpg
+  link_viaf: http://viaf.org/viaf/34600990
+  link_nta1: http://data.bibliotheken.nl/id/thes/p068419015
+  link_wikidata: http://www.wikidata.org/entity/Q89381
+Nicasius Baxius:
+  id: '74'
+  entity_type: Person
+  pnv_first_name: Nicasius
+  pnv_surname: Baxius
+  earliest_birth_date: '1581-11-01'
+  latest_birth_date: '1581-11-01'
+  birthplace: Antwerpen
+  earliest_death_date: '1640-01-01'
+  latest_death_date: '1642-10-22'
+  link_viaf: http://viaf.org/viaf/118144648469666540686
+Nicolaus Bartholomaeus:
+  id: '75'
+  entity_type: Person
+  pnv_first_name: Nicolaus
+  pnv_surname: Bartholomaeus
+  alternative_literal_name1: Nicolas Bartholemy
+  alternative_literal_name2: Nicolaus Bartholomaeus Lochiensis
+  link_viaf: http://viaf.org/viaf/281779527
+  link_nta1: http://data.bibliotheken.nl/id/thes/p073482439
+  link_nta2: http://data.bibliotheken.nl/id/thes/p12901026X
+Nicolaus Susius:
+  id: '76'
+  entity_type: Person
+  pnv_first_name: Nicolaus
+  pnv_surname: Susius
+  earliest_death_date: '1619-02-03'
+  latest_death_date: '1619-02-03'
+  deathplace: Kortrijk
+  alternative_literal_name1: Nicolas Suys
+  link_viaf: http://viaf.org/viaf/316408261
+Nicolaus Vernulaeus:
+  id: '77'
+  entity_type: Person
+  pnv_first_name: Nicolaus
+  pnv_surname: Vernulaeus
+  earliest_birth_date: '1583-04-10'
+  latest_birth_date: '1583-04-10'
+  birthplace: Robelmont
+  earliest_death_date: '1649-01-06'
+  latest_death_date: '1649-01-06'
+  deathplace: Leuven
+  alternative_literal_name1: Nicolas de Vernulz
+  occupation: playwright; university teacher
+  link_viaf: http://viaf.org/viaf/29588189
+  link_nta1: http://data.bibliotheken.nl/id/thes/p068445555
+  link_wikidata: http://www.wikidata.org/entity/Q2679753
+Oliverius Reylof:
+  id: '78'
+  entity_type: Person
+  pnv_first_name: Oliverius
+  pnv_surname: Reylof
+  alternative_literal_name1: Oliv. de Reylof
+  link_viaf: http://viaf.org/viaf/282131459
+  link_nta1: http://data.bibliotheken.nl/id/thes/p243273932
+Oratorians:
+  id: '79'
+  entity_type: Organization
+Oratorians of Mechelen:
+  id: '80'
+  entity_type: Organization
+Oratorians of Ronse:
+  id: '81'
+  entity_type: Organization
+Jesuits of Paris:
+  id: '82'
+  entity_type: Organization
+Petrus Cunaeus:
+  id: '83'
+  entity_type: Person
+  pnv_first_name: Petrus
+  pnv_surname: Cunaeus
+  earliest_birth_date: '1586-01-01'
+  latest_birth_date: '1586-12-31'
+  birthplace: Vlissingen
+  earliest_death_date: '1638-12-02'
+  latest_death_date: '1638-12-02'
+  deathplace: Leiden
+  occupation: writer, historian; philosopher; theologian; university teacher; jurist;
+    rector mangnificus of Leiden University
+  religion: Protestantism
+  image: https://commons.wikimedia.org/wiki/File:Petrus-Cunaeus_1.jpg
+  link_viaf: http://viaf.org/viaf/76551781
+  link_nta1: http://data.bibliotheken.nl/id/thes/p06951397X
+  link_wikidata: http://www.wikidata.org/entity/Q24085
+Petrus Ligneus:
+  id: '84'
+  entity_type: Person
+  pnv_first_name: Petrus
+  pnv_surname: Ligneus
+  earliest_birth_date: '1515-01-01'
+  latest_birth_date: '1525-12-31'
+  birthplace: Gravelines
+  deathplace: Antwerpen
+  alternative_literal_name1: Petrus van den Houte
+  alternative_literal_name2: Petrus Ligneus Gravelinganus
+  alternative_literal_name3: Petrus van den Houtte
+  link_viaf: http://viaf.org/viaf/16157701705444221738
+Petrus Papeus:
+  id: '85'
+  entity_type: Person
+  pnv_first_name: Petrus
+  pnv_surname: Papeus
+  occupation: teacher; playwright
+  link_viaf: http://viaf.org/viaf/289269306
+  link_wikidata: http://www.wikidata.org/entity/Q55125268
+Petrus Nannius:
+  id: '86'
+  entity_type: Person
+  pnv_first_name: Petrus
+  pnv_surname: Nannius
+  earliest_birth_date: '1496-01-01'
+  latest_birth_date: '1500-12-31'
+  birthplace: Alkmaar
+  earliest_death_date: '1557-07-31'
+  latest_death_date: '1557-07-31'
+  deathplace: Leuven
+  alternative_literal_name1: Pieter Nanninck
+  occupation: philologist; translator; writer; poet; university teacher; Renaissance
+    humanist
+  image: https://commons.wikimedia.org/wiki/File:Pieter_Nanninck_(1500-1557).png
+  link_viaf: http://viaf.org/viaf/49234456
+  link_nta1: http://data.bibliotheken.nl/id/thes/p070401101
+  link_wikidata: http://www.wikidata.org/entity/Q24952357
+Remaclus Arduenna:
+  id: '87'
+  entity_type: Person
+  pnv_first_name: Remaclus
+  pnv_surname: Arduenna
+  earliest_birth_date: '1480-01-01'
+  latest_birth_date: '1480-12-31'
+  birthplace: Florennes
+  earliest_death_date: '1524-01-01'
+  latest_death_date: '1524-12-31'
+  deathplace: Mechelen
+  alternative_literal_name1: Remacle d'Ardenne
+  link_viaf: http://viaf.org/viaf/18036550
+Rochus Honerdus:
+  id: '88'
+  entity_type: Person
+  pnv_first_name: Rochus
+  pnv_surname: Honerdus
+  earliest_birth_date: '1572-03-13'
+  latest_birth_date: '1572-03-13'
+  birthplace: Dordrecht
+  earliest_death_date: '1638-01-30'
+  latest_death_date: '1638-01-30'
+  deathplace: Den Haag
+  alternative_literal_name1: Rochus van den Honert
+  link_viaf: http://viaf.org/viaf/36828811
+  link_nta1: http://data.bibliotheken.nl/id/thes/p070087261
+  link_wikidata: http://www.wikidata.org/entity/Q56006640
+Theodorus Wallaeus:
+  id: '89'
+  entity_type: Person
+  pnv_first_name: Theodorus
+  pnv_surname: Wallaeus
+  earliest_birth_date: '1573-10-01'
+  latest_birth_date: '1573-10-31'
+  birthplace: Gent
+  earliest_death_date: '1635-01-01'
+  latest_death_date: '1639-07-03'
+  alternative_literal_name1: Antoine de Waele
+  alternative_literal_name2: Anton van Wale
+  link_viaf: http://viaf.org/viaf/46298127
+Guilielmus Gnapheus:
+  id: '90'
+  entity_type: Person
+  pnv_first_name: Guilielmus
+  pnv_surname: Gnapheus
+  earliest_birth_date: '1493-01-01'
+  latest_birth_date: '1493-12-31'
+  birthplace: Den Haag
+  earliest_death_date: '1568-09-29'
+  latest_death_date: '1568-09-29'
+  deathplace: Norden
+  alternative_literal_name1: Willem Claesz. de Volder
+  alternative_literal_name2: ' Willem van Haeghen'
+  alternative_literal_name3: Wilhelm Gnapheus
+  alternative_literal_name4: Willem van de Voldersgraft
+  occupation: playwright; writer; teacher
+  religion: Anabaptism
+  link_viaf: http://viaf.org/viaf/37073404
+  link_nta1: http://data.bibliotheken.nl/id/thes/p098380419
+  link_wikidata: http://www.wikidata.org/entity/Q777548
+Janus Anysius:
+  id: '91'
+  entity_type: Person
+  pnv_first_name: Janus
+  pnv_surname: Anysius
+  earliest_birth_date: '1465-01-01'
+  latest_birth_date: '1472-12-31'
+  earliest_death_date: '1540-01-01'
+  latest_death_date: '1541-12-31'
+  alternative_literal_name1: Joan Baptista Anyés
+  alternative_literal_name2: Giano Anisio
+  link_viaf: http://viaf.org/viaf/289347695
+  link_nta1: http://data.bibliotheken.nl/id/thes/p299164799
+Pierre Campson:
+  id: '92'
+  entity_type: Person
+  pnv_first_name: Pierre
+  pnv_surname: Campson
+  earliest_birth_date: '1515-01-01'
+  latest_birth_date: '1515-12-31'
+  birthplace: Arras
+  earliest_death_date: '1568-01-01'
+  latest_death_date: '1568-12-31'
+  deathplace: Binche
+  alternative_literal_name1: Petrus Philicinus
+  link_viaf: http://viaf.org/viaf/216021587
+  link_nta1: http://data.bibliotheken.nl/id/thes/p073476803
+  link_wikidata: http://www.wikidata.org/entity/Q27586440
+Andreas Catullius:
+  id: '93'
+  entity_type: Person
+  pnv_first_name: Andreas
+  pnv_surname: Catullius
+  earliest_birth_date: '1581-01-01'
+  latest_birth_date: '1591-12-31'
+  earliest_death_date: '1667-09-27'
+  latest_death_date: '1667-09-27'
+  deathplace: Tournai
+  link_viaf: http://viaf.org/viaf/56152636061520050542
+  link_nta1: http://data.bibliotheken.nl/id/thes/p345877411
+Hadrianus Chilius:
+  id: '94'
+  entity_type: Person
+  pnv_first_name: Hadrianus
+  pnv_surname: Chilius
+  earliest_death_date: '1569-01-01'
+  latest_death_date: '1569-12-31'
+Petrus Crullus:
+  id: '95'
+  entity_type: Person
+  pnv_first_name: Petrus
+  pnv_surname: Crullus
+  earliest_birth_date: '1515-01-01'
+  latest_birth_date: '1525-12-31'
+  earliest_death_date: '1598-01-01'
+  latest_death_date: '1598-12-31'
+  link_viaf: http://viaf.org/viaf/283594521
+  link_nta1: http://data.bibliotheken.nl/id/thes/p341659371
+Martinus Dorpius:
+  id: '96'
+  entity_type: Person
+  pnv_first_name: Martinus
+  pnv_surname: Dorpius
+  earliest_birth_date: '1485-01-01'
+  latest_birth_date: '1485-12-31'
+  birthplace: Naaldwijk
+  earliest_death_date: '1525-05-31'
+  latest_death_date: '1525-05-31'
+  deathplace: Leuven
+  alternative_literal_name1: Marteen van Dorp
+  occupation: theologian
+  religion: Catholicism
+  image: https://commons.wikimedia.org/wiki/File:Martinus_Dorpius_(1485-1525).jpg
+  link_viaf: http://viaf.org/viaf/17233237
+  link_nta1: http://data.bibliotheken.nl/id/thes/p072103132
+  link_wikidata: http://www.wikidata.org/entity/Q2050711
+Desiderius Erasmus:
+  id: '97'
+  entity_type: Person
+  pnv_first_name: Desiderius
+  pnv_surname: Erasmus
+  earliest_birth_date: '1466-10-28'
+  latest_birth_date: '1469-10-28'
+  birthplace: Rotterdam
+  earliest_death_date: '1536-07-12'
+  latest_death_date: '1536-07-12'
+  deathplace: Basel
+  alternative_literal_name1: Erasmus
+  occupation: translator; philosopher; theologian; teacher; essayist; Bible translator;
+    writer; Lady Margaret's Professor of Divinity; latinist; priest; university teacher
+  religion: Catholicism
+  image: https://commons.wikimedia.org/wiki/File:Holbein-erasmus.jpg
+  link_viaf: http://viaf.org/viaf/87673996
+  link_nta1: http://data.bibliotheken.nl/id/thes/p068551959
+  link_wikidata: http://www.wikidata.org/entity/Q43499
+Theodorus Euroteles:
+  id: '98'
+  entity_type: Person
+  pnv_first_name: Theodorus
+  pnv_surname: Euroteles
+  birthplace: Oosterend
+Bernardus Everardus:
+  id: '99'
+  entity_type: Person
+  pnv_first_name: Bernardus
+  pnv_surname: Everardus
+Martinus Florentius:
+  id: '100'
+  entity_type: Person
+  pnv_first_name: Martinus
+  pnv_surname: Florentius
+  earliest_birth_date: '1541-01-01'
+  latest_birth_date: '1541-12-31'
+  birthplace: Amsterdam
+  earliest_death_date: '1585-01-01'
+  latest_death_date: '1585-12-31'
+  deathplace: Köln
+  alternative_literal_name1: Martinus van Aklemade
+  alternative_literal_name2: Martinus Florentii
+Bernardus Heymbachius:
+  id: '101'
+  entity_type: Person
+  pnv_first_name: Bernardus
+  pnv_surname: Heymbachius
+  earliest_birth_date: '1620-01-01'
+  latest_birth_date: '1629-12-31'
+  birthplace: Zulpach
+  earliest_death_date: '1664-07-08'
+  latest_death_date: '1664-07-08'
+  deathplace: Leuven
+  alternative_literal_name1: Bernard van Heymbach
+  link_viaf: http://viaf.org/viaf/309702917
+  link_nta1: http://data.bibliotheken.nl/id/thes/p121367444
+Johannes Heys:
+  id: '102'
+  entity_type: Person
+  pnv_first_name: Johannes
+  pnv_surname: Heys
+  earliest_death_date: '1665-01-01'
+  latest_death_date: '1665-12-31'
+Lambertus Hortensius:
+  id: '103'
+  entity_type: Person
+  pnv_first_name: Lambertus
+  pnv_surname: Hortensius
+  earliest_birth_date: '1500-01-01'
+  latest_birth_date: '1501-12-31'
+  birthplace: Montfoort
+  earliest_death_date: '1571-01-01'
+  latest_death_date: '1574-12-31'
+  deathplace: Naarden
+  alternative_literal_name1: Lambertus Hortensius van Montfoort
+  alternative_literal_name2: Lambertus van de Hove
+  occupation: theologian; Renaissance humanist; historian; head teacher
+  religion: Catholicism
+  image: https://commons.wikimedia.org/wiki/File:Lambertus_Hortensius.jpg
+  link_viaf: http://viaf.org/viaf/18163012
+  link_nta1: http://data.bibliotheken.nl/id/thes/p070090017
+  link_wikidata: http://www.wikidata.org/entity/Q2267684
+Libertus Houthemius:
+  id: '104'
+  entity_type: Person
+  pnv_first_name: Libertus
+  pnv_surname: Houthemius
+  earliest_birth_date: '1533-01-01'
+  latest_birth_date: '1533-12-31'
+  earliest_death_date: '1584-01-01'
+  latest_death_date: '1584-12-31'
+  alternative_literal_name1: Libertus Houthem
+  occupation: writer
+  link_wikidata: http://www.wikidata.org/entity/Q23615643
+Michael Hoyerus:
+  id: '105'
+  entity_type: Person
+  pnv_first_name: Michael
+  pnv_surname: Hoyerus
+  earliest_birth_date: '1593-01-01'
+  latest_birth_date: '1593-12-31'
+  birthplace: Heusden
+  earliest_death_date: '1650-06-14'
+  latest_death_date: '1650-06-14'
+  deathplace: Lille
+  alternative_literal_name1: Michael Hoyer
+  link_viaf: http://viaf.org/viaf/47703511
+  link_nta1: http://data.bibliotheken.nl/id/thes/p070957908
+Christophorus Stymmelius:
+  id: '106'
+  entity_type: Person
+  pnv_first_name: Christophorus
+  pnv_surname: Stymmelius
+  earliest_birth_date: '1525-10-22'
+  latest_birth_date: '1525-10-22'
+  birthplace: Frankfurt an der Oder
+  earliest_death_date: '1588-02-19'
+  latest_death_date: '1588-02-19'
+  deathplace: Szczecin
+  alternative_literal_name1: Christoph Stymmel
+  alternative_literal_name2: Ignotus Peerdeklontius
+  alternative_literal_name3: Christoph Stummel
+  occupation: theologian; writer
+  religion: Lutheranism
+  link_viaf: http://viaf.org/viaf/282221572
+  link_nta1: http://data.bibliotheken.nl/id/thes/p073270415
+  link_wikidata: http://www.wikidata.org/entity/Q1085953
+Johannes Impens:
+  id: '107'
+  entity_type: Person
+  pnv_first_name: Johannes
+  pnv_surname: Impens
+  birthplace: Leuven
+  earliest_death_date: '1669-11-18'
+  latest_death_date: '1669-11-18'
+  deathplace: Gemert
+  alternative_literal_name1: Joannes Impens
+  link_viaf: http://viaf.org/viaf/284037588
+  link_nta1: http://data.bibliotheken.nl/id/thes/p074683837
+Christianus Ischyrius:
+  id: '108'
+  entity_type: Person
+  pnv_first_name: Christianus
+  pnv_surname: Ischyrius
+  birthplace: Jülich
+  alternative_literal_name1: Christianus Sterck
+  link_viaf: http://viaf.org/viaf/40464368
+  link_nta1: http://data.bibliotheken.nl/id/thes/p10231859X
+Hermann Knuyt van Sluyterhoven:
+  id: '109'
+  entity_type: Person
+  pnv_first_name: Hermann
+  pnv_surname: Knuyt van Sluyterhoven
+Arnoldus Madirus:
+  id: '110'
+  entity_type: Person
+  pnv_first_name: Arnoldus
+  pnv_surname: Madirus
+Philippus Morus:
+  id: '111'
+  entity_type: Person
+  pnv_first_name: Philippus
+  pnv_surname: Morus
+  earliest_birth_date: '1539-01-01'
+  latest_birth_date: '1539-12-31'
+  earliest_death_date: '1578-08-01'
+  latest_death_date: '1578-08-31'
+  alternative_literal_name1: Philips Mor
+  alternative_literal_name2: Philips Moro
+  alternative_literal_name3: Philips Morus
+  link_viaf: http://viaf.org/viaf/231662627
+  link_viaf2: http://viaf.org/viaf/1048144
+  link_nta1: http://data.bibliotheken.nl/id/thes/p070237107
+Joannes Narssius:
+  id: '112'
+  entity_type: Person
+  pnv_first_name: Joannes
+  pnv_surname: Narssius
+  earliest_birth_date: '1580-11-09'
+  latest_birth_date: '1580-11-09'
+  birthplace: Dordrecht
+  earliest_death_date: '1637-01-01'
+  latest_death_date: '1639-12-31'
+  deathplace: Jakarta
+  alternative_literal_name1: Johannes van Naarssen
+  alternative_literal_name2: Anastasii filius
+  alternative_literal_name3: Hans van der Ast
+  link_viaf: http://viaf.org/viaf/1048144
+  link_nta1: http://data.bibliotheken.nl/id/thes/p069945543
+Petrus Pontanus:
+  id: '113'
+  entity_type: Person
+  pnv_first_name: Petrus
+  pnv_surname: Pontanus
+  earliest_birth_date: '1475-01-01'
+  latest_birth_date: '1480-12-31'
+  birthplace: Brugge
+  deathplace: Paris
+  alternative_literal_name1: Pierre Pontanus
+  alternative_literal_name2: Petrus de Ponte
+  alternative_literal_name3: Petrus Caecus
+  alternative_literal_name4: Petrus van der Brugge
+  occupation: writer; philologist
+  link_viaf: http://viaf.org/viaf/292827989
+  link_nta1: http://data.bibliotheken.nl/id/thes/p100704476
+Georgius Ratallerus:
+  id: '114'
+  entity_type: Person
+  pnv_first_name: Georgius
+  pnv_surname: Ratallerus
+  earliest_birth_date: '1521-01-01'
+  latest_birth_date: '1528-12-31'
+  birthplace: Leeuwarden
+  earliest_death_date: '1581-10-06'
+  latest_death_date: '1581-10-06'
+  deathplace: Utrecht
+  alternative_literal_name1: George Rataller
+  occupation: translator
+  link_viaf: http://viaf.org/viaf/247349160
+  link_nta1: http://data.bibliotheken.nl/id/thes/p070264635
+  link_wikidata: http://www.wikidata.org/entity/Q1505699
+Adrianus Roulerius:
+  id: '115'
+  entity_type: Person
+  pnv_first_name: Adrianus
+  pnv_surname: Roulerius
+  earliest_death_date: '1597-01-01'
+  latest_death_date: '1597-12-31'
+  alternative_literal_name1: Adriaen de Roulers
+  alternative_literal_name2: Adrien de Roulers
+  link_viaf: http://viaf.org/viaf/7814388
+  link_nta1: http://data.bibliotheken.nl/id/thes/p070146721
+Panagius Salius:
+  id: '116'
+  entity_type: Person
+  pnv_first_name: Panagius
+  pnv_surname: Salius
+  birthplace: Saint-Omer
+  earliest_death_date: '1595-01-28'
+  latest_death_date: '1595-01-28'
+  alternative_literal_name1: Panagius du Sel
+  alternative_literal_name2: Toussaint Sally
+  link_viaf: http://viaf.org/viaf/1471161211647840070008
+  link_nta1: http://data.bibliotheken.nl/id/thes/p327667575
+Antonius Schorus:
+  id: '117'
+  entity_type: Person
+  pnv_first_name: Antonius
+  pnv_surname: Schorus
+  earliest_birth_date: '1500-01-01'
+  latest_birth_date: '1525-12-31'
+  birthplace: Hoogstraten
+  earliest_death_date: '1552-01-01'
+  latest_death_date: '1552-12-31'
+  deathplace: Lausanne
+  alternative_literal_name1: Antonius van Schore
+  link_viaf: http://viaf.org/viaf/19633454
+  link_nta1: http://data.bibliotheken.nl/id/thes/p146387120
+  link_wikidata: http://www.wikidata.org/entity/Q21543510
+Apollonius Scotius:
+  id: '118'
+  entity_type: Person
+  pnv_first_name: Apollonius
+  pnv_surname: Scotius
+  earliest_birth_date: '1750-01-01'
+  latest_birth_date: '1755-12-31'
+  birthplace: Middelburg
+  earliest_death_date: '1639-11-01'
+  latest_death_date: '1639-11-01'
+  deathplace: Den Haag
+  alternative_literal_name1: Apollonois Schotte
+  occupation: Politician
+  link_viaf: http://viaf.org/viaf/280443193
+  link_nta1: http://data.bibliotheken.nl/id/thes/p069979979
+Renerus Snoyus:
+  id: '119'
+  entity_type: Person
+  pnv_first_name: Renerus
+  pnv_surname: Snoyus
+  earliest_birth_date: '1477-01-01'
+  latest_birth_date: '1478-12-31'
+  birthplace: Gouda
+  earliest_death_date: '1537-08-01'
+  latest_death_date: '1537-08-01'
+  alternative_literal_name1: Reinier Snoy
+  link_viaf: http://viaf.org/viaf/7421281
+  link_nta1: http://data.bibliotheken.nl/id/thes/p07248411X
+Franciscus Sylvius:
+  id: '120'
+  entity_type: Person
+  pnv_first_name: Franciscus
+  pnv_surname: Sylvius
+  earliest_birth_date: '1581-01-01'
+  latest_birth_date: '1581-12-31'
+  birthplace: Braine-le-Comte
+  earliest_death_date: '1649-02-22'
+  latest_death_date: '1649-02-22'
+  deathplace: Douai
+  alternative_literal_name1: Franciscus Silvius
+  alternative_literal_name2: Francis Sylvius
+  link_viaf2: http://viaf.org/viaf/64000104
+  link_nta1: http://data.bibliotheken.nl/id/thes/p081562462
+  link_wikidata: http://www.wikidata.org/entity/Q5482555
+Petreius Tiara:
+  id: '121'
+  entity_type: Person
+  pnv_first_name: Petreius
+  pnv_surname: Tiara
+  earliest_birth_date: '1514-07-15'
+  latest_birth_date: '1514-07-15'
+  birthplace: Workum
+  earliest_death_date: '1586-02-08'
+  latest_death_date: '1586-02-08'
+  deathplace: Franeker
+  alternative_literal_name1: Peter Tiara
+  alternative_literal_name2: Pieter Tjeerds
+  alternative_literal_name3: Petreius Tiara Frisius
+  occupation: philologist; physician; university teacher; translator; rector magnificus
+    of Leiden University
+  image: https://commons.wikimedia.org/wiki/File:Petreius_Tiara.jpg
+  link_viaf: http://viaf.org/viaf/181152636162120052401
+  link_wikidata: http://www.wikidata.org/entity/Q1686957
+Antonius Vaes:
+  id: '122'
+  entity_type: Person
+  pnv_first_name: Antonius
+  pnv_surname: Vaes
+Jacobus Vivarius:
+  id: '123'
+  entity_type: Person
+  pnv_first_name: Jacobus
+  pnv_surname: Vivarius
+  birthplace: Loemel
+  earliest_death_date: '1592-01-01'
+  latest_death_date: '1602-12-31'
+  alternative_literal_name1: Jakob Vivarius
+  alternative_literal_name2: Jacques van den Vvver
+  alternative_literal_name3: Jacobus van den Vijver
+  link_viaf: http://viaf.org/viaf/32347652
+  link_wikidata: http://www.wikidata.org/entity/Q21204421
+Petrus Vladeraccus:
+  id: '124'
+  entity_type: Person
+  pnv_first_name: Petrus
+  pnv_surname: Vladeraccus
+  earliest_birth_date: '1571-01-01'
+  latest_birth_date: '1571-12-31'
+  birthplace: Den Bosch
+  earliest_death_date: '1618-01-06'
+  latest_death_date: '1618-01-06'
+  deathplace: Oirschot
+  alternative_literal_name1: Petrus Vladderacken
+  alternative_literal_name2: Peter van Vladeracken
+  occupation: Catholic priest
+  religion: Catholicism
+  link_viaf: http://viaf.org/viaf/69756646
+  link_nta1: http://data.bibliotheken.nl/id/thes/p087974967
+  link_wikidata: http://www.wikidata.org/entity/Q1881114
+Alexander Donatus:
+  id: '125'
+  entity_type: Person
+  pnv_first_name: Alexander
+  pnv_surname: Donatus
+  earliest_birth_date: '1548-01-01'
+  latest_birth_date: '1548-12-31'
+  birthplace: Siena
+  earliest_death_date: '1640-01-01'
+  latest_death_date: '1640-12-31'
+  alternative_literal_name1: Alessandro Donati
+  link_viaf: http://viaf.org/viaf/29870868
+  link_nta1: http://data.bibliotheken.nl/id/thes/p069908737
+  link_wikidata: http://www.wikidata.org/entity/Q20203291
+Henricus Osterharius:
+  id: '126'
+  entity_type: Person
+  pnv_first_name: Henricus
+  pnv_surname: Osterharius
+  alternative_literal_name1: Hendrik Osterhaern
+  link_viaf: http://viaf.org/viaf/286532073
+  link_nta1: http://data.bibliotheken.nl/id/thes/p070112304
+Henricus Zwaerdecroon:
+  id: '127'
+  entity_type: Person
+  pnv_first_name: Henricus
+  pnv_surname: Zwaerdecroon
+  earliest_birth_date: '1594-01-01'
+  latest_birth_date: '1594-12-31'
+  birthplace: Leiden
+  earliest_death_date: '1665-03-22'
+  latest_death_date: '1665-03-22'
+  deathplace: Rotterdam
+  alternative_literal_name1: Hendrik Swaerdecroon
+  link_viaf: http://viaf.org/viaf/30434386
+  link_nta1: http://data.bibliotheken.nl/id/thes/p070339449
+Jesuits of Lille:
+  id: '128'
+  entity_type: Organization
+Jesuits of Oudenaarde:
+  id: '129'
+  entity_type: Organization
+Joannes Franciscus Quintianus Stoa:
+  id: '130'
+  entity_type: Person
+  pnv_first_name: Joannes Franciscus
+  pnv_surname: Quintianus Stoa
+  earliest_birth_date: '1484-01-01'
+  latest_birth_date: '1484-12-31'
+  birthplace: Quinzano d'Oglio
+  earliest_death_date: '1557-10-07'
+  latest_death_date: '1557-10-07'
+  deathplace: Quinzano d'Oglio
+  link_viaf: http://viaf.org/viaf/15711702
+  link_nta1: http://data.bibliotheken.nl/id/thes/p23874048X
+Joannes Reuchlin:
+  id: '131'
+  entity_type: Person
+  pnv_first_name: Joannes
+  pnv_surname: Reuchlin
+  earliest_birth_date: '1455-01-29'
+  latest_birth_date: '1455-01-29'
+  birthplace: Pforzheim
+  earliest_death_date: '1522-06-30'
+  latest_death_date: '1522-06-30'
+  deathplace: Stuttgart
+  alternative_literal_name1: Johann Reuchlin
+  link_viaf: http://viaf.org/viaf/66542815
+  link_nta1: http://data.bibliotheken.nl/id/thes/p071084754
+  link_wikidata: http://www.wikidata.org/entity/Q61067
+Friars Minor of Tielt:
+  id: '132'
+  entity_type: Organization
+Augustinians of Brugge:
+  id: '133'
+  entity_type: Organization
+Augustinians of Dendermonde:
+  id: '134'
+  entity_type: Organization
+Josephus Simonis:
+  id: '135'
+  entity_type: Person
+Augustinians of Ieper:
+  id: '136'
+  entity_type: Organization
+Augustinians of Leuven:
+  id: '137'
+  entity_type: Organization
+Guilliam Caudron Sr.:
+  id: '138'
+  entity_type: Person
+  pnv_first_name: Guilliam
+  pnv_surname: Caudron Sr.
+  earliest_birth_date: '1584-01-01'
+  latest_birth_date: '1584-12-31'
+  earliest_death_date: '1639-01-01'
+  latest_death_date: '1639-12-31'
+  alternative_literal_name1: Willem Caudron
+Jesuits of Armentières:
+  id: '139'
+  entity_type: Organization
+Jesuits of Dunkerque:
+  id: '140'
+  entity_type: Organization
+Jesuits of Leuven:
+  id: '141'
+  entity_type: Organization
+Jesuits of Menin:
+  id: '142'
+  entity_type: Organization
+  earliest_birth_date: '`'
+Jesuits of Mons:
+  id: '143'
+  entity_type: Organization
+Jesuits of Namur:
+  id: '144'
+  entity_type: Organization
+Jesuits of Oostende:
+  id: '145'
+  entity_type: Organization
+Jesuits of Tournai:
+  id: '146'
+  entity_type: Organization
+Jesuits of Valenciennes:
+  id: '147'
+  entity_type: Organization
+Nicolaes Geeraerdts:
+  id: '148'
+  entity_type: Person
+  pnv_first_name: Nicolaes
+  pnv_surname: Geeraerdts
+Jesuits of Béthune:
+  id: '44'
+  entity_type: Organization
+Jesuits of Saint-Omer:
+  id: 149
+  entity_type: Organization

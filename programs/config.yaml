@@ -1,0 +1,55 @@
+locations:
+  repoBase: ~/gitlab.huc.knaw.nl/translatin/corpus
+
+sourceVersion: "0.1"
+
+langMap:
+  Latin: la
+  Dutch: nl
+  French: fr
+  Spanish: es
+
+metadata:
+  file: metadata.xml
+  otherFiles:
+    - mets.xml
+
+  elems:
+    - title
+    - colId
+    - docId
+    - url
+    - uploader
+  dbElems:
+    - earliest
+    - latest
+    - form
+    - form_type
+    - is_anonymous
+    - genre
+    - subgenre
+    - title@la
+    - title@nl
+    - title@fr
+    - title@es
+    - certainty
+    - certainty@la
+    - certainty@nl
+    - certainty@fr
+    - certainty@es
+    - expression
+    - work
+  sourceTables:
+    - manifestations
+    - manifestation_titles
+    - expressions
+    - works
+    - expression_manifestations
+    - work_expressions
+
+skipDocs:
+  - M256
+  - M257
+  - M258
+  - M259
+  - M260

@@ -1,0 +1,49 @@
+featureMeta:
+  doc:
+    description: the short name of the document (m-code)
+  colId:
+    description: collection id
+  docId:
+    description: document id
+  title:
+    description: document title
+  title@la:
+    description: document title in Latin
+  title@nl:
+    description: document title in Dutch
+  title@fr:
+    description: document title in French
+  title@es:
+    description: document title in Spanish
+  certainty@la:
+    description: certainty of the Latin title
+  certainty@nl:
+    description: certainty of the Dutch title
+  certainty@fr:
+    description: certainty of the French title
+  certainty@es:
+    description: certainty of the Spanish title
+  uploader:
+    description: person that uploaded the images to the OCR engine
+  url:
+    description: web location of the first page of the scan
+  earliest:
+    description: earliest date of the document
+  latest:
+    description: latest date of the document
+  form:
+    description: form of the document
+  form_type:
+    description: form type of the document
+  is_anonymous:
+    description: whether the document is anonymous
+  genre:
+    description: genre of the document
+  subgenre:
+    description: subgenre of the document
+  certainty:
+    description: certainty of whether the document is a manifest of the given expression and work
+  expression:
+    description: the expression the document is a manifesation of
+  work:
+    description: the work the document is a manifesation of

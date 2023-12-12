@@ -1,92 +1,257 @@
-# corpus
+# TransLatin data
 
+## About
 
+This repo contains texts and metadata of documents produced by the
 
-## Getting started
+[Translatin](https://www.huygens.knaw.nl/en/projecten/translatin-2/)
+project, the purpose of which is to study
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+> the transnational impact of Latin drama from the early modern Netherlands, a
+qualitative and computational analysis.
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+The following employees are involved preparing the data for the project:
 
-## Add your files
+* [Jan Bloemendal](https://www.huygens.knaw.nl/en/medewerkers/jan-bloemendal-2/)
+* [Jirsi Reinders](https://www.huygens.knaw.nl/en/medewerkers/jirsi-reinders-2/)
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+[Team-Text](https://di.huc.knaw.nl/tekstanalyse-nl.html)
+is involved in preparing the resulting data for the use by researchers and the
+general public.
+
+The Translatin documents are printed pages and are considered to be *manifestations* of
+*expressions* of *works*, in the
+[FRBR](https://en.wikipedia.org/wiki/Functional_Requirements_for_Bibliographic_Records)
+sense.
+
+However, the grouping of these documents into expressions and works is a matter of
+interpretation, where the metadata is of vital importance.
+This classification is not yet finished.
+
+## Author (of this repo documentation)
+
+*   [Dirk Roorda](https://pure.knaw.nl/portal/en/persons/dirk-roorda)
+
+## Sources
+
+The sources of Translatin, seen from the perspective of Team-Text, consist of 
+several directories on an
+[internal fileshare](https://code.huc.knaw.nl/tt/translatin/-/blob/main/source.yaml).
+
+There we find many zip files with page scans and corresponding PageXML data.
+Besides that, there is various crucial metadata in the form of excel sheets and
+postgres SQL data.
+
+Hayco de Jong (Team-Text) has done work on the metadata with Jirsi Reinders.
+
+*   postgres database has been set up to store the Excel sheets with metadata;
+*   this database has been used to get evidence for which manifestations belong
+    to which expressions, and which expressions belong to which works;
+*   the outcome of this analysis has been stored in this same postgres database.
+
+## Process
+
+The Translatin documents must be published on a website, and they should also be made
+available in ways that are convenient for researchers and data scientists.
+
+Team-Text is developing a pipeline that can publish small and large corpora with
+efficient logistics. Here is an overview how that works, and which person is
+primarily dealing with which part of the project.
+
+*   **Dirk Roorda**
+
+    *   has defined an
+        [ingest procedure](https://gitlab.huc.knaw.nl/translatin/logic/-/blob/main/tools/ingest.py?ref_type=heads)
+        which collects all metadata and a subset of the data into this Gitlab repo;
+    *   uses his
+        [Text-Fabric](https://github.com/annotation/text-fabric/tree/master)
+        and Marijn Koolen's
+        [pagexml tools](https://github.com/knaw-huc/pagexml) to produce various
+        untangled versions of the texts:
+
+        *   a text-fabric version, which can be used directly by researchers, but also
+            acts as a starting format for further processing;
+        *   two json files per manifestation, e.g.
+            [M95](https://gitlab.huc.knaw.nl/translatin/data/-/tree/main/watm/0.1/M95?ref_type=heads):
+
+            *   `text.json`: the list of all tokens in the text;
+            *   `anno.json`: all annotations on those tokens, which represents
+                the information of the PageXML file.
+
+*   **Bram Buitendijk**
+
+    *   picks up the `text.json` and `anno.json` files, processes them further and
+        stores them in the infrastructure of Team-Text: *TextRepo* and *AnnoRepo*.
+
+*   **Hayco de Jong**
+
+    *   defines a pipeline from Text/Anno Repo to a web front-end called *TextAnnoViz*
+        using a broker system *Broccoli*.
+
+*   **Sebastiaan van Daalen**
+
+    *   develops and manages *TextAnnoviz* and takes care that the website fulfills
+        the end-user requirements.
+
+*   **Henny Brugman**
+    
+    *   oversees the pipeline, manages requirements and resources, helps to ensure
+        that individual projects can fit in the generic pipeline.
+
+## Ingest procedure
+
+I have defined an ingest procedure by which we get all data within reach before
+processing it. It takes source data from the leveringen, and produces various
+folders with data in this repo.
+
+There is 14 GB of data there.
+
+Do this only if you need to create a new version of the data from the
+sources.
+
+If you only want to process data, you can just use the this repo
+plus the reorganized scans in the
+[internal fileshare](https://code.huc.knaw.nl/tt/translatin/-/blob/main/source.yaml).
+
+This repo has only 0.5 GB of data, and those scans are 4GB.
+
+1.  Copy the `levering-`*i* and `metadata` directories from the internal fileshare
+    to your own computer, and put them under `~/local/translatin`;
+
+    ```
+    mkdir ~/local
+    cd ~/local
+    scp -r you@internal.fileshare:/data/translatin .
+    ```
+
+1.  Clone this data repo to your own computer:
+    
+    ```
+    mkdir -p ~/gitlab.huc.knaw.nl/translatin
+    cd ~/gitlab.huc.knaw.nl/translatin
+    git clone http://gitlab.huc.knaw.nl/translatin/data.git
+    ```
+
+1.  Clone the logic repo to your own computer:
+
+    ```
+    cd ~/gitlab.huc.knaw.nl/translatin
+    git clone http://gitlab.huc.knaw.nl/translatin/logic.git
+    ```
+
+1.  Run the ingest script:
+
+    ```
+    cd ~/gitlab.huc.knaw.nl/translatin/logic/tools
+    python ingest.py
+    ```
+
+    This creates the folders **source**, **supplementary**, **meta**, and **scan**
+    in this repo.
+
+    N.B. The directory **scan** will not be synced to GitLab, it is in the
+    `.gitignore` file.
+
+## Data description
+
+### After ingest
+
+After doing the ingest, this repo has the following folders.
+
+#### [source](source)
+
+Folder with the PageXML data.
+Organized by manifestation.
+
+#### **scan**
+
+Folder with all the scans, organized as [source](source).
+This folder is not online, you do not get it when you clone this repo, but you
+can get it from the
+[internal fileshare](https://code.huc.knaw.nl/tt/translatin/-/blob/main/source.yaml),
+indicated under **Sources** above.
+
+#### [supplementary](supplementary)
+
+Folder with supplementary files, found in the leveringen, not being scans or PageXMLs.
+Organized by manifestation.
+
+#### [meta](meta)
+
+Folder with subfolders `sheets` and `tables` which contain the information of
+the metadata as found in the Excel sheets of Jirsi and the postgres database of Hayco.
+But the representation is different:
+
+*   the sheets are in YAML; the keys correspond to the column names; excessively long
+    column names have been abbreviated, and the original long names are saved in the
+    file
+    [fields.yaml](https://gitlab.huc.knaw.nl/translatin/data/-/blob/main/meta/0.1/sheets/fields.yaml?ref_type=heads);
+*   the postgres tables are in TSV, and have their long identifiers replaced by 
+    short numbers.
+
+### After TF conversion
+
+#### [tf](tf) and [app](app)
+
+*   `tf`: the Text-Fabric representation of the texts, organized by manifestation.
+*   `app`: the definition of the TF-app with which you can access the TF data.
+
+This is what enables you to say in a Jupyter Notebook:
 
 ```
-cd existing_repo
-git remote add origin http://gitlab.huc.knaw.nl/translatin/corpus.git
-git branch -M main
-git push -uf origin main
+A = use(
+    f"translatin/data:clone",
+    relative="tf/M95",
+    checkout="clone",
+    backend="gitlab.huc.knaw.nl,
+)
 ```
 
-## Integrate with your tools
+and get programmatic acces to all ins and outs of manifestation `M95`.
 
-- [ ] [Set up project integrations](http://gitlab.huc.knaw.nl/translatin/corpus/-/settings/integrations)
+You can also navigate on the commandline to the repository and say
 
-## Collaborate with your team
+```
+tf --relative=tf/M95
+```
 
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Set auto-merge](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
+and get a local browser interface on `M95`.
 
-## Test and Deploy
+### After text/anno generation
 
-Use the built-in continuous integration in GitLab.
+#### [watm](watm)
 
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing(SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
+Folder with the generated JSON files for *TextRepo* and *AnnoRepo*.
+Organized by manifestation.
 
-***
+## Tool description
 
-# Editing this README
+The tools used to ingest and process the data of the Translatin project are in the
+directory
+[programs](https://gitlab.huc.knaw.nl/translatin/corpus/-/tree/main/programs?ref_type=heads).
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thank you to [makeareadme.com](https://www.makeareadme.com/) for this template.
+*   [tsvFromPg.sh](tools/tsvFromPg.sh?ref_type=heads)
+    Shell script to read the postgres SQL export and deliver all tables as TSV.
+*   [ingest.py](tools/ingest.py?ref_type=heads)
+    Python script to carry out the ingest: data and metadata.
+*   [convertPlain.ipynb](tools/convertPlain.ipynb?ref_type=heads)
+    Jupyter notebook that converts the manifestations from PageXML files to Text-Fabric.
+    The actual conversion code is in Text-Fabric itself:
+    [pagexml.py](https://github.com/annotation/text-fabric/blob/master/tf/convert/pagexml.py).
+*   [watm.py](tools/watm.py?ref_type=heads)
+    Python script to converst the TF data to JSON files to be ingested in
+    *TextRepo* and *AnnoRepo*.
+*   [watmFromTf.ipynb](tools/watmFromTf.ipynb?ref_type=heads)
+    Jupyter Notebook to run the `watm.py` script. It will also test the result for
+    M95 exhaustively.
 
-## Suggestions for a good README
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
+## Status
 
-## Name
-Choose a self-explaining name for your project.
+The project has delivered many Latin documents, consisting of thousands of
+pages of text, in the form of scans and their OCRed PageXML results, as well as
+extensive metadata of those texts.
 
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+### 2023-12-09
 
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+So far, we have found 73 workable manifestations with scans, PageXML and metadata. 
 
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
-
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
-
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
-
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
-
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
-
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
-
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
-
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
-
-## License
-For open source projects, say how it is licensed.
-
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.

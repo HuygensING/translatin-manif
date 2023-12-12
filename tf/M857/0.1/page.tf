@@ -1,0 +1,36 @@
+@node
+@conversion=KNAW/HuC TeamText
+@conversionTF=Dirk Roorda
+@description=the number of the page within the document
+@project=TransLatin
+@valueType=int
+@writtenBy=Text-Fabric
+@dateWritten=2023-12-12T12:14:00Z
+
+4073	1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
