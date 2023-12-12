@@ -64,7 +64,14 @@ class WATM:
         self.tlFromTf = tlFromTf
 
         for s in F.otype.s(slotType):
-            value = f"{F.str.v(s) or ''}{F.after.v(s) or ''}"
+            value = F.rstr.v(s)
+            if value is None:
+                value = F.str.v(s) or ''
+            after = F.rafter.v(s)
+            if after is None:
+                after = F.after.v(s) or ''
+            value = f"{value}{after}"  # raw text
+            # value = f"{F.str.v(s) or ''}{F.after.v(s) or ''}"  # logical text
 
             text.append(value)
             t = len(text) - 1

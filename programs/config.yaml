@@ -21,13 +21,6 @@ metadata:
     - url
     - uploader
   dbElems:
-    - earliest
-    - latest
-    - form
-    - form_type
-    - is_anonymous
-    - genre
-    - subgenre
     - title@la
     - title@nl
     - title@fr
@@ -37,8 +30,33 @@ metadata:
     - certainty@nl
     - certainty@fr
     - certainty@es
+    - author
+    - publisher
+    - place
+    - earliest
+    - latest
+    - form
+    - form_type
+    - is_anonymous
+    - genre
+    - subgenre
+    - has_dramaweb_scan
+    - has_dramaweb_transcription
+    - ceneton_scan
+    - ceneton_transcription
+    - external_scan
+    - external_transcription
+    - remarks
+    - link_ub_antwerp
+    - link_kbb
+    - link_ub_gent
+    - link_bnf
+    - link_kb
+    - link_google
+    - link_bll
     - expression
     - work
+
   sourceTables:
     - manifestations
     - manifestation_titles
@@ -46,6 +64,11 @@ metadata:
     - works
     - expression_manifestations
     - work_expressions
+    - authors
+    - authors_manifestations
+    - publishers
+    - manifestations_publishers
+    - places
 
 skipDocs:
   - M256

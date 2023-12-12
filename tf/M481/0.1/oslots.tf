@@ -4,7 +4,7 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T12:14:00Z
+@dateWritten=2023-12-12T15:42:56Z
 
 28773	1-28772
 1-3

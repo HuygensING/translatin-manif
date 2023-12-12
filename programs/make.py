@@ -25,8 +25,10 @@ from tf.core.files import (
     dirRemove,
     getLocation,
 )
+
 # from tf.app import use
 from tf.convert.pagexml import PageXML
+
 # from tf.advanced.helpers import dm
 
 from watm import WATMS
@@ -91,12 +93,14 @@ all
     Only compile the metadata
 """
 
-TASKS = set("""
+TASKS = set(
+    """
     meta
     data
     tf
     watm
-""".strip().split())
+""".strip().split()
+)
 
 CONFIG_FILE = "config.yaml"
 
@@ -120,6 +124,8 @@ IMG_EXTENSIONS = {
     eps
 """.strip().split()
 }
+
+NONE = "unspecified"
 
 ALFA_NUM = re.compile(r"""^(.*?)([0-9]+)$""")
 
@@ -193,6 +199,7 @@ def readTsv(table, file, tables):
             table2 = headers[1].removesuffix("_id").rstrip("s") + "s"
             data1 = {}
             data2 = {}
+            data3 = {}
         else:
             kind = "extra"
             data = {}
@@ -203,8 +210,12 @@ def readTsv(table, file, tables):
                 eId = fieldData[0]
                 data[eId] = row
             elif kind == "cross":
-                data1.setdefault(fieldData[0], set()).add(fieldData[1])
-                data2.setdefault(fieldData[1], set()).add(fieldData[0])
+                id1 = fieldData[0]
+                id2 = fieldData[1]
+                row = {k: v for (k, v) in zip(headers[2:], fieldData[2:])}
+                data1.setdefault(id1, set()).add(id2)
+                data2.setdefault(id2, set()).add(id1)
+                data3[(id1, id2)] = row
 
         if kind == "main":
             tables[kind][table] = data
@@ -215,6 +226,7 @@ def readTsv(table, file, tables):
         elif kind == "cross":
             tables[kind][(table1, table2)] = data1
             tables[kind][(table2, table1)] = data2
+            tables[kind][(table1, table2, "rest")] = data3
 
 
 def readSheet(table, fileName):
@@ -506,7 +518,53 @@ class Make:
                 for mId in mIds:
                     mData = tables["main"]["manifestations"][mId]
                     mLabel = mData["origin"]
-                    mData = {k: v for (k, v) in mData.items() if v and k != "origin"}
+                    mData = {
+                        k: NONE if v is None or v == "" else v
+                        for (k, v) in mData.items()
+                        if k != "origin"
+                    }
+
+                    aIds = tables["cross"][("manifestations", "authors")].get(mId, None)
+                    authors = (
+                        NONE
+                        if aIds is None
+                        else [tables["main"]["authors"][aId]["name"] for aId in aIds]
+                    )
+                    mData["author"] = (
+                        authors if type(authors) is str else ", ".join(authors)
+                    )
+                    pbIds = tables["cross"][("manifestations", "publishers")].get(
+                        mId, None
+                    )
+                    publishers = (
+                        NONE
+                        if pbIds is None
+                        else [
+                            tables["main"]["publishers"][pbId]["name"] for pbId in pbIds
+                        ]
+                    )
+
+                    places = []
+
+                    if pbIds:
+                        for pbId in pbIds:
+                            plRow = tables["cross"][
+                                ("manifestations", "publishers", "rest")
+                            ][(mId, pbId)]
+                            plId = plRow.get("place_id", None)
+                            places.append(
+                                tables["main"]["places"][plId]["name"] if plId else NONE
+                            )
+
+                    if len(places) == 0:
+                        places = NONE
+
+                    mData["publisher"] = (
+                        publishers if type(publishers) is str else ", ".join(publishers)
+                    )
+                    mData["place"] = (
+                        places if type(places) is str else ", ".join(places)
+                    )
                     mItems[mLabel] = mData
 
                 eData["manifestations"] = mItems
@@ -717,10 +775,9 @@ class Make:
 
         for k in metadataDbFields:
             v = dbMeta.get(k, None)
-            if v is not None:
-                meta[k] = v
+            meta[k] = v or NONE
 
-        writeYaml(meta, asFile=replaceExt(metaPath, "yaml"))
+        writeYaml(meta, asFile=replaceExt(metaPath, "yaml"), sorted=True)
         console(f"{kinds['page']:>4} pages")
         return True
 

@@ -2,7 +2,7 @@
 
 ## About
 
-This repo contains texts and metadata of documents produced by the
+This repo contains processed data of documents produced by the
 
 [Translatin](https://www.huygens.knaw.nl/en/projecten/translatin-2/)
 project, the purpose of which is to study
@@ -60,9 +60,14 @@ primarily dealing with which part of the project.
 
 *   **Dirk Roorda**
 
+    *   has written a few scripts that rsync the source data from an internal machine
+        to a clone of this repo on your local machine. They are in the repo
+        [tt/translatin](https://code.huc.knaw.nl/tt/translatin).
+        One of the scripts can be used to put the organized data back to that share;
     *   has defined an
-        [ingest procedure](https://gitlab.huc.knaw.nl/translatin/logic/-/blob/main/tools/ingest.py?ref_type=heads)
+        [make procedure](https://gitlab.huc.knaw.nl/translatin/corpus/-/blob/main/programs/make.py?ref_type=heads)
         which collects all metadata and a subset of the data into this Gitlab repo;
+        this material will not be tracked by git;
     *   uses his
         [Text-Fabric](https://github.com/annotation/text-fabric/tree/master)
         and Marijn Koolen's
@@ -72,11 +77,14 @@ primarily dealing with which part of the project.
         *   a text-fabric version, which can be used directly by researchers, but also
             acts as a starting format for further processing;
         *   two json files per manifestation, e.g.
-            [M95](https://gitlab.huc.knaw.nl/translatin/data/-/tree/main/watm/0.1/M95?ref_type=heads):
+            [M95](https://gitlab.huc.knaw.nl/translatin/corpus/-/tree/main/watm/0.1/M95?ref_type=heads):
 
             *   `text.json`: the list of all tokens in the text;
             *   `anno.json`: all annotations on those tokens, which represents
                 the information of the PageXML file.
+
+        The text-fabric data and json data will be tracked by git and published on
+        the HuC GitLab.
 
 *   **Bram Buitendijk**
 
@@ -98,65 +106,88 @@ primarily dealing with which part of the project.
     *   oversees the pipeline, manages requirements and resources, helps to ensure
         that individual projects can fit in the generic pipeline.
 
-## Ingest procedure
 
-I have defined an ingest procedure by which we get all data within reach before
-processing it. It takes source data from the leveringen, and produces various
-folders with data in this repo.
+## The internal file share
 
-There is 14 GB of data there.
+The source data is in an internal fileshare and is not public.
+Employees of KNAW/HuC can access it.
 
-Do this only if you need to create a new version of the data from the
-sources.
+The details are in an internal repo
+[tt/translatin](https://code.huc.knaw.nl/tt/translatin).
 
-If you only want to process data, you can just use the this repo
-plus the reorganized scans in the
-[internal fileshare](https://code.huc.knaw.nl/tt/translatin/-/blob/main/source.yaml).
+Here are a few streamlined ways to work with that data.
 
-This repo has only 0.5 GB of data, and those scans are 4GB.
+If you just want to view data, you can use the script `getorganized.sh` from
+[tt/translatin](https://code.huc.knaw.nl/tt/translatin)
+to get the organized data from the internal fileshare into your local clone of this
+repo.
 
-1.  Copy the `levering-`*i* and `metadata` directories from the internal fileshare
-    to your own computer, and put them under `~/local/translatin`;
+Now you have access to all data, since the produced data is already in this public repo.
 
-    ```
-    mkdir ~/local
-    cd ~/local
-    scp -r you@internal.fileshare:/data/translatin .
-    ```
+But, based on the organized data, you can reproduce Text-Fabric and Text/AnnoRepo
+representations by means of the
+[make.py script](programs/make.py).
 
-1.  Clone this data repo to your own computer:
+If you want go a step further back, and redo the organizing of the data,
+you can use the script `get.sh` from
+[tt/translatin](https://code.huc.knaw.nl/tt/translatin)
+to get the source data, and run the
+[make.py script](programs/make.py)
+to organize the data.
+
+From this stage you can then reproduce Text-Fabric and Text/AnnoRepo
+representations by means of the
+[make.py script](programs/make.py).
+
+**N.B.:**
+
+The source data that we grab from the internal share is just a subset of the
+available data. We have used the delivery files whose names start with `M`*iii*
+where *iii* is a number.
+
+Moreover, if the source does not have metadata for manifestation `M`*iii*, we 
+do not fetch its zip-file.
+
+Hence, the organized data also corresponds to a subset of the full data.
+
+## Make
+
+I have defined an *make* procedure to transport and transform all data.
+It can doc the following tasks:
+
+1.  Clone this repo to your own computer:
     
     ```
     mkdir -p ~/gitlab.huc.knaw.nl/translatin
     cd ~/gitlab.huc.knaw.nl/translatin
-    git clone http://gitlab.huc.knaw.nl/translatin/data.git
+    git clone http://gitlab.huc.knaw.nl/translatin/corpus.git
     ```
 
-1.  Clone the logic repo to your own computer:
+1.  Run the make script:
 
     ```
-    cd ~/gitlab.huc.knaw.nl/translatin
-    git clone http://gitlab.huc.knaw.nl/translatin/logic.git
+    cd ~/gitlab.huc.knaw.nl/translatin/corpus/programs
+    python ingest.py all
     ```
 
-1.  Run the ingest script:
+The make script can also accept parameters that limit its operation to a certain stage:
 
-    ```
-    cd ~/gitlab.huc.knaw.nl/translatin/logic/tools
-    python ingest.py
-    ```
+*   `meta`: compile the metadata
+*   `data`: organize the data and combine it with the metadata
+*   `tf`: produce the text-fabric data
+*   `watm`: produce the Text/AnnoRepo json data
 
-    This creates the folders **source**, **supplementary**, **meta**, and **scan**
-    in this repo.
+It also accepts:
 
-    N.B. The directory **scan** will not be synced to GitLab, it is in the
-    `.gitignore` file.
+*   `organize`: shorthand for `meta` and `data`
+*   `produce`: shorthand for `tf` and `watm`
 
 ## Data description
 
-### After ingest
+### After `organize`
 
-After doing the ingest, this repo has the following folders.
+After doing `python make.py organize`, this repo has the folder `organized`.
+This folder is not online. It has has the following subfolders.
 
 #### [source](source)
 
@@ -166,10 +197,6 @@ Organized by manifestation.
 #### **scan**
 
 Folder with all the scans, organized as [source](source).
-This folder is not online, you do not get it when you clone this repo, but you
-can get it from the
-[internal fileshare](https://code.huc.knaw.nl/tt/translatin/-/blob/main/source.yaml),
-indicated under **Sources** above.
 
 #### [supplementary](supplementary)
 
@@ -189,7 +216,20 @@ But the representation is different:
 *   the postgres tables are in TSV, and have their long identifiers replaced by 
     short numbers.
 
-### After TF conversion
+It also contains the files
+
+*   `manifestations.yaml`
+    Contains the collected metadata of the manifestations. Most of it comes from the
+    postgres tables, a few fields come from the metadata in the accompanying metadata
+    files in the source. There are references to the *expression* and *work* that the
+    manifestation is part of.
+
+*   `works.yaml`.
+    Contains the container structure of *works*, *expressions*, and *manifestations*.
+
+### After `produce`
+
+After doing `python make.py produce`, this repo has the folders `app`, `tf`, and `watm`.
 
 #### [tf](tf) and [app](app)
 
@@ -217,8 +257,6 @@ tf --relative=tf/M95
 
 and get a local browser interface on `M95`.
 
-### After text/anno generation
-
 #### [watm](watm)
 
 Folder with the generated JSON files for *TextRepo* and *AnnoRepo*.
@@ -230,26 +268,68 @@ The tools used to ingest and process the data of the Translatin project are in t
 directory
 [programs](https://gitlab.huc.knaw.nl/translatin/corpus/-/tree/main/programs?ref_type=heads).
 
-*   [tsvFromPg.sh](tools/tsvFromPg.sh?ref_type=heads)
+*   [tsvFromPg.sh](programs/tsvFromPg.sh?ref_type=heads)
     Shell script to read the postgres SQL export and deliver all tables as TSV.
-*   [ingest.py](tools/ingest.py?ref_type=heads)
-    Python script to carry out the ingest: data and metadata.
+*   [make.py](programs/make.py?ref_type=heads)
+    Python script to carry out the organizing and production of data and metadata.
 *   [convertPlain.ipynb](tools/convertPlain.ipynb?ref_type=heads)
-    Jupyter notebook that converts the manifestations from PageXML files to Text-Fabric.
-    The actual conversion code is in Text-Fabric itself:
+    Jupyter notebook that also converts the manifestations from PageXML files
+    to Text-Fabric. The actual conversion code is in Text-Fabric itself:
     [pagexml.py](https://github.com/annotation/text-fabric/blob/master/tf/convert/pagexml.py).
+    The notebook is for illustrative and debugging purposes.
 *   [watm.py](tools/watm.py?ref_type=heads)
-    Python script to converst the TF data to JSON files to be ingested in
+    Python library to converst the TF data to JSON files to be ingested in
     *TextRepo* and *AnnoRepo*.
 *   [watmFromTf.ipynb](tools/watmFromTf.ipynb?ref_type=heads)
     Jupyter Notebook to run the `watm.py` script. It will also test the result for
-    M95 exhaustively.
+    M95 exhaustively. 
+    The notebook is for illustrative and debugging purposes.
 
+## Data choices
+
+The following noteworthy choices have been made when transforming the data.
+
+### Logical versus physical text
+
+The TF export contains both the raw text with line breaks and soft-hyphens as well as
+a more logical text, without line breaks and with tokens around soft-hyphens being
+joined together.
+
+However, because of the nature of the pages, which often contain text where the line
+breaks are meaningful, and because we have not seriously tried to detect meaningful
+page layout regions, we stick to the raw text for display on the web.
+The transformation from TF to WATM takes care of this.
+
+That means that the TF data still contains both raw and logical text.
+
+### Metadata richness
+
+There is very rich metadata in the spreadsheets. It has been cleaned up and organized
+in a postgress database, but the result is still very rich.
+We do not expose all metadata. This is what we do expose:
+
+*   all metadata in the `manifestations` table; in particular this includes:
+    *   multilingual titles with corresponding certainties;
+*   the author names of a manifestation in a single, comma-separated string; 
+*   the publisher names of a manifestation in a single, comma-separated string; 
+*   the publisher places of a manifestation in a single, comma-separated string; 
+
+### Undefined values
+
+Where metadata is missing for some fields, we do not leave out the field and neither
+we leave it blank. Instead we put a `unspecified` literla value in.
 ## Status
 
 The project has delivered many Latin documents, consisting of thousands of
 pages of text, in the form of scans and their OCRed PageXML results, as well as
 extensive metadata of those texts.
+
+### 2023-12-12
+
+We have added more metadata, changed the text-representation to physical text
+instead of logical text.
+The Team-Text production street has been used, from Text/AnnoRepo through Broccoli and
+Brinta towards TextAnnoViz, and it works.
 
 ### 2023-12-09
 

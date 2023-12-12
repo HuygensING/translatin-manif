@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T12:13:40Z
+@dateWritten=2023-12-12T15:42:31Z
 
 13027	Certain

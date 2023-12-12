@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T12:13:35Z
+@dateWritten=2023-12-12T15:42:25Z
 
 12168	Soter gloriosus

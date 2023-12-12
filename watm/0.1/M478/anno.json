@@ -3686,5212 +3686,5368 @@
  "a000614": [
   "attribute",
   "pagexml",
-  "certainty@la=Certain",
+  "author=Jesuits of Antwerpen",
   "a000000"
  ],
  "a000615": [
   "attribute",
   "pagexml",
-  "colId=13484",
+  "ceneton_scan=unspecified",
   "a000000"
  ],
  "a000616": [
   "attribute",
-  "tf",
-  "doc=M478",
+  "pagexml",
+  "ceneton_transcription=unspecified",
   "a000000"
  ],
  "a000617": [
   "attribute",
   "pagexml",
-  "docId=325084",
+  "certainty=unspecified",
   "a000000"
  ],
  "a000618": [
   "attribute",
   "pagexml",
-  "earliest=1639-01-01",
+  "certainty@es=unspecified",
   "a000000"
  ],
  "a000619": [
   "attribute",
   "pagexml",
-  "expression=E332",
+  "certainty@fr=unspecified",
   "a000000"
  ],
  "a000620": [
   "attribute",
   "pagexml",
-  "form=Synopsis",
+  "certainty@la=Certain",
   "a000000"
  ],
  "a000621": [
   "attribute",
   "pagexml",
-  "form_type=Synopsis",
+  "certainty@nl=unspecified",
   "a000000"
  ],
  "a000622": [
   "attribute",
   "pagexml",
+  "colId=13484",
+  "a000000"
+ ],
+ "a000623": [
+  "attribute",
+  "tf",
+  "doc=M478",
+  "a000000"
+ ],
+ "a000624": [
+  "attribute",
+  "pagexml",
+  "docId=325084",
+  "a000000"
+ ],
+ "a000625": [
+  "attribute",
+  "pagexml",
+  "earliest=1639-01-01",
+  "a000000"
+ ],
+ "a000626": [
+  "attribute",
+  "pagexml",
+  "expression=E332",
+  "a000000"
+ ],
+ "a000627": [
+  "attribute",
+  "pagexml",
+  "external_scan=unspecified",
+  "a000000"
+ ],
+ "a000628": [
+  "attribute",
+  "pagexml",
+  "external_transcription=f",
+  "a000000"
+ ],
+ "a000629": [
+  "attribute",
+  "pagexml",
+  "form=Synopsis",
+  "a000000"
+ ],
+ "a000630": [
+  "attribute",
+  "pagexml",
+  "form_type=Synopsis",
+  "a000000"
+ ],
+ "a000631": [
+  "attribute",
+  "pagexml",
+  "genre=unspecified",
+  "a000000"
+ ],
+ "a000632": [
+  "attribute",
+  "pagexml",
   "h=185",
   "a000022"
  ],
- "a000623": [
+ "a000633": [
   "attribute",
   "pagexml",
   "h=156",
   "a000024"
  ],
- "a000624": [
+ "a000634": [
   "attribute",
   "pagexml",
   "h=281",
   "a000026"
  ],
- "a000625": [
+ "a000635": [
   "attribute",
   "pagexml",
   "h=235",
   "a000028"
  ],
- "a000626": [
+ "a000636": [
   "attribute",
   "pagexml",
   "h=234",
   "a000030"
  ],
- "a000627": [
+ "a000637": [
   "attribute",
   "pagexml",
   "h=136",
   "a000032"
  ],
- "a000628": [
+ "a000638": [
   "attribute",
   "pagexml",
   "h=181",
   "a000034"
  ],
- "a000629": [
+ "a000639": [
   "attribute",
   "pagexml",
   "h=169",
   "a000036"
  ],
- "a000630": [
+ "a000640": [
   "attribute",
   "pagexml",
   "h=213",
   "a000038"
  ],
- "a000631": [
+ "a000641": [
   "attribute",
   "pagexml",
   "h=131",
   "a000040"
  ],
- "a000632": [
+ "a000642": [
   "attribute",
   "pagexml",
   "h=106",
   "a000042"
  ],
- "a000633": [
+ "a000643": [
   "attribute",
   "pagexml",
   "h=192",
   "a000044"
  ],
- "a000634": [
+ "a000644": [
   "attribute",
   "pagexml",
   "h=153",
   "a000046"
  ],
- "a000635": [
+ "a000645": [
   "attribute",
   "pagexml",
   "h=137",
   "a000048"
  ],
- "a000636": [
+ "a000646": [
   "attribute",
   "pagexml",
   "h=102",
   "a000050"
  ],
- "a000637": [
+ "a000647": [
   "attribute",
   "pagexml",
   "h=128",
   "a000052"
  ],
- "a000638": [
+ "a000648": [
   "attribute",
   "pagexml",
   "h=271",
   "a000054"
  ],
- "a000639": [
+ "a000649": [
   "attribute",
   "pagexml",
   "h=119",
   "a000056"
  ],
- "a000640": [
+ "a000650": [
   "attribute",
   "pagexml",
   "h=211",
   "a000058"
  ],
- "a000641": [
+ "a000651": [
   "attribute",
   "pagexml",
   "h=142",
   "a000060"
  ],
- "a000642": [
+ "a000652": [
   "attribute",
   "pagexml",
   "h=108",
   "a000062"
  ],
- "a000643": [
+ "a000653": [
   "attribute",
   "pagexml",
   "h=152",
   "a000064"
  ],
- "a000644": [
+ "a000654": [
   "attribute",
   "pagexml",
   "h=123",
   "a000066"
  ],
- "a000645": [
+ "a000655": [
   "attribute",
   "pagexml",
   "h=229",
   "a000068"
  ],
- "a000646": [
+ "a000656": [
   "attribute",
   "pagexml",
   "h=162",
   "a000070"
  ],
- "a000647": [
+ "a000657": [
   "attribute",
   "pagexml",
   "h=152",
   "a000072"
  ],
- "a000648": [
+ "a000658": [
   "attribute",
   "pagexml",
   "h=260",
   "a000074"
  ],
- "a000649": [
+ "a000659": [
   "attribute",
   "pagexml",
   "h=291",
   "a000076"
  ],
- "a000650": [
+ "a000660": [
   "attribute",
   "pagexml",
   "h=243",
   "a000078"
  ],
- "a000651": [
+ "a000661": [
   "attribute",
   "pagexml",
   "h=250",
   "a000080"
  ],
- "a000652": [
+ "a000662": [
   "attribute",
   "pagexml",
   "h=240",
   "a000082"
  ],
- "a000653": [
+ "a000663": [
   "attribute",
   "pagexml",
   "h=264",
   "a000084"
  ],
- "a000654": [
+ "a000664": [
   "attribute",
   "pagexml",
   "h=255",
   "a000086"
  ],
- "a000655": [
+ "a000665": [
   "attribute",
   "pagexml",
   "h=242",
   "a000088"
  ],
- "a000656": [
+ "a000666": [
   "attribute",
   "pagexml",
   "h=193",
   "a000090"
  ],
- "a000657": [
+ "a000667": [
   "attribute",
   "pagexml",
   "h=211",
   "a000092"
  ],
- "a000658": [
+ "a000668": [
   "attribute",
   "pagexml",
   "h=225",
   "a000094"
  ],
- "a000659": [
+ "a000669": [
   "attribute",
   "pagexml",
   "h=197",
   "a000096"
  ],
- "a000660": [
+ "a000670": [
   "attribute",
   "pagexml",
   "h=165",
   "a000098"
  ],
- "a000661": [
+ "a000671": [
   "attribute",
   "pagexml",
   "h=224",
   "a000100"
  ],
- "a000662": [
+ "a000672": [
   "attribute",
   "pagexml",
   "h=170",
   "a000102"
  ],
- "a000663": [
+ "a000673": [
   "attribute",
   "pagexml",
   "h=167",
   "a000104"
  ],
- "a000664": [
+ "a000674": [
   "attribute",
   "pagexml",
   "h=143",
   "a000106"
  ],
- "a000665": [
+ "a000675": [
   "attribute",
   "pagexml",
   "h=174",
   "a000108"
  ],
- "a000666": [
+ "a000676": [
   "attribute",
   "pagexml",
   "h=142",
   "a000110"
  ],
- "a000667": [
+ "a000677": [
   "attribute",
   "pagexml",
   "h=159",
   "a000112"
  ],
- "a000668": [
+ "a000678": [
   "attribute",
   "pagexml",
   "h=138",
   "a000114"
  ],
- "a000669": [
+ "a000679": [
   "attribute",
   "pagexml",
   "h=109",
   "a000116"
  ],
- "a000670": [
+ "a000680": [
   "attribute",
   "pagexml",
   "h=164",
   "a000118"
  ],
- "a000671": [
+ "a000681": [
   "attribute",
   "pagexml",
   "h=99",
   "a000120"
  ],
- "a000672": [
+ "a000682": [
   "attribute",
   "pagexml",
   "h=176",
   "a000122"
  ],
- "a000673": [
+ "a000683": [
   "attribute",
   "pagexml",
   "h=160",
   "a000124"
  ],
- "a000674": [
+ "a000684": [
   "attribute",
   "pagexml",
   "h=124",
   "a000126"
  ],
- "a000675": [
+ "a000685": [
   "attribute",
   "pagexml",
   "h=124",
   "a000128"
  ],
- "a000676": [
+ "a000686": [
   "attribute",
   "pagexml",
   "h=160",
   "a000130"
  ],
- "a000677": [
+ "a000687": [
   "attribute",
   "pagexml",
   "h=133",
   "a000132"
  ],
- "a000678": [
+ "a000688": [
   "attribute",
   "pagexml",
   "h=109",
   "a000134"
  ],
- "a000679": [
+ "a000689": [
   "attribute",
   "pagexml",
   "h=138",
   "a000136"
  ],
- "a000680": [
+ "a000690": [
   "attribute",
   "pagexml",
   "h=110",
   "a000138"
  ],
- "a000681": [
+ "a000691": [
   "attribute",
   "pagexml",
   "h=146",
   "a000140"
  ],
- "a000682": [
+ "a000692": [
   "attribute",
   "pagexml",
   "h=119",
   "a000142"
  ],
- "a000683": [
+ "a000693": [
   "attribute",
   "pagexml",
   "h=96",
   "a000144"
  ],
- "a000684": [
+ "a000694": [
   "attribute",
   "pagexml",
   "h=144",
   "a000146"
  ],
- "a000685": [
+ "a000695": [
   "attribute",
   "pagexml",
   "h=186",
   "a000148"
  ],
- "a000686": [
+ "a000696": [
   "attribute",
   "pagexml",
   "h=242",
   "a000150"
  ],
- "a000687": [
+ "a000697": [
   "attribute",
   "pagexml",
   "h=252",
   "a000152"
  ],
- "a000688": [
+ "a000698": [
   "attribute",
   "pagexml",
   "h=179",
   "a000154"
  ],
- "a000689": [
+ "a000699": [
   "attribute",
   "pagexml",
   "h=214",
   "a000156"
  ],
- "a000690": [
+ "a000700": [
   "attribute",
   "pagexml",
   "h=149",
   "a000158"
  ],
- "a000691": [
+ "a000701": [
   "attribute",
   "pagexml",
   "h=162",
   "a000160"
  ],
- "a000692": [
+ "a000702": [
   "attribute",
   "pagexml",
   "h=175",
   "a000162"
  ],
- "a000693": [
+ "a000703": [
   "attribute",
   "pagexml",
   "h=164",
   "a000164"
  ],
- "a000694": [
+ "a000704": [
   "attribute",
   "pagexml",
   "h=157",
   "a000166"
  ],
- "a000695": [
+ "a000705": [
   "attribute",
   "pagexml",
   "h=159",
   "a000168"
  ],
- "a000696": [
+ "a000706": [
   "attribute",
   "pagexml",
   "h=201",
   "a000170"
  ],
- "a000697": [
+ "a000707": [
   "attribute",
   "pagexml",
   "h=165",
   "a000172"
  ],
- "a000698": [
+ "a000708": [
   "attribute",
   "pagexml",
   "h=188",
   "a000174"
  ],
- "a000699": [
+ "a000709": [
   "attribute",
   "pagexml",
   "h=124",
   "a000176"
  ],
- "a000700": [
+ "a000710": [
   "attribute",
   "pagexml",
   "h=140",
   "a000178"
  ],
- "a000701": [
+ "a000711": [
   "attribute",
   "pagexml",
   "h=147",
   "a000180"
  ],
- "a000702": [
+ "a000712": [
   "attribute",
   "pagexml",
   "h=176",
   "a000182"
  ],
- "a000703": [
+ "a000713": [
   "attribute",
   "pagexml",
   "h=114",
   "a000184"
  ],
- "a000704": [
+ "a000714": [
   "attribute",
   "pagexml",
   "h=121",
   "a000186"
  ],
- "a000705": [
+ "a000715": [
   "attribute",
   "pagexml",
   "h=164",
   "a000188"
  ],
- "a000706": [
+ "a000716": [
   "attribute",
   "pagexml",
   "h=189",
   "a000190"
  ],
- "a000707": [
+ "a000717": [
   "attribute",
   "pagexml",
   "h=175",
   "a000192"
  ],
- "a000708": [
+ "a000718": [
   "attribute",
   "pagexml",
   "h=159",
   "a000194"
  ],
- "a000709": [
+ "a000719": [
   "attribute",
   "pagexml",
   "h=257",
   "a000196"
  ],
- "a000710": [
+ "a000720": [
   "attribute",
   "pagexml",
   "h=124",
   "a000198"
  ],
- "a000711": [
+ "a000721": [
   "attribute",
   "pagexml",
   "h=214",
   "a000200"
  ],
- "a000712": [
+ "a000722": [
   "attribute",
   "pagexml",
   "h=254",
   "a000202"
  ],
- "a000713": [
+ "a000723": [
   "attribute",
   "pagexml",
   "h=338",
   "a000204"
  ],
- "a000714": [
+ "a000724": [
   "attribute",
   "pagexml",
   "h=172",
   "a000206"
  ],
- "a000715": [
+ "a000725": [
   "attribute",
   "pagexml",
   "h=201",
   "a000208"
  ],
- "a000716": [
+ "a000726": [
   "attribute",
   "pagexml",
   "h=134",
   "a000210"
  ],
- "a000717": [
+ "a000727": [
   "attribute",
   "pagexml",
   "h=139",
   "a000212"
  ],
- "a000718": [
+ "a000728": [
   "attribute",
   "pagexml",
   "h=56",
   "a000214"
  ],
- "a000719": [
+ "a000729": [
   "attribute",
   "pagexml",
   "h=166",
   "a000216"
  ],
- "a000720": [
+ "a000730": [
   "attribute",
   "pagexml",
   "h=222",
   "a000218"
  ],
- "a000721": [
+ "a000731": [
   "attribute",
   "pagexml",
   "h=162",
   "a000220"
  ],
- "a000722": [
+ "a000732": [
   "attribute",
   "pagexml",
   "h=166",
   "a000222"
  ],
- "a000723": [
+ "a000733": [
   "attribute",
   "pagexml",
   "h=175",
   "a000224"
  ],
- "a000724": [
+ "a000734": [
   "attribute",
   "pagexml",
   "h=177",
   "a000226"
  ],
- "a000725": [
+ "a000735": [
   "attribute",
   "pagexml",
   "h=156",
   "a000228"
  ],
- "a000726": [
+ "a000736": [
   "attribute",
   "pagexml",
   "h=151",
   "a000230"
  ],
- "a000727": [
+ "a000737": [
   "attribute",
   "pagexml",
   "h=242",
   "a000232"
  ],
- "a000728": [
+ "a000738": [
   "attribute",
   "pagexml",
   "h=138",
   "a000234"
  ],
- "a000729": [
+ "a000739": [
   "attribute",
   "pagexml",
   "h=186",
   "a000236"
  ],
- "a000730": [
+ "a000740": [
   "attribute",
   "pagexml",
   "h=191",
   "a000238"
  ],
- "a000731": [
+ "a000741": [
   "attribute",
   "pagexml",
   "h=3505",
   "a000002"
  ],
- "a000732": [
+ "a000742": [
   "attribute",
   "pagexml",
   "h=3505",
   "a000004"
  ],
- "a000733": [
+ "a000743": [
   "attribute",
   "pagexml",
   "h=3505",
   "a000006"
  ],
- "a000734": [
+ "a000744": [
   "attribute",
   "pagexml",
   "h=3505",
   "a000008"
  ],
- "a000735": [
+ "a000745": [
   "attribute",
   "pagexml",
   "h=2918",
   "a000010"
  ],
- "a000736": [
+ "a000746": [
   "attribute",
   "pagexml",
   "h=2992",
   "a000012"
  ],
- "a000737": [
+ "a000747": [
   "attribute",
   "pagexml",
   "h=1753",
   "a000014"
  ],
- "a000738": [
+ "a000748": [
   "attribute",
   "pagexml",
   "h=2949",
   "a000016"
  ],
- "a000739": [
+ "a000749": [
   "attribute",
   "pagexml",
   "h=167",
   "a000018"
  ],
- "a000740": [
+ "a000750": [
   "attribute",
   "pagexml",
   "h=2871",
   "a000020"
  ],
- "a000741": [
+ "a000751": [
+  "attribute",
+  "pagexml",
+  "has_dramaweb_scan=t",
+  "a000000"
+ ],
+ "a000752": [
+  "attribute",
+  "pagexml",
+  "has_dramaweb_transcription=t",
+  "a000000"
+ ],
+ "a000753": [
   "attribute",
   "pagexml",
   "id=r1l1",
   "a000022"
  ],
- "a000742": [
+ "a000754": [
   "attribute",
   "pagexml",
   "id=r1l2",
   "a000024"
  ],
- "a000743": [
+ "a000755": [
   "attribute",
   "pagexml",
   "id=r1l3",
   "a000026"
  ],
- "a000744": [
+ "a000756": [
   "attribute",
   "pagexml",
   "id=r1l4",
   "a000028"
  ],
- "a000745": [
+ "a000757": [
   "attribute",
   "pagexml",
   "id=r1l5",
   "a000030"
  ],
- "a000746": [
+ "a000758": [
   "attribute",
   "pagexml",
   "id=r1l6",
   "a000032"
  ],
- "a000747": [
+ "a000759": [
   "attribute",
   "pagexml",
   "id=r1l7",
   "a000034"
  ],
- "a000748": [
+ "a000760": [
   "attribute",
   "pagexml",
   "id=r1l8",
   "a000036"
  ],
- "a000749": [
+ "a000761": [
   "attribute",
   "pagexml",
   "id=r1l9",
   "a000038"
  ],
- "a000750": [
+ "a000762": [
   "attribute",
   "pagexml",
   "id=r1l10",
   "a000040"
  ],
- "a000751": [
+ "a000763": [
   "attribute",
   "pagexml",
   "id=r1l11",
   "a000042"
  ],
- "a000752": [
+ "a000764": [
   "attribute",
   "pagexml",
   "id=r1l12",
   "a000044"
  ],
- "a000753": [
+ "a000765": [
   "attribute",
   "pagexml",
   "id=r1l13",
   "a000046"
  ],
- "a000754": [
+ "a000766": [
   "attribute",
   "pagexml",
   "id=r1l14",
   "a000048"
  ],
- "a000755": [
+ "a000767": [
   "attribute",
   "pagexml",
   "id=r1l15",
   "a000050"
  ],
- "a000756": [
+ "a000768": [
   "attribute",
   "pagexml",
   "id=r1l16",
   "a000052"
  ],
- "a000757": [
+ "a000769": [
   "attribute",
   "pagexml",
   "id=r1l17",
   "a000054"
  ],
- "a000758": [
+ "a000770": [
   "attribute",
   "pagexml",
   "id=r1l18",
   "a000056"
  ],
- "a000759": [
+ "a000771": [
   "attribute",
   "pagexml",
   "id=r1l19",
   "a000058"
  ],
- "a000760": [
+ "a000772": [
   "attribute",
   "pagexml",
   "id=r1l20",
   "a000060"
  ],
- "a000761": [
+ "a000773": [
   "attribute",
   "pagexml",
   "id=r1l21",
   "a000062"
  ],
- "a000762": [
+ "a000774": [
   "attribute",
   "pagexml",
   "id=r1l22",
   "a000064"
  ],
- "a000763": [
+ "a000775": [
   "attribute",
   "pagexml",
   "id=r1l23",
   "a000066"
  ],
- "a000764": [
+ "a000776": [
   "attribute",
   "pagexml",
   "id=r1l24",
   "a000068"
  ],
- "a000765": [
+ "a000777": [
   "attribute",
   "pagexml",
   "id=r1l25",
   "a000070"
  ],
- "a000766": [
+ "a000778": [
   "attribute",
   "pagexml",
   "id=r1l1",
   "a000072"
  ],
- "a000767": [
+ "a000779": [
   "attribute",
   "pagexml",
   "id=r1l2",
   "a000074"
  ],
- "a000768": [
+ "a000780": [
   "attribute",
   "pagexml",
   "id=r1l3",
   "a000076"
  ],
- "a000769": [
+ "a000781": [
   "attribute",
   "pagexml",
   "id=r1l4",
   "a000078"
  ],
- "a000770": [
+ "a000782": [
   "attribute",
   "pagexml",
   "id=r1l5",
   "a000080"
  ],
- "a000771": [
+ "a000783": [
   "attribute",
   "pagexml",
   "id=r1l6",
   "a000082"
  ],
- "a000772": [
+ "a000784": [
   "attribute",
   "pagexml",
   "id=r1l7",
   "a000084"
  ],
- "a000773": [
+ "a000785": [
   "attribute",
   "pagexml",
   "id=r1l8",
   "a000086"
  ],
- "a000774": [
+ "a000786": [
   "attribute",
   "pagexml",
   "id=r1l9",
   "a000088"
  ],
- "a000775": [
+ "a000787": [
   "attribute",
   "pagexml",
   "id=r1l10",
   "a000090"
  ],
- "a000776": [
+ "a000788": [
   "attribute",
   "pagexml",
   "id=r1l11",
   "a000092"
  ],
- "a000777": [
+ "a000789": [
   "attribute",
   "pagexml",
   "id=r1l12",
   "a000094"
  ],
- "a000778": [
+ "a000790": [
   "attribute",
   "pagexml",
   "id=r1l13",
   "a000096"
  ],
- "a000779": [
+ "a000791": [
   "attribute",
   "pagexml",
   "id=r1l14",
   "a000098"
  ],
- "a000780": [
+ "a000792": [
   "attribute",
   "pagexml",
   "id=r1l15",
   "a000100"
  ],
- "a000781": [
+ "a000793": [
   "attribute",
   "pagexml",
   "id=r1l16",
   "a000102"
  ],
- "a000782": [
+ "a000794": [
   "attribute",
   "pagexml",
   "id=r1l17",
   "a000104"
  ],
- "a000783": [
+ "a000795": [
   "attribute",
   "pagexml",
   "id=r1l18",
   "a000106"
  ],
- "a000784": [
+ "a000796": [
   "attribute",
   "pagexml",
   "id=r1l19",
   "a000108"
  ],
- "a000785": [
+ "a000797": [
   "attribute",
   "pagexml",
   "id=r1l20",
   "a000110"
  ],
- "a000786": [
+ "a000798": [
   "attribute",
   "pagexml",
   "id=r1l21",
   "a000112"
  ],
- "a000787": [
+ "a000799": [
   "attribute",
   "pagexml",
   "id=r1l22",
   "a000114"
  ],
- "a000788": [
+ "a000800": [
   "attribute",
   "pagexml",
   "id=r1l23",
   "a000116"
  ],
- "a000789": [
+ "a000801": [
   "attribute",
   "pagexml",
   "id=r1l24",
   "a000118"
  ],
- "a000790": [
+ "a000802": [
   "attribute",
   "pagexml",
   "id=r1l25",
   "a000120"
  ],
- "a000791": [
+ "a000803": [
   "attribute",
   "pagexml",
   "id=r1l26",
   "a000122"
  ],
- "a000792": [
+ "a000804": [
   "attribute",
   "pagexml",
   "id=r1l27",
   "a000124"
  ],
- "a000793": [
+ "a000805": [
   "attribute",
   "pagexml",
   "id=r2l1",
   "a000126"
  ],
- "a000794": [
+ "a000806": [
   "attribute",
   "pagexml",
   "id=r2l2",
   "a000128"
  ],
- "a000795": [
+ "a000807": [
   "attribute",
   "pagexml",
   "id=r2l3",
   "a000130"
  ],
- "a000796": [
+ "a000808": [
   "attribute",
   "pagexml",
   "id=r2l4",
   "a000132"
  ],
- "a000797": [
+ "a000809": [
   "attribute",
   "pagexml",
   "id=r2l5",
   "a000134"
  ],
- "a000798": [
+ "a000810": [
   "attribute",
   "pagexml",
   "id=r2l6",
   "a000136"
  ],
- "a000799": [
+ "a000811": [
   "attribute",
   "pagexml",
   "id=r2l7",
   "a000138"
  ],
- "a000800": [
+ "a000812": [
   "attribute",
   "pagexml",
   "id=r2l8",
   "a000140"
  ],
- "a000801": [
+ "a000813": [
   "attribute",
   "pagexml",
   "id=r2l9",
   "a000142"
  ],
- "a000802": [
+ "a000814": [
   "attribute",
   "pagexml",
   "id=r2l10",
   "a000144"
  ],
- "a000803": [
+ "a000815": [
   "attribute",
   "pagexml",
   "id=r2l11",
   "a000146"
  ],
- "a000804": [
+ "a000816": [
   "attribute",
   "pagexml",
   "id=r1l1",
   "a000148"
  ],
- "a000805": [
+ "a000817": [
   "attribute",
   "pagexml",
   "id=r1l2",
   "a000150"
  ],
- "a000806": [
+ "a000818": [
   "attribute",
   "pagexml",
   "id=r1l3",
   "a000152"
  ],
- "a000807": [
+ "a000819": [
   "attribute",
   "pagexml",
   "id=r1l4",
   "a000154"
  ],
- "a000808": [
+ "a000820": [
   "attribute",
   "pagexml",
   "id=r1l5",
   "a000156"
  ],
- "a000809": [
+ "a000821": [
   "attribute",
   "pagexml",
   "id=r1l6",
   "a000158"
  ],
- "a000810": [
+ "a000822": [
   "attribute",
   "pagexml",
   "id=r1l7",
   "a000160"
  ],
- "a000811": [
+ "a000823": [
   "attribute",
   "pagexml",
   "id=r1l8",
   "a000162"
  ],
- "a000812": [
+ "a000824": [
   "attribute",
   "pagexml",
   "id=r1l9",
   "a000164"
  ],
- "a000813": [
+ "a000825": [
   "attribute",
   "pagexml",
   "id=r1l10",
   "a000166"
  ],
- "a000814": [
+ "a000826": [
   "attribute",
   "pagexml",
   "id=r1l11",
   "a000168"
  ],
- "a000815": [
+ "a000827": [
   "attribute",
   "pagexml",
   "id=r1l12",
   "a000170"
  ],
- "a000816": [
+ "a000828": [
   "attribute",
   "pagexml",
   "id=r1l13",
   "a000172"
  ],
- "a000817": [
+ "a000829": [
   "attribute",
   "pagexml",
   "id=r1l14",
   "a000174"
  ],
- "a000818": [
+ "a000830": [
   "attribute",
   "pagexml",
   "id=r1l15",
   "a000176"
  ],
- "a000819": [
+ "a000831": [
   "attribute",
   "pagexml",
   "id=r1l16",
   "a000178"
  ],
- "a000820": [
+ "a000832": [
   "attribute",
   "pagexml",
   "id=r1l17",
   "a000180"
  ],
- "a000821": [
+ "a000833": [
   "attribute",
   "pagexml",
   "id=r1l18",
   "a000182"
  ],
- "a000822": [
+ "a000834": [
   "attribute",
   "pagexml",
   "id=r1l19",
   "a000184"
  ],
- "a000823": [
+ "a000835": [
   "attribute",
   "pagexml",
   "id=r1l20",
   "a000186"
  ],
- "a000824": [
+ "a000836": [
   "attribute",
   "pagexml",
   "id=r1l21",
   "a000188"
  ],
- "a000825": [
+ "a000837": [
   "attribute",
   "pagexml",
   "id=r1l22",
   "a000190"
  ],
- "a000826": [
+ "a000838": [
   "attribute",
   "pagexml",
   "id=r1l23",
   "a000192"
  ],
- "a000827": [
+ "a000839": [
   "attribute",
   "pagexml",
   "id=r1l24",
   "a000194"
  ],
- "a000828": [
+ "a000840": [
   "attribute",
   "pagexml",
   "id=r1l1",
   "a000196"
  ],
- "a000829": [
+ "a000841": [
   "attribute",
   "pagexml",
   "id=r2l1",
   "a000198"
  ],
- "a000830": [
+ "a000842": [
   "attribute",
   "pagexml",
   "id=r2l2",
   "a000200"
  ],
- "a000831": [
+ "a000843": [
   "attribute",
   "pagexml",
   "id=r2l3",
   "a000202"
  ],
- "a000832": [
+ "a000844": [
   "attribute",
   "pagexml",
   "id=r2l4",
   "a000204"
  ],
- "a000833": [
+ "a000845": [
   "attribute",
   "pagexml",
   "id=r2l5",
   "a000206"
  ],
- "a000834": [
+ "a000846": [
   "attribute",
   "pagexml",
   "id=r2l6",
   "a000208"
  ],
- "a000835": [
+ "a000847": [
   "attribute",
   "pagexml",
   "id=r2l7",
   "a000210"
  ],
- "a000836": [
+ "a000848": [
   "attribute",
   "pagexml",
   "id=r2l8",
   "a000212"
  ],
- "a000837": [
+ "a000849": [
   "attribute",
   "pagexml",
   "id=r2l9",
   "a000214"
  ],
- "a000838": [
+ "a000850": [
   "attribute",
   "pagexml",
   "id=r2l10",
   "a000216"
  ],
- "a000839": [
+ "a000851": [
   "attribute",
   "pagexml",
   "id=r2l11",
   "a000218"
  ],
- "a000840": [
+ "a000852": [
   "attribute",
   "pagexml",
   "id=r2l12",
   "a000220"
  ],
- "a000841": [
+ "a000853": [
   "attribute",
   "pagexml",
   "id=r2l13",
   "a000222"
  ],
- "a000842": [
+ "a000854": [
   "attribute",
   "pagexml",
   "id=r2l14",
   "a000224"
  ],
- "a000843": [
+ "a000855": [
   "attribute",
   "pagexml",
   "id=r2l15",
   "a000226"
  ],
- "a000844": [
+ "a000856": [
   "attribute",
   "pagexml",
   "id=r2l16",
   "a000228"
  ],
- "a000845": [
+ "a000857": [
   "attribute",
   "pagexml",
   "id=r2l17",
   "a000230"
  ],
- "a000846": [
+ "a000858": [
   "attribute",
   "pagexml",
   "id=r2l18",
   "a000232"
  ],
- "a000847": [
+ "a000859": [
   "attribute",
   "pagexml",
   "id=r2l19",
   "a000234"
  ],
- "a000848": [
+ "a000860": [
   "attribute",
   "pagexml",
   "id=r2l20",
   "a000236"
  ],
- "a000849": [
+ "a000861": [
   "attribute",
   "pagexml",
   "id=r2l21",
   "a000238"
  ],
- "a000850": [
+ "a000862": [
   "attribute",
   "pagexml",
   "id=0001_3331_001-0001.jpg",
   "a000002"
  ],
- "a000851": [
+ "a000863": [
   "attribute",
   "pagexml",
   "id=0002_3331_001-0002.jpg",
   "a000004"
  ],
- "a000852": [
+ "a000864": [
   "attribute",
   "pagexml",
   "id=0003_3331_001-0003.jpg",
   "a000006"
  ],
- "a000853": [
+ "a000865": [
   "attribute",
   "pagexml",
   "id=0004_3331_001-0004.jpg",
   "a000008"
  ],
- "a000854": [
+ "a000866": [
   "attribute",
   "pagexml",
   "id=r1",
   "a000010"
  ],
- "a000855": [
+ "a000867": [
   "attribute",
   "pagexml",
   "id=r1",
   "a000012"
  ],
- "a000856": [
+ "a000868": [
   "attribute",
   "pagexml",
   "id=r2",
   "a000014"
  ],
- "a000857": [
+ "a000869": [
   "attribute",
   "pagexml",
   "id=r1",
   "a000016"
  ],
- "a000858": [
+ "a000870": [
   "attribute",
   "pagexml",
   "id=r1",
   "a000018"
  ],
- "a000859": [
+ "a000871": [
   "attribute",
   "pagexml",
   "id=r2",
   "a000020"
  ],
- "a000860": [
+ "a000872": [
   "attribute",
   "pagexml",
   "is_anonymous=f",
   "a000000"
  ],
- "a000861": [
+ "a000873": [
   "attribute",
   "pagexml",
   "latest=1639-12-31",
   "a000000"
  ],
- "a000862": [
+ "a000874": [
   "attribute",
   "tf",
   "line=1",
   "a000022"
  ],
- "a000863": [
+ "a000875": [
   "attribute",
   "tf",
   "line=2",
   "a000024"
  ],
- "a000864": [
+ "a000876": [
   "attribute",
   "tf",
   "line=3",
   "a000026"
  ],
- "a000865": [
+ "a000877": [
   "attribute",
   "tf",
   "line=4",
   "a000028"
  ],
- "a000866": [
+ "a000878": [
   "attribute",
   "tf",
   "line=5",
   "a000030"
  ],
- "a000867": [
+ "a000879": [
   "attribute",
   "tf",
   "line=6",
   "a000032"
  ],
- "a000868": [
+ "a000880": [
   "attribute",
   "tf",
   "line=7",
   "a000034"
  ],
- "a000869": [
+ "a000881": [
   "attribute",
   "tf",
   "line=8",
   "a000036"
  ],
- "a000870": [
+ "a000882": [
   "attribute",
   "tf",
   "line=9",
   "a000038"
  ],
- "a000871": [
+ "a000883": [
   "attribute",
   "tf",
   "line=10",
   "a000040"
  ],
- "a000872": [
+ "a000884": [
   "attribute",
   "tf",
   "line=11",
   "a000042"
  ],
- "a000873": [
+ "a000885": [
   "attribute",
   "tf",
   "line=12",
   "a000044"
  ],
- "a000874": [
+ "a000886": [
   "attribute",
   "tf",
   "line=13",
   "a000046"
  ],
- "a000875": [
+ "a000887": [
   "attribute",
   "tf",
   "line=14",
   "a000048"
  ],
- "a000876": [
+ "a000888": [
   "attribute",
   "tf",
   "line=15",
   "a000050"
  ],
- "a000877": [
+ "a000889": [
   "attribute",
   "tf",
   "line=16",
   "a000052"
  ],
- "a000878": [
+ "a000890": [
   "attribute",
   "tf",
   "line=17",
   "a000054"
  ],
- "a000879": [
+ "a000891": [
   "attribute",
   "tf",
   "line=18",
   "a000056"
  ],
- "a000880": [
+ "a000892": [
   "attribute",
   "tf",
   "line=19",
   "a000058"
  ],
- "a000881": [
+ "a000893": [
   "attribute",
   "tf",
   "line=20",
   "a000060"
  ],
- "a000882": [
+ "a000894": [
   "attribute",
   "tf",
   "line=21",
   "a000062"
  ],
- "a000883": [
+ "a000895": [
   "attribute",
   "tf",
   "line=22",
   "a000064"
  ],
- "a000884": [
+ "a000896": [
   "attribute",
   "tf",
   "line=23",
   "a000066"
  ],
- "a000885": [
+ "a000897": [
   "attribute",
   "tf",
   "line=24",
   "a000068"
  ],
- "a000886": [
+ "a000898": [
   "attribute",
   "tf",
   "line=25",
   "a000070"
  ],
- "a000887": [
+ "a000899": [
   "attribute",
   "tf",
   "line=1",
   "a000072"
  ],
- "a000888": [
+ "a000900": [
   "attribute",
   "tf",
   "line=2",
   "a000074"
  ],
- "a000889": [
+ "a000901": [
   "attribute",
   "tf",
   "line=3",
   "a000076"
  ],
- "a000890": [
+ "a000902": [
   "attribute",
   "tf",
   "line=4",
   "a000078"
  ],
- "a000891": [
+ "a000903": [
   "attribute",
   "tf",
   "line=5",
   "a000080"
  ],
- "a000892": [
+ "a000904": [
   "attribute",
   "tf",
   "line=6",
   "a000082"
  ],
- "a000893": [
+ "a000905": [
   "attribute",
   "tf",
   "line=7",
   "a000084"
  ],
- "a000894": [
+ "a000906": [
   "attribute",
   "tf",
   "line=8",
   "a000086"
  ],
- "a000895": [
+ "a000907": [
   "attribute",
   "tf",
   "line=9",
   "a000088"
  ],
- "a000896": [
+ "a000908": [
   "attribute",
   "tf",
   "line=10",
   "a000090"
  ],
- "a000897": [
+ "a000909": [
   "attribute",
   "tf",
   "line=11",
   "a000092"
  ],
- "a000898": [
+ "a000910": [
   "attribute",
   "tf",
   "line=12",
   "a000094"
  ],
- "a000899": [
+ "a000911": [
   "attribute",
   "tf",
   "line=13",
   "a000096"
  ],
- "a000900": [
+ "a000912": [
   "attribute",
   "tf",
   "line=14",
   "a000098"
  ],
- "a000901": [
+ "a000913": [
   "attribute",
   "tf",
   "line=15",
   "a000100"
  ],
- "a000902": [
+ "a000914": [
   "attribute",
   "tf",
   "line=16",
   "a000102"
  ],
- "a000903": [
+ "a000915": [
   "attribute",
   "tf",
   "line=17",
   "a000104"
  ],
- "a000904": [
+ "a000916": [
   "attribute",
   "tf",
   "line=18",
   "a000106"
  ],
- "a000905": [
+ "a000917": [
   "attribute",
   "tf",
   "line=19",
   "a000108"
  ],
- "a000906": [
+ "a000918": [
   "attribute",
   "tf",
   "line=20",
   "a000110"
  ],
- "a000907": [
+ "a000919": [
   "attribute",
   "tf",
   "line=21",
   "a000112"
  ],
- "a000908": [
+ "a000920": [
   "attribute",
   "tf",
   "line=22",
   "a000114"
  ],
- "a000909": [
+ "a000921": [
   "attribute",
   "tf",
   "line=23",
   "a000116"
  ],
- "a000910": [
+ "a000922": [
   "attribute",
   "tf",
   "line=24",
   "a000118"
  ],
- "a000911": [
+ "a000923": [
   "attribute",
   "tf",
   "line=25",
   "a000120"
  ],
- "a000912": [
+ "a000924": [
   "attribute",
   "tf",
   "line=26",
   "a000122"
  ],
- "a000913": [
+ "a000925": [
   "attribute",
   "tf",
   "line=27",
   "a000124"
  ],
- "a000914": [
+ "a000926": [
   "attribute",
   "tf",
   "line=28",
   "a000126"
  ],
- "a000915": [
+ "a000927": [
   "attribute",
   "tf",
   "line=29",
   "a000128"
  ],
- "a000916": [
+ "a000928": [
   "attribute",
   "tf",
   "line=30",
   "a000130"
  ],
- "a000917": [
+ "a000929": [
   "attribute",
   "tf",
   "line=31",
   "a000132"
  ],
- "a000918": [
+ "a000930": [
   "attribute",
   "tf",
   "line=32",
   "a000134"
  ],
- "a000919": [
+ "a000931": [
   "attribute",
   "tf",
   "line=33",
   "a000136"
  ],
- "a000920": [
+ "a000932": [
   "attribute",
   "tf",
   "line=34",
   "a000138"
  ],
- "a000921": [
+ "a000933": [
   "attribute",
   "tf",
   "line=35",
   "a000140"
  ],
- "a000922": [
+ "a000934": [
   "attribute",
   "tf",
   "line=36",
   "a000142"
  ],
- "a000923": [
+ "a000935": [
   "attribute",
   "tf",
   "line=37",
   "a000144"
  ],
- "a000924": [
+ "a000936": [
   "attribute",
   "tf",
   "line=38",
   "a000146"
  ],
- "a000925": [
+ "a000937": [
   "attribute",
   "tf",
   "line=1",
   "a000148"
  ],
- "a000926": [
+ "a000938": [
   "attribute",
   "tf",
   "line=2",
   "a000150"
  ],
- "a000927": [
+ "a000939": [
   "attribute",
   "tf",
   "line=3",
   "a000152"
  ],
- "a000928": [
+ "a000940": [
   "attribute",
   "tf",
   "line=4",
   "a000154"
  ],
- "a000929": [
+ "a000941": [
   "attribute",
   "tf",
   "line=5",
   "a000156"
  ],
- "a000930": [
+ "a000942": [
   "attribute",
   "tf",
   "line=6",
   "a000158"
  ],
- "a000931": [
+ "a000943": [
   "attribute",
   "tf",
   "line=7",
   "a000160"
  ],
- "a000932": [
+ "a000944": [
   "attribute",
   "tf",
   "line=8",
   "a000162"
  ],
- "a000933": [
+ "a000945": [
   "attribute",
   "tf",
   "line=9",
   "a000164"
  ],
- "a000934": [
+ "a000946": [
   "attribute",
   "tf",
   "line=10",
   "a000166"
  ],
- "a000935": [
+ "a000947": [
   "attribute",
   "tf",
   "line=11",
   "a000168"
  ],
- "a000936": [
+ "a000948": [
   "attribute",
   "tf",
   "line=12",
   "a000170"
  ],
- "a000937": [
+ "a000949": [
   "attribute",
   "tf",
   "line=13",
   "a000172"
  ],
- "a000938": [
+ "a000950": [
   "attribute",
   "tf",
   "line=14",
   "a000174"
  ],
- "a000939": [
+ "a000951": [
   "attribute",
   "tf",
   "line=15",
   "a000176"
  ],
- "a000940": [
+ "a000952": [
   "attribute",
   "tf",
   "line=16",
   "a000178"
  ],
- "a000941": [
+ "a000953": [
   "attribute",
   "tf",
   "line=17",
   "a000180"
  ],
- "a000942": [
+ "a000954": [
   "attribute",
   "tf",
   "line=18",
   "a000182"
  ],
- "a000943": [
+ "a000955": [
   "attribute",
   "tf",
   "line=19",
   "a000184"
  ],
- "a000944": [
+ "a000956": [
   "attribute",
   "tf",
   "line=20",
   "a000186"
  ],
- "a000945": [
+ "a000957": [
   "attribute",
   "tf",
   "line=21",
   "a000188"
  ],
- "a000946": [
+ "a000958": [
   "attribute",
   "tf",
   "line=22",
   "a000190"
  ],
- "a000947": [
+ "a000959": [
   "attribute",
   "tf",
   "line=23",
   "a000192"
  ],
- "a000948": [
+ "a000960": [
   "attribute",
   "tf",
   "line=24",
   "a000194"
  ],
- "a000949": [
+ "a000961": [
   "attribute",
   "tf",
   "line=1",
   "a000196"
  ],
- "a000950": [
+ "a000962": [
   "attribute",
   "tf",
   "line=2",
   "a000198"
  ],
- "a000951": [
+ "a000963": [
   "attribute",
   "tf",
   "line=3",
   "a000200"
  ],
- "a000952": [
+ "a000964": [
   "attribute",
   "tf",
   "line=4",
   "a000202"
  ],
- "a000953": [
+ "a000965": [
   "attribute",
   "tf",
   "line=5",
   "a000204"
  ],
- "a000954": [
+ "a000966": [
   "attribute",
   "tf",
   "line=6",
   "a000206"
  ],
- "a000955": [
+ "a000967": [
   "attribute",
   "tf",
   "line=7",
   "a000208"
  ],
- "a000956": [
+ "a000968": [
   "attribute",
   "tf",
   "line=8",
   "a000210"
  ],
- "a000957": [
+ "a000969": [
   "attribute",
   "tf",
   "line=9",
   "a000212"
  ],
- "a000958": [
+ "a000970": [
   "attribute",
   "tf",
   "line=10",
   "a000214"
  ],
- "a000959": [
+ "a000971": [
   "attribute",
   "tf",
   "line=11",
   "a000216"
  ],
- "a000960": [
+ "a000972": [
   "attribute",
   "tf",
   "line=12",
   "a000218"
  ],
- "a000961": [
+ "a000973": [
   "attribute",
   "tf",
   "line=13",
   "a000220"
  ],
- "a000962": [
+ "a000974": [
   "attribute",
   "tf",
   "line=14",
   "a000222"
  ],
- "a000963": [
+ "a000975": [
   "attribute",
   "tf",
   "line=15",
   "a000224"
  ],
- "a000964": [
+ "a000976": [
   "attribute",
   "tf",
   "line=16",
   "a000226"
  ],
- "a000965": [
+ "a000977": [
   "attribute",
   "tf",
   "line=17",
   "a000228"
  ],
- "a000966": [
+ "a000978": [
   "attribute",
   "tf",
   "line=18",
   "a000230"
  ],
- "a000967": [
+ "a000979": [
   "attribute",
   "tf",
   "line=19",
   "a000232"
  ],
- "a000968": [
+ "a000980": [
   "attribute",
   "tf",
   "line=20",
   "a000234"
  ],
- "a000969": [
+ "a000981": [
   "attribute",
   "tf",
   "line=21",
   "a000236"
  ],
- "a000970": [
+ "a000982": [
   "attribute",
   "tf",
   "line=22",
   "a000238"
  ],
- "a000971": [
+ "a000983": [
+  "attribute",
+  "pagexml",
+  "link_bll=unspecified",
+  "a000000"
+ ],
+ "a000984": [
+  "attribute",
+  "pagexml",
+  "link_bnf=unspecified",
+  "a000000"
+ ],
+ "a000985": [
+  "attribute",
+  "pagexml",
+  "link_google=unspecified",
+  "a000000"
+ ],
+ "a000986": [
+  "attribute",
+  "pagexml",
+  "link_kb=unspecified",
+  "a000000"
+ ],
+ "a000987": [
+  "attribute",
+  "pagexml",
+  "link_kbb=unspecified",
+  "a000000"
+ ],
+ "a000988": [
+  "attribute",
+  "pagexml",
+  "link_ub_antwerp=unspecified",
+  "a000000"
+ ],
+ "a000989": [
+  "attribute",
+  "pagexml",
+  "link_ub_gent=unspecified",
+  "a000000"
+ ],
+ "a000990": [
   "attribute",
   "tf",
   "page=1",
   "a000002"
  ],
- "a000972": [
+ "a000991": [
   "attribute",
   "tf",
   "page=2",
   "a000004"
  ],
- "a000973": [
+ "a000992": [
   "attribute",
   "tf",
   "page=3",
   "a000006"
  ],
- "a000974": [
+ "a000993": [
   "attribute",
   "tf",
   "page=4",
   "a000008"
  ],
- "a000975": [
-  "attribute",
-  "tf",
-  "rafter=\n",
-  "0-1"
- ],
- "a000976": [
-  "attribute",
-  "tf",
-  "rafter=\n",
-  "5-6"
- ],
- "a000977": [
-  "attribute",
-  "tf",
-  "rafter=\n",
-  "6-7"
- ],
- "a000978": [
-  "attribute",
-  "tf",
-  "rafter=\n",
-  "8-9"
- ],
- "a000979": [
-  "attribute",
-  "tf",
-  "rafter=\n",
-  "11-12"
- ],
- "a000980": [
-  "attribute",
-  "tf",
-  "rafter=\n",
-  "12-13"
- ],
- "a000981": [
-  "attribute",
-  "tf",
-  "rafter=\n",
-  "16-17"
- ],
- "a000982": [
-  "attribute",
-  "tf",
-  "rafter=\n",
-  "19-20"
- ],
- "a000983": [
-  "attribute",
-  "tf",
-  "rafter=\n",
-  "21-22"
- ],
- "a000984": [
-  "attribute",
-  "tf",
-  "rafter=\n",
-  "22-23"
- ],
- "a000985": [
-  "attribute",
-  "tf",
-  "rafter=\n",
-  "23-24"
- ],
- "a000986": [
-  "attribute",
-  "tf",
-  "rafter=\n",
-  "29-30"
- ],
- "a000987": [
-  "attribute",
-  "tf",
-  "rafter=\n",
-  "30-31"
- ],
- "a000988": [
-  "attribute",
-  "tf",
-  "rafter=\n",
-  "32-33"
- ],
- "a000989": [
-  "attribute",
-  "tf",
-  "rafter=\n",
-  "33-34"
- ],
- "a000990": [
-  "attribute",
-  "tf",
-  "rafter=\n",
-  "34-35"
- ],
- "a000991": [
-  "attribute",
-  "tf",
-  "rafter=",
-  "35-36"
- ],
- "a000992": [
-  "attribute",
-  "tf",
-  "rafter=\n",
-  "36-37"
- ],
- "a000993": [
-  "attribute",
-  "tf",
-  "rafter=\n",
-  "37-38"
- ],
  "a000994": [
   "attribute",
-  "tf",
-  "rafter=",
-  "38-39"
+  "pagexml",
+  "place=unspecified",
+  "a000000"
  ],
  "a000995": [
   "attribute",
-  "tf",
-  "rafter=",
-  "39-40"
+  "pagexml",
+  "publisher=unspecified",
+  "a000000"
  ],
  "a000996": [
   "attribute",
   "tf",
   "rafter=\n",
-  "40-41"
+  "0-1"
  ],
  "a000997": [
   "attribute",
   "tf",
   "rafter=\n",
-  "41-42"
+  "5-6"
  ],
  "a000998": [
   "attribute",
   "tf",
   "rafter=\n",
-  "42-43"
+  "6-7"
  ],
  "a000999": [
   "attribute",
   "tf",
-  "rafter=",
-  "43-44"
+  "rafter=\n",
+  "8-9"
  ],
  "a001000": [
   "attribute",
   "tf",
   "rafter=\n",
-  "44-45"
+  "11-12"
  ],
  "a001001": [
   "attribute",
   "tf",
-  "rafter=",
-  "45-46"
+  "rafter=\n",
+  "12-13"
  ],
  "a001002": [
   "attribute",
   "tf",
   "rafter=\n",
-  "46-47"
+  "16-17"
  ],
  "a001003": [
   "attribute",
   "tf",
   "rafter=\n",
-  "48-49"
+  "19-20"
  ],
  "a001004": [
   "attribute",
   "tf",
   "rafter=\n",
-  "53-54"
+  "21-22"
  ],
  "a001005": [
   "attribute",
   "tf",
-  "rafter=",
-  "54-55"
+  "rafter=\n",
+  "22-23"
  ],
  "a001006": [
   "attribute",
   "tf",
   "rafter=\n",
-  "59-60"
+  "23-24"
  ],
  "a001007": [
   "attribute",
   "tf",
   "rafter=\n",
-  "67-68"
+  "29-30"
  ],
  "a001008": [
   "attribute",
   "tf",
   "rafter=\n",
-  "73-74"
+  "30-31"
  ],
  "a001009": [
   "attribute",
   "tf",
   "rafter=\n",
-  "78-79"
+  "32-33"
  ],
  "a001010": [
   "attribute",
   "tf",
   "rafter=\n",
-  "83-84"
+  "33-34"
  ],
  "a001011": [
   "attribute",
   "tf",
-  "rafter=",
-  "90-91"
+  "rafter=\n",
+  "34-35"
  ],
  "a001012": [
   "attribute",
   "tf",
-  "rafter=\n",
-  "91-92"
+  "rafter=",
+  "35-36"
  ],
  "a001013": [
   "attribute",
   "tf",
-  "rafter= ",
-  "92-93"
+  "rafter=\n",
+  "36-37"
  ],
  "a001014": [
   "attribute",
   "tf",
-  "rafter=",
-  "96-97"
+  "rafter=\n",
+  "37-38"
  ],
  "a001015": [
   "attribute",
   "tf",
-  "rafter=\n",
-  "97-98"
+  "rafter=",
+  "38-39"
  ],
  "a001016": [
   "attribute",
   "tf",
-  "rafter= ",
-  "98-99"
+  "rafter=",
+  "39-40"
  ],
  "a001017": [
   "attribute",
   "tf",
   "rafter=\n",
-  "104-105"
+  "40-41"
  ],
  "a001018": [
   "attribute",
   "tf",
   "rafter=\n",
-  "111-112"
+  "41-42"
  ],
  "a001019": [
   "attribute",
   "tf",
   "rafter=\n",
-  "118-119"
+  "42-43"
  ],
  "a001020": [
   "attribute",
   "tf",
-  "rafter=\n",
-  "126-127"
+  "rafter=",
+  "43-44"
  ],
  "a001021": [
   "attribute",
   "tf",
   "rafter=\n",
-  "135-136"
+  "44-45"
  ],
  "a001022": [
   "attribute",
   "tf",
-  "rafter=\n",
-  "143-144"
+  "rafter=",
+  "45-46"
  ],
  "a001023": [
   "attribute",
   "tf",
   "rafter=\n",
-  "152-153"
+  "46-47"
  ],
  "a001024": [
   "attribute",
   "tf",
   "rafter=\n",
-  "155-156"
+  "48-49"
  ],
  "a001025": [
   "attribute",
   "tf",
   "rafter=\n",
-  "156-157"
+  "53-54"
  ],
  "a001026": [
   "attribute",
   "tf",
-  "rafter=\n",
-  "157-158"
+  "rafter=",
+  "54-55"
  ],
  "a001027": [
   "attribute",
   "tf",
   "rafter=\n",
-  "158-159"
+  "59-60"
  ],
  "a001028": [
   "attribute",
   "tf",
   "rafter=\n",
-  "159-160"
+  "67-68"
  ],
  "a001029": [
   "attribute",
   "tf",
   "rafter=\n",
-  "160-161"
+  "73-74"
  ],
  "a001030": [
   "attribute",
   "tf",
   "rafter=\n",
-  "161-162"
+  "78-79"
  ],
  "a001031": [
   "attribute",
   "tf",
   "rafter=\n",
-  "169-170"
+  "83-84"
  ],
  "a001032": [
   "attribute",
   "tf",
-  "rafter=\n",
-  "174-175"
+  "rafter=",
+  "90-91"
  ],
  "a001033": [
   "attribute",
   "tf",
   "rafter=\n",
-  "175-176"
+  "91-92"
  ],
  "a001034": [
   "attribute",
   "tf",
-  "rafter=\n",
-  "176-177"
+  "rafter= ",
+  "92-93"
  ],
  "a001035": [
   "attribute",
   "tf",
-  "rafter=\n",
-  "178-179"
+  "rafter=",
+  "96-97"
  ],
  "a001036": [
   "attribute",
   "tf",
   "rafter=\n",
-  "179-180"
+  "97-98"
  ],
  "a001037": [
   "attribute",
   "tf",
-  "rafter=\n",
-  "180-181"
+  "rafter= ",
+  "98-99"
  ],
  "a001038": [
   "attribute",
   "tf",
   "rafter=\n",
-  "181-182"
+  "104-105"
  ],
  "a001039": [
   "attribute",
   "tf",
   "rafter=\n",
-  "182-183"
+  "111-112"
  ],
  "a001040": [
   "attribute",
   "tf",
   "rafter=\n",
-  "183-184"
+  "118-119"
  ],
  "a001041": [
   "attribute",
   "tf",
   "rafter=\n",
-  "185-186"
+  "126-127"
  ],
  "a001042": [
   "attribute",
   "tf",
   "rafter=\n",
-  "186-187"
+  "135-136"
  ],
  "a001043": [
   "attribute",
   "tf",
   "rafter=\n",
-  "187-188"
+  "143-144"
  ],
  "a001044": [
   "attribute",
   "tf",
   "rafter=\n",
-  "188-189"
+  "152-153"
  ],
  "a001045": [
   "attribute",
   "tf",
   "rafter=\n",
-  "189-190"
+  "155-156"
  ],
  "a001046": [
   "attribute",
   "tf",
   "rafter=\n",
-  "195-196"
+  "156-157"
  ],
  "a001047": [
   "attribute",
   "tf",
   "rafter=\n",
-  "198-199"
+  "157-158"
  ],
  "a001048": [
   "attribute",
   "tf",
-  "rafter=",
-  "207-208"
+  "rafter=\n",
+  "158-159"
  ],
  "a001049": [
   "attribute",
   "tf",
   "rafter=\n",
-  "208-209"
+  "159-160"
  ],
  "a001050": [
   "attribute",
   "tf",
-  "rafter=",
-  "209-210"
+  "rafter=\n",
+  "160-161"
  ],
  "a001051": [
   "attribute",
   "tf",
   "rafter=\n",
-  "210-211"
+  "161-162"
  ],
  "a001052": [
   "attribute",
   "tf",
   "rafter=\n",
-  "213-214"
+  "169-170"
  ],
  "a001053": [
   "attribute",
   "tf",
-  "rafter=",
-  "221-222"
+  "rafter=\n",
+  "174-175"
  ],
  "a001054": [
   "attribute",
   "tf",
   "rafter=\n",
-  "222-223"
+  "175-176"
  ],
  "a001055": [
   "attribute",
   "tf",
-  "rafter=",
-  "223-224"
+  "rafter=\n",
+  "176-177"
  ],
  "a001056": [
   "attribute",
   "tf",
   "rafter=\n",
-  "229-230"
+  "178-179"
  ],
  "a001057": [
   "attribute",
   "tf",
   "rafter=\n",
-  "232-233"
+  "179-180"
  ],
  "a001058": [
   "attribute",
   "tf",
   "rafter=\n",
-  "237-238"
+  "180-181"
  ],
  "a001059": [
   "attribute",
   "tf",
   "rafter=\n",
-  "240-241"
+  "181-182"
  ],
  "a001060": [
   "attribute",
   "tf",
   "rafter=\n",
-  "243-244"
+  "182-183"
  ],
  "a001061": [
   "attribute",
   "tf",
   "rafter=\n",
-  "249-250"
+  "183-184"
  ],
  "a001062": [
   "attribute",
   "tf",
   "rafter=\n",
-  "257-258"
+  "185-186"
  ],
  "a001063": [
   "attribute",
   "tf",
   "rafter=\n",
-  "263-264"
+  "186-187"
  ],
  "a001064": [
   "attribute",
   "tf",
   "rafter=\n",
-  "266-267"
+  "187-188"
  ],
  "a001065": [
   "attribute",
   "tf",
   "rafter=\n",
-  "270-271"
+  "188-189"
  ],
  "a001066": [
   "attribute",
   "tf",
   "rafter=\n",
-  "271-272"
+  "189-190"
  ],
  "a001067": [
   "attribute",
   "tf",
   "rafter=\n",
-  "273-274"
+  "195-196"
  ],
  "a001068": [
   "attribute",
   "tf",
   "rafter=\n",
-  "276-277"
+  "198-199"
  ],
  "a001069": [
   "attribute",
   "tf",
-  "rafter=\n",
-  "281-282"
+  "rafter=",
+  "207-208"
  ],
  "a001070": [
   "attribute",
   "tf",
   "rafter=\n",
-  "284-285"
+  "208-209"
  ],
  "a001071": [
   "attribute",
   "tf",
-  "rafter=\n",
-  "288-289"
+  "rafter=",
+  "209-210"
  ],
  "a001072": [
   "attribute",
   "tf",
   "rafter=\n",
-  "289-290"
+  "210-211"
  ],
  "a001073": [
   "attribute",
   "tf",
   "rafter=\n",
-  "290-291"
+  "213-214"
  ],
  "a001074": [
   "attribute",
   "tf",
-  "rafter=\n",
-  "291-292"
+  "rafter=",
+  "221-222"
  ],
  "a001075": [
   "attribute",
   "tf",
   "rafter=\n",
-  "293-294"
+  "222-223"
  ],
  "a001076": [
   "attribute",
   "tf",
   "rafter=",
-  "301-302"
+  "223-224"
  ],
  "a001077": [
   "attribute",
   "tf",
   "rafter=\n",
-  "302-303"
+  "229-230"
  ],
  "a001078": [
   "attribute",
   "tf",
-  "rafter=",
-  "303-304"
+  "rafter=\n",
+  "232-233"
  ],
  "a001079": [
   "attribute",
   "tf",
   "rafter=\n",
-  "310-311"
+  "237-238"
  ],
  "a001080": [
   "attribute",
   "tf",
   "rafter=\n",
-  "313-314"
+  "240-241"
  ],
  "a001081": [
   "attribute",
   "tf",
   "rafter=\n",
-  "316-317"
+  "243-244"
  ],
  "a001082": [
   "attribute",
   "tf",
   "rafter=\n",
-  "320-321"
+  "249-250"
  ],
  "a001083": [
   "attribute",
   "tf",
   "rafter=\n",
-  "321-322"
+  "257-258"
  ],
  "a001084": [
   "attribute",
   "tf",
   "rafter=\n",
-  "324-325"
+  "263-264"
  ],
  "a001085": [
   "attribute",
   "tf",
   "rafter=\n",
-  "331-332"
+  "266-267"
  ],
  "a001086": [
   "attribute",
   "tf",
   "rafter=\n",
-  "336-337"
+  "270-271"
  ],
  "a001087": [
   "attribute",
   "tf",
   "rafter=\n",
-  "339-340"
+  "271-272"
  ],
  "a001088": [
   "attribute",
   "tf",
   "rafter=\n",
-  "345-346"
+  "273-274"
  ],
  "a001089": [
   "attribute",
   "tf",
   "rafter=\n",
-  "348-349"
+  "276-277"
  ],
  "a001090": [
   "attribute",
   "tf",
   "rafter=\n",
-  "357-358"
+  "281-282"
  ],
  "a001091": [
   "attribute",
   "tf",
   "rafter=\n",
-  "360-361"
+  "284-285"
  ],
  "a001092": [
   "attribute",
   "tf",
   "rafter=\n",
-  "366-367"
+  "288-289"
  ],
  "a001093": [
   "attribute",
   "tf",
   "rafter=\n",
-  "368-369"
+  "289-290"
  ],
  "a001094": [
   "attribute",
   "tf",
   "rafter=\n",
-  "370-371"
+  "290-291"
  ],
  "a001095": [
   "attribute",
   "tf",
   "rafter=\n",
-  "373-374"
+  "291-292"
  ],
  "a001096": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "293-294"
+ ],
+ "a001097": [
+  "attribute",
+  "tf",
+  "rafter=",
+  "301-302"
+ ],
+ "a001098": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "302-303"
+ ],
+ "a001099": [
+  "attribute",
+  "tf",
+  "rafter=",
+  "303-304"
+ ],
+ "a001100": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "310-311"
+ ],
+ "a001101": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "313-314"
+ ],
+ "a001102": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "316-317"
+ ],
+ "a001103": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "320-321"
+ ],
+ "a001104": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "321-322"
+ ],
+ "a001105": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "324-325"
+ ],
+ "a001106": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "331-332"
+ ],
+ "a001107": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "336-337"
+ ],
+ "a001108": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "339-340"
+ ],
+ "a001109": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "345-346"
+ ],
+ "a001110": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "348-349"
+ ],
+ "a001111": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "357-358"
+ ],
+ "a001112": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "360-361"
+ ],
+ "a001113": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "366-367"
+ ],
+ "a001114": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "368-369"
+ ],
+ "a001115": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "370-371"
+ ],
+ "a001116": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "373-374"
+ ],
+ "a001117": [
+  "attribute",
+  "pagexml",
+  "remarks=unspecified",
+  "a000000"
+ ],
+ "a001118": [
   "attribute",
   "tf",
   "rstr=",
   "35-36"
  ],
- "a001097": [
+ "a001119": [
   "attribute",
   "tf",
   "rstr=",
   "38-39"
  ],
- "a001098": [
+ "a001120": [
   "attribute",
   "tf",
   "rstr=εες",
   "39-40"
  ],
- "a001099": [
+ "a001121": [
   "attribute",
   "tf",
   "rstr=¬",
   "40-41"
  ],
- "a001100": [
+ "a001122": [
   "attribute",
   "tf",
   "rstr=ρsωnς",
   "41-42"
  ],
- "a001101": [
+ "a001123": [
   "attribute",
   "tf",
   "rstr=Te",
   "43-44"
  ],
- "a001102": [
+ "a001124": [
   "attribute",
   "tf",
   "rstr=¬",
   "44-45"
  ],
- "a001103": [
+ "a001125": [
   "attribute",
   "tf",
   "rstr=",
   "45-46"
  ],
- "a001104": [
+ "a001126": [
   "attribute",
   "tf",
   "rstr=OD",
   "46-47"
  ],
- "a001105": [
+ "a001127": [
   "attribute",
   "tf",
   "rstr=",
   "54-55"
  ],
- "a001106": [
+ "a001128": [
   "attribute",
   "tf",
   "rstr=catenisur",
   "90-91"
  ],
- "a001107": [
+ "a001129": [
   "attribute",
   "tf",
   "rstr=¬",
   "91-92"
  ],
- "a001108": [
+ "a001130": [
   "attribute",
   "tf",
   "rstr=genteis",
   "92-93"
  ],
- "a001109": [
+ "a001131": [
   "attribute",
   "tf",
   "rstr=Agaba",
   "96-97"
  ],
- "a001110": [
+ "a001132": [
   "attribute",
   "tf",
   "rstr=¬",
   "97-98"
  ],
- "a001111": [
+ "a001133": [
   "attribute",
   "tf",
   "rstr=na",
   "98-99"
  ],
- "a001112": [
+ "a001134": [
   "attribute",
   "tf",
   "rstr=de",
   "207-208"
  ],
- "a001113": [
+ "a001135": [
   "attribute",
   "tf",
   "rstr=¬",
   "208-209"
  ],
- "a001114": [
+ "a001136": [
   "attribute",
   "tf",
   "rstr=gemitur",
   "209-210"
  ],
- "a001115": [
+ "a001137": [
   "attribute",
   "tf",
   "rstr=de",
   "221-222"
  ],
- "a001116": [
+ "a001138": [
   "attribute",
   "tf",
   "rstr=¬",
   "222-223"
  ],
- "a001117": [
+ "a001139": [
   "attribute",
   "tf",
   "rstr=lentriumphum",
   "223-224"
  ],
- "a001118": [
+ "a001140": [
   "attribute",
   "tf",
   "rstr=uio",
   "301-302"
  ],
- "a001119": [
+ "a001141": [
   "attribute",
   "tf",
   "rstr=¬",
   "302-303"
  ],
- "a001120": [
+ "a001142": [
   "attribute",
   "tf",
   "rstr=parcat",
   "303-304"
  ],
- "a001121": [
+ "a001143": [
+  "attribute",
+  "pagexml",
+  "subgenre=unspecified",
+  "a000000"
+ ],
+ "a001144": [
   "attribute",
   "pagexml",
   "title=3331 001",
   "a000000"
  ],
- "a001122": [
+ "a001145": [
+  "attribute",
+  "pagexml",
+  "title@es=unspecified",
+  "a000000"
+ ],
+ "a001146": [
+  "attribute",
+  "pagexml",
+  "title@fr=unspecified",
+  "a000000"
+ ],
+ "a001147": [
   "attribute",
   "pagexml",
   "title@la=Arsaces Armeniae rex",
   "a000000"
  ],
- "a001123": [
+ "a001148": [
+  "attribute",
+  "pagexml",
+  "title@nl=unspecified",
+  "a000000"
+ ],
+ "a001149": [
   "attribute",
   "pagexml",
   "uploader=robinbuning@undisclosed",
   "a000000"
  ],
- "a001124": [
+ "a001150": [
   "attribute",
   "pagexml",
   "url=https://files.transkribus.eu/Get?fileType=view&id=JDEGYXEIGLIOLSORGUJNCSUY",
   "a000000"
  ],
- "a001125": [
+ "a001151": [
   "attribute",
   "pagexml",
   "w=672",
   "a000022"
  ],
- "a001126": [
+ "a001152": [
   "attribute",
   "pagexml",
   "w=360",
   "a000024"
  ],
- "a001127": [
+ "a001153": [
   "attribute",
   "pagexml",
   "w=1588",
   "a000026"
  ],
- "a001128": [
+ "a001154": [
   "attribute",
   "pagexml",
   "w=1566",
   "a000028"
  ],
- "a001129": [
+ "a001155": [
   "attribute",
   "pagexml",
   "w=1337",
   "a000030"
  ],
- "a001130": [
+ "a001156": [
   "attribute",
   "pagexml",
   "w=187",
   "a000032"
  ],
- "a001131": [
+ "a001157": [
   "attribute",
   "pagexml",
   "w=1640",
   "a000034"
  ],
- "a001132": [
+ "a001158": [
   "attribute",
   "pagexml",
   "w=976",
   "a000036"
  ],
- "a001133": [
+ "a001159": [
   "attribute",
   "pagexml",
   "w=1331",
   "a000038"
  ],
- "a001134": [
+ "a001160": [
   "attribute",
   "pagexml",
   "w=882",
   "a000040"
  ],
- "a001135": [
+ "a001161": [
   "attribute",
   "pagexml",
   "w=122",
   "a000042"
  ],
- "a001136": [
+ "a001162": [
   "attribute",
   "pagexml",
   "w=708",
   "a000044"
  ],
- "a001137": [
+ "a001163": [
   "attribute",
   "pagexml",
   "w=36",
   "a000046"
  ],
- "a001138": [
+ "a001164": [
   "attribute",
   "pagexml",
   "w=315",
   "a000048"
  ],
- "a001139": [
+ "a001165": [
   "attribute",
   "pagexml",
   "w=533",
   "a000050"
  ],
- "a001140": [
+ "a001166": [
   "attribute",
   "pagexml",
   "w=574",
   "a000052"
  ],
- "a001141": [
+ "a001167": [
   "attribute",
   "pagexml",
   "w=929",
   "a000054"
  ],
- "a001142": [
+ "a001168": [
   "attribute",
   "pagexml",
   "w=653",
   "a000056"
  ],
- "a001143": [
+ "a001169": [
   "attribute",
   "pagexml",
   "w=1090",
   "a000058"
  ],
- "a001144": [
+ "a001170": [
   "attribute",
   "pagexml",
   "w=554",
   "a000060"
  ],
- "a001145": [
+ "a001171": [
   "attribute",
   "pagexml",
   "w=378",
   "a000062"
  ],
- "a001146": [
+ "a001172": [
   "attribute",
   "pagexml",
   "w=347",
   "a000064"
  ],
- "a001147": [
+ "a001173": [
   "attribute",
   "pagexml",
   "w=334",
   "a000066"
  ],
- "a001148": [
+ "a001174": [
   "attribute",
   "pagexml",
   "w=523",
   "a000068"
  ],
- "a001149": [
+ "a001175": [
   "attribute",
   "pagexml",
   "w=403",
   "a000070"
  ],
- "a001150": [
+ "a001176": [
   "attribute",
   "pagexml",
   "w=93",
   "a000072"
  ],
- "a001151": [
+ "a001177": [
   "attribute",
   "pagexml",
   "w=1294",
   "a000074"
  ],
- "a001152": [
+ "a001178": [
   "attribute",
   "pagexml",
   "w=1426",
   "a000076"
  ],
- "a001153": [
+ "a001179": [
   "attribute",
   "pagexml",
   "w=95",
   "a000078"
  ],
- "a001154": [
+ "a001180": [
   "attribute",
   "pagexml",
   "w=1422",
   "a000080"
  ],
- "a001155": [
+ "a001181": [
   "attribute",
   "pagexml",
   "w=1424",
   "a000082"
  ],
- "a001156": [
+ "a001182": [
   "attribute",
   "pagexml",
   "w=1747",
   "a000084"
  ],
- "a001157": [
+ "a001183": [
   "attribute",
   "pagexml",
   "w=1736",
   "a000086"
  ],
- "a001158": [
+ "a001184": [
   "attribute",
   "pagexml",
   "w=1741",
   "a000088"
  ],
- "a001159": [
+ "a001185": [
   "attribute",
   "pagexml",
   "w=1744",
   "a000090"
  ],
- "a001160": [
+ "a001186": [
   "attribute",
   "pagexml",
   "w=1752",
   "a000092"
  ],
- "a001161": [
+ "a001187": [
   "attribute",
   "pagexml",
   "w=1763",
   "a000094"
  ],
- "a001162": [
+ "a001188": [
   "attribute",
   "pagexml",
   "w=1779",
   "a000096"
  ],
- "a001163": [
+ "a001189": [
   "attribute",
   "pagexml",
   "w=1759",
   "a000098"
  ],
- "a001164": [
+ "a001190": [
   "attribute",
   "pagexml",
   "w=1786",
   "a000100"
  ],
- "a001165": [
+ "a001191": [
   "attribute",
   "pagexml",
   "w=1778",
   "a000102"
  ],
- "a001166": [
+ "a001192": [
   "attribute",
   "pagexml",
   "w=1787",
   "a000104"
  ],
- "a001167": [
+ "a001193": [
   "attribute",
   "pagexml",
   "w=1788",
   "a000106"
  ],
- "a001168": [
+ "a001194": [
   "attribute",
   "pagexml",
   "w=686",
   "a000108"
  ],
- "a001169": [
+ "a001195": [
   "attribute",
   "pagexml",
   "w=255",
   "a000110"
  ],
- "a001170": [
+ "a001196": [
   "attribute",
   "pagexml",
   "w=158",
   "a000112"
  ],
- "a001171": [
+ "a001197": [
   "attribute",
   "pagexml",
   "w=121",
   "a000114"
  ],
- "a001172": [
+ "a001198": [
   "attribute",
   "pagexml",
   "w=528",
   "a000116"
  ],
- "a001173": [
+ "a001199": [
   "attribute",
   "pagexml",
   "w=961",
   "a000118"
  ],
- "a001174": [
+ "a001200": [
   "attribute",
   "pagexml",
   "w=62",
   "a000120"
  ],
- "a001175": [
+ "a001201": [
   "attribute",
   "pagexml",
   "w=1766",
   "a000122"
  ],
- "a001176": [
+ "a001202": [
   "attribute",
   "pagexml",
   "w=1322",
   "a000124"
  ],
- "a001177": [
+ "a001203": [
   "attribute",
   "pagexml",
   "w=93",
   "a000126"
  ],
- "a001178": [
+ "a001204": [
   "attribute",
   "pagexml",
   "w=89",
   "a000128"
  ],
- "a001179": [
+ "a001205": [
   "attribute",
   "pagexml",
   "w=163",
   "a000130"
  ],
- "a001180": [
+ "a001206": [
   "attribute",
   "pagexml",
   "w=176",
   "a000132"
  ],
- "a001181": [
+ "a001207": [
   "attribute",
   "pagexml",
   "w=111",
   "a000134"
  ],
- "a001182": [
+ "a001208": [
   "attribute",
   "pagexml",
   "w=124",
   "a000136"
  ],
- "a001183": [
+ "a001209": [
   "attribute",
   "pagexml",
   "w=138",
   "a000138"
  ],
- "a001184": [
+ "a001210": [
   "attribute",
   "pagexml",
   "w=141",
   "a000140"
  ],
- "a001185": [
+ "a001211": [
   "attribute",
   "pagexml",
   "w=115",
   "a000142"
  ],
- "a001186": [
+ "a001212": [
   "attribute",
   "pagexml",
   "w=100",
   "a000144"
  ],
- "a001187": [
+ "a001213": [
   "attribute",
   "pagexml",
   "w=127",
   "a000146"
  ],
- "a001188": [
+ "a001214": [
   "attribute",
   "pagexml",
   "w=521",
   "a000148"
  ],
- "a001189": [
+ "a001215": [
   "attribute",
   "pagexml",
   "w=809",
   "a000150"
  ],
- "a001190": [
+ "a001216": [
   "attribute",
   "pagexml",
   "w=1090",
   "a000152"
  ],
- "a001191": [
+ "a001217": [
   "attribute",
   "pagexml",
   "w=839",
   "a000154"
  ],
- "a001192": [
+ "a001218": [
   "attribute",
   "pagexml",
   "w=1631",
   "a000156"
  ],
- "a001193": [
+ "a001219": [
   "attribute",
   "pagexml",
   "w=208",
   "a000158"
  ],
- "a001194": [
+ "a001220": [
   "attribute",
   "pagexml",
   "w=824",
   "a000160"
  ],
- "a001195": [
+ "a001221": [
   "attribute",
   "pagexml",
   "w=1632",
   "a000162"
  ],
- "a001196": [
+ "a001222": [
   "attribute",
   "pagexml",
   "w=1699",
   "a000164"
  ],
- "a001197": [
+ "a001223": [
   "attribute",
   "pagexml",
   "w=773",
   "a000166"
  ],
- "a001198": [
+ "a001224": [
   "attribute",
   "pagexml",
   "w=931",
   "a000168"
  ],
- "a001199": [
+ "a001225": [
   "attribute",
   "pagexml",
   "w=1610",
   "a000170"
  ],
- "a001200": [
+ "a001226": [
   "attribute",
   "pagexml",
   "w=742",
   "a000172"
  ],
- "a001201": [
+ "a001227": [
   "attribute",
   "pagexml",
   "w=1701",
   "a000174"
  ],
- "a001202": [
+ "a001228": [
   "attribute",
   "pagexml",
   "w=1725",
   "a000176"
  ],
- "a001203": [
+ "a001229": [
   "attribute",
   "pagexml",
   "w=1313",
   "a000178"
  ],
- "a001204": [
+ "a001230": [
   "attribute",
   "pagexml",
   "w=832",
   "a000180"
  ],
- "a001205": [
+ "a001231": [
   "attribute",
   "pagexml",
   "w=1385",
   "a000182"
  ],
- "a001206": [
+ "a001232": [
   "attribute",
   "pagexml",
   "w=276",
   "a000184"
  ],
- "a001207": [
+ "a001233": [
   "attribute",
   "pagexml",
   "w=305",
   "a000186"
  ],
- "a001208": [
+ "a001234": [
   "attribute",
   "pagexml",
   "w=872",
   "a000188"
  ],
- "a001209": [
+ "a001235": [
   "attribute",
   "pagexml",
   "w=890",
   "a000190"
  ],
- "a001210": [
+ "a001236": [
   "attribute",
   "pagexml",
   "w=839",
   "a000192"
  ],
- "a001211": [
+ "a001237": [
   "attribute",
   "pagexml",
   "w=1126",
   "a000194"
  ],
- "a001212": [
+ "a001238": [
   "attribute",
   "pagexml",
   "w=258",
   "a000196"
  ],
- "a001213": [
+ "a001239": [
   "attribute",
   "pagexml",
   "w=76",
   "a000198"
  ],
- "a001214": [
+ "a001240": [
   "attribute",
   "pagexml",
   "w=196",
   "a000200"
  ],
- "a001215": [
+ "a001241": [
   "attribute",
   "pagexml",
   "w=820",
   "a000202"
  ],
- "a001216": [
+ "a001242": [
   "attribute",
   "pagexml",
   "w=1679",
   "a000204"
  ],
- "a001217": [
+ "a001243": [
   "attribute",
   "pagexml",
   "w=1316",
   "a000206"
  ],
- "a001218": [
+ "a001244": [
   "attribute",
   "pagexml",
   "w=1552",
   "a000208"
  ],
- "a001219": [
+ "a001245": [
   "attribute",
   "pagexml",
   "w=812",
   "a000210"
  ],
- "a001220": [
+ "a001246": [
   "attribute",
   "pagexml",
   "w=792",
   "a000212"
  ],
- "a001221": [
+ "a001247": [
   "attribute",
   "pagexml",
   "w=78",
   "a000214"
  ],
- "a001222": [
+ "a001248": [
   "attribute",
   "pagexml",
   "w=806",
   "a000216"
  ],
- "a001223": [
+ "a001249": [
   "attribute",
   "pagexml",
   "w=1731",
   "a000218"
  ],
- "a001224": [
+ "a001250": [
   "attribute",
   "pagexml",
   "w=769",
   "a000220"
  ],
- "a001225": [
+ "a001251": [
   "attribute",
   "pagexml",
   "w=912",
   "a000222"
  ],
- "a001226": [
+ "a001252": [
   "attribute",
   "pagexml",
   "w=1354",
   "a000224"
  ],
- "a001227": [
+ "a001253": [
   "attribute",
   "pagexml",
   "w=873",
   "a000226"
  ],
- "a001228": [
+ "a001254": [
   "attribute",
   "pagexml",
   "w=1692",
   "a000228"
  ],
- "a001229": [
+ "a001255": [
   "attribute",
   "pagexml",
   "w=868",
   "a000230"
  ],
- "a001230": [
+ "a001256": [
   "attribute",
   "pagexml",
   "w=1752",
   "a000232"
  ],
- "a001231": [
+ "a001257": [
   "attribute",
   "pagexml",
   "w=311",
   "a000234"
  ],
- "a001232": [
+ "a001258": [
   "attribute",
   "pagexml",
   "w=570",
   "a000236"
  ],
- "a001233": [
+ "a001259": [
   "attribute",
   "pagexml",
   "w=604",
   "a000238"
  ],
- "a001234": [
+ "a001260": [
   "attribute",
   "pagexml",
   "w=2480",
   "a000002"
  ],
- "a001235": [
+ "a001261": [
   "attribute",
   "pagexml",
   "w=2480",
   "a000004"
  ],
- "a001236": [
+ "a001262": [
   "attribute",
   "pagexml",
   "w=2480",
   "a000006"
  ],
- "a001237": [
+ "a001263": [
   "attribute",
   "pagexml",
   "w=2480",
   "a000008"
  ],
- "a001238": [
+ "a001264": [
   "attribute",
   "pagexml",
   "w=1886",
   "a000010"
  ],
- "a001239": [
+ "a001265": [
   "attribute",
   "pagexml",
   "w=1823",
   "a000012"
  ],
- "a001240": [
+ "a001266": [
   "attribute",
   "pagexml",
   "w=170",
   "a000014"
  ],
- "a001241": [
+ "a001267": [
   "attribute",
   "pagexml",
   "w=1733",
   "a000016"
  ],
- "a001242": [
+ "a001268": [
   "attribute",
   "pagexml",
   "w=208",
   "a000018"
  ],
- "a001243": [
+ "a001269": [
   "attribute",
   "pagexml",
   "w=1830",
   "a000020"
  ],
- "a001244": [
+ "a001270": [
   "attribute",
   "pagexml",
   "work=W350",
   "a000000"
  ],
- "a001245": [
+ "a001271": [
   "attribute",
   "pagexml",
   "x=1395",
   "a000022"
  ],
- "a001246": [
+ "a001272": [
   "attribute",
   "pagexml",
   "x=1762",
   "a000024"
  ],
- "a001247": [
+ "a001273": [
   "attribute",
   "pagexml",
   "x=388",
   "a000026"
  ],
- "a001248": [
+ "a001274": [
   "attribute",
   "pagexml",
   "x=399",
   "a000028"
  ],
- "a001249": [
+ "a001275": [
   "attribute",
   "pagexml",
   "x=497",
   "a000030"
  ],
- "a001250": [
+ "a001276": [
   "attribute",
   "pagexml",
   "x=1034",
   "a000032"
  ],
- "a001251": [
+ "a001277": [
   "attribute",
   "pagexml",
   "x=381",
   "a000034"
  ],
- "a001252": [
+ "a001278": [
   "attribute",
   "pagexml",
   "x=688",
   "a000036"
  ],
- "a001253": [
+ "a001279": [
   "attribute",
   "pagexml",
   "x=508",
   "a000038"
  ],
- "a001254": [
+ "a001280": [
   "attribute",
   "pagexml",
   "x=697",
   "a000040"
  ],
- "a001255": [
+ "a001281": [
   "attribute",
   "pagexml",
   "x=498",
   "a000042"
  ],
- "a001256": [
+ "a001282": [
   "attribute",
   "pagexml",
   "x=1117",
   "a000044"
  ],
- "a001257": [
+ "a001283": [
   "attribute",
   "pagexml",
   "x=701",
   "a000046"
  ],
- "a001258": [
+ "a001284": [
   "attribute",
   "pagexml",
   "x=729",
   "a000048"
  ],
- "a001259": [
+ "a001285": [
   "attribute",
   "pagexml",
   "x=448",
   "a000050"
  ],
- "a001260": [
+ "a001286": [
   "attribute",
   "pagexml",
   "x=523",
   "a000052"
  ],
- "a001261": [
+ "a001287": [
   "attribute",
   "pagexml",
   "x=1169",
   "a000054"
  ],
- "a001262": [
+ "a001288": [
   "attribute",
   "pagexml",
   "x=419",
   "a000056"
  ],
- "a001263": [
+ "a001289": [
   "attribute",
   "pagexml",
   "x=1159",
   "a000058"
  ],
- "a001264": [
+ "a001290": [
   "attribute",
   "pagexml",
   "x=583",
   "a000060"
  ],
- "a001265": [
+ "a001291": [
   "attribute",
   "pagexml",
   "x=627",
   "a000062"
  ],
- "a001266": [
+ "a001292": [
   "attribute",
   "pagexml",
   "x=1943",
   "a000064"
  ],
- "a001267": [
+ "a001293": [
   "attribute",
   "pagexml",
   "x=1147",
   "a000066"
  ],
- "a001268": [
+ "a001294": [
   "attribute",
   "pagexml",
   "x=1472",
   "a000068"
  ],
- "a001269": [
+ "a001295": [
   "attribute",
   "pagexml",
   "x=1578",
   "a000070"
  ],
- "a001270": [
+ "a001296": [
   "attribute",
   "pagexml",
   "x=513",
   "a000072"
  ],
- "a001271": [
+ "a001297": [
   "attribute",
   "pagexml",
   "x=740",
   "a000074"
  ],
- "a001272": [
+ "a001298": [
   "attribute",
   "pagexml",
   "x=761",
   "a000076"
  ],
- "a001273": [
+ "a001299": [
   "attribute",
   "pagexml",
   "x=672",
   "a000078"
  ],
- "a001274": [
+ "a001300": [
   "attribute",
   "pagexml",
   "x=769",
   "a000080"
  ],
- "a001275": [
+ "a001301": [
   "attribute",
   "pagexml",
   "x=766",
   "a000082"
  ],
- "a001276": [
+ "a001302": [
   "attribute",
   "pagexml",
   "x=451",
   "a000084"
  ],
- "a001277": [
+ "a001303": [
   "attribute",
   "pagexml",
   "x=457",
   "a000086"
  ],
- "a001278": [
+ "a001304": [
   "attribute",
   "pagexml",
   "x=459",
   "a000088"
  ],
- "a001279": [
+ "a001305": [
   "attribute",
   "pagexml",
   "x=461",
   "a000090"
  ],
- "a001280": [
+ "a001306": [
   "attribute",
   "pagexml",
   "x=460",
   "a000092"
  ],
- "a001281": [
+ "a001307": [
   "attribute",
   "pagexml",
   "x=451",
   "a000094"
  ],
- "a001282": [
+ "a001308": [
   "attribute",
   "pagexml",
   "x=461",
   "a000096"
  ],
- "a001283": [
+ "a001309": [
   "attribute",
   "pagexml",
   "x=450",
   "a000098"
  ],
- "a001284": [
+ "a001310": [
   "attribute",
   "pagexml",
   "x=452",
   "a000100"
  ],
- "a001285": [
+ "a001311": [
   "attribute",
   "pagexml",
   "x=452",
   "a000102"
  ],
- "a001286": [
+ "a001312": [
   "attribute",
   "pagexml",
   "x=438",
   "a000104"
  ],
- "a001287": [
+ "a001313": [
   "attribute",
   "pagexml",
   "x=440",
   "a000106"
  ],
- "a001288": [
+ "a001314": [
   "attribute",
   "pagexml",
   "x=1199",
   "a000108"
  ],
- "a001289": [
+ "a001315": [
   "attribute",
   "pagexml",
   "x=786",
   "a000110"
  ],
- "a001290": [
+ "a001316": [
   "attribute",
   "pagexml",
   "x=668",
   "a000112"
  ],
- "a001291": [
+ "a001317": [
   "attribute",
   "pagexml",
   "x=542",
   "a000114"
  ],
- "a001292": [
+ "a001318": [
   "attribute",
   "pagexml",
   "x=796",
   "a000116"
  ],
- "a001293": [
+ "a001319": [
   "attribute",
   "pagexml",
   "x=834",
   "a000118"
  ],
- "a001294": [
+ "a001320": [
   "attribute",
   "pagexml",
   "x=1929",
   "a000120"
  ],
- "a001295": [
+ "a001321": [
   "attribute",
   "pagexml",
   "x=508",
   "a000122"
  ],
- "a001296": [
+ "a001322": [
   "attribute",
   "pagexml",
   "x=426",
   "a000124"
  ],
- "a001297": [
+ "a001323": [
   "attribute",
   "pagexml",
   "x=2221",
   "a000126"
  ],
- "a001298": [
+ "a001324": [
   "attribute",
   "pagexml",
   "x=2232",
   "a000128"
  ],
- "a001299": [
+ "a001325": [
   "attribute",
   "pagexml",
   "x=2253",
   "a000130"
  ],
- "a001300": [
+ "a001326": [
   "attribute",
   "pagexml",
   "x=2247",
   "a000132"
  ],
- "a001301": [
+ "a001327": [
   "attribute",
   "pagexml",
   "x=2292",
   "a000134"
  ],
- "a001302": [
+ "a001328": [
   "attribute",
   "pagexml",
   "x=2263",
   "a000136"
  ],
- "a001303": [
+ "a001329": [
   "attribute",
   "pagexml",
   "x=2283",
   "a000138"
  ],
- "a001304": [
+ "a001330": [
   "attribute",
   "pagexml",
   "x=2278",
   "a000140"
  ],
- "a001305": [
+ "a001331": [
   "attribute",
   "pagexml",
   "x=2293",
   "a000142"
  ],
- "a001306": [
+ "a001332": [
   "attribute",
   "pagexml",
   "x=2316",
   "a000144"
  ],
- "a001307": [
+ "a001333": [
   "attribute",
   "pagexml",
   "x=2301",
   "a000146"
  ],
- "a001308": [
+ "a001334": [
   "attribute",
   "pagexml",
   "x=362",
   "a000148"
  ],
- "a001309": [
+ "a001335": [
   "attribute",
   "pagexml",
   "x=498",
   "a000150"
  ],
- "a001310": [
+ "a001336": [
   "attribute",
   "pagexml",
   "x=210",
   "a000152"
  ],
- "a001311": [
+ "a001337": [
   "attribute",
   "pagexml",
   "x=504",
   "a000154"
  ],
- "a001312": [
+ "a001338": [
   "attribute",
   "pagexml",
   "x=221",
   "a000156"
  ],
- "a001313": [
+ "a001339": [
   "attribute",
   "pagexml",
   "x=172",
   "a000158"
  ],
- "a001314": [
+ "a001340": [
   "attribute",
   "pagexml",
   "x=488",
   "a000160"
  ],
- "a001315": [
+ "a001341": [
   "attribute",
   "pagexml",
   "x=223",
   "a000162"
  ],
- "a001316": [
+ "a001342": [
   "attribute",
   "pagexml",
   "x=174",
   "a000164"
  ],
- "a001317": [
+ "a001343": [
   "attribute",
   "pagexml",
   "x=517",
   "a000166"
  ],
- "a001318": [
+ "a001344": [
   "attribute",
   "pagexml",
   "x=204",
   "a000168"
  ],
- "a001319": [
+ "a001345": [
   "attribute",
   "pagexml",
   "x=196",
   "a000170"
  ],
- "a001320": [
+ "a001346": [
   "attribute",
   "pagexml",
   "x=594",
   "a000172"
  ],
- "a001321": [
+ "a001347": [
   "attribute",
   "pagexml",
   "x=187",
   "a000174"
  ],
- "a001322": [
+ "a001348": [
   "attribute",
   "pagexml",
   "x=169",
   "a000176"
  ],
- "a001323": [
+ "a001349": [
   "attribute",
   "pagexml",
   "x=167",
   "a000178"
  ],
- "a001324": [
+ "a001350": [
   "attribute",
   "pagexml",
   "x=564",
   "a000180"
  ],
- "a001325": [
+ "a001351": [
   "attribute",
   "pagexml",
   "x=529",
   "a000182"
  ],
- "a001326": [
+ "a001352": [
   "attribute",
   "pagexml",
   "x=217",
   "a000184"
  ],
- "a001327": [
+ "a001353": [
   "attribute",
   "pagexml",
   "x=160",
   "a000186"
  ],
- "a001328": [
+ "a001354": [
   "attribute",
   "pagexml",
   "x=563",
   "a000188"
  ],
- "a001329": [
+ "a001355": [
   "attribute",
   "pagexml",
   "x=217",
   "a000190"
  ],
- "a001330": [
+ "a001356": [
   "attribute",
   "pagexml",
   "x=518",
   "a000192"
  ],
- "a001331": [
+ "a001357": [
   "attribute",
   "pagexml",
   "x=212",
   "a000194"
  ],
- "a001332": [
+ "a001358": [
   "attribute",
   "pagexml",
   "x=161",
   "a000196"
  ],
- "a001333": [
+ "a001359": [
   "attribute",
   "pagexml",
   "x=849",
   "a000198"
  ],
- "a001334": [
+ "a001360": [
   "attribute",
   "pagexml",
   "x=588",
   "a000200"
  ],
- "a001335": [
+ "a001361": [
   "attribute",
   "pagexml",
   "x=987",
   "a000202"
  ],
- "a001336": [
+ "a001362": [
   "attribute",
   "pagexml",
   "x=533",
   "a000204"
  ],
- "a001337": [
+ "a001363": [
   "attribute",
   "pagexml",
   "x=454",
   "a000206"
  ],
- "a001338": [
+ "a001364": [
   "attribute",
   "pagexml",
   "x=579",
   "a000208"
  ],
- "a001339": [
+ "a001365": [
   "attribute",
   "pagexml",
   "x=954",
   "a000210"
  ],
- "a001340": [
+ "a001366": [
   "attribute",
   "pagexml",
   "x=615",
   "a000212"
  ],
- "a001341": [
+ "a001367": [
   "attribute",
   "pagexml",
   "x=596",
   "a000214"
  ],
- "a001342": [
+ "a001368": [
   "attribute",
   "pagexml",
   "x=964",
   "a000216"
  ],
- "a001343": [
+ "a001369": [
   "attribute",
   "pagexml",
   "x=505",
   "a000218"
  ],
- "a001344": [
+ "a001370": [
   "attribute",
   "pagexml",
   "x=418",
   "a000220"
  ],
- "a001345": [
+ "a001371": [
   "attribute",
   "pagexml",
   "x=877",
   "a000222"
  ],
- "a001346": [
+ "a001372": [
   "attribute",
   "pagexml",
   "x=508",
   "a000224"
  ],
- "a001347": [
+ "a001373": [
   "attribute",
   "pagexml",
   "x=935",
   "a000226"
  ],
- "a001348": [
+ "a001374": [
   "attribute",
   "pagexml",
   "x=507",
   "a000228"
  ],
- "a001349": [
+ "a001375": [
   "attribute",
   "pagexml",
   "x=906",
   "a000230"
  ],
- "a001350": [
+ "a001376": [
   "attribute",
   "pagexml",
   "x=504",
   "a000232"
  ],
- "a001351": [
+ "a001377": [
   "attribute",
   "pagexml",
   "x=402",
   "a000234"
  ],
- "a001352": [
+ "a001378": [
   "attribute",
   "pagexml",
   "x=746",
   "a000236"
  ],
- "a001353": [
+ "a001379": [
   "attribute",
   "pagexml",
   "x=1327",
   "a000238"
  ],
- "a001354": [
+ "a001380": [
   "attribute",
   "pagexml",
   "x=0",
   "a000002"
  ],
- "a001355": [
+ "a001381": [
   "attribute",
   "pagexml",
   "x=0",
   "a000004"
  ],
- "a001356": [
+ "a001382": [
   "attribute",
   "pagexml",
   "x=0",
   "a000006"
  ],
- "a001357": [
+ "a001383": [
   "attribute",
   "pagexml",
   "x=0",
   "a000008"
  ],
- "a001358": [
+ "a001384": [
   "attribute",
   "pagexml",
   "x=393",
   "a000010"
  ],
- "a001359": [
+ "a001385": [
   "attribute",
   "pagexml",
   "x=438",
   "a000012"
  ],
- "a001360": [
+ "a001386": [
   "attribute",
   "pagexml",
   "x=2241",
   "a000014"
  ],
- "a001361": [
+ "a001387": [
   "attribute",
   "pagexml",
   "x=171",
   "a000016"
  ],
- "a001362": [
+ "a001388": [
   "attribute",
   "pagexml",
   "x=188",
   "a000018"
  ],
- "a001363": [
+ "a001389": [
   "attribute",
   "pagexml",
   "x=414",
   "a000020"
  ],
- "a001364": [
+ "a001390": [
   "attribute",
   "pagexml",
   "y=223",
   "a000022"
  ],
- "a001365": [
+ "a001391": [
   "attribute",
   "pagexml",
   "y=379",
   "a000024"
  ],
- "a001366": [
+ "a001392": [
   "attribute",
   "pagexml",
   "y=803",
   "a000026"
  ],
- "a001367": [
+ "a001393": [
   "attribute",
   "pagexml",
   "y=1062",
   "a000028"
  ],
- "a001368": [
+ "a001394": [
   "attribute",
   "pagexml",
   "y=1288",
   "a000030"
  ],
- "a001369": [
+ "a001395": [
   "attribute",
   "pagexml",
   "y=1477",
   "a000032"
  ],
- "a001370": [
+ "a001396": [
   "attribute",
   "pagexml",
   "y=1632",
   "a000034"
  ],
- "a001371": [
+ "a001397": [
   "attribute",
   "pagexml",
   "y=1775",
   "a000036"
  ],
- "a001372": [
+ "a001398": [
   "attribute",
   "pagexml",
   "y=1978",
   "a000038"
  ],
- "a001373": [
+ "a001399": [
   "attribute",
   "pagexml",
   "y=2173",
   "a000040"
  ],
- "a001374": [
+ "a001400": [
   "attribute",
   "pagexml",
   "y=2317",
   "a000042"
  ],
- "a001375": [
+ "a001401": [
   "attribute",
   "pagexml",
   "y=2282",
   "a000044"
  ],
- "a001376": [
+ "a001402": [
   "attribute",
   "pagexml",
   "y=2309",
   "a000046"
  ],
- "a001377": [
+ "a001403": [
   "attribute",
   "pagexml",
   "y=2315",
   "a000048"
  ],
- "a001378": [
+ "a001404": [
   "attribute",
   "pagexml",
   "y=2435",
   "a000050"
  ],
- "a001379": [
+ "a001405": [
   "attribute",
   "pagexml",
   "y=2512",
   "a000052"
  ],
- "a001380": [
+ "a001406": [
   "attribute",
   "pagexml",
   "y=2459",
   "a000054"
  ],
- "a001381": [
+ "a001407": [
   "attribute",
   "pagexml",
   "y=2595",
   "a000056"
  ],
- "a001382": [
+ "a001408": [
   "attribute",
   "pagexml",
   "y=2618",
   "a000058"
  ],
- "a001383": [
+ "a001409": [
   "attribute",
   "pagexml",
   "y=2681",
   "a000060"
  ],
- "a001384": [
+ "a001410": [
   "attribute",
   "pagexml",
   "y=2789",
   "a000062"
  ],
- "a001385": [
+ "a001411": [
   "attribute",
   "pagexml",
   "y=2772",
   "a000064"
  ],
- "a001386": [
+ "a001412": [
   "attribute",
   "pagexml",
   "y=2810",
   "a000066"
  ],
- "a001387": [
+ "a001413": [
   "attribute",
   "pagexml",
   "y=2822",
   "a000068"
  ],
- "a001388": [
+ "a001414": [
   "attribute",
   "pagexml",
   "y=2990",
   "a000070"
  ],
- "a001389": [
+ "a001415": [
   "attribute",
   "pagexml",
   "y=-3",
   "a000072"
  ],
- "a001390": [
+ "a001416": [
   "attribute",
   "pagexml",
   "y=220",
   "a000074"
  ],
- "a001391": [
+ "a001417": [
   "attribute",
   "pagexml",
   "y=402",
   "a000076"
  ],
- "a001392": [
+ "a001418": [
   "attribute",
   "pagexml",
   "y=412",
   "a000078"
  ],
- "a001393": [
+ "a001419": [
   "attribute",
   "pagexml",
   "y=547",
   "a000080"
  ],
- "a001394": [
+ "a001420": [
   "attribute",
   "pagexml",
   "y=693",
   "a000082"
  ],
- "a001395": [
+ "a001421": [
   "attribute",
   "pagexml",
   "y=802",
   "a000084"
  ],
- "a001396": [
+ "a001422": [
   "attribute",
   "pagexml",
   "y=939",
   "a000086"
  ],
- "a001397": [
+ "a001423": [
   "attribute",
   "pagexml",
   "y=1070",
   "a000088"
  ],
- "a001398": [
+ "a001424": [
   "attribute",
   "pagexml",
   "y=1220",
   "a000090"
  ],
- "a001399": [
+ "a001425": [
   "attribute",
   "pagexml",
   "y=1340",
   "a000092"
  ],
- "a001400": [
+ "a001426": [
   "attribute",
   "pagexml",
   "y=1468",
   "a000094"
  ],
- "a001401": [
+ "a001427": [
   "attribute",
   "pagexml",
   "y=1618",
   "a000096"
  ],
- "a001402": [
+ "a001428": [
   "attribute",
   "pagexml",
   "y=1757",
   "a000098"
  ],
- "a001403": [
+ "a001429": [
   "attribute",
   "pagexml",
   "y=1852",
   "a000100"
  ],
- "a001404": [
+ "a001430": [
   "attribute",
   "pagexml",
   "y=2005",
   "a000102"
  ],
- "a001405": [
+ "a001431": [
   "attribute",
   "pagexml",
   "y=2150",
   "a000104"
  ],
- "a001406": [
+ "a001432": [
   "attribute",
   "pagexml",
   "y=2302",
   "a000106"
  ],
- "a001407": [
+ "a001433": [
   "attribute",
   "pagexml",
   "y=2518",
   "a000108"
  ],
- "a001408": [
+ "a001434": [
   "attribute",
   "pagexml",
   "y=2501",
   "a000110"
  ],
- "a001409": [
+ "a001435": [
   "attribute",
   "pagexml",
   "y=2505",
   "a000112"
  ],
- "a001410": [
+ "a001436": [
   "attribute",
   "pagexml",
   "y=2581",
   "a000114"
  ],
- "a001411": [
+ "a001437": [
   "attribute",
   "pagexml",
   "y=2613",
   "a000116"
  ],
- "a001412": [
+ "a001438": [
   "attribute",
   "pagexml",
   "y=2688",
   "a000118"
  ],
- "a001413": [
+ "a001439": [
   "attribute",
   "pagexml",
   "y=2778",
   "a000120"
  ],
- "a001414": [
+ "a001440": [
   "attribute",
   "pagexml",
   "y=2802",
   "a000122"
  ],
- "a001415": [
+ "a001441": [
   "attribute",
   "pagexml",
   "y=2954",
   "a000124"
  ],
- "a001416": [
+ "a001442": [
   "attribute",
   "pagexml",
   "y=689",
   "a000126"
  ],
- "a001417": [
+ "a001443": [
   "attribute",
   "pagexml",
   "y=789",
   "a000128"
  ],
- "a001418": [
+ "a001444": [
   "attribute",
   "pagexml",
   "y=987",
   "a000130"
  ],
- "a001419": [
+ "a001445": [
   "attribute",
   "pagexml",
   "y=1120",
   "a000132"
  ],
- "a001420": [
+ "a001446": [
   "attribute",
   "pagexml",
   "y=1381",
   "a000134"
  ],
- "a001421": [
+ "a001447": [
   "attribute",
   "pagexml",
   "y=1531",
   "a000136"
  ],
- "a001422": [
+ "a001448": [
   "attribute",
   "pagexml",
   "y=1838",
   "a000138"
  ],
- "a001423": [
+ "a001449": [
   "attribute",
   "pagexml",
   "y=1916",
   "a000140"
  ],
- "a001424": [
+ "a001450": [
   "attribute",
   "pagexml",
   "y=2035",
   "a000142"
  ],
- "a001425": [
+ "a001451": [
   "attribute",
   "pagexml",
   "y=2274",
   "a000144"
  ],
- "a001426": [
+ "a001452": [
   "attribute",
   "pagexml",
   "y=2351",
   "a000146"
  ],
- "a001427": [
+ "a001453": [
   "attribute",
   "pagexml",
   "y=162",
   "a000148"
  ],
- "a001428": [
+ "a001454": [
   "attribute",
   "pagexml",
   "y=170",
   "a000150"
  ],
- "a001429": [
+ "a001455": [
   "attribute",
   "pagexml",
   "y=354",
   "a000152"
  ],
- "a001430": [
+ "a001456": [
   "attribute",
   "pagexml",
   "y=480",
   "a000154"
  ],
- "a001431": [
+ "a001457": [
   "attribute",
   "pagexml",
   "y=633",
   "a000156"
  ],
- "a001432": [
+ "a001458": [
   "attribute",
   "pagexml",
   "y=823",
   "a000158"
  ],
- "a001433": [
+ "a001459": [
   "attribute",
   "pagexml",
   "y=846",
   "a000160"
  ],
- "a001434": [
+ "a001460": [
   "attribute",
   "pagexml",
   "y=1001",
   "a000162"
  ],
- "a001435": [
+ "a001461": [
   "attribute",
   "pagexml",
   "y=1118",
   "a000164"
  ],
- "a001436": [
+ "a001462": [
   "attribute",
   "pagexml",
   "y=1246",
   "a000166"
  ],
- "a001437": [
+ "a001463": [
   "attribute",
   "pagexml",
   "y=1377",
   "a000168"
  ],
- "a001438": [
+ "a001464": [
   "attribute",
   "pagexml",
   "y=1499",
   "a000170"
  ],
- "a001439": [
+ "a001465": [
   "attribute",
   "pagexml",
   "y=1660",
   "a000172"
  ],
- "a001440": [
+ "a001466": [
   "attribute",
   "pagexml",
   "y=1771",
   "a000174"
  ],
- "a001441": [
+ "a001467": [
   "attribute",
   "pagexml",
   "y=1941",
   "a000176"
  ],
- "a001442": [
+ "a001468": [
   "attribute",
   "pagexml",
   "y=2054",
   "a000178"
  ],
- "a001443": [
+ "a001469": [
   "attribute",
   "pagexml",
   "y=2174",
   "a000180"
  ],
- "a001444": [
+ "a001470": [
   "attribute",
   "pagexml",
   "y=2291",
   "a000182"
  ],
- "a001445": [
+ "a001471": [
   "attribute",
   "pagexml",
   "y=2291",
   "a000184"
  ],
- "a001446": [
+ "a001472": [
   "attribute",
   "pagexml",
   "y=2391",
   "a000186"
  ],
- "a001447": [
+ "a001473": [
   "attribute",
   "pagexml",
   "y=2500",
   "a000188"
  ],
- "a001448": [
+ "a001474": [
   "attribute",
   "pagexml",
   "y=2627",
   "a000190"
  ],
- "a001449": [
+ "a001475": [
   "attribute",
   "pagexml",
   "y=2805",
   "a000192"
  ],
- "a001450": [
+ "a001476": [
   "attribute",
   "pagexml",
   "y=2960",
   "a000194"
  ],
- "a001451": [
+ "a001477": [
   "attribute",
   "pagexml",
   "y=-22",
   "a000196"
  ],
- "a001452": [
+ "a001478": [
   "attribute",
   "pagexml",
   "y=6",
   "a000198"
  ],
- "a001453": [
+ "a001479": [
   "attribute",
   "pagexml",
   "y=-17",
   "a000200"
  ],
- "a001454": [
+ "a001480": [
   "attribute",
   "pagexml",
   "y=27",
   "a000202"
  ],
- "a001455": [
+ "a001481": [
   "attribute",
   "pagexml",
   "y=264",
   "a000204"
  ],
- "a001456": [
+ "a001482": [
   "attribute",
   "pagexml",
   "y=401",
   "a000206"
  ],
- "a001457": [
+ "a001483": [
   "attribute",
   "pagexml",
   "y=558",
   "a000208"
  ],
- "a001458": [
+ "a001484": [
   "attribute",
   "pagexml",
   "y=744",
   "a000210"
  ],
- "a001459": [
+ "a001485": [
   "attribute",
   "pagexml",
   "y=891",
   "a000212"
  ],
- "a001460": [
+ "a001486": [
   "attribute",
   "pagexml",
   "y=994",
   "a000214"
  ],
- "a001461": [
+ "a001487": [
   "attribute",
   "pagexml",
   "y=1080",
   "a000216"
  ],
- "a001462": [
+ "a001488": [
   "attribute",
   "pagexml",
   "y=1244",
   "a000218"
  ],
- "a001463": [
+ "a001489": [
   "attribute",
   "pagexml",
   "y=1355",
   "a000220"
  ],
- "a001464": [
+ "a001490": [
   "attribute",
   "pagexml",
   "y=1508",
   "a000222"
  ],
- "a001465": [
+ "a001491": [
   "attribute",
   "pagexml",
   "y=1653",
   "a000224"
  ],
- "a001466": [
+ "a001492": [
   "attribute",
   "pagexml",
   "y=1817",
   "a000226"
  ],
- "a001467": [
+ "a001493": [
   "attribute",
   "pagexml",
   "y=1974",
   "a000228"
  ],
- "a001468": [
+ "a001494": [
   "attribute",
   "pagexml",
   "y=2107",
   "a000230"
  ],
- "a001469": [
+ "a001495": [
   "attribute",
   "pagexml",
   "y=2261",
   "a000232"
  ],
- "a001470": [
+ "a001496": [
   "attribute",
   "pagexml",
   "y=2355",
   "a000234"
  ],
- "a001471": [
+ "a001497": [
   "attribute",
   "pagexml",
   "y=2699",
   "a000236"
  ],
- "a001472": [
+ "a001498": [
   "attribute",
   "pagexml",
   "y=2732",
   "a000238"
  ],
- "a001473": [
+ "a001499": [
   "attribute",
   "pagexml",
   "y=0",
   "a000002"
  ],
- "a001474": [
+ "a001500": [
   "attribute",
   "pagexml",
   "y=0",
   "a000004"
  ],
- "a001475": [
+ "a001501": [
   "attribute",
   "pagexml",
   "y=0",
   "a000006"
  ],
- "a001476": [
+ "a001502": [
   "attribute",
   "pagexml",
   "y=0",
   "a000008"
  ],
- "a001477": [
+ "a001503": [
   "attribute",
   "pagexml",
   "y=196",
   "a000010"
  ],
- "a001478": [
+ "a001504": [
   "attribute",
   "pagexml",
   "y=90",
   "a000012"
  ],
- "a001479": [
+ "a001505": [
   "attribute",
   "pagexml",
   "y=728",
   "a000014"
  ],
- "a001480": [
+ "a001506": [
   "attribute",
   "pagexml",
   "y=149",
   "a000016"
  ],
- "a001481": [
+ "a001507": [
   "attribute",
   "pagexml",
   "y=0",
   "a000018"
  ],
- "a001482": [
+ "a001508": [
   "attribute",
   "pagexml",
   "y=14",

@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T12:14:01Z
+@dateWritten=2023-12-12T15:42:57Z
 
 1734	M2114

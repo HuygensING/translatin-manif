@@ -15,6 +15,14 @@ featureMeta:
     description: document title in French
   title@es:
     description: document title in Spanish
+  author:
+    description: author of document; if multiple they are given separated by commas
+  publisher:
+    description: publisher of document; if multiple they are given separated by commas
+  place:
+    description: place of publisher of document; if multiple they are given separated by commas
+  uploader:
+    description: person that uploaded the images to the OCR engine
   certainty@la:
     description: certainty of the Latin title
   certainty@nl:
@@ -23,8 +31,6 @@ featureMeta:
     description: certainty of the French title
   certainty@es:
     description: certainty of the Spanish title
-  uploader:
-    description: person that uploaded the images to the OCR engine
   url:
     description: web location of the first page of the scan
   earliest:
@@ -47,3 +53,31 @@ featureMeta:
     description: the expression the document is a manifesation of
   work:
     description: the work the document is a manifesation of
+  has_dramaweb_scan:
+    description: whether there is a scan on dramaweb
+  has_dramaweb_transcription:
+    description: whether there is a transcription on dramaweb
+  ceneton_scan:
+    description: releated url into Ceneton scan(s)
+  ceneton_transcription:
+    description: releated url into Ceneton transcription(s)
+  external_scan:
+    description: releated url into external scan(s)
+  external_transcription:
+    description: releated url into external transcription(s)
+  remarks:
+    description: remarks about the coupling to expressions/works
+  link_ub_antwerp:
+    description: link to the University Library Antwerp
+  link_kbb:
+    description: link to the Royal Library Belgium (KBR)
+  link_ub_gent:
+    description: link to the University Library Ghent
+  link_bnf:
+    description: link to the National Library France (BnF)
+  link_kb:
+    description: link to the Royal Library Netyherlands (KB)
+  link_google:
+    description: link to Google Books
+  link_bll:
+    description: link to the British Library

@@ -5,7 +5,7 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T12:14:01Z
+@dateWritten=2023-12-12T15:42:57Z
 
 2559	tr_3_tl_1
 tr_3_tl_2
