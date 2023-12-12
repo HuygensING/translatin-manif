@@ -318,6 +318,7 @@ We do not expose all metadata. This is what we do expose:
 
 Where metadata is missing for some fields, we do not leave out the field and neither
 we leave it blank. Instead we put a `unspecified` literla value in.
+
 ## Status
 
 The project has delivered many Latin documents, consisting of thousands of

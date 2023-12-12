@@ -5,7 +5,7 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T15:42:36Z
+@dateWritten=2023-12-12T17:34:53Z
 
 9788	r1l1
 r1l2

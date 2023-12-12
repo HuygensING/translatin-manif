@@ -5,7 +5,7 @@
 @project=TransLatin
 @valueType=int
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T15:42:36Z
+@dateWritten=2023-12-12T17:34:52Z
 
 223928	54
 51

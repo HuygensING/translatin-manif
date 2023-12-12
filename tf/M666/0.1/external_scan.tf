@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T15:42:57Z
+@dateWritten=2023-12-12T17:35:13Z
 
 19216	https://books.google.nl/books?id=NlQzCzB_gh8C&pg=PA58&dq=mutua+vindicatio&hl=nl&sa=X&ved=0ahUKEwikkP7Z8-DgAhVF8OAKHa6DDAMQ6AEIKTAA#v=onepage&q=mutua%20vindicatio&f=false

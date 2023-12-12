@@ -739,7 +739,7 @@ M24:
   title@la: Joseph
   certainty@la: Certain
   author: Cornelius Crocus
-  publisher: Joannes Grapheus, Joannes Steelsius
+  publisher: Joannes Steelsius, Joannes Grapheus
   place: Antwerpen, Antwerpen
   expression: E8
   work: W47
@@ -925,7 +925,7 @@ M30:
   title@la: Joseph
   certainty@la: Certain
   author: Cornelius Crocus
-  publisher: Joannes Grapheus, Joannes Steelsius
+  publisher: Joannes Steelsius, Joannes Grapheus
   place: Antwerpen, Antwerpen
   expression: E8
   work: W47
@@ -1049,7 +1049,7 @@ M34:
   title@la: Joseph
   certainty@la: Certain
   author: Cornelius Crocus
-  publisher: Joannes Grapheus, Joannes Steelsius
+  publisher: Joannes Steelsius, Joannes Grapheus
   place: Antwerpen, Antwerpen
   expression: E8
   work: W47
@@ -1765,7 +1765,7 @@ M57:
   title@la: Didascalus
   certainty@la: Certain
   author: Jacobus Zovitius
-  publisher: Antonius Dumaeus, Aegidius Copenius
+  publisher: Aegidius Copenius, Antonius Dumaeus
   place: Antwerpen, Antwerpen
   expression: E5
   work: W44
@@ -2977,7 +2977,7 @@ M97:
   title@la: Acolastus
   certainty@la: Certain
   author: Guilielmus Gnapheus
-  publisher: Jan Verwithagen (I), Laetices
+  publisher: Laetices, Jan Verwithagen (I)
   place: Antwerpen, Antwerpen
   expression: E2
   work: W41
@@ -3101,7 +3101,7 @@ M101:
   title@la: Christus Patiens
   certainty@la: Certain
   author: Fabricius Ruremundanus
-  publisher: Joannes Latius, Joannes Steelsius
+  publisher: Joannes Steelsius, Joannes Latius
   place: Antwerpen, Antwerpen
   expression: E158
   work: W178
@@ -7330,7 +7330,7 @@ M237:
   title@la: Voor-reden ende tusschen-spraken van Fabula comica; in commendationem
     aedificii, egenis senibus Harlemi extruendi
   certainty@la: Certain
-  author: Haarlemse rederijker, Cornelius Schonaeus
+  author: Cornelius Schonaeus, Haarlemse rederijker
   publisher: Zacharias Heyns
   place: Zwolle
   expression: E184
@@ -10579,7 +10579,7 @@ M341:
   title@la: Christus patiens
   certainty@la: Certain
   author: Hugo Grotius
-  publisher: Erven Johannes Hertsroy, Cornelius Leysserius
+  publisher: Cornelius Leysserius, Erven Johannes Hertsroy
   place: München, München
   expression: E47
   work: W86
@@ -12988,7 +12988,7 @@ M418:
   link_bll: unspecified
   title@la: Chosroes
   certainty@la: Certain
-  author: Jesuits of Paris, Ludovicus Cellotius
+  author: Ludovicus Cellotius, Jesuits of Paris
   publisher: Joannes Cnobbarus
   place: Antwerpen
   expression: E284
@@ -13206,7 +13206,7 @@ M425:
   link_bll: unspecified
   title@la: s. Adrianvs martyr
   certainty@la: Certain
-  author: Jesuits of Paris, Ludovicus Cellotius
+  author: Ludovicus Cellotius, Jesuits of Paris
   publisher: Joannes Cnobbarus
   place: Antwerpen
   expression: E291
@@ -13237,7 +13237,7 @@ M426:
   link_bll: unspecified
   title@la: Sapor Admonitvs
   certainty@la: Certain
-  author: Jesuits of Paris, Ludovicus Cellotius
+  author: Ludovicus Cellotius, Jesuits of Paris
   publisher: Joannes Cnobbarus
   place: Antwerpen
   expression: E292
@@ -16028,7 +16028,7 @@ M515:
   title@la: Christus patiens
   certainty@la: Certain
   author: Hugo Grotius
-  publisher: G. Emerson, R. Hodgskinson
+  publisher: R. Hodgskinson, G. Emerson
   place: London, London
   expression: E47
   work: W86
@@ -16059,7 +16059,7 @@ M516:
   title@la: Sophompaneas
   certainty@la: Certain
   author: Hugo Grotius
-  publisher: G. Emerson, R. Hodgskinson
+  publisher: R. Hodgskinson, G. Emerson
   place: London, London
   expression: E79
   work: W115
@@ -18309,7 +18309,7 @@ M589:
   title@nl: Adelphi
   certainty@nl: Certain
   author: Henricus Zwaerdecroon
-  publisher: Pieter van Waesberge (I), Johannes Naeranus
+  publisher: Johannes Naeranus, Pieter van Waesberge (I)
   place: Rotterdam, Rotterdam
   expression: E90
   work: W3
@@ -18340,7 +18340,7 @@ M590:
   title@nl: Andria
   certainty@nl: Certain
   author: Henricus Zwaerdecroon
-  publisher: Pieter van Waesberge (I), Johannes Naeranus
+  publisher: Johannes Naeranus, Pieter van Waesberge (I)
   place: Rotterdam, Rotterdam
   expression: E91
   work: W4
@@ -18371,7 +18371,7 @@ M591:
   title@nl: Eunuchus
   certainty@nl: Certain
   author: Henricus Zwaerdecroon
-  publisher: Pieter van Waesberge (I), Johannes Naeranus
+  publisher: Johannes Naeranus, Pieter van Waesberge (I)
   place: Rotterdam, Rotterdam
   expression: E92
   work: W5
@@ -18402,7 +18402,7 @@ M592:
   title@nl: Heautontimorumenos
   certainty@nl: Certain
   author: Henricus Zwaerdecroon
-  publisher: Pieter van Waesberge (I), Johannes Naeranus
+  publisher: Johannes Naeranus, Pieter van Waesberge (I)
   place: Rotterdam, Rotterdam
   expression: E93
   work: W6
@@ -18433,7 +18433,7 @@ M593:
   title@nl: Hecyra
   certainty@nl: Certain
   author: Henricus Zwaerdecroon
-  publisher: Pieter van Waesberge (I), Johannes Naeranus
+  publisher: Johannes Naeranus, Pieter van Waesberge (I)
   place: Rotterdam, Rotterdam
   expression: E94
   work: W7
@@ -18464,7 +18464,7 @@ M594:
   title@nl: Phormio
   certainty@nl: Certain
   author: Henricus Zwaerdecroon
-  publisher: Pieter van Waesberge (I), Johannes Naeranus
+  publisher: Johannes Naeranus, Pieter van Waesberge (I)
   place: Rotterdam, Rotterdam
   expression: E95
   work: W8
@@ -20967,7 +20967,7 @@ M676:
     souverains de Boheme
   certainty@fr: Certain
   author: Jesuits of Lille
-  publisher: Nicolas de Rache, Ignace de Rache
+  publisher: Ignace de Rache, Nicolas de Rache
   place: Lille, Lille
   expression: E433
   work: W451
@@ -26027,8 +26027,8 @@ M839:
   title@la: Christus patiens
   certainty@la: Certain
   author: Hugo Grotius
-  publisher: Joannes Caspar Bencard, Joannes Federle
-  place: unspecified, Dillingen
+  publisher: Joannes Federle, Joannes Caspar Bencard
+  place: Dillingen, unspecified
   expression: E47
   work: W86
 M840:
@@ -26844,8 +26844,8 @@ M865:
     vande Scholen der eerw: PP. vande Societeyt Jesu binnen Brugge.'
   certainty@nl: Certain
   author: Jesuits of Brugge
-  publisher: Wed. Alexander Michiels, Petrus van Pee
-  place: Brugge, unspecified
+  publisher: Petrus van Pee, Wed. Alexander Michiels
+  place: unspecified, Brugge
   expression: E577
   work: W592
 M866:
@@ -26878,8 +26878,8 @@ M866:
     Processie gheviert binnen Brugghe op den 3. van Mey 1686.
   certainty@nl: Certain
   author: Jesuits of Brugge
-  publisher: Wed. Alexander Michiels, Petrus van Pee
-  place: Brugge, unspecified
+  publisher: Petrus van Pee, Wed. Alexander Michiels
+  place: unspecified, Brugge
   expression: E578
   work: W593
 M867:
@@ -31733,7 +31733,7 @@ M1020:
   title@la: Phoenissae
   certainty@la: Certain
   author: Hugo Grotius
-  publisher: Walford, Smith
+  publisher: Smith, Walford
   place: London, London
   expression: E69
   work: W1
@@ -39045,7 +39045,7 @@ M1257:
   title@la: Revolutio imperii Sinarum ad Tartoros facta circa 1644
   certainty@la: Certain
   author: Oratorians of Ronse
-  publisher: Franciscus-Hieronymus, Dominicus van der Ween
+  publisher: Dominicus van der Ween, Franciscus-Hieronymus
   place: Gent, Gent
   expression: E943
   work: W942

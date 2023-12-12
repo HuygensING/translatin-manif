@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T15:42:24Z
+@dateWritten=2023-12-12T17:34:41Z
 
 19650	robinbuning@undisclosed
