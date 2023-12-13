@@ -5,9 +5,9 @@
 @project=TransLatin
 @valueType=int
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:35:12Z
+@dateWritten=2023-12-13T13:03:15Z
 
-28774	541
+33599	541
 629
 679
 742

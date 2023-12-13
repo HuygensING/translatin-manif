@@ -5,22 +5,31 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:35:14Z
+@dateWritten=2023-12-13T13:03:16Z
 
 AROMII
+
 5
 
+
 EXHIBEBITUB
+
 B
+
 LOQUENTIAE
 SJUDIOSIS
+
 UCTORIBUS
 ET
 ACTORIBUS
+
 N
+
 Gymnasio
 Societatis
+
 ES
+
 IPRIS
 DIE
 XXIII
@@ -34,7 +43,9 @@ CC
 .
 XLIII
 .
+
 B
+
 PRIS
 apud
 PETRUM
@@ -42,10 +53,13 @@ JACOBUM
 DE
 RAVE
 ,
+
 Typographum
 Illustrissimi
 Domini
 EpiscopiGUMENTUM
+
+
 
 
 Aromirus
@@ -54,6 +68,7 @@ Bohemiae
 .
 5
 .
+
 Ugalrico
 ,
 quem
@@ -62,6 +77,7 @@ Hentici
 .
 p
 .
+
 dt
 Imperatoris
 liberaverat
@@ -70,7 +86,9 @@ Aeg
 .
 5
 .
+
 C
+
 
 regni
 creaverat
@@ -78,6 +96,7 @@ creaverat
 in
 venatione
 circummustus
+
 
 
 ,
@@ -90,12 +109,14 @@ pellitur
 at
 Udalricus
 .
+
 nitentia
 ductus
 ,
 Jaromirùm
 revocari
 juber
+
 
 cum
 redux
@@ -108,12 +129,14 @@ moribundum
 gntnit
 
 
+
 ,
 prae
 amore
 paenè
 immoritur
 .
+
 Lobetius
 de
 fortitudine
@@ -122,46 +145,67 @@ Lib
 .
 3
 .
+
 ab
+
 EDO
+
 RES
 .
+
 JAROMIRUS
+
 UDALRICUS
+
 Henricus
 de
 Codt
 .
+
 Valentinus
 Baes
 .
+
 BRETISLAUS
 Fil
 .
 Udal
 .
+
 Franciscus
 de
 Buus
 .
+
 Xx
 aic
 ela
+
 1i12
+
 BROCERES
+
 TAXILUS
+
 AMYNTAS
+
 Balthazar
 Carbon
 .
+
 Constantinus
 Vermersch
 .
+
 M
+
 A
 .
+
 O3
+
 C
+
 De
 auro
 abscondito
@@ -169,47 +213,67 @@ ac
 hero
 ludificato
 .
+
 NAE
 .
+
 ERS
+
 LYCONIDES
+
 EUCLIO
 Pater
+
 Valentinus
 Baes
 .
+
 Joannes
 Descamps
 .
+
 GETA
 Servus
+
 STROBULUS
 Serv
 .
 Lyc
 .
+
 Jacobus
 Landry
 .
+
 Franciscus
 de
 Mee
 zemaker
 ,
+
 6
+
 3
+
 3
+
 Ion
 TIS
+
 dus
+
 AO
+
 3
+
 TU
+
 Agmirus
 Fratrem
 Udalricum
 vinculis
 erepm
+
 
 
 ,
@@ -222,6 +286,7 @@ tanti
 belui
 
 
+
 immemot
 ,
 in
@@ -230,18 +295,23 @@ Fratris
 perniciem
 conspirat
 .
+
 INTERLUDII
 PARS
 I
 .
+
 I
 .
+
 AO
+
 Dalricus
 Fratrem
 in
 venatione
 proditum
+
 oculis
 &
 regno
@@ -253,21 +323,29 @@ ejicit
 Jalimirus
 
 
+
 ingratum
 Fratris
 detestatur
 animum
 .
+
 INTERLUDII
 PARS
 II
 .
+
 8V
+
 5
+
 Ul
+
 CTUS
 III
+
 A
+
 Dalricus
 poenitentiâ
 ductus
@@ -275,6 +353,7 @@ ductus
 Bretistaum
 p
 .
+
 lium
 ad
 Jaromirum
@@ -285,11 +364,13 @@ se
 gepdeprecaturum
 
 
+
 ,
 quam
 concessurus
 Jaromirus
 .
+
 Fratrem
 revertitur
 ,
@@ -297,6 +378,7 @@ quem
 dum
 moribundum
 ,
+
 venit
 ,
 prae
@@ -306,10 +388,15 @@ dolore
 tantùm
 non
 in
+
 moritur
 .
+
 AD
 MAJOREM
+
 DEI
+
 GLORIAM
 .
+

@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:35:10Z
+@dateWritten=2023-12-13T13:03:13Z
 
-108158	Full edition
+124536	Full edition

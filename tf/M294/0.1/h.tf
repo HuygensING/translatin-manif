@@ -5,9 +5,9 @@
 @project=TransLatin
 @valueType=int
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:34:57Z
+@dateWritten=2023-12-13T13:03:02Z
 
-67739	51
+77535	51
 53
 57
 49

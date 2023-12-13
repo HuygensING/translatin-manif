@@ -5,9 +5,9 @@
 @project=TransLatin
 @valueType=int
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:35:02Z
+@dateWritten=2023-12-13T13:03:06Z
 
-47023	384
+55153	384
 259
 2378
 1238

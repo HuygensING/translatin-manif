@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:34:36Z
+@dateWritten=2023-12-13T13:02:42Z
 
-12831	https://files.transkribus.eu/Get?fileType=view&id=QPKBFIYCMIYWQYWWNIKGGOYA
+14866	https://files.transkribus.eu/Get?fileType=view&id=QPKBFIYCMIYWQYWWNIKGGOYA

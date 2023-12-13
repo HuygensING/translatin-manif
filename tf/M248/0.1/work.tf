@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:34:48Z
+@dateWritten=2023-12-13T13:02:53Z
 
-17028	W206
+19733	W206

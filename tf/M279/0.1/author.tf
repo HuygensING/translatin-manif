@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:34:54Z
+@dateWritten=2023-12-13T13:02:58Z
 
-8836	Jacobus Cornelius Lummenaeus a Marca
+10634	Jacobus Cornelius Lummenaeus a Marca

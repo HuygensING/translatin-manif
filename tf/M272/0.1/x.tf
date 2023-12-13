@@ -5,9 +5,9 @@
 @project=TransLatin
 @valueType=int
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:34:54Z
+@dateWritten=2023-12-13T13:02:58Z
 
-26967	1678
+31225	1678
 406
 1688
 134

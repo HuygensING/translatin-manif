@@ -5,9 +5,9 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:34:37Z
+@dateWritten=2023-12-13T13:02:43Z
 
-16118	tr_1_tl_1
+18376	tr_1_tl_1
 tr_1_tl_2
 tr_1_tl_3
 tr_1_tl_4

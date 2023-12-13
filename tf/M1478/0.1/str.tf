@@ -5,23 +5,32 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:35:13Z
+@dateWritten=2023-12-13T13:03:16Z
 
 
 J
 .
+
 )
 I
+
 A
 )
+
 EXHIBHBITUR
+
 CLASSIS
 HUMANITATIS
+
 STUDIOSIS
+
 GYMNASIO
 SOCIETATIS
+
 S
+
 E
+
 IPRIS
 ,
 die
@@ -33,8 +42,10 @@ die
 Febmarii
 1730
 .
+
 LUDIS
 BACCHANALIBUS
+
 APe
 intes
 &
@@ -42,10 +53,14 @@ s
 BecIPRIS
 
 
+
 .
+
 SYNOPSIS
+
 ACTUSI
 .
+
 taln
 memena
 ,
@@ -56,9 +71,13 @@ caped
 Tpa
 .
 Jprosaimm
+
 ga
+
 3
+
 an
+
 coronâ
 cingat
 ,
@@ -72,7 +91,9 @@ certior
 Duces
 ,
 quoe
+
 4
+
 consulat
 ,
 convocari
@@ -83,7 +104,9 @@ in
 contrarias
 partes
 divisae
+
 piapeteu
+
 sententiae
 .
 Tandem
@@ -95,33 +118,45 @@ auxilium
 spondentea
 
 
+
 ,
 hexondiri
 conecium
 resihentum
 llamum
 .
+
 PERSONAE
 .
+
 CITITabenmqge
 vg
 hienaau
 e
 Ad
 o
+
 AHA
+
 pet
 .
 uapNU
+
 INTERLUDII
 PARST
+
 caedra
 aOIgctrs
+
 ACTUSII
 .
+
 je
+
 4
+
 ceTAuisum
+
 
 
 ,
@@ -136,6 +171,8 @@ genus
 Helrae41
 
 
+
+
 Ipraeses
 ,
 auxilium
@@ -147,6 +184,7 @@ Alexandro
 occunere
 
 
+
 jubet
 .
 Quod
@@ -155,30 +193,44 @@ oraculum
 laetus
 denuntiat
 .
+
 couok14
 .
+
 Lro
 u
+
 nc
+
 aa
+
 iua
+
 INTERLUDII
 PARS
 II
 .
+
 erat
 .
+
 SONAE
+
 acorisra
+
 ACTUS
 III
+
 S
+
 clixmis
 .
+
 cec
 -
 Jin
 cledis
+
 Lenmdr
 dum
 victortis
@@ -186,6 +238,8 @@ lnslam
 Urbis
 Jerosulymitnae
 erssA
+
+
 
 
 
@@ -201,7 +255,9 @@ ci
 occurrit
 ,
 Duce
+
 ccaca
+
 Aechengelo
 ,
 cusus
@@ -211,10 +267,13 @@ sacro
 horfore
 perculsus
 ,
+
 PringTlat
 
 
+
 a
+
 summo
 Sacerdoi
 supplicat
@@ -223,6 +282,7 @@ Deo
 sacrificaturas
 .
 
+
 Siua
 .
 Stet
@@ -230,20 +290,26 @@ Stet
 tariINTERLUDII
 
 
+
 PARS
 III
 .
+
 ACTUS
 IV
 .
+
 a
 num
+
 ermnder
 Oibem
 lonsm
 
 
+
 ,
+
 Trus
 Judeos
 in
@@ -255,6 +321,7 @@ se
 purgat
 ,
 cau
+
 rus
 ,
 juvenem
@@ -264,6 +331,7 @@ lapsum
 sibi
 mortem
 :
+
 adversus
 Judaeos
 ageret
@@ -274,16 +342,20 @@ facra
 facturus
 properat
 ad
+
 Templum
 .
+
 INTERLUDII
 PARS
 .
 IV
 .
+
 ACTUS
 V
 .
+
 to
 sacrificio
 ,
@@ -291,20 +363,25 @@ profert
 Jaddus
 Deniesis
 librum
+
 dam
 Persus
 debellaturum
 si
+
 Gracum
 q
+
 cum
 Judeis
 pacemi
+
 Alexunder
 se
 esse
 interpretatus
 ,
+
 egi
 fansta
 omnis
@@ -314,11 +391,16 @@ ac
 anctori
 Des
 debitas
+
 grates
 persolventeAD
 
 
+
 MAJOREM
+
 DE
+
+
 
 

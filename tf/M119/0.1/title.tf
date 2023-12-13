@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:34:40Z
+@dateWritten=2023-12-13T13:02:46Z
 
-10488	Georgius Macropedius (Joris van Lancvelt) - Jesus scholasticus - 1556.pdf
+12250	Georgius Macropedius (Joris van Lancvelt) - Jesus scholasticus - 1556.pdf

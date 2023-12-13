@@ -5,25 +5,34 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:34:37Z
+@dateWritten=2023-12-13T13:02:43Z
 
 Münchenen
+
 )
 Bayeische
 
 
+
+
 Digitalisierungs
 Zentrum
+
 BSB
 Scaat
+
 Bibliothek
+
 –
 Digitale
 Bibliothek
+
 MI
+
 Macropedius
 ,
 Georqius
+
 Asotus
 Evanqelicus
 seu
@@ -32,8 +41,10 @@ de
 filio
 prodiquio
 parabola
+
 Colonia
 1540
+
 P
 .
 o
@@ -43,6 +54,7 @@ lat
 1676
 h
 )
+
 urninbn
 :
 de
@@ -52,44 +64,58 @@ byb
 b5bO0037687
 –
 4
+
 VDI6
 L
 385
 .
+
 P
 .
 0
 .
 lat
 .
+
 b
+
 
 θ
 .
 υι
+
 Sammlunq
 deutscher
 Drucke
+
 1450
 bis
 1912
+
 Ervorben
 mit
 Mitteln
 derVolkswagen
 
 
+
 -
 Stistung
 
 
+
 58
+
 4
+
 L
+
 EVANGELICVS
 .
 SEV
+
 EVANGELICADEFILIO
+
 prodigo
 parabola
 ,
@@ -98,15 +124,19 @@ GEORGIO
 Macropedio
 
 
+
 comicè
 descripta
 
 
+
 .
+
 COLONIAE
 Ioannes
 Gympius
 exudebat
+
 Anno
 D
 .
@@ -114,16 +144,22 @@ M
 .
 XXXX
 .
+
 i
+
 57
+
 υιθ
 –
+
 EPISTOLANVNCVFATORIA
+
 
 
 ,
 IAMBICOTRIMET
 .
+
 Georgius
 Macropedius
 Godofrido
@@ -132,14 +168,17 @@ Bollio
 Traiectinae
 
 
+
 ciuitatis
 Consuli
 meritißimo
 .
+
 3
 .
 D
 .
+
 Via
 non
 modo
@@ -151,6 +190,7 @@ sed
 de
 omni
 domo
+
 ANostra
 bene
 meritus
@@ -158,16 +198,19 @@ es
 uir
 ornatißime
 ,
+
 Volui
 profecto
 saepe
 gratificarier
+
 Aliquo
 tibi
 munusculo
 .
 Verum
 quia
+
 Neque
 aureo
 ,
@@ -177,17 +220,20 @@ gemmeo
 neque
 tyrio
 ,
+
 Inops
 queo
 ,
 tentabo
 litterario
 .
+
 Scripsi
 olim
 adolescens
 trimetris
 uersibus
+
 Et
 tetrametris
 ,
@@ -195,6 +241,7 @@ ea
 phrasi
 &
 facundia
+
 Qua
 tum
 per
@@ -203,6 +250,7 @@ adolescentiam
 &
 mala
 tempora
+
 Licebat
 ,
 euangelicum
@@ -210,12 +258,14 @@ Asotum
 aut
 Prodigum
 .
+
 Omnis
 quidem
 mei
 laboris
 initium
 .
+
 Cum
 igitur
 sciam
@@ -223,6 +273,7 @@ te
 nostra
 quanquàm
 uilia
+
 Non
 prorsus
 auersarier
@@ -230,12 +281,14 @@ auersarier
 quem
 iam
 fere
+
 Annos
 triginta
 uelut
 inutilem
 abdidi
 ,
+
 Denuo
 resumpsi
 ,
@@ -246,6 +299,7 @@ ut
 tibi
 dedicem
 .
+
 Cape
 igitur
 hoc
@@ -255,6 +309,7 @@ quod
 aiunt
 )
 candidis
+
 Munusculum
 ,
 ut
@@ -262,6 +317,7 @@ sub
 grauibus
 atque
 serijs
+
 Rebus
 habeas
 ,
@@ -270,6 +326,7 @@ animum
 subinde
 recrees
 .
+
 Rogoque
 te
 ,
@@ -279,26 +336,34 @@ xenion
 ,
 ac
 beneuolum
+
 Animum
 tui
 Georgij
 Macropedij
+
 Consyderes
 .
 Vale
 uir
 ornatißime
 .
+
 A
+
 ARGV
+
 ARGVMENTVM
+
 NASOTVM
 .
+
 Vos
 paterfamuia
 habebat
 fuios
 ,
+
 )
 Quorum
 quidem
@@ -307,18 +372,21 @@ quò
 erat
 frugalior
 ,
+
 Hoc
 iunior
 rerum
 fuit
 profusior
 .
+
 Is
 deprehensus
 cum
 improbis
 graecarier
 ,
+
 A
 fratre
 primum
@@ -328,6 +396,7 @@ patre
 deinde
 carpitur
 .
+
 Plexis
 proinde
 sodalibus
@@ -335,6 +404,7 @@ sodalibus
 patrem
 petit
 ,
+
 Rem
 haereditariam
 ,
@@ -343,11 +413,13 @@ accipit
 longe
 in
 Asiam
+
 Comitantibus
 scortis
 duobus
 nauigat
 .
+
 Scortatur
 inibi
 ,
@@ -355,12 +427,14 @@ renque
 perdit
 peßime
 ,
+
 Dolore
 patre
 affecto
 &
 aegritudine
 .
+
 Tandem
 fame
 premente
@@ -368,6 +442,7 @@ seruit
 ,
 &
 sues
+
 Pascere
 coactus
 ,
@@ -375,6 +450,7 @@ siliquis
 uentrem
 suum
 ,
+
 Quamuis
 cuperet
 ,
@@ -382,11 +458,13 @@ implere
 non
 permittitur
 .
+
 Ductus
 igitur
 foelice
 poenitudine
 ,
+
 Tandem
 ad
 patrem
@@ -394,10 +472,12 @@ supplex
 reuertit
 ,
 gratiam
+
 Quam
 demeruerat
 lachrymis
 uberrimis
+
 Implorat
 ,
 impetrat
@@ -405,12 +485,14 @@ impetrat
 Pater
 uitulum
 iubet
+
 Seniore
 fratre
 non
 ferente
 occidier
 .
+
 Epulantur
 ,
 &
@@ -419,72 +501,102 @@ choros
 cum
 gaudio
 .
+
 DRAA
+
 DRAMATIS
 PERSONAE
 !
+
 Diaboli
 duo
 .
+
 Prologus
 .
+
 Lorarij
 quatuor
 .
+
 Eumenius
 senex
 .
+
 Margenium
+
 Philaetius
 filius
 senior
 .
+
 tert
 .
+
 Planesium
+
 Asotus
 filius
 iunior
 .
+
 trices
 .
+
 Ancilla
+
 Comasta
+
 serui
 nequam
 .
+
 Colax
 parasitus
 .
+
 Detrus
+
 Paegnium
 puer
 Asoti
 .
+
 Merimnus
+
 Peregrinus
 milesiùs
 .
+
 Tribonius
+
 Chorus
 ex
 pueris
 &
+
 Thryptus
+
 serui
 frugi
+
 (
 puellis
 .
+
 Cometa
+
 9
+
 PR
 .
 OLOGVS
 .
+
 Iambico
 trimetro
 .
+
 On
 futiles
 nugas
@@ -493,6 +605,7 @@ ut
 hortos
 Tantali
 ,
+
 VSiculas
 ue
 gerras
@@ -501,6 +614,7 @@ aut
 Hiberas
 naenias
 ,
+
 Non
 stupra
 uirginum
@@ -509,26 +623,31 @@ aut
 dolos
 lenonios
 ,
+
 Quibus
 poëtarum
 scatent
 comoediae
 ,
+
 Inertibus
 uel
 impudicis
 nectimus
 ,
+
 Sed
 auribus
 spectantium
 probam
 indimus
+
 Eueritatis
 ore
 lapsam
 fabulam
 .
+
 Quid
 fabulam
 ?
@@ -537,25 +656,31 @@ fabulam
 ,
 sed
 mysticam
+
 E
 fonte
 puritatis
 haustam
 parabolam
 ,
+
 Spectantium
 probis
 probamus
 mentibus
 .
+
 Nam
+
 A
+
 Nam
 filiam
 rerum
 suarum
 prodigum
 ,
+
 Qui
 patria
 exularat
@@ -563,12 +688,14 @@ ac
 patris
 aedibus
 ,
+
 In
 gratiam
 patris
 redire
 uidebitis
 .
+
 Sed
 orat
 author
@@ -577,6 +704,7 @@ uos
 res
 duas
 ,
+
 Ne
 aegre
 feratis
@@ -585,6 +713,7 @@ quod
 leuem
 falcem
 tulit
+
 Sementem
 in
 cuangelicam
@@ -592,23 +721,27 @@ cuangelicam
 eamque
 quod
 audeat
+
 Tractare
 maiestatem
 Iambo
 et
 Tribracho
 .
+
 Néue
 insuper
 nimis
 haereatis
 ludicris
+
 Ludisque
 comicis
 ,
 sed
 animum
 aduortire
+
 Hic
 abdito
 mysterio
@@ -616,17 +749,20 @@ mysterio
 quod
 eruam
 .
+
 Foras
 euntem
 quem
 uidebitis
 senem
+
 Typum
 geret
 coelęstis
 omnium
 patris
 ,
+
 Qui
 nos
 amat
@@ -637,6 +773,7 @@ erudit
 ,
 complectitur
 ,
+
 Cui
 aes
 omne
@@ -645,6 +782,7 @@ iuuenis
 ob
 lasciuiam
 .
+
 Amator
 est
 mundi
@@ -652,17 +790,20 @@ deum
 qui
 deserit
 .
+
 Quia
 ut
 adolescens
 patre
 relicto
 maximae
+
 Adactus
 inediae
 ,
 suilla
 siliqua
+
 Ventrem
 replere
 postulat
@@ -670,12 +811,14 @@ postulat
 nec
 impetrat
 ,
+
 Tandemque
 resipiscens
 ,
 redire
 cogitur
 :
+
 Ita
 homo
 rclicto
@@ -683,28 +826,33 @@ foedere
 aetherci
 patris
 ,
+
 Dum
 ueritatis
 derelicto
 tramite
+
 Sequitur
 uoluptates
 suas
 ,
 quas
 obsito
+
 Spinis
 itinere
 neutiquàm
 ualet
 assequi
 ,
+
 Tandem
 malorum
 ingente
 pressus
 pondere
 ,
+
 Resipiscit
 actus
 gratia
@@ -712,6 +860,7 @@ gratia
 ac
 reuertitur
 .
+
 Et
 quemadmodum
 errantem
@@ -719,18 +868,22 @@ pater
 iam
 supplicem
 .
+
 1n
+
 In
 gratiam
 recepit
 ,
 ita
 peccantibus
+
 Sed
 poenitentibus
 remisso
 crimine
 ,
+
 Dat
 gratiam
 deus
@@ -738,12 +891,14 @@ deus
 stolam
 innocentiae
 .
+
 Iam
 paululùm
 digressus
 à
 spectantibus
 .
+
 Doctis
 loquar
 ,
@@ -753,17 +908,20 @@ adeo
 spectare
 ,
 quàm
+
 Audire
 gestiunt
 ,
 logosque
 ponderant
 ,
+
 Examinant
 ,
 dijudicantque
 pro
 suo
+
 Candore
 uel
 liuore
@@ -771,6 +929,7 @@ liuore
 non
 latum
 tamen
+
 Culmum
 (
 quod
@@ -779,6 +938,7 @@ aiunt
 dum
 loquar
 sapientibus
+
 Loco
 mouebor
 .
@@ -786,23 +946,27 @@ Interim
 ualete
 uos
 .
+
 Saluete
 docti
 ,
 socculos
 qui
 comicos
+
 Tragicósue
 triuistis
 cothurnos
 ,
 auribus
+
 Parumper
 arrectis
 adeste
 ,
 aduortite
 .
+
 Vt
 non
 solent
@@ -811,6 +975,7 @@ poëtae
 in
 fabulis
 ,
+
 Quae
 facta
 sunt
@@ -818,6 +983,7 @@ longe
 locis
 distantibus
 ,
+
 Populo
 exhibere
 ,
@@ -827,12 +993,14 @@ proxima
 in
 proscaenio
 :
+
 Ita
 quoque
 tempestate
 siqua
 facta
 sunt
+
 Diuersa
 ,
 non
@@ -840,6 +1008,7 @@ uno
 exhibere
 tempore
 ,
+
 Sed
 ut
 acta
@@ -848,12 +1017,14 @@ uerbis
 referre
 congruis
 .
+
 Quo
 tamen
 Asotus
 hic
 rudi
 innotescere
+
 Vulgo
 magis
 queat
@@ -862,6 +1033,7 @@ cui
 non
 tam
 placet
+
 Quod
 in
 theatro
@@ -871,6 +1043,7 @@ est
 quàm
 decticon
 .
+
 Ratione
 ,
 studio
@@ -880,25 +1053,32 @@ arte
 omissa
 temporum
 ,
+
 Abeuntem
 in
 Asiam
 prodigum
 author
 fabulae
+
 Post
 pauculos
 menses
 reuertentem
 exhibet
 .
+
 Namueritatem
 pluris
 historiae
 facit
 ,
+
 A
+
 Praeser4
+
+
 
 
 Praesertim
@@ -909,12 +1089,14 @@ seria
 ,
 quàm
 industrium
+
 Poëtices
 artificium
 ,
 neque
 temere
 ,
+
 Plautum
 secutus
 ,
@@ -923,11 +1105,13 @@ qui
 ex
 Aulide
 in
+
 Actoliam
 amissum
 reducit
 comicos
 .
+
 Valete
 docti
 .
@@ -935,6 +1119,7 @@ En
 redeo
 spectatoribus
 ,
+
 Vnoque
 stans
 fixus
@@ -943,6 +1128,7 @@ uado
 ,
 uenio
 .
+
 Saluete
 ,
 paucis
@@ -950,12 +1136,14 @@ uos
 monendos
 censui
 ,
+
 Quod
 absque
 fructu
 huic
 parabolae
 neutiquàm
+
 Dabitis
 operam
 ,
@@ -963,6 +1151,7 @@ nec
 poenitebit
 ocij
 .
+
 Nam
 castitati
 non
@@ -970,6 +1159,7 @@ oberit
 ,
 ut
 fabulae
+
 Versus
 quae
 habent
@@ -977,6 +1167,7 @@ spurcos
 &
 immemorabiles
 ,
+
 Sed
 sermo
 purus
@@ -985,6 +1176,7 @@ liber
 à
 lasciuia
 ,
+
 Post
 furta
 ,
@@ -994,23 +1186,27 @@ adulteria
 post
 flagitia
 ,
+
 Vos
 iusta
 per
 lamenta
 poenitentiae
 ,
+
 Ad
 patris
 aetherei
 reducet
 gratiam
 .
+
 Si
 fabulae
 expeteßitis
 uocabulum
 ,
+
 Quod
 graece
 ἄσωτος
@@ -1019,12 +1215,14 @@ si
 latinus
 exprimat
 ,
+
 Comoediae
 apte
 nomen
 indet
 Prodigo
 .
+
 Qui
 adestis
 igitur
@@ -1033,6 +1231,7 @@ uidendum
 ,
 quaesumus
 ,
+
 Silentium
 praebete
 .
@@ -1040,6 +1239,7 @@ Non
 decet
 uti
 eos
+
 Sermonis
 officio
 ,
@@ -1048,21 +1248,26 @@ theatrum
 qui
 appetunt
 .
+
 ACTVS
 ISCEN
 .
 I
 .
+
 Eumenius
 .
 Comasta
 .
+
 Versus
 sunt
 Iambici
 trimetri
 .
+
 Boni
+
 oni
 parentis
 esse
@@ -1070,6 +1275,7 @@ ego
 arbitror
 ,
 suis
+
 Sic
 prouidere
 liberis
@@ -1077,6 +1283,7 @@ liberis
 ne
 quid
 siet
+
 Quòd
 obsiet
 naturae
@@ -1086,6 +1293,7 @@ honori
 aut
 moribus
 .
+
 Quandoquidem
 in
 hoc
@@ -1094,8 +1302,10 @@ genuit
 ,
 ut
 uiuant
+
 modo
 ,
+
 Sed
 ut
 probe
@@ -1104,6 +1314,7 @@ atque
 honeste
 transigant
 .
+
 Ob
 id
 usque
@@ -1113,23 +1324,27 @@ senectam
 ,
 inexhaustus
 labor
+
 Haec
 occupauit
 artua
 annis
 pristinis
 ,
+
 Mentemque
 discrutiauit
 ah
 cura
 anxia
 ,
+
 Animique
 sollicitudo
 multo
 maxima
 .
+
 Parthos
 ,
 Syros
@@ -1141,6 +1356,7 @@ Arabas
 &
 Italos
 ,
+
 Delum
 ,
 Paphum
@@ -1151,6 +1367,7 @@ Cyprumque
 &
 Graeciam
 ,
+
 Per
 saxa
 &
@@ -1159,6 +1376,7 @@ horridos
 ,
 per
 stridulas
+
 Syrtes
 ,
 mare
@@ -1168,6 +1386,7 @@ atque
 itinera
 deuia
 ,
+
 Insomnis
 ,
 impiger
@@ -1176,17 +1395,20 @@ peragraui
 ,
 &
 his
+
 Temporibus
 albitudinem
 acciui
 ocyus
 .
+
 Si
 interroges
 qui
 tanta
 perpeti
 mala
+
 Potuerim
 ,
 amore
@@ -1195,18 +1417,21 @@ solo
 amore
 pignerum
 .
+
 Hic
 quaeque
 fecit
 aggredi
 durißima
 ,
+
 Hic
 solus
 exhibuit
 amara
 dulciae
 .
+
 Merito
 quoque
 Dijs
@@ -1214,6 +1439,7 @@ maximam
 habeo
 gratiam
 .
+
 Quod
 non
 inanis
@@ -1222,10 +1448,12 @@ labor
 nec
 inutilis
 .
+
 Bonorum
 enim
 thesaurum
 abundatißimum
+
 Congeßi
 ,
 uti
@@ -1233,6 +1461,7 @@ nihil
 omnium
 absit
 liberis
+
 Ampla
 est
 domus
@@ -1243,6 +1472,7 @@ famulicium
 est
 ,
 agri
+
 Vberrimi
 ,
 campi
@@ -1250,9 +1480,12 @@ latißimi
 ,
 greges
 .
+
 Numerosi
+
 A
 5
+
 Numerosi
 ,
 &
@@ -1264,6 +1497,7 @@ semel
 dono
 deum
 .
+
 Nil
 omnium
 est
@@ -1272,6 +1506,7 @@ indiguerint
 quo
 liberi
 .
+
 Sat
 hercle
 partum
@@ -1281,6 +1516,7 @@ deque
 omnia
 fero
 .
+
 Quòd
 supererit
 uitae
@@ -1289,11 +1525,13 @@ dare
 statui
 ,
 ut
+
 Indulgeat
 Genio
 senectus
 ultima
 .
+
 Sed
 est
 quod
@@ -1301,6 +1539,7 @@ absque
 dolore
 cordis
 maximo
+
 Nec
 fero
 nec
@@ -1310,6 +1549,7 @@ quod
 ubi
 suam
 pater
+
 Industriam
 ,
 sudorem
@@ -1317,11 +1557,13 @@ sudorem
 &
 ipsum
 sanguinem
+
 Suis
 beandis
 liberis
 impenderit
 ,
+
 Sunt
 plurimi
 qui
@@ -1330,11 +1572,13 @@ prorsus
 ingrati
 sient
 ,
+
 Qui
 morbidae
 parant
 senectae
 plurimas
+
 Dirat
 quoque
 aerumnas
@@ -1343,8 +1587,10 @@ aerumnas
 indies
 cura
 ,
+
 Scazon
 .
+
 Moerore
 ,
 amaroreque
@@ -1352,8 +1598,11 @@ amaroreque
 uerentur
 neutiquam
 ,
+
 eam
+
 Hypermeter
+
 Afficere
 .
 Edunt
@@ -1362,6 +1611,7 @@ bibunt
 ,
 &
 abliguriunt
+
 Rem
 omnem
 paternam
@@ -1371,6 +1621,7 @@ ossa
 nudent
 carnibus
 .
+
 Plane
 id
 uel
@@ -1379,17 +1630,20 @@ meipso
 ad
 unguem
 pensito
+
 Meaque
 familia
 ,
 cui
 licet
 nihil
+
 Subtraxerim
 quod
 exhibere
 debui
 ,
+
 Nihilo
 minus
 fraudare
@@ -1397,6 +1651,7 @@ me
 flocci
 aestimant
 .
+
 Sunt
 nanque
 duo
@@ -1406,6 +1661,7 @@ filij
 quorum
 alter
 est
+
 Frugi
 satis
 nobis
@@ -1413,6 +1669,7 @@ nobis
 sibique
 maxime
 ,
+
 Verum
 alter
 est
@@ -1421,6 +1678,7 @@ lubricus
 &
 prodigus
 ,
+
 Cui
 non
 mediocris
@@ -1429,6 +1687,7 @@ adhaeret
 assentatur
 ,
 &
+
 Fauet
 familiae
 turba
@@ -1436,6 +1695,7 @@ turba
 praecipitesque
 eunt
 ,
+
 In
 omne
 flagitium
@@ -1444,12 +1704,15 @@ ue
 quod
 audeant
 ,
+
 Audentque
+
 Audentque
 plurimum
 ,
 quod
 assuefactio
+
 Audaciam
 dat
 ,
@@ -1457,6 +1720,7 @@ dat
 fouet
 libidinem
 .
+
 Hinc
 gemitus
 &
@@ -1466,6 +1730,7 @@ hoc
 quatit
 pectus
 meum
+
 Hinc
 lachrymae
 ad
@@ -1477,11 +1742,14 @@ iuges
 preces
 
 
+
+
 Accedit
 &
 inhonesta
 famigeratio
 ,
+
 Mala
 publica
 ,
@@ -1490,6 +1758,7 @@ priuata
 peior
 dictio
 .
+
 Nam
 quod
 familiae
@@ -1498,6 +1767,7 @@ est
 irrogatur
 patribus
 .
+
 Hoc
 dedecus
 tuum
@@ -1508,6 +1778,7 @@ uicio
 Eumeni
 est
 ,
+
 Quod
 degenerat
 &
@@ -1515,6 +1786,7 @@ improba
 extat
 familia
 .
+
 Num
 uero
 ?
@@ -1525,6 +1797,7 @@ mali
 autor
 extiti
 ?
+
 An
 non
 quod
@@ -1535,6 +1808,7 @@ modesti
 quiptimiExhibui
 
 
+
 ?
 Ab
 incunabulis
@@ -1542,12 +1816,14 @@ in
 hunc
 diem
 ,
+
 Et
 esse
 semper
 &
 probus
 concredier
+
 Studui
 ,
 neque
@@ -1556,6 +1832,7 @@ uiris
 me
 miscui
 .
+
 Non
 pyrtrapis
 ,
@@ -1563,6 +1840,7 @@ furacibus
 ,
 raptoribus
 ,
+
 Non
 turpibus
 ,
@@ -1571,12 +1849,14 @@ salacibus
 uel
 mollibus
 ,
+
 Non
 mulierosis
 ,
 siue
 fornicarijs
 ,
+
 Non
 sacrilegis
 ,
@@ -1584,12 +1864,14 @@ fidifragis
 ,
 nugigerulis
 ,
+
 Calumniantibus
 ,
 nec
 id
 genus
 alijs
+
 Me
 asserui
 ,
@@ -1600,6 +1882,7 @@ est
 ,
 &
 conditor
+
 Orbis
 Deus
 .
@@ -1608,16 +1891,19 @@ ergo
 iure
 obiecerint
 ?
+
 An
 indulgentiam
 ,
 quod
 increpauerim
+
 Remißius
 delicta
 tenerae
 aetatulae
 ?
+
 An
 non
 uel
@@ -1625,6 +1911,7 @@ ipsam
 infantiam
 compescui
 ,
+
 Verberibus
 ulmcis
 ,
@@ -1632,7 +1919,9 @@ flagris
 &
 acribus
 ?
+
 Non
+
 Non
 crebra
 ,
@@ -1642,6 +1931,7 @@ defuit
 monitio
 ,
 nec
+
 Omissa
 castigatio
 est
@@ -1650,30 +1940,35 @@ Nam
 eosdem
 ob
 hoc
+
 Et
 pedagogo
 tradidi
 ,
 neque
 corrigi
+
 Vnquàm
 uetabam
 ,
 at
 ineptias
 fugarier
+
 Virgis
 uolebam
 ,
 &
 acrioribus
 flagris
+
 Lubricam
 indolem
 nequitia
 abacta
 corrigi
 .
+
 Verum
 licet
 iuxta
@@ -1681,6 +1976,7 @@ omnibus
 rigidus
 fui
 ,
+
 Tamen
 omnibus
 non
@@ -1688,6 +1984,7 @@ ut
 uelim
 conduxero
 .
+
 Frustra
 puer
 natu
@@ -1695,6 +1992,7 @@ minor
 laceratus
 est
 .
+
 Non
 tot
 minae
@@ -1705,18 +2003,21 @@ uerbera
 atque
 exempla
 tot
+
 Virtutum
 ,
 &
 institutio
 scolastica
 ,
+
 Stultitiam
 ab
 ingenio
 illius
 praeualuerane
 .
+
 Propellere
 ,
 quia
@@ -1724,6 +2025,7 @@ propter
 hunc
 domi
 meae
+
 Contentio
 est
 crebra
@@ -1732,6 +2034,7 @@ crebra
 simultas
 ciuica
 .
+
 Et
 quid
 loquar
@@ -1741,18 +2044,21 @@ unicum
 sapientis
 hoc
 ?
+
 Nemo
 potest
 corrigere
 quem
 Deus
 arbiter
+
 Despexerit
 .
 Sed
 ecce
 natu
 grandior
+
 Gnatus
 meus
 Philaetius
@@ -1760,6 +2066,7 @@ modo
 rus
 abit
 ,
+
 Illi
 uolo
 concedere
@@ -1767,6 +2074,7 @@ animi
 gratia
 ,
 &
+
 Vti
 uideam
 num
@@ -1775,12 +2083,14 @@ recte
 agantur
 .
 Heus
+
 Comasta
 ,
 tu
 curaßis
 interim
 omnia
+
 Quae
 sunt
 domi
@@ -1794,6 +2104,7 @@ Com
 .
 curauero
 .
+
 Num
 quid
 aliud
@@ -1810,8 +2121,10 @@ est
 Com
 .
 quid
+
 est
 ?
+
 Eu
 .
 Quod
@@ -1820,6 +2133,7 @@ curato
 opust
 ,
 granarium
+
 Inuise
 ,
 gurgulione
@@ -1827,8 +2141,10 @@ quo
 sit
 liberum
 .
+
 com
 .
+
 Com
 curabitur
 .
@@ -1841,6 +2157,7 @@ com
 ausculto
 libens
 .
+
 Eu
 .
 Altilibus
@@ -1849,6 +2166,7 @@ pullis
 legumen
 addito
 .
+
 Com
 .
 Curabitur
@@ -1860,12 +2178,14 @@ Eu
 .
 ne
 perfamiliae
+
 Licentiam
 res
 pessum
 eat
 domestica
 .
+
 Cras
 rediero
 .
@@ -1877,27 +2197,35 @@ redi
 sospes
 uale
 .
+
 11
 .
+
 I
 .
 SCE
 .
+
 S
 .
+
 A
 (
+
 T
 .
+
 Iambici
 trimetri
 ,
 uel
 senarij
 .
+
 Comasta
 solus
 .
+
 VVge
 ,
 abijt
@@ -1907,6 +2235,7 @@ ad
 uillam
 senex
 ,
+
 LCui
 tantum
 inest
@@ -1916,6 +2245,7 @@ cutis
 quantum
 uuidae
 .
+
 Mihi
 credidit
 rem
@@ -1923,6 +2253,7 @@ omnem
 semel
 Comesticam
 .
+
 Delirus
 hercle
 dum
@@ -1930,6 +2261,7 @@ probum
 me
 existimat
 .
+
 Pol
 ego
 probus
@@ -1939,6 +2271,7 @@ fui
 nec
 spem
 adhibeat
+
 Vnquàm
 fore
 .
@@ -1947,17 +2280,20 @@ epularier
 ,
 baccharier
 ,
+
 Scortarier
 ,
 lactare
 herilem
 filium
 ,
+
 Noui
 probe
 ,
 lepideque
 manticularier
+
 Soleo
 senem
 ,
@@ -1966,12 +2302,14 @@ sublinere
 os
 offucijs
 .
+
 O
 Iuppiter
 supreme
 quanto
 gaudio
 ,
+
 Foelicitate
 quanta
 ,
@@ -1980,6 +2318,7 @@ me
 haec
 dies
 .
+
 Nunc
 omne
 famulicium
@@ -1987,18 +2326,21 @@ omne
 certum
 est
 statim
+
 Amittere
 ,
 atque
 accire
 herili
 filio
+
 Tum
 sympotas
 ,
 tum
 asoticas
 sympotrias
+
 Duas
 ,
 &
@@ -2007,12 +2349,14 @@ genio
 ,
 &
 homunculos
+
 Bellos
 agere
 mensis
 iocisque
 sibariticis
 .
+
 Comasta
 nunc
 te
@@ -2020,19 +2364,23 @@ proripe
 actutum
 domum
 .
+
 Sed
+
 Sed
 ecce
 parasitus
 Colax
 ueluti
 canis
+
 Famelicus
 nostras
 ad
 aedeis
 aduolat
 .
+
 Ipsum
 uolo
 praeuortere
@@ -2040,6 +2388,7 @@ praeuortere
 ut
 ropalo
 fores
+
 Non
 pulsitet
 ,
@@ -2049,22 +2398,30 @@ quae
 uolo
 fecerit
 .
+
 A
+
 S
 .
 1SCE
 .
+
 V
+
 11
 .
+
 A
+
 Senarij
 Iambici
 .
+
 Comasta
 .
 Colax
 .
+
 CAlue
 Colax
 .
@@ -2077,16 +2434,19 @@ ament
 quid
 salueam
 ?
+
 Macritudine
 aegra
 maceror
 miserrimus
 .
+
 Instar
 puerperae
 gemellos
 quae
 aedidit
+
 Flaccesco
 uentre
 ,
@@ -2096,6 +2456,7 @@ triduanam
 ob
 inediam
 .
+
 Com
 .
 Ex
@@ -2103,6 +2464,7 @@ renibus
 morbo
 laboras
 admodum
+
 Graui
 ,
 ex
@@ -2111,6 +2473,7 @@ tibi
 pulticula
 opust
 .
+
 Col
 .
 Dij
@@ -2119,6 +2482,7 @@ perduant
 te
 flagrio
 .
+
 Meam
 inediam
 querebar
@@ -2127,6 +2491,7 @@ querebar
 scelus
 obijcis
 ?
+
 Com
 .
 Compendium
@@ -2135,6 +2500,7 @@ uolo
 nostris
 Colax
 .
+
 Serio
 iocabar
 .
@@ -2144,6 +2510,7 @@ audio
 ,
 uentri
 meo
+
 Si
 consulas
 ,
@@ -2155,6 +2522,7 @@ quod
 me
 beat
 .
+
 Si
 eluseris
 tentanda
@@ -2162,6 +2530,7 @@ res
 aliundę
 erit
 .
+
 Com
 .
 Ego
@@ -2173,12 +2542,14 @@ tympani
 instar
 turgeat
 ,
+
 Venter
 tuus
 Colax
 ,
 uideberis
 quoque
+
 Foetus
 iterum
 (
@@ -2188,6 +2559,7 @@ fle
 gemellis
 foetibus
 .
+
 Col
 .
 Et
@@ -2198,12 +2570,14 @@ uera
 si
 autumas
 .
+
 O
 Iuppiter
 uideor
 renatus
 ,
 gestio
+
 Audire
 .
 Com
@@ -2214,8 +2588,10 @@ audies
 cum
 silueris
 .
+
 Col
 .
+
 Col
 .
 Sileo
@@ -2229,6 +2605,7 @@ ululet
 .
 Com
 .
+
 Sile
 .
 Col
@@ -2245,8 +2622,10 @@ Col
 .
 quin
 modo
+
 cacas
 ?
+
 Etiam
 ne
 habes
@@ -2255,6 +2634,7 @@ ludibrio
 Com
 noli
 Colax
+
 Irascier
 ,
 nam
@@ -2262,6 +2642,7 @@ te
 uelut
 omasum
 dabo
+
 Sub
 hoc
 die
@@ -2270,6 +2651,7 @@ fartißimum
 sile
 modo
 .
+
 Col
 .
 Praedam
@@ -2279,6 +2661,7 @@ dentibus
 rapis
 hoc
 σύλει
+
 Quid
 uult
 συλεσθαι
@@ -2289,6 +2672,7 @@ caret
 modo
 ,
 face
+
 Compendium
 .
 Com
@@ -2297,6 +2681,7 @@ compendio
 dictis
 opus
 .
+
 Sed
 ipse
 graecissas
@@ -2305,12 +2690,14 @@ modo
 Col
 .
 graecarier
+
 Malim
 atque
 pergraecarier
 .
 Com
 facetior
+
 Nosti
 esse
 quàm
@@ -2319,6 +2706,7 @@ prudentior
 Col
 .
 prydentior
+
 Immo
 esse
 quàm
@@ -2327,6 +2715,7 @@ nouero
 ,
 si
 erit
+
 Vnde
 .
 In
@@ -2338,11 +2727,13 @@ occasio
 esse
 bis
 duos
+
 Scitißime
 scio
 atque
 prudentißime
 .
+
 Com
 .
 Ha
@@ -2354,6 +2745,7 @@ sales
 sunt
 moribus
 .
+
 Col
 .
 Quid
@@ -2365,6 +2757,7 @@ tanta
 sunt
 praeludia
 ?
+
 Dic
 sis
 modo
@@ -2379,8 +2772,10 @@ audibo
 ,
 dic
 agedum
+
 modo
 .
+
 Com
 .
 Gaude
@@ -2392,6 +2787,7 @@ heri
 pen
 trium
 ,
+
 Vbi
 flaccidum
 modo
@@ -2399,6 +2795,7 @@ pernulis
 ,
 petasonibus
 ,
+
 Larido
 suillo
 ,
@@ -2406,6 +2803,7 @@ suillo
 optimo
 uino
 tuum
+
 Hunc
 sacculum
 saturauero
@@ -2413,6 +2811,7 @@ saturauero
 gaude
 modo
 .
+
 Col
 .
 E
@@ -2421,12 +2820,14 @@ stipulis
 camoenas
 apparas
 ,
+
 Et
 more
 coccygis
 eadem
 recantitas
 ,
+
 Nunc
 occine
 aliam
@@ -2434,7 +2835,9 @@ cantilenam
 .
 Qui
 sinat
+
 Ferre
+
 Ferre
 intrò
 me
@@ -2443,6 +2846,7 @@ senex
 tam
 tetricus
 ,
+
 Vt
 plane
 Aristippum
@@ -2451,6 +2855,7 @@ aut
 ,
 Diogenem
 ?
+
 Nugas
 agis
 trifurcifer
@@ -2458,6 +2863,7 @@ trifurcifer
 dimitte
 me
 .
+
 Com
 .
 Dimitto
@@ -2469,6 +2875,7 @@ Col
 te
 druorent
 cacodaemones
+
 Triuerbero
 ,
 miserrimus
@@ -2478,6 +2885,7 @@ Com
 heus
 Colax
 .
+
 Seria
 loquor
 .
@@ -2491,6 +2899,7 @@ Com
 cedo
 manum
 .
+
 Col
 .
 Hem
@@ -2506,8 +2915,10 @@ me
 te
 beauit
 haec
+
 dies
 .
+
 Curaberis
 .
 Abijt
@@ -2516,18 +2927,21 @@ senex
 in
 praedium
 ,
+
 Seniore
 cum
 Philaetio
 gnato
 suo
 ,
+
 Subducat
 ut
 ratiunculam
 cum
 uillico
 .
+
 En
 singuli
 absunt
@@ -2535,6 +2949,7 @@ qui
 forent
 obstaculo
 ,
+
 Rem
 credidit
 mihi
@@ -2542,6 +2957,7 @@ totam
 ,
 &
 argentarim
+
 Primum
 ,
 &
@@ -2551,12 +2967,14 @@ sed
 &
 uinariam
 ,
+
 Oleariam
 ,
 atque
 opsonariam
 .
 Insuper
+
 Super
 omnia
 bona
@@ -2566,6 +2984,7 @@ herus
 constituit
 ,
 &
+
 Super
 famulicium
 suum
@@ -2573,6 +2992,7 @@ suum
 en
 claues
 quibus
+
 Sum
 praeditus
 ,
@@ -2581,12 +3001,14 @@ ingrediar
 in
 atria
 .
+
 Opipara
 ,
 diuitiasque
 heri
 primarias
 .
+
 Col
 .
 Beas
@@ -2596,6 +3018,7 @@ sancta
 saturitas
 mea
 ,
+
 Si
 id
 uerum
@@ -2609,6 +3032,7 @@ hercle
 uero
 uerius
 ,
+
 Nec
 te
 esurire
@@ -2617,6 +3041,7 @@ certius
 Iam
 uolo
 animum
+
 Te
 aduortere
 his
@@ -2624,6 +3049,7 @@ paucißimis
 quae
 iussero
 .
+
 Producta
 uerba
 longius
@@ -2632,6 +3058,7 @@ quàm
 utile
 est
 .
+
 Col
 .
 Vt
@@ -2643,6 +3070,7 @@ ero
 quiduis
 impera
 ,
+
 Sed
 es
 breuis
@@ -2654,7 +3082,9 @@ est
 .
 Herilis
 filius
+
 Iunior
+
 Iunior
 Asotus
 ,
@@ -2664,6 +3094,7 @@ ad
 omnem
 facilis
 est
+
 Lasciuiam
 ,
 petulantiam
@@ -2671,6 +3102,7 @@ petulantiam
 iocos
 leues
 ,
+
 Epulas
 ,
 sales
@@ -2681,6 +3113,7 @@ risum
 uoluptatem
 id
 genus
+
 Reliquàm
 ?
 Col
@@ -2691,6 +3124,7 @@ noui
 is
 calamitati
 meae
+
 Praesidium
 amabile
 ,
@@ -2698,6 +3132,7 @@ modo
 liceat
 per
 patris
+
 Seucritudinem
 .
 quid
@@ -2707,12 +3142,14 @@ uis
 Com
 .
 face
+
 Vt
 aduolent
 duae
 animulae
 &
 formosulae
+
 Et
 molliculae
 &
@@ -2720,12 +3157,14 @@ amabiles
 ,
 Planesium
 &
+
 Märgaenium
 ,
 atque
 huius
 farinae
 pauculi
+
 Bibesij
 uoluptuarij
 .
@@ -2733,6 +3172,7 @@ Col
 .
 licet
 .
+
 Com
 .
 Induce
@@ -2744,6 +3184,7 @@ Col
 .
 eo
 .
+
 Lepide
 exequar
 ,
@@ -2756,6 +3197,7 @@ Can
 propere
 redi
 .
+
 Col
 .
 Properrime
@@ -2768,6 +3210,7 @@ Com
 culina
 ego
 ut
+
 Instructa
 sit
 curauero
@@ -2777,6 +3220,7 @@ Col
 id
 curaueris
 .
+
 Quid
 ?
 nihil
@@ -2785,6 +3229,7 @@ os
 uenatico
 cani
 antequàm
+
 Venatum
 eat
 iactandum
@@ -2798,6 +3243,7 @@ Col
 .
 admodum
 .
+
 Com
 .
 Ingredere
@@ -2807,12 +3253,14 @@ sequar
 &
 omnibus
 praescripsero
+
 Edicta
 heri
 ,
 atque
 interminabiles
 meas
+
 Leges
 ,
 quibus
@@ -2820,6 +3268,7 @@ si
 uerbulo
 obganniuerint
 ,
+
 Et
 ulmet
 &
@@ -2827,6 +3276,7 @@ phoenicei
 faxo
 sient
 .
+
 Strident
 fores
 ,
@@ -2835,29 +3285,37 @@ aliquis
 audeat
 egredi
 ?
+
 1111
 .
+
 ACTVS
 ISCE
 .
+
 Trimetri
 ut
 superiores
 .
+
 Tribonius
 .
 Comasta
 .
 Colax
 .
+
 B
+
 Et
 ipsum
+
 Tipsum
 &
 ingluuiem
 ipsius
 Diespiter
+
 LPerdat
 ,
 qui
@@ -2867,6 +3325,7 @@ has
 herileis
 irruit
 ,
+
 Non
 aliter
 atque
@@ -2874,6 +3333,7 @@ famelicus
 post
 quatridui
 ,
+
 Ieiunium
 lupus
 .
@@ -2882,6 +3342,7 @@ Com
 Colaci
 trascitur
 .
+
 Tri
 .
 Pernis
@@ -2890,11 +3351,13 @@ citius
 quidem
 quàm
 dixero
+
 Iamiam
 uoratis
 ,
 denuo
 petasonibus
+
 Crudis
 ,
 deinde
@@ -2902,6 +3365,7 @@ artocreis
 auide
 ingruit
 .
+
 Timui
 profecto
 in
@@ -2910,12 +3374,14 @@ quoque
 faceret
 impetum
 ,
+
 Ita
 dentibus
 fremebat
 in
 captam
 sibi
+
 Praedam
 .
 Com
@@ -2926,12 +3392,14 @@ utrunque
 ,
 &
 illius
+
 Edacitatem
 ,
 &
 huius
 impatientiam
 .
+
 Tri
 .
 Atque
@@ -2942,6 +3410,7 @@ haec
 &
 corrigat
 .
+
 Nam
 his
 omnibus
@@ -2950,6 +3419,7 @@ herus
 dum
 abest
 domo
+
 Conniuet
 ,
 atque
@@ -2961,6 +3431,7 @@ tacet
 uti
 suspicor
 )
+
 Inducit
 hos
 nihili
@@ -2973,6 +3444,7 @@ hem
 uti
 uideo
 ,
+
 Nisi
 rigide
 abactus
@@ -2982,6 +3454,7 @@ siet
 pax
 nostro
 huic
+
 Fore
 non
 potest
@@ -2990,6 +3463,7 @@ negocio
 Triboni
 ades
 .
+
 Tri
 .
 Quis
@@ -3002,6 +3476,7 @@ eras
 Comasta
 ?
 quid
+
 Me
 uis
 ?
@@ -3012,6 +3487,7 @@ aedibus
 relictis
 me
 inscio
+
 Exis
 foras
 ?
@@ -3021,6 +3497,7 @@ tibi
 cura
 est
 rei
+
 Domesticae
 ?
 Tri
@@ -3031,12 +3508,14 @@ nonnulla
 maior
 forte
 quàm
+
 Quorundam
 eorum
 ,
 qui
 crepantibus
 ampliter
+
 Buccis
 eam
 sibi
@@ -3047,11 +3526,13 @@ Com
 haec
 in
 meam
+
 Contumeliam
 tuumque
 prosequeris
 malum
 .
+
 Quae
 igitur
 foris
@@ -3060,6 +3541,7 @@ tibi
 curatio
 est
 ?
+
 Tri
 .
 Primum
@@ -3069,7 +3551,9 @@ improba
 Colacis
 edacitas
 ,
+
 quQua
+
 
 
 indigne
@@ -3078,6 +3562,7 @@ penu
 abligurit
 funditus
 .
+
 Com
 .
 Nunquid
@@ -3088,6 +3573,7 @@ arguente
 acturus
 est
 ?
+
 Tri
 .
 Faceret
@@ -3098,6 +3584,7 @@ tu
 minus
 conniueas
 .
+
 Com
 .
 Salus
@@ -3106,6 +3593,7 @@ pendet
 exte
 scilicet
 .
+
 In
 heri
 negocia
@@ -3114,12 +3602,14 @@ hic
 ablegandus
 est
 .
+
 Quis
 militat
 cuiuis
 suis
 stipendijs
 ?
+
 Nulla
 alia
 causa
@@ -3128,6 +3618,7 @@ uocauit
 huc
 foras
 ?
+
 Tri
 .
 Haec
@@ -3139,6 +3630,7 @@ ut
 iam
 coeperam
 )
+
 Huc
 impulit
 ,
@@ -3148,11 +3640,13 @@ haec
 non
 foret
 ,
+
 Granarium
 uocaret
 huc
 uel
 horreum
+
 Statim
 ,
 ad
@@ -3163,6 +3657,7 @@ herus
 ut
 iusserat
 .
+
 Com
 .
 Id
@@ -3176,6 +3671,7 @@ abi
 hinc
 frutex
 ,
+
 Et
 expedi
 ocyus
@@ -3184,12 +3680,14 @@ agenda
 in
 horreo
 ,
+
 Nisi
 fustibus
 scapulas
 uelis
 metirier
 ,
+
 Nam
 &
 hoc
@@ -3199,6 +3697,7 @@ alia
 dirigendus
 es
 .
+
 Abi
 .
 Tri
@@ -3217,8 +3716,10 @@ Col
 en
 ,
 adest
+
 Colax
 .
+
 Com
 .
 Vti
@@ -3231,11 +3732,13 @@ utrum
 ne
 illos
 queas
+
 Tres
 debitores
 uspiam
 prehendere
 ,
+
 Iurique
 sistere
 .
@@ -3246,6 +3749,7 @@ exigam
 haud
 effugerint
 .
+
 Com
 .
 Curre
@@ -3256,6 +3760,7 @@ te
 domi
 morabimur
 .
+
 Tri
 .
 Si
@@ -3266,6 +3771,7 @@ dolos
 quos
 cum
 improbis
+
 Commentus
 est
 ,
@@ -3273,6 +3779,7 @@ non
 debitores
 iudici
 ,
+
 Sed
 scorta
 herili
@@ -3280,6 +3787,7 @@ filio
 ductanda
 sunt
 .
+
 Conscendam
 in
 horreum
@@ -3288,13 +3796,17 @@ hoc
 &
 è
 granario
+
 Sollicitus
 obseruabo
 quos
 adduxerit
 ,
+
 Si
+
 2
+
 Si
 non
 doli
@@ -3305,135 +3817,165 @@ sint
 nullus
 siem
 .
+
 CHORVS
 Iambico
 dimetro
+
 Mor
 parentis
 in
 suos
+
 ARes
 est
 stupenda
 liberos
 ,
+
 Non
 pupulae
 tam
 lumen
 est
+
 Quàm
 patri
 amicus
 filius
 .
+
 Vt
 araneus
 se
 euiscerat
+
 Pater
 ,
 &
 suam
 substantiam
+
 Impendit
 ,
 ut
 gnatum
 iuuet
 ,
+
 Et
 calamitate
 liberet
 .
+
 Mancipia
 edunt
 ,
 ipse
 esurit
+
 Paruoue
 uictu
 &
 espero
+
 Viuit
 ,
 suo
 dum
 filio
+
 Parcat
 ,
 sibi
 parcit
 nihil
 .
+
 Nam
 propter
 hunc
 beandum
 adit
+
 Terrae
 marisque
 pericula
 ,
+
 Latronum
 &
 insidias
 pauet
 ,
+
 Sed
 &
 frequenter
 incidit
 .
+
 Horum
 omnium
 tamen
 interim
+
 Fore
 liberi
 immemores
 solent
 ,
+
 Leuibus
 rependunt
 moribus
+
 Pro
 amore
 amaritudinem
 .
+
 Sed
 tu
 probae
 indolis
 puer
 ,
+
 Tantis
 tibi
 laboribus
+
 Obitis
 referre
 gratiam
+
 Stude
 ,
 &
 uicißitudinem
 .
+
 acACTVS
+
 
 
 IISCE
 .
 I
 .
+
 Iambici
 tetrametri
 .
+
 Merimnus
 .
 Tribonius
 .
 Daetrus
 .
+
 TOrtalium
 nemo
 est
@@ -3442,6 +3984,7 @@ me
 uel
 infoelicior
 .
+
 INam
 seruitutem
 praeter
@@ -3450,9 +3993,12 @@ quam
 seruio
 ,
 ta
+
 V
+
 metsi
 optimo
+
 Huic
 uiro
 ,
@@ -3462,6 +4008,7 @@ oeconomo
 modis
 diuerberor
 ,
+
 Cui
 senex
 totam
@@ -3470,6 +4017,7 @@ cum
 re
 familiam
 tradidit
+
 Suam
 gubernandam
 .
@@ -3479,9 +4027,11 @@ haud
 minoribus
 afficior
 et
+
 ego
 malis
 .
+
 Probra
 ,
 improperia
@@ -3492,9 +4042,12 @@ scommata
 ,
 &
 amari
+
 (
 um
+
 sales
+
 Et
 colaphi
 ,
@@ -3508,6 +4061,7 @@ manent
 TriboniNi
 
 
+
 pedibus
 &
 manibus
@@ -3517,6 +4071,7 @@ eius
 in
 sententiam
 .
+
 Me
 .
 Sermone
@@ -3527,6 +4082,7 @@ placidisque
 compello
 uirum
 ,
+
 Fert
 semper
 aegre
@@ -3538,9 +4094,12 @@ sit
 obsecro
 .
 neque
+
 (
 est
+
 me
+
 Nisi
 uerbere
 aut
@@ -3550,12 +4109,14 @@ dignatur
 &
 quod
 omnium
+
 Multo
 mihi
 molestißimum
 ,
 quaecunque
 sollicitudine
+
 Mea
 ,
 aut
@@ -3566,6 +4127,7 @@ sunt
 ,
 heri
 quoque
+
 Quicquid
 laboribus
 erat
@@ -3573,6 +4135,7 @@ aggestum
 ,
 oeconomus
 inutilis
+
 Et
 infidelis
 dißipat
@@ -3580,6 +4143,7 @@ dißipat
 nobisque
 demensum
 cibum
+
 Subtrahit
 ,
 herus
@@ -3590,6 +4154,7 @@ stato
 nobis
 dari
 .
+
 Tri
 .
 Rem
@@ -3600,16 +4165,22 @@ ais
 Merimne
 ,
 sed
+
 quod
 inclytum
+
 Quod
+
 B
+
 Quod
 amabilem
 adolescentem
 heri
 pulcherrimam
+
 substantiam
+
 corrumpit
 ,
 illicitque
@@ -3621,6 +4192,7 @@ habet
 me
 peßime
 .
+
 Serui
 fidelis
 est
@@ -3630,6 +4202,7 @@ usque
 honorem
 ac
 liberos
+
 Curare
 ,
 quàm
@@ -3640,6 +4213,7 @@ magisque
 multo
 quàm
 sua
+
 Commoda
 .
 Ferendum
@@ -3650,8 +4224,10 @@ angat
 ,
 aut
 ra
+
 piat
 bona
+
 Domini
 :
 at
@@ -3663,8 +4239,10 @@ exitium
 est
 ,
 ferendum
+
 neutiquàm
 .
+
 Mer
 .
 Verum
@@ -3676,11 +4254,13 @@ nunquid
 aequum
 tibi
 uide
+
 tur
 ,
 si
 in
 dies
+
 Nos
 terserit
 ,
@@ -3690,6 +4270,7 @@ seruitutem
 faciat
 odiosißimam
 ?
+
 Tri
 .
 Profecto
@@ -3701,7 +4282,9 @@ pro
 hero
 fidelem
 ser
+
 uulum
+
 Opprobrijs
 saturari
 ,
@@ -3712,6 +4295,7 @@ crucibus
 &
 emori
 ,
+
 Si
 tempus
 aut
@@ -3725,9 +4309,11 @@ igitur
 est
 ?
 quid
+
 facto
 opust
 ?
+
 Tri
 .
 Quamprimum
@@ -3736,9 +4322,11 @@ negocium
 omne
 deferamus
 ,
+
 ut
 sciat
 .
+
 Ne
 nos
 doli
@@ -3748,6 +4336,7 @@ uel
 infidelitatis
 arguat
 ,
+
 Si
 clam
 fuat
@@ -3760,8 +4349,10 @@ mones
 redeunti
 hero
 indica
+
 bimus
 .
+
 Tri
 .
 Mora
@@ -3776,8 +4367,10 @@ quando
 suggerenda
 
 
+
 sint
 ?
+
 Tri
 .
 Agundum
@@ -3793,11 +4386,14 @@ Tri
 .
 statim
 ,
+
 premit
 enim
 occasio
+
 Mer
 .
+
 Mer
 .
 Qui
@@ -3813,7 +4409,9 @@ ita
 ,
 è
 gra
+
 nario
+
 Dolenda
 uidi
 ,
@@ -3823,6 +4421,7 @@ posticulum
 intrusit
 Colax
 .
+
 Mer
 .
 Nugaris
@@ -3837,9 +4436,11 @@ oeconomus
 uidente
 
 
+
 me
 dedit
 ,
+
 Masigie
 huic
 mandata
@@ -3850,7 +4451,9 @@ scorta
 inagerat
 
 
+
 .
+
 Mer
 .
 Papae
@@ -3866,6 +4469,7 @@ est
 cautum
 magis
 ?
+
 Tri
 .
 Haud
@@ -3876,6 +4480,7 @@ sed
 sedula
 prudentia
 .
+
 Tu
 praestinato
 ut
@@ -3885,6 +4490,7 @@ scombros
 ,
 ego
 patrifamiliâs
+
 Haec
 clanculo
 interea
@@ -3894,8 +4500,10 @@ indicauero
 Mer
 .
 recte
+
 mones
 .
+
 Sed
 ecce
 ab
@@ -3904,6 +4512,7 @@ hypocrita
 Daetrus
 aduolat
 .
+
 Caue
 nequid
 horum
@@ -3914,8 +4523,10 @@ Daet
 quid
 abitis
 &
+
 quo
 tenditis
+
 Iter
 ô
 uiri
@@ -3926,6 +4537,7 @@ me
 domi
 relinquitis
 ?
+
 Mer
 .
 Nos
@@ -3935,7 +4547,9 @@ pisces
 ,
 probi
 quod
+
 interest
+
 Serui
 ,
 domum
@@ -3947,6 +4561,7 @@ curato
 aderimus
 crastino
 .
+
 Daet
 .
 Me
@@ -3959,8 +4574,10 @@ plagis
 nuperrimis
 
 
+
 ,
 manent
+
 Recentia
 heu
 me
@@ -3970,8 +4587,10 @@ adeo
 rigidus
 est
 oeconomus
+
 hic
 ,
+
 Etiam
 in
 ijs
@@ -3981,6 +4600,7 @@ praescripta
 contra
 herilia
 .
+
 Nullusque
 huic
 malo
@@ -3990,11 +4610,15 @@ redeat
 utinam
 herus
 &
+
 obutet
+
 Tri
 .
+
 B
 4
+
 Tri
 .
 Seruum
@@ -4004,8 +4628,10 @@ decet
 perferre
 mala
 ,
+
 quanto
 magis
+
 Nos
 qui
 innumera
@@ -4021,17 +4647,22 @@ ualete
 —ACT
 
 
+
+
 II
 .
 SCEN
 .
 II
 .
+
 VS
+
 Octonarij
 ut
 superiores
 .
+
 Detrus
 .
 Comasta
@@ -4040,10 +4671,12 @@ Merimnus
 .
 Tribonius
 .
+
 Nync
 bene
 est
 .
+
 Nunc
 carbasa
 .
@@ -4054,6 +4687,7 @@ Comasta
 clauatus
 ,
 lubet
+
 Videre
 quid
 agat
@@ -4063,8 +4697,10 @@ puto
 animaduertet
 in
 amicum
+
 modo
 .
+
 Com
 .
 Scelesti
@@ -4076,8 +4712,10 @@ plagipatidae
 adhuc
 satin
 liuet
+
 cutis
 ?
+
 Tantisper
 est
 garrire
@@ -4088,6 +4726,7 @@ atterere
 diem
 ocio
 ?
+
 Abite
 ,
 abite
@@ -4105,6 +4744,7 @@ coruos
 ,
 uel
 in
+
 malam
 crucem
 .
@@ -4112,6 +4752,7 @@ Tri
 .
 Oh
 .
+
 Daet
 .
 Ohercules
@@ -4121,6 +4762,7 @@ fuste
 ,
 faxo
 ciusmodi
+
 Ne
 condiat
 carnes
@@ -4130,6 +4772,7 @@ condimine
 Obsequar
 homini
 ,
+
 Blandamque
 frontem
 praeferens
@@ -4139,7 +4782,9 @@ uoluerit
 faxo
 ,
 ut
+
 queam
+
 Redimere
 tot
 plagas
@@ -4150,6 +4795,7 @@ frugi
 ,
 coquendi
 copiam
+
 Mihi
 faciet
 ,
@@ -4162,6 +4808,7 @@ arbitror
 .
 E
 foro
+
 Passerculos
 ,
 ficedulas
@@ -4172,6 +4819,7 @@ lepusculum
 ,
 &
 anseren
+
 Dudum
 attulit
 ,
@@ -4183,6 +4831,7 @@ mihi
 licet
 boni
 .
+
 Veruntamen
 scio
 equidem
@@ -4191,9 +4840,12 @@ herus
 ueniens
 domum
 haec
+
 si
 rescierit
+
 Nos
+
 Nos
 ulmeos
 totos
@@ -4202,6 +4854,7 @@ dabit
 sexcentoplagosque
 faciet
 ,
+
 Quia
 iuniori
 filio
@@ -4209,6 +4862,7 @@ hanc
 occasionem
 dederimus
 .
+
 Inter
 sacrum
 saxumque
@@ -4219,6 +4873,7 @@ auribus
 teneo
 miser
 .
+
 Delibera
 ,
 perpende
@@ -4227,6 +4882,7 @@ utrum
 eligas
 ,
 euadere
+
 Praesens
 malum
 ,
@@ -4236,7 +4892,9 @@ perendinum
 Ex
 misero
 quidem
+
 miserrimum
+
 Te
 isthoc
 die
@@ -4247,6 +4905,7 @@ siue
 foelicißimum
 .
 At
+
 Quid
 ante
 tempus
@@ -4257,6 +4916,7 @@ crucians
 teipsum
 inaniter
 ?
+
 Daetrus
 minister
 erit
@@ -4266,6 +4926,7 @@ bellis
 homunculis
 ,
 malis
+
 Instantibus
 mederier
 licet
@@ -4274,6 +4935,7 @@ futura
 incerta
 sunt
 .
+
 Quin
 etsi
 hero
@@ -4285,6 +4947,7 @@ est
 quid
 haud
 praetexero
+
 Callidus
 ,
 &
@@ -4294,6 +4957,7 @@ excusare
 incusaro
 &
 assentarier
+
 Doctißimus
 .
 Sed
@@ -4302,6 +4966,7 @@ reuortit
 huc
 malicia
 praeditus
+
 Trux
 carnifex
 ,
@@ -4313,10 +4978,13 @@ impetum
 ,
 ita
 torsit
+
 (
 hibuero
 .
+
 ferox
+
 Voltum
 ,
 ast
@@ -4330,21 +4998,27 @@ honorem
 exI
 
 
+
 .
 SCE
 .
 111
 .
+
 I
+
 AC
+
 Tetrametri
 ut
 superiores
 .
+
 Comasta
 .
 Daetrus
 .
+
 JEus
 Daetre
 te
@@ -4355,12 +5029,14 @@ Daet
 hem
 domine
 praesto
+
 sum
 ,
 abutere
 ut
 libet
 .
+
 Com
 .
 Te
@@ -4370,6 +5046,7 @@ abusum
 Asphaltus
 ,
 impurißime
+
 Vti
 libet
 potioribus
@@ -4381,7 +5058,9 @@ dixeram
 ?
 ut
 libet
+
 utere
+
 Dicere
 uolenti
 parcito
@@ -4393,9 +5072,12 @@ parco
 caue
 sis
 amodo
+
 Mihi
+
 B
 5
+
 Mihi
 uerbulo
 aut
@@ -4406,8 +5088,10 @@ Daet
 .
 cati
 cauebimus
+
 amodo
 .
+
 Die
 mi
 patrone
@@ -4419,6 +5103,7 @@ me
 uelis
 ,
 perfecero
+
 Lubens
 .
 Co
@@ -4432,8 +5117,10 @@ mihi
 esse
 morigerum
 .
+
 sed
 bis
+
 Compendium
 dictis
 uolo
@@ -4443,6 +5130,7 @@ flagriones
 hos
 duos
 ,
+
 Quos
 fuste
 deturbaui
@@ -4452,6 +5140,7 @@ aedibus
 usque
 iußibus
 meis
+
 Rebusque
 singulis
 &
@@ -4462,6 +5151,7 @@ obloqui
 Daet
 .
 scio
+
 Hos
 uti
 merebant
@@ -4472,8 +5162,10 @@ expuli
 .
 Daet
 .
+
 merito
 quidem
+
 Com
 .
 Viuarium
@@ -4484,8 +5176,11 @@ contentur
 pisces
 domum
 cras
+
 61
+
 conuchant
+
 Reliquamque
 familiam
 uacantem
@@ -4493,8 +5188,10 @@ amisi
 ad
 opera
 extra
+
 ria
 .
+
 Dij
 boni
 ,
@@ -4507,6 +5204,7 @@ omnis
 infidelis
 est
 .
+
 Te
 unum
 inter
@@ -4517,9 +5215,11 @@ probum
 fidum
 autumo
 ,
+
 cui
 nil
 prius
+
 Herilibus
 bonis
 .
@@ -4532,8 +5232,10 @@ prius
 Com
 .
 paucis
+
 cape
 ,
+
 Sunt
 iuniori
 gnato
@@ -4541,6 +5243,7 @@ herili
 amiculi
 sybaritici
 ,
+
 Asiatici
 ,
 atque
@@ -4549,6 +5252,7 @@ asotici
 quibus
 dapes
 lautißime
+
 Coquas
 oportet
 .
@@ -4563,7 +5267,9 @@ herus
 resciuerit
 
 
+
 ?
+
 Nae
 acerrimas
 poenas
@@ -4573,6 +5279,7 @@ dabimus
 alter
 &
 alteri
+
 Non
 utique
 suffragabitur
@@ -4582,9 +5289,12 @@ admodum
 pelli
 meae
 .
+
 Com
 .
+
 Et
+
 Et
 ego
 admodum
@@ -4595,6 +5305,7 @@ per
 Herculem
 tu
 ignauior
+
 Cuculo
 es
 homo
@@ -4608,6 +5319,7 @@ esse
 foelici
 licet
 ?
+
 De
 pelle
 si
@@ -4620,6 +5332,7 @@ silent
 merces
 meae
 .
+
 Daet
 .
 Ero
@@ -4635,12 +5348,15 @@ sequare
 Daet
 .
 te
+
 (
 rimus
 ?
+
 actutum
 sequor
 .
+
 Pol
 omnium
 quos
@@ -4652,6 +5368,7 @@ deterrimus
 Com
 .
 deterVeh
+
 
 
 tibi
@@ -4667,7 +5384,9 @@ me
 sententiam
 
 
+
 .
+
 Com
 .
 Quam
@@ -4680,7 +5399,9 @@ quos
 uidi
 is
 est
+
 deterrimus
+
 Qui
 respuat
 beatus
@@ -4689,6 +5410,7 @@ esse
 dum
 fuerit
 occasio
+
 Id
 coeperam
 ,
@@ -4699,6 +5421,7 @@ dicer
 Od
 succenseas
 ?
+
 Com
 .
 Haud
@@ -4708,8 +5431,10 @@ consentaneum
 tamen
 facesse
 quae
+
 uolo
 .
+
 Ne
 feceris
 mihi
@@ -4723,7 +5448,9 @@ sequar
 celerime
 
 
+
 :
+
 Nunc
 abijt
 hic
@@ -4733,6 +5460,7 @@ quos
 terra
 sustinet
 uspiam
+
 Deterrimus
 ,
 ridet
@@ -4744,6 +5472,7 @@ dißipat
 ,
 gnatum
 locat
+
 Scortis
 ,
 ferit
@@ -4755,6 +5484,7 @@ luxui
 se
 immersitat
 .
+
 Hinc
 aliquot
 affectos
@@ -4765,7 +5495,9 @@ longe
 aspulit
 
 
+
 ,
+
 Quo
 indulgeat
 licentius
@@ -4773,6 +5505,7 @@ suis
 cum
 herili
 filio
+
 Foedis
 uoluptatibus
 .
@@ -4780,6 +5513,7 @@ At
 ex
 intemperantia
 illius
+
 Mihi
 cumulus
 obtinget
@@ -4788,6 +5522,8 @@ bonorum
 quod
 uoluptate
 liceat
+
+
 
 
 Frui
@@ -4800,7 +5536,9 @@ facinora
 probum
 uiderier
 .
+
 OleOlepida
+
 
 
 fors
@@ -4814,8 +5552,10 @@ est
 ,
 bene
 me
+
 beas
 .
+
 Nunc
 carbasa
 (
@@ -4829,11 +5569,14 @@ frena
 laxa(
 
 
+
 splendide
 .
+
 bo
 Genio
 .
+
 Intro
 sequor
 ,
@@ -4846,6 +5589,7 @@ torreo
 condio
 ,
 apparo
+
 Exit
 Colax
 ad
@@ -4855,18 +5599,22 @@ exigenda
 mire
 accommodus
 .
+
 ACTVS
 II
 SCE
 .
 IIII
 .
+
 Iambici
 senarij
 .
+
 Colax
 solus
 .
+
 Qui
 optimo
 ter
@@ -4874,6 +5622,7 @@ maximo
 habeo
 gratiam
 ,
+
 AMihi
 omnis
 ex
@@ -4881,6 +5630,7 @@ statentia
 res
 prouenit
 ,
+
 Albis
 quadrigis
 cuchor
@@ -4888,6 +5638,7 @@ cuchor
 post
 brumam
 adest
+
 Vernus
 tepor
 ,
@@ -4896,12 +5647,14 @@ hymbrem
 adest
 serenitas
 .
+
 Sub
 inedia
 misero
 opitulatus
 obiter
 est
+
 Comasta
 ,
 praedam
@@ -4911,23 +5664,27 @@ uult
 nactus
 est
 .
+
 Parasitus
 est
 uenatico
 similis
 cani
 .
+
 Cui
 etsi
 feram
 uenator
 eripere
 solet
+
 Edentibus
 quam
 ceperit
 ,
 cibarium
+
 Tamen
 accipit
 panem
@@ -4937,6 +5694,7 @@ suam
 ingluuiem
 expleat
 .
+
 Praedam
 priorem
 domino
@@ -4946,6 +5704,7 @@ hanc
 sibi
 uendicans
 .
+
 Item
 ego
 ,
@@ -4954,6 +5713,7 @@ quas
 prendidi
 oeconomus
 tenet
+
 Sibi
 atque
 hero
@@ -4964,6 +5724,7 @@ epulae
 me
 manent
 .
+
 Verua
 tument
 ,
@@ -4971,12 +5732,14 @@ chytropodes
 exhalant
 focis
 .
+
 Foelicitati
 unum
 deest
 meae
 ,
 utpote
+
 Vnius
 Asoti
 reditus
@@ -4985,7 +5748,9 @@ hunc
 si
 praendero
 ,
+
 Sat
+
 Sal
 praendidi
 .
@@ -4994,6 +5759,7 @@ aduolat
 ne
 Asotus
 huc
+
 Accipitris
 in
 morem
@@ -5002,6 +5768,7 @@ sinistra
 quem
 gerit
 ?
+
 Sine
 appropinquet
 ,
@@ -5010,6 +5777,7 @@ est
 ,
 Asotus
 est
+
 Ipsißimus
 .
 Nunc
@@ -5017,6 +5785,7 @@ incidit
 fera
 ultima
 in
+
 Casses
 meos
 ,
@@ -5025,6 +5794,7 @@ cupieram
 .
 Dij
 boni
+
 Quàm
 uagus
 hic
@@ -5036,6 +5806,7 @@ quam
 indomita
 est
 auis
+
 Nec
 lac
 similius
@@ -5047,6 +5818,7 @@ aqua
 est
 aquae
 ,
+
 Atque
 hic
 aui
@@ -5057,6 +5829,7 @@ Patrem
 (
 auguror
 )
+
 Abijsse
 scit
 ,
@@ -5065,6 +5838,7 @@ id
 dat
 fomitem
 .
+
 Nam
 cum
 domi
@@ -5076,12 +5850,14 @@ plurimum
 .
 Hem
 .
+
 Quid
 arguo
 ,
 cuius
 meam
 dementia
+
 Gulam
 beat
 ?
@@ -5093,107 +5869,136 @@ uidenten
 se
 uidet
 .
+
 VSIISCE
 .
+
 v
 .
+
 ACT
+
 Iambici
 dimetri
 &
 trimetri
 .
+
 Asotus
 .
 Colax
 .
+
 Vis
 ferae
 persimilis
 est
+
 Acatalecti
 .
+
 Luuenta
 lubrica
 &
 uaga
 ,
+
 Nam
 quemadmodum
 saepe
 auolat
+
 Custodis
 auis
 incuria
 ,
+
 Vt
 nunquàm
 eandem
 poßiet
+
 Allicere
 uel
 praehendere
 .
+
 Col
 .
 Vetus
 ista
 cantilena
+
 catalecti
 .
+
 Quadrat
 tuis
 adamußim
+
 Tum
 moribus
 tum
 factis
 .
+
 at
 .
 Iuucnis
 perinde
 lubricus
+
 Acatalecti
 ?
+
 Fuge
+
 Fuge
 fuat
 si
 occasio
 ,
+
 Nec
 patris
 imperium
 obuiet
 ,
+
 Raptatur
 ultro
 quolibet
 ,
+
 Vt
 eius
 ignores
 utas
 ,
+
 Nec
 poßies
 reducere
 .
+
 Catalecti
 .
+
 Col
 .
 Bene
 intulit
 profecto
+
 Ad
 haec
 libens
 ausculto
 .
+
 Acatalecti
 .
+
 3
 .
 Si
@@ -5202,29 +6007,35 @@ delirus
 senexSublatus
 
 
+
 è
 medio
 foret
 ,
+
 Et
 cederet
 mihi
 portio
 ex
+
 Haereditarijs
 bonis
 ,
+
 Beatus
 &
 foelix
 forem
 ,
 &
+
 Liceret
 omne
 quod
 libet
 .
+
 Col
 .
 Quanquam
@@ -5234,6 +6045,7 @@ perlibet
 ,
 tamen
 ,
+
 Adorior
 hunc
 (
@@ -5243,6 +6055,7 @@ proximus
 iam
 comiter
 .
+
 Asote
 salue
 .
@@ -5256,8 +6069,10 @@ Col
 huc
 respice
 .
+
 Aso
 .
+
 Tun
 es
 Colax
@@ -5273,8 +6088,10 @@ Aso
 hem
 ,
 Salue
+
 Colax
 .
+
 Quid
 admodum
 suauis
@@ -5286,6 +6103,7 @@ ego
 ne
 iam
 tibi
+
 Suauior
 sum
 ,
@@ -5294,6 +6112,7 @@ hactenus
 semper
 fui
 ?
+
 Aso
 .
 Videre
@@ -5306,6 +6125,7 @@ dic
 mi
 Colax
 ,
+
 Senem
 ne
 uidisti
@@ -5317,6 +6137,7 @@ Col
 domi
 est
 .
+
 Aso
 .
 Perij
@@ -5331,6 +6152,7 @@ moratur
 in
 ostio
 .
+
 Aso
 .
 Plane
@@ -5342,6 +6164,7 @@ abisse
 rus
 ratus
 .
+
 Col
 .
 Quid
@@ -5353,7 +6176,10 @@ isthanc
 modo
 aerumnam
 .
+
 creeaciè
+
+
 
 
 Aso
@@ -5373,6 +6199,7 @@ non
 rus
 ijt
 ,
+
 In
 praedium
 ,
@@ -5381,6 +6208,7 @@ crastino
 rediturus
 est
 .
+
 Tamen
 domi
 est
@@ -5392,6 +6220,7 @@ Colax
 ?
 Philaetius
 ?
+
 Col
 .
 Non
@@ -5409,16 +6238,19 @@ Col
 non
 est
 .
+
 Aso
 .
 scio
 .
+
 Merimnus
 absenti
 patri
 cupit
 integram
 &
+
 Saluam
 esse
 rem
@@ -5433,6 +6265,7 @@ Aso
 .
 me
 plurimum
+
 Beas
 .
 Col
@@ -5446,6 +6279,7 @@ uterque
 abactus
 est
 .
+
 Aso
 .
 Abactus
@@ -5461,7 +6295,9 @@ pagum
 foras
 
 
+
 .
+
 Aso
 .
 Cometa
@@ -5476,7 +6312,9 @@ habet
 hospitem
 
 
+
 ?
+
 Aso
 .
 Saluae
@@ -5486,6 +6324,7 @@ sunt
 ,
 teruncij
 caeteros
+
 Non
 fecero
 .
@@ -5495,6 +6334,7 @@ quisnam
 sit
 domi
 ,
+
 Qui
 obsit
 mihi
@@ -5512,7 +6352,9 @@ ita
 graecarier
 
 
+
 .
+
 Vtcunque
 calleo
 ,
@@ -5523,6 +6365,7 @@ Col
 .
 μαργαῖνιον
 ,
+
 πλανήσιον
 .
 Aso
@@ -5533,6 +6376,7 @@ Aso
 γλυκὺς
 λόλος
 .
+
 Sed
 age
 ,
@@ -5545,6 +6389,7 @@ Col
 rogas
 ?
 domi
+
 Tuae
 morantur
 te
@@ -5555,6 +6400,7 @@ me
 Asotum
 ?
 Cerberus
+
 Te
 glutiat
 nequißime
@@ -5565,6 +6411,7 @@ at
 te
 mauelim
 ,
+
 Dum
 nuncio
 bona
@@ -5573,6 +6420,7 @@ ne
 diris
 deuoues
 ?
+
 Aso
 .
 Mentiris
@@ -5582,6 +6430,7 @@ hactenus
 mios
 oblitum
 est
+
 Colax
 ?
 An
@@ -5589,6 +6438,7 @@ auis
 eiusmodi
 tibi
 uideor
+
 Impure
 ,
 qui
@@ -5602,7 +6452,9 @@ manum
 .
 Aso
 .
+
 Quid
+
 Quid
 uolt
 dari
@@ -5618,6 +6470,7 @@ haec
 ,
 quam
 supra
+
 Nos
 est
 polus
@@ -5630,6 +6483,7 @@ esurire
 Col
 .
 iam
+
 Non
 admodum
 ,
@@ -5637,6 +6491,7 @@ nam
 illum
 tyrannum
 propuli
+
 Πόρῥ
 tribus
 pernis
@@ -5646,15 +6501,18 @@ adegit
 me
 cruci
 ,
+
 Denuo
 propulsaturus
 hinc
 oῤῥώτερον
+
 Petasonibus
 ,
 πορρωτάτωτʼ
 artocreis
 .
+
 Aso
 .
 Quo
@@ -5664,6 +6522,7 @@ hic
 ingens
 ambitus
 ?
+
 Suspendio
 tenes
 ,
@@ -5671,6 +6530,7 @@ logis
 finem
 face
 .
+
 Col
 .
 Compendio
@@ -5680,11 +6540,13 @@ Senex
 abest
 domo
 ,
+
 Occonomus
 aspulit
 familiam
 tetricam
 ,
+
 Venatum
 abegit
 me
@@ -5692,12 +6554,14 @@ me
 O
 lepusculos
 tibi
+
 Pulposulos
 modo
 praendidi
 ,
 Planesium
 ,
+
 Margaenium
 ,
 feras
@@ -5706,6 +6570,7 @@ id
 genus
 alias
 .
+
 Quicquid
 gulam
 aut
@@ -5714,6 +6579,7 @@ allicere
 solet
 ,
 domum
+
 Comasta
 comportauit
 ,
@@ -5721,6 +6587,7 @@ comportauit
 Daetrus
 coquit
 .
+
 Vinum
 ,
 iocus
@@ -5730,6 +6597,7 @@ risus
 salesque
 affluxerint
 .
+
 Aso
 .
 O
@@ -5744,6 +6612,7 @@ est
 sunt
 res
 meae
+
 Fultae
 .
 Sat
@@ -5754,6 +6623,7 @@ eamus
 intrò
 ,
 nam
+
 Ardet
 uidere
 corculum
@@ -5761,6 +6631,7 @@ quae
 dixti
 .
 Ament
+
 Te
 Dij
 Colax
@@ -5772,6 +6643,7 @@ ex
 re
 est
 sedulo
+
 Curas
 ,
 meminero
@@ -5779,6 +6651,7 @@ dum
 sinent
 fortunulae
 .
+
 Sequere
 .
 Col
@@ -5789,6 +6662,7 @@ grunnire
 uenter
 occipit
 ,
+
 Tu
 cantilenam
 prosequere
@@ -5796,10 +6670,12 @@ prosequere
 quam
 coeperas
 .
+
 Acatalecti
 .
 Iam
 .
+
 4
 .
 As
@@ -5808,16 +6684,20 @@ Cum
 bellulis
 homunculis
 .
+
 Et
 candidis
 puellulis
+
 Porrigere
 frontem
 si
 libet
 ,
+
 Id
 proId
+
 
 
 propter
@@ -5825,6 +6705,7 @@ inopiam
 haud
 licet
 .
+
 Soluendum
 enim
 dum
@@ -5832,10 +6713,12 @@ in
 symbolo
 est
 ,
+
 Vbique
 zonam
 perdidi
 .
+
 Col
 .
 Id
@@ -5843,11 +6726,13 @@ mihi
 accidit
 frequenter
 ,
+
 Cum
 non
 eram
 soluendo
 .
+
 .
 5
 .
@@ -5857,50 +6742,63 @@ Iccirco
 patrem
 accessero
 ,
+
 Rogaueroque
 ut
 impleat
+
 Meam
 aureis
 crumenulam
 .
+
 Catalecti
 .
+
 Acatalecti
 .
+
 Si
 fors
 mihi
 id
 negauerit
 ,
+
 Remhaereditariam
 petam
+
 Mihi
 diuidi
 ,
 atque
 abiuero
 .
+
 catalecti
 .
+
 Col
 .
 Mentis
 suae
 secundum
+
 Vagam
 indolem
 canendo
 ,
+
 Fugam
 fugax
 meditatur
 ,
+
 Ni
 consequatur
 uotum
 .
+
 Aso
 .
 Sequere
@@ -5917,8 +6815,10 @@ ostium
 .
 Col
 .
+
 sequor
 .
+
 Monet
 ipsa
 res
@@ -5927,139 +6827,173 @@ nident
 culine
 opsonia
 .
+
 CHUORVS
 Iambico
 dimetro
 .
+
 TAnaekiuentus
 &
 uaga
 ,
+
 Salax
 ,
 petulca
 ,
 lubrica
 .
+
 A
 pecude
 ni
 coëerceas
 ,
+
 Post
 paululum
 nil
 differet
 .
+
 Sola
 est
 uoluptas
 cui
 studet
 ,
+
 Sola
 est
 libido
 quam
 cupit
 ,
+
 ScortaScortari
+
 
 
 ,
 inebriarier
+
 Noctes
 diesque
 nititur
 .
+
 Tam
 caecus
 est
 ephebi
 amor
 ,
+
 Peruersus
 ,
 improbus
 ,
 impius
 ,
+
 Vt
 iactet
 id
 potißimum
 ,
+
 Vnde
 erubescat
 maxime
 .
+
 Sua
 stupra
 clancularia
 ,
+
 Furtum
 ,
 dolum
 adolescentuli
 ,
+
 Quantumlibet
 pudenda
 sint
 ,
+
 Celebrant
 ,
 honestant
 ,
 efferunt
 .
+
 Quapropter
 hanc
 licentiam
+
 Oportet
 esse
 coërcitam
 ,
+
 Alioqui
 ephebos
 criminum
+
 Tandem
 in
 barathrum
 merserit
 .
+
 Nam
 quodlibet
 malum
 ,
 cui
+
 Non
 initio
 resistitur
 ,
+
 In
 omne
 paßim
 flagitium
+
 Peius
 priore
 pertrahit
 .
+
 ACT
+
 1
 .
+
 VS
 .
+
 SCE
 .
+
 III
 .
+
 Iambici
 Senarij
 .
+
 Cometa
 uillicus
 solus
 .
+
 Andata
 herilia
 uix
@@ -6067,6 +7001,7 @@ quidem
 quae
 tuta
 sunt
+
 LSolent
 inertes
 aggredi
@@ -6074,6 +7009,7 @@ aggredi
 &
 nihilo
 minus
+
 Cum
 hero
 suo
@@ -6084,24 +7020,29 @@ ad
 oculum
 fecerint
 ,
+
 Pro
 praemij
 retributione
 expostulant
 .
+
 Fidos
+
 Fidos
 probosque
 se
 arbitrantes
 seruulos
 ,
+
 Veruntamen
 multo
 secus
 ego
 censeo
 .
+
 Nam
 fidum
 ego
@@ -6111,6 +7052,7 @@ autumò
 ,
 domini
 sui
+
 Qui
 iussa
 sedulo
@@ -6118,6 +7060,7 @@ facessit
 ,
 &
 aspera
+
 Perinde
 fert
 ac
@@ -6126,6 +7069,7 @@ prospera
 haud
 tamen
 arroget
+
 Sibi
 meritum
 ,
@@ -6134,12 +7078,14 @@ inutilem
 usque
 tudicet
 ,
+
 Totusque
 herili
 ex
 gratia
 dependeat
 ,
+
 Me
 scio
 equidem
@@ -6148,6 +7094,7 @@ scio
 uérbera
 atque
 opprobria
+
 Manent
 ab
 oeconomo
@@ -6156,6 +7103,7 @@ domi
 nam
 aegre
 feret
+
 Se
 deprehendi
 ac
@@ -6163,6 +7111,7 @@ reprehendi
 ,
 herum
 quoque
+
 Lento
 gradu
 meum
@@ -6170,6 +7119,7 @@ assequi
 ad
 uestigium
 ,
+
 Non
 suspicabitur
 ,
@@ -6180,6 +7130,7 @@ in
 mę
 seuiet
 .
+
 Verum
 imperium
 herile
@@ -6187,6 +7138,7 @@ exequi
 est
 sententia
 .
+
 Visam
 quid
 actitet
@@ -6194,6 +7146,7 @@ domi
 ,
 num
 dißipet
+
 (
 Vt
 detulit
@@ -6202,28 +7155,33 @@ Tribonius
 domini
 bona
 .
+
 Ne
 callida
 eludat
 uafricie
 simplices
+
 Senis
 oculos
 .
 Coarguent
 nequam
 scio
+
 Tribonium
 ,
 quasi
 egerit
 iniquißime
 ,
+
 Factus
 sui
 commilitionis
 proditor
 .
+
 Sed
 ego
 uirum
@@ -6231,6 +7189,7 @@ fecisse
 recte
 existimo
 .
+
 Nam
 te
 infidelem
@@ -6240,6 +7199,7 @@ esse
 quo
 seruo
 malo
+
 Sis
 propitius
 ,
@@ -6249,6 +7209,7 @@ conuenit
 minime
 expedit
 .
+
 Sed
 ostium
 crepit
@@ -6257,26 +7218,35 @@ uidebo
 quis
 excat
 .
+
 11
 .
+
 IIS
 CIE
 .
+
 S3
+
 ACT
+
 Trimetri
 ut
 superiores
 .
+
 Colax
 .
+
 c
+
 Colax
 .
 Comasta
 .
 Cometa
 :
+
 Arare
 uina
 animos
@@ -6284,6 +7254,7 @@ solent
 ,
 (
 quemadmodum
+
 Cecinit
 poëta
 )
@@ -6292,18 +7263,21 @@ mihi
 secus
 accidit
 .
+
 Quantumlibet
 uentrem
 meum
 uino
 oppleam
 ,
+
 Nihilo
 minus
 labascit
 animus
 impotens
 ,
+
 Et
 prorpter
 aduentum
@@ -6311,6 +7285,7 @@ senis
 cor
 palpitat
 ,
+
 Nutant
 gradus
 ,
@@ -6320,6 +7295,7 @@ tremunt
 pallent
 genae
 .
+
 Sed
 &
 pauor
@@ -6327,6 +7303,7 @@ subitariam
 urinam
 exciet
 .
+
 Papae
 ,
 malo
@@ -6336,6 +7313,7 @@ sum
 diem
 hunc
 .
+
 In
 foribus
 est
@@ -6347,6 +7325,7 @@ quid
 occipit
 loqui
 hic
+
 Scelestus
 ?
 Col
@@ -6357,10 +7336,12 @@ te
 uolo
 ,
 adesdum
+
 Coma
 .
 ut
 hic
+
 Nequißimus
 bacchatur
 ecquid
@@ -6372,8 +7353,10 @@ malum
 .
 Com
 .
+
 hui
 .
+
 Col
 .
 Perimus
@@ -6387,6 +7370,7 @@ inquam
 Col
 .
 hen
+
 me
 .
 Coma
@@ -6394,6 +7378,7 @@ Coma
 quid
 est
 ?
+
 Col
 .
 Vbi
@@ -6403,11 +7388,13 @@ domus
 ,
 in
 culmine
+
 Sedit
 sinistrae
 clamitans
 minaciter
 ,
+
 Rostroque
 teglas
 uellicans
@@ -6415,6 +7402,7 @@ cornix
 .
 quid
 hoc
+
 Portendit
 aliud
 ,
@@ -6427,12 +7415,14 @@ aut
 tua
 ,
 aut
+
 Vtriusque
 nostrum
 uellicanda
 sit
 cutis
 ?
+
 Coma
 .
 O
@@ -6441,6 +7431,7 @@ lepore
 ,
 num
 cornicula
+
 Teterret
 unica
 ?
@@ -6451,23 +7442,28 @@ nec
 noctuae
 ,
 aut
+
 Cornicularum
 mille
 me
 deterreant
 .
+
 Adeon
 superstitiosus
 es
 ,
 ut
 anilibus
+
 tiis
+
 uis
 fabulis
 attonitus
 expauesceres
 ?
+
 Ades
 ,
 fruere
@@ -6475,6 +7471,7 @@ praesentibus
 ,
 futura
 nanque
+
 Incerta
 sunt
 ,
@@ -6487,6 +7484,7 @@ redibo
 at
 palpitans
 .
+
 Certe
 hoc
 uiro
@@ -6495,6 +7493,7 @@ in
 orbe
 confidentior
 ,
+
 Qui
 homines
 ueretur
@@ -6502,6 +7501,7 @@ neutiquàm
 ,
 nec
 percita
+
 Ira
 expauescit
 numina
@@ -6510,6 +7510,7 @@ at
 uero
 obsequar
 .
+
 Come
 .
 Nisi
@@ -6518,6 +7519,7 @@ Comasta
 sit
 coërcitus
 ,
+
 Res
 nostra
 pessum
@@ -6525,10 +7527,12 @@ ibit
 domestica
 .
 quia
+
 Hoc
 homine
 confidentiorem
 neminem
+
 Puto
 esse
 in
@@ -6538,12 +7542,14 @@ nec
 usquàm
 gentium
 .
+
 Mediusfidius
 ipse
 Parasitus
 iustus
 est
 ,
+
 Si
 conferatur
 oeconomo
@@ -6553,24 +7559,32 @@ ego
 rinc
 sequor
 ,
+
 Clausum
 ostium
 est
 ,
 ualidissime
 pulsauero
+
 121
 .
+
 SIII
 .
 SCE
+
 A
+
 C7
+
 Senarij
 .
+
 Cometa
 solus
 .
+
 Eus
 heus
 ,
@@ -6581,20 +7595,24 @@ est
 quis
 aperiet
 ostium
+
 hoc
 ?
+
 Obe
 domus
 plena
 est
 ligurientium
 ,
+
 Bacchantium
 quoque
 ,
 &
 meretricantium
 .
+
 Nemo
 audit
 ,
@@ -6604,6 +7622,7 @@ mihi
 ostium
 hoc
 ?
+
 Merimne
 ,
 Daetre
@@ -6615,17 +7634,20 @@ Triboni
 nullus
 est
 ?
+
 Vt
 nulla
 deferentium
 suspicio
 sit
 ,
+
 Validius
 aliud
 ostium
 pulsauero
 ,
+
 Penitißimum
 quod
 ducit
@@ -6634,7 +7656,9 @@ domus
 locum
 .
 heus
+
 ReRecludite
+
 
 
 ,
@@ -6647,6 +7671,7 @@ nec
 sensus
 est
 .
+
 Quid
 ab
 Dij
@@ -6657,6 +7682,7 @@ quid
 agitur
 hic
 ?
+
 Clamo
 ,
 reclamo
@@ -6665,6 +7691,7 @@ pulsito
 ,
 repulsito
 ,
+
 Vt
 non
 modo
@@ -6674,12 +7701,14 @@ quati
 sed
 &
 domue
+
 Nutare
 fundamenta
 uideantur
 ,
 nec
 est
+
 Qui
 exaudiat
 respondeatue
@@ -6687,12 +7716,14 @@ respondeatue
 at
 una
 uox
+
 Est
 omnium
 bacchantium
 &
 heluantium
 ,
+
 Risus
 ,
 iocus
@@ -6700,6 +7731,7 @@ iocus
 festiuitas
 tractantur
 in
+
 Penetralibus
 .
 Comasta
@@ -6707,6 +7739,7 @@ hero
 inibi
 herilior
 .
+
 Vocabo
 tandem
 ex
@@ -6716,6 +7749,7 @@ heus
 Comasta
 .
 ohe
+
 Exaudiunt
 ,
 nam
@@ -6724,6 +7758,7 @@ mußitant
 ut
 musculi
 .
+
 Taciti
 silent
 .
@@ -6731,6 +7766,7 @@ Prorutipet
 huc
 foras
 latro
+
 Furibundus
 ac
 temulentus
@@ -6739,6 +7775,7 @@ Atqui
 nondum
 adest
 ,
+
 Quid
 nunc
 moratur
@@ -6748,6 +7785,7 @@ nihil
 non
 suspicor
 .
+
 Num
 scorta
 clam
@@ -6757,6 +7795,7 @@ abdita
 ?
 neutiquàm
 ,
+
 Nam
 audentior
 ,
@@ -6766,6 +7805,7 @@ adhuc
 Comasta
 adesdum
 ,
+
 Adesdum
 ,
 adesdum
@@ -6774,6 +7814,7 @@ quid
 moraris
 flagrio
 ?
+
 Non
 dubito
 quin
@@ -6782,6 +7823,7 @@ rideat
 ,
 ea
 praeditus
+
 Petulantia
 est
 ,
@@ -6789,6 +7831,7 @@ conuicio
 tritandus
 est
 .
+
 Exi
 è
 latibulo
@@ -6796,11 +7839,13 @@ mastygia
 citus
 foras
 .
+
 Egredere
 pernicies
 herilis
 aedibus
 .
+
 Exi
 è
 culina
@@ -6810,31 +7855,40 @@ ccquid
 adhuc
 lates
 ?
+
 Quin
 aduolas
 ?
 his
 credo
 prouocabitur
+
 Sermonibus
 .
+
 ACTVS
 III
 SCENA
+
 LLII
 .
+
 SenaSenarij
 
 
+
 .
+
 Comasta
 Cometa
 .
+
 Vid
 hic
 tibi
 clamatio
 est
+
 (
 Pro
 his
@@ -6843,6 +7897,7 @@ scelus
 ?
 putas
 uersarier
+
 Ruri
 ,
 tuoue
@@ -6850,6 +7905,7 @@ in
 sterquilinio
 sordido
 ?
+
 Abi
 frutex
 ,
@@ -6863,6 +7919,7 @@ Come
 .
 heu
 .
+
 Coma
 .
 Hoccine
@@ -6877,7 +7934,9 @@ quid
 uerberas
 
 
+
 ?
+
 Coma
 .
 Quia
@@ -6890,8 +7949,10 @@ patiar
 ,
 sine
 adueniat
+
 senex
 .
+
 Senem
 sine
 aduenire
@@ -6900,6 +7961,7 @@ quem
 absentuem
 comes
 ,
+
 Tuurbane
 scurra
 ,
@@ -6907,6 +7969,7 @@ libidinum
 fomes
 ,
 mihi
+
 Rus
 obijcis
 ?
@@ -6914,6 +7977,7 @@ post
 pauculas
 horas
 caue
+
 Numerum
 in
 crucibus
@@ -6921,6 +7985,7 @@ arentium
 ruri
 auxeris
 .
+
 Nunc
 dum
 tibi
@@ -6932,17 +7997,20 @@ bibe
 ,
 perde
 rem
+
 Domesticam
 ,
 corrumpe
 herilem
 filium
 ,
+
 Merctriculas
 accerse
 ,
 pasce
 inertium
+
 Gregem
 heluonum
 ,
@@ -6950,11 +8018,13 @@ una
 agite
 pollucibiliter
 ,
+
 Totos
 dies
 noctesque
 pergraecamini
 .
+
 Isthaec
 ne
 mandauit
@@ -6964,6 +8034,7 @@ cum
 abijt
 senex
 ?
+
 Hoccine
 statu
 offendet
@@ -6971,6 +8042,7 @@ repositam
 rem
 suam
 ?
+
 Hoccinc
 boni
 serui
@@ -6978,12 +8050,14 @@ esse
 officium
 existimas
 ,
+
 Vt
 filium
 corrumpat
 absenti
 patre
 ?
+
 Corruptum
 eum
 duco
@@ -6993,16 +8067,21 @@ ijs
 studet
 artibus
 ,
+
 Quibus
 eruditur
 ex
 magisterio
 tuo
 .
+
 Coma
 .
+
 c
+
 4
+
 Coma
 .
 Quia
@@ -7015,8 +8094,10 @@ quid
 ego
 agam
 curatio
+
 est
 ?
+
 An
 nontibi
 curanda
@@ -7024,6 +8105,7 @@ ruri
 pecora
 sunt
 ?
+
 Potare
 ,
 amare
@@ -7034,6 +8116,7 @@ ducere
 animus
 est
 ,
+
 Mei
 fit
 hoc
@@ -7042,6 +8125,7 @@ haud
 tui
 fiducia
 .
+
 Come
 .
 Quam
@@ -7051,6 +8135,7 @@ pocula
 modo
 perstrepit
 .
+
 Coma
 .
 Te
@@ -7061,12 +8146,14 @@ omnes
 ,
 abi
 .
+
 Tetrum
 allium
 germana
 colluuies
 oles
 .
+
 Come
 .
 Non
@@ -7076,6 +8163,7 @@ unguenta
 olere
 exotica
 ,
+
 Neque
 uescier
 tecum
@@ -7083,12 +8171,14 @@ opiparis
 dapibus
 ,
 tibi
+
 Tuos
 habeto
 turtures
 ,
 ficedulas
 ,
+
 Passerculos
 ,
 &
@@ -7097,6 +8187,7 @@ genus
 alias
 aues
 .
+
 Sine
 me
 alliatum
@@ -7106,6 +8197,7 @@ fruge
 contentum
 mea
 ,
+
 Fidum
 esse
 hero
@@ -7117,6 +8209,7 @@ beatus
 ego
 miser
 .
+
 Coma
 .
 Bene
@@ -7126,7 +8219,9 @@ quod
 est
 dignißimum
 .
+
 6
+
 Decet
 me
 amare
@@ -7136,6 +8231,7 @@ te
 bubulcitare
 ,
 me
+
 Quoque
 uictitare
 splendide
@@ -7143,6 +8239,7 @@ splendide
 teque
 misere
 .
+
 Abi
 ,
 caue
@@ -7152,6 +8249,7 @@ esse
 rus
 abi
 .
+
 Come
 .
 Non
@@ -7162,6 +8260,7 @@ licet
 modo
 oporteat
 .
+
 Coma
 .
 Sapit
@@ -7173,6 +8272,7 @@ quod
 loquor
 floccifacit
 .
+
 Nam
 abactus
 est
@@ -7184,6 +8284,7 @@ Sed
 nos
 quid
 hic
+
 Sordidus
 inexpectatus
 obruit
@@ -7192,6 +8293,7 @@ an
 hero
 (
 id
+
 Quod
 suspicor
 )
@@ -7199,6 +8301,7 @@ dolosus
 explorator
 est
 ?
+
 Vaeh
 tergori
 ,
@@ -7207,6 +8310,7 @@ gutturi
 meo
 .
 Attamen
+
 Hic
 caecior
 talpa
@@ -7215,6 +8319,7 @@ atque
 pilo
 obtusior
 ,
+
 Vt
 atrum
 ex
@@ -7223,7 +8328,9 @@ uix
 queat
 discernere
 .
+
 HomiHominem
+
 
 
 probe
@@ -7233,6 +8340,7 @@ herus
 si
 resciat
 ,
+
 Nihilque
 in
 his
@@ -7240,6 +8348,7 @@ non
 comminiscier
 licet
 .
+
 Regrediar
 intrò
 ,
@@ -7247,6 +8356,7 @@ sint
 suae
 curae
 omnibus
+
 Curantibus
 .
 Quid
@@ -7257,6 +8367,7 @@ intus
 est
 tumulti
 ?
+
 Inclamitant
 Diuos
 .
@@ -7265,6 +8376,7 @@ quid
 hoc
 mali
 ?
+
 An
 (
 ut
@@ -7275,6 +8387,7 @@ pugna
 pro
 mulieribus
 ?
+
 Celerius
 haec
 dirimenda
@@ -7283,20 +8396,27 @@ ne
 gliscat
 malum
 .
+
 1IL
 .
 SCE
 .
+
 V
 .
+
 ACTV
 .
+
 S
+
 Trimetri
 .
+
 Cometa
 solus
 .
+
 Qid
 concito
 cursu
@@ -7305,16 +8425,19 @@ domun
 urruit
 latro
 ?
+
 Quid
 ciulatio
 atque
 deprecatio
+
 Cruciumque
 uerborumque
 ?
 per
 posticulam
 ne
+
 Herus
 ,
 hos
@@ -7323,6 +8446,7 @@ in
 facto
 opprimat
 ,
+
 Ingressus
 est
 ?
@@ -7330,6 +8454,7 @@ suopte
 more
 neutiquàm
 .
+
 Reuortar
 hac
 ,
@@ -7338,6 +8463,7 @@ fors
 mihi
 indignabitur
 ,
+
 (
 Si
 intus
@@ -7349,6 +8475,7 @@ huic
 dederim
 λόθων
 .
+
 Spurcißimo
 .
 Ipsus
@@ -7357,6 +8484,7 @@ senex
 ,
 mirum
 quidem
+
 Qui
 tantum
 itineris
@@ -7365,6 +8493,7 @@ est
 hora
 breui
 .
+
 Vrgebat
 hercle
 negocium
@@ -7372,6 +8501,7 @@ negocium
 quod
 &
 addidit
+
 Vires
 senectuti
 .
@@ -7380,11 +8510,13 @@ est
 certo
 senex
 .
+
 Nam
 amarulentis
 gemitibus
 uox
 illius
+
 Singultit
 ,
 &
@@ -7392,18 +8524,23 @@ Philaetif
 uox
 acrior
 .
+
 Eccas
 ,
 propelluntur
 foras
 Margeniun
 &
+
 Planesium
 meretricule
 &
 uuenculus
 .
+
 Aso5
+
+
 
 
 Asotus
@@ -7413,6 +8550,7 @@ utrisque
 luctus
 est
 .
+
 Procedam
 ut
 audiam
@@ -7420,6 +8558,7 @@ audiam
 atque
 consulam
 probe
+
 (
 Si
 quiuero
@@ -7428,15 +8567,19 @@ bonae
 adolescentis
 indoli
 .
+
 ACTVS
 IIJ
 .
 SCE
 .
+
 VI
 .
+
 Senarij
 .
+
 Mergenium
 .
 Planesium
@@ -7445,6 +8588,7 @@ Asotus
 .
 Cometa
 .
+
 JEudura
 sors
 .
@@ -7458,6 +8602,7 @@ o
 dij
 ,
 ut
+
 Faedata
 cutis
 è
@@ -7469,6 +8614,7 @@ As
 ah
 dolor
 .
+
 Mar
 .
 Quid
@@ -7479,6 +8625,7 @@ ingemis
 ?
 uide
 us
+
 Mea
 tumida
 est
@@ -7486,6 +8633,7 @@ liuetque
 uerberibus
 cutis
 .
+
 Nec
 me
 piget
@@ -7495,6 +8643,7 @@ nec
 sordere
 ,
 nec
+
 Plagarier
 ,
 tuo
@@ -7503,12 +8652,14 @@ amore
 mel
 meum
 .
+
 Te
 pudeat
 ob
 puluisculum
 qui
 adhaeserit
+
 Vestitui
 ,
 aut
@@ -7516,6 +8667,7 @@ cultum
 imminutum
 conqueri
 .
+
 Pla
 .
 Quis
@@ -7525,6 +8677,7 @@ quod
 uoce
 suggilles
 meum
+
 In
 amicum
 amorem
@@ -7535,6 +8688,7 @@ sibi
 te
 elegerit
 ,
+
 Ductauerit
 ,
 &
@@ -7544,6 +8698,7 @@ Sile
 olida
 sus
 .
+
 Mar
 .
 Quin
@@ -7553,6 +8708,7 @@ cloaca
 susque
 morbida
 ,
+
 Cui
 praeter
 hanc
@@ -7564,6 +8720,7 @@ latus
 ,
 inguina
 ,
+
 Et
 corporis
 alia
@@ -7571,12 +8728,14 @@ membra
 purulenta
 sunt
 ,
+
 Infecta
 morbo
 qui
 solet
 celaricr
 .
+
 Pla
 .
 Tun
@@ -7589,6 +8748,7 @@ Mar
 quin
 audeam
 ?
+
 Et
 menstruosam
 .
@@ -7599,6 +8759,7 @@ ne
 dices
 morbidam
 ,
+
 Me
 menstruosam
 ?
@@ -7607,6 +8768,7 @@ morbida
 haec
 ,
 ueneficam
+
 Te
 his
 uerberat
@@ -7616,8 +8778,10 @@ pugnis
 ungue
 uellicat
 .
+
 Mar
 .
+
 Mar
 .
 Id
@@ -7627,6 +8791,7 @@ egeris
 .
 Tu
 foedior
+
 Quouis
 cadauere
 ,
@@ -7634,6 +8799,7 @@ atque
 coeno
 obscoenior
 ,
+
 Tu
 caederes
 ?
@@ -7642,6 +8808,7 @@ disce
 pugnis
 caedere
 ,
+
 Sic
 disce
 pugnis
@@ -7650,6 +8817,7 @@ caedere
 sic
 uellica
 .
+
 Come
 .
 Non
@@ -7658,6 +8826,7 @@ quod
 usquàm
 gentium
 intuerier
+
 malim
 ,
 calyptra
@@ -7667,11 +8836,13 @@ pepla
 uittae
 deuolant
 .
+
 Passos
 capillos
 manipulatim
 uellicant
 ,
+
 Hic
 ludus
 est
@@ -7680,6 +8851,7 @@ meretricius
 .
 Adit
 .
+
 Asotus
 ,
 huic
@@ -7689,6 +8861,7 @@ horum
 curae
 erit
 .
+
 Sequester
 est
 profecto
@@ -7696,6 +8869,7 @@ profecto
 prelia
 dirimit
 .
+
 Aso
 .
 Nolite
@@ -7704,6 +8878,7 @@ me
 propter
 altercarier
 ,
+
 Namutraque
 mihi
 ut
@@ -7713,6 +8888,7 @@ ita
 Lharißima
 est
 .
+
 Faxo
 in
 malis
@@ -7722,6 +8898,7 @@ sociae
 bonis
 fruamini
 .
+
 Mar
 .
 Men
@@ -7734,6 +8911,7 @@ tibi
 ero
 ludibrio
 ?
+
 Aso
 ,
 Quiescite
@@ -7742,6 +8920,7 @@ etsi
 coepta
 nostra
 negocia
+
 Turbata
 sunt
 ,
@@ -7750,6 +8929,7 @@ tandem
 si
 uolet
 .
+
 Meliora
 erunt
 ,
@@ -7759,6 +8939,7 @@ patre
 recedendum
 erit
 ,
+
 Qui
 offensus
 his
@@ -7766,6 +8947,7 @@ grauißime
 ,
 poenas
 graues
+
 De
 singulis
 sumpturus
@@ -7774,11 +8956,13 @@ est
 in
 me
 quoque
+
 Forte
 omnium
 grauißime
 animaduorterit
 ,
+
 Siin
 ipso
 ei
@@ -7786,6 +8970,7 @@ primo
 furore
 occurrero
 .
+
 Valcte
 amiculae
 .
@@ -7800,6 +8985,7 @@ uile
 .
 Come
 .
+
 Asote
 Asote
 .
@@ -7812,6 +8998,7 @@ Come
 quin
 respicis
 ?
+
 Me
 sequęre
 ,
@@ -7821,6 +9008,7 @@ causa
 camus
 quolibet
 .
+
 Aso
 .
 Non
@@ -7836,9 +9024,12 @@ heuete
 sequor
 
 
+
 .
+
 acr
 .
+
 ACTVS
 III
 .
@@ -7846,13 +9037,17 @@ SCE
 .
 VII
 .
+
 Ianbici
 tetrametr
 .
+
 Thryptus
 .
+
 Eumenius
 .
+
 TEu
 Thrypte
 selan
@@ -7862,14 +9057,17 @@ ut
 lassus
 quesca
 .
+
 nam
 domus
+
 Infusa
 Baccho
 odore
 longe
 olet
 teterrimo
+
 Epulantium
 bacchanttumque
 .
@@ -7877,6 +9075,8 @@ Prob
 dolor
 quod
 inhomea
+
+
 
 
 Congesserim
@@ -7887,8 +9087,10 @@ at
 edantur
 his
 lurcos
+
 nibus
 ,
+
 ueretricibus
 ,
 scortantibusque
@@ -7898,8 +9100,10 @@ dour
 ,
 quod
 hec
+
 domus
 ,
+
 Quam
 semper
 hactenus
@@ -7908,6 +9112,7 @@ fuuisse
 uurtutam
 liquet
 .
+
 In
 ganeum
 atque
@@ -7916,6 +9121,7 @@ conuersa
 sit
 ,
 quandoquidem
+
 Nisi
 modo
 rescissem
@@ -7925,6 +9131,7 @@ labem
 intulissent
 maximam
 .
+
 Hoccine
 fidelium
 est
@@ -7933,6 +9140,7 @@ seruorum
 ,
 herilem
 filium
+
 Absente
 hero
 corrumpere
@@ -7941,6 +9149,7 @@ suppellectilem
 pessum
 dare
 ,
+
 Caesis
 domus
 meae
@@ -7949,6 +9158,7 @@ expulsis
 probis
 uernaculis
 ,
+
 Ductare
 scorta
 ,
@@ -7957,6 +9167,7 @@ lenones
 ,
 gregemque
 inducere
+
 Parasiticum
 ,
 &
@@ -7966,6 +9177,7 @@ furta
 rerum
 creditarum
 singulos
+
 Oppleido
 pascere
 ?
@@ -7974,12 +9186,15 @@ quetò
 mihi
 animo
 fereò
+
 parcam
 .
 Puer
+
 da
 sunt
 ?
+
 In
 hunc
 ne
@@ -7988,6 +9203,7 @@ gregem
 animaduortero
 ?
 haul
+
 Fer
 ocyus
 sellam
@@ -7999,6 +9215,7 @@ nam
 oppidò
 lassata
 sun
+
 Membra
 mea
 stando
@@ -8010,7 +9227,9 @@ cundo
 redeundo
 ,
 die
+
 Toto
+
 Toto
 .
 Haud
@@ -8021,6 +9240,7 @@ uel
 minuto
 temporis
 .
+
 Th
 .
 En
@@ -8034,6 +9254,7 @@ sede
 quisce
 paululum
 .
+
 Vin
 adferam
 quo
@@ -8045,8 +9266,10 @@ potus
 ?
 Eu
 .
+
 mane
 .
+
 Thr
 .
 Praeterijt
@@ -8061,7 +9284,9 @@ puer
 ,
 sed
 hoc
+
 die
+
 Neque
 pane
 uescar
@@ -8073,7 +9298,9 @@ uinum
 priusquam
 in
 in
+
 pios
+
 Therapontas
 animaduorterim
 .
@@ -8081,6 +9308,7 @@ Producite
 illos
 huc
 foras
+
 Lorarij
 ,
 quo
@@ -8092,18 +9320,24 @@ producite
 .
 Thr
 .
+
 heu
 .
+
 VSIIISCE
 .
 VIII
 .
+
 A
+
 C7
+
 Octonarij
 ut
 superiores
 .
+
 Lorarij
 .
 Eumentus
@@ -8114,6 +9348,7 @@ Detrus
 .
 colax
 .
+
 TTiiusseras
 ,
 Comasta
@@ -8124,7 +9359,9 @@ tuo
 discrimine
 
 
+
 aut
+
 Plectendus
 ,
 aut
@@ -8137,6 +9374,7 @@ hem
 quid
 ausus
 es
+
 Contaminare
 aedeis
 meas
@@ -8145,6 +9383,7 @@ nefande
 spurcitie
 tua
 &
+
 Scortis
 tuis
 ,
@@ -8154,6 +9393,7 @@ pro
 tua
 libinde
 ,
+
 Praeterque
 abusum
 ,
@@ -8162,6 +9402,7 @@ furarier
 ,
 baccharier
 ,
+
 Scortarier
 quoque
 ,
@@ -8171,6 +9412,7 @@ sceleris
 pudendi
 omittere
 ?
+
 Quid
 poteris
 his
@@ -8182,8 +9424,10 @@ quid
 obmutescis
 
 
+
 ,
 &
+
 Quid
 concidit
 uultus
@@ -8194,10 +9438,13 @@ mußitas
 ?
 responde
 .
+
 Coma
 .
 ita
+
 Quia
+
 Quia
 libitum
 erat
@@ -8211,9 +9458,11 @@ sunt
 ,
 quae
 mere
+
 ri
 gratiam
 aut
+
 Veniam
 queant
 ,
@@ -8223,6 +9472,7 @@ iram
 indignationem
 prouocent
 .
+
 Coma
 .
 Iniquitas
@@ -8234,8 +9484,10 @@ quàm
 ut
 fata
 mortis
+
 deprecer
 .
+
 Eu
 .
 Te
@@ -8250,7 +9502,9 @@ Ob
 scelera
 
 
+
 tua
+
 Penesque
 nostra
 in
@@ -8258,6 +9512,7 @@ mancipia
 proterua
 priuilegia
 ,
+
 Te
 morte
 dignum
@@ -8267,6 +9522,7 @@ plectendum
 horrida
 poena
 crucis
+
 Pronuncio
 .
 Clangat
@@ -8280,9 +9536,11 @@ sic
 separas
 me
 ami
+
 ra
 mors
 ?
+
 Lor
 .
 O
@@ -8297,8 +9555,10 @@ abducitis
 peristis
 
 
+
 .
 Huc
+
 Adducite
 alterum
 ,
@@ -8307,7 +9567,9 @@ etenim
 omnem
 semel
 domum
+
 meam
+
 Purgarier
 .
 Lor
@@ -8321,8 +9583,10 @@ ad
 phylicam
 
 
+
 trudier
 ?
+
 Vin
 ?
 ulmeis
@@ -8336,6 +9600,7 @@ ulmeis
 aut
 taureis
 ?
+
 Mille
 crucibus
 dignißimum
@@ -8346,6 +9611,7 @@ trifurcifer
 quin
 tu
 mihi
+
 Morem
 geris
 ?
@@ -8356,6 +9622,7 @@ seruies
 ?
 mauis
 malo
+
 (
 Cum
 deprehendi
@@ -8369,6 +9636,7 @@ quam
 hero
 tuo
 ,
+
 Quousque
 hypocrites
 eris
@@ -8377,6 +9645,7 @@ quousque
 mente
 subdola
 ?
+
 Det
 .
 Verebar
@@ -8387,10 +9656,12 @@ uapularem
 haud
 obsequendò
 .
+
 Eu
 .
 non
 times
+
 Insane
 eum
 ,
@@ -8401,6 +9672,7 @@ perpetuo
 adigere
 potest
 ,
+
 Ipsaue
 morte
 tollere
@@ -8412,6 +9684,7 @@ studes
 facile
 times
 .
+
 Et
 isthic
 abductus
@@ -8422,6 +9695,7 @@ omnia
 ac
 fora
 ,
+
 Insignis
 hac
 qua
@@ -8434,6 +9708,8 @@ phylacae
 innectite
 
 
+
+
 Donec
 sciam
 ,
@@ -8442,6 +9718,7 @@ afflictone
 insigniter
 multabitur
 .
+
 Procedat
 &
 Colax
@@ -8453,6 +9730,7 @@ id
 quod
 edit
 ac
+
 Bibit
 ,
 arietem
@@ -8463,6 +9741,7 @@ castitati
 .
 Accede
 tu
+
 Quoque
 bone
 uir
@@ -8477,6 +9756,7 @@ in
 domo
 mea
 ?
+
 Col
 .
 Nihil
@@ -8489,8 +9769,10 @@ absente
 me
 isthanc
 ingredi
+
 praesumpseras
 ?
+
 Col
 .
 Adegit
@@ -8505,6 +9787,8 @@ Eu
 abducite
 
 
+
+
 Scapulasque
 flagris
 caedite
@@ -8516,7 +9800,9 @@ Col
 .
 &
 quidem
+
 satis
+
 Digne
 ,
 ut
@@ -8529,6 +9815,7 @@ uenter
 hic
 peccauerit
 .
+
 Eu
 .
 Iam
@@ -8539,10 +9826,12 @@ non
 paruum
 adhuc
 re
+
 liquum
 est
 ,
 mei
+
 Gnati
 periculum
 iunioris
@@ -8552,6 +9841,7 @@ beat
 me
 neutiquam
 .
+
 Quam
 iniquus
 aequa
@@ -8563,6 +9853,7 @@ perditus
 quod
 filius
 ,
+
 Id
 peßime
 me
@@ -8574,7 +9865,9 @@ Ibo
 in
 morem
 ingemiscens
+
 turturis
+
 Contabuero
 miserûm
 omnium
@@ -8582,6 +9875,7 @@ miserrimus
 ,
 donec
 uagum
+
 Post
 furta
 ,
@@ -8592,6 +9886,7 @@ libidines
 ad
 ueritatis
 tramitem
+
 Reduxero
 .
 Ite
@@ -8603,23 +9898,29 @@ quaerite
 ut
 compareat
 .
+
 III
 .
 SCE
 .
 IX
 .
+
 ACTVS
+
 Senarij
 .
+
 Phi
 .
+
 Philetius
 .
 Asotus
 .
 Cometa
 .
+
 QVo
 perditus
 se
@@ -8627,6 +9928,7 @@ proripit
 frater
 meus
 ?
+
 Moratur
 hunc
 pater
@@ -8634,6 +9936,7 @@ pater
 familia
 quaeritat
 .
+
 Sed
 eccum
 adest
@@ -8641,6 +9944,7 @@ frugi
 comitatus
 uillico
 .
+
 Frustra
 monet
 ,
@@ -8650,6 +9954,7 @@ obsccrat
 scio
 perditum
 .
+
 Rigore
 agendum
 censco
@@ -8657,6 +9962,7 @@ censco
 obiurgabo
 cum
 .
+
 Et
 ut
 meret
@@ -8664,6 +9970,7 @@ durißime
 increpabo
 eum
 .
+
 Quid
 frater
 est
@@ -8673,12 +9980,14 @@ post
 tuam
 insolentiam
 ,
+
 Temulentiam
 ,
 petulantiam
 ,
 lasciuiam
 ,
+
 Post
 ducta
 scorta
@@ -8688,12 +9997,14 @@ domus
 rem
 perditam
 ,
+
 Adhuc
 patris
 te
 subtrahis
 conspectui
 ?
+
 Horum
 omnium
 non
@@ -8702,12 +10013,14 @@ pudet
 ?
 non
 poenitet
+
 Mitem
 patrem
 iritasse
 tantis
 sceleribus
 ?
+
 Aso
 .
 Pudet
@@ -8722,12 +10035,14 @@ quin
 ergo
 ades
 ,
+
 Quo
 patris
 tram
 mitiges
 modestia
 ?
+
 Quid
 iners
 foris
@@ -8736,15 +10051,18 @@ uagaris
 aut
 turpia
 leuis
+
 Leuißimorum
 sequere
 contubernia
 ?
+
 Quid
 ociosus
 ociosa
 amplecteris
 ?
+
 Quid
 operi
 alicui
@@ -8753,6 +10071,7 @@ domi
 non
 applicas
 ?
+
 Iam
 complices
 poenas
@@ -8760,6 +10079,7 @@ dedere
 tui
 ,
 cruci
+
 Comasta
 iam
 suffixus
@@ -8767,12 +10087,14 @@ est
 ,
 Daetrus
 quoque
+
 Fortasse
 subrigendus
 est
 ,
 Colax
 flagris
+
 Acerrimis
 laceratus
 est
@@ -8781,12 +10103,14 @@ tu
 solus
 es
 ,
+
 Cui
 parcere
 pater
 optimus
 desyderat
 ,
+
 Et
 adhuc
 iners
@@ -8795,6 +10119,7 @@ uagaris
 atque
 in
 ocio
+
 Tempus
 teris
 .
@@ -8802,7 +10127,9 @@ Quousque
 abuteris
 patris
 ,
+
 inte
+
 In
 te
 ,
@@ -8812,6 +10139,7 @@ patientia
 &
 clementia
 ?
+
 Asot
 .
 Hem
@@ -8826,12 +10154,14 @@ pigetque
 &
 poenitet
 ,
+
 Quod
 nostra
 propter
 contubernia
 hoc
 die
+
 Offensus
 est
 pater
@@ -8841,6 +10171,7 @@ quae
 ego
 non
 tamen
+
 Instruxeram
 ,
 nec
@@ -8849,6 +10180,7 @@ sciente
 instructa
 sunt
 ,
+
 Sed
 inscius
 ,
@@ -8856,6 +10188,7 @@ quaesitus
 ultro
 &
 accitus
+
 Sum
 ,
 caeterum
@@ -8864,6 +10197,7 @@ tua
 uorata
 nec
 patris
+
 Ex
 integro
 substantia
@@ -8872,11 +10206,13 @@ est
 Porro
 argui
 abs
+
 Te
 indesinenter
 ocij
 atque
 inertiae
+
 Taedere
 iam
 coepit
@@ -8885,6 +10221,7 @@ nec
 amodo
 perferam
 .
+
 Num
 tu
 mihi
@@ -8892,6 +10229,7 @@ praefectus
 aut
 Didascalus
 ?
+
 Si
 deprchendat
 in
@@ -8899,6 +10237,7 @@ facinore
 me
 patir
 ,
+
 Redarguat
 ,
 me
@@ -8906,6 +10245,7 @@ corrigam
 aut
 tolerauero
 .
+
 Abs
 te
 recuso
@@ -8914,6 +10254,7 @@ argui
 uel
 corrigi
 .
+
 Curare
 desine
 ,
@@ -8922,6 +10263,7 @@ tua
 non
 interest
 .
+
 Phil
 .
 Nen
@@ -8931,11 +10273,13 @@ mea
 diu
 noctuque
 qui
+
 Duris
 patri
 laboribus
 te
 deside
+
 Inseruio
 ?
 En
@@ -8944,6 +10288,7 @@ manus
 ,
 rigent
 pedes
+
 Curuatur
 oneri
 dorsum
@@ -8951,6 +10296,7 @@ dorsum
 anhelat
 hoc
 meum
+
 Pectus
 ,
 gelu
@@ -8961,6 +10307,7 @@ hoc
 squalens
 caput
 ,
+
 Tu
 contra
 ,
@@ -8969,6 +10316,7 @@ semper
 ocio
 uacas
 ,
+
 Tu
 suauiter
 ,
@@ -8976,6 +10324,7 @@ tu
 delicate
 uictitas
 ,
+
 Instarque
 scorti
 molliter
@@ -8984,6 +10333,7 @@ haud
 mea
 interest
 ?
+
 Aso
 .
 Quid
@@ -8996,6 +10346,7 @@ hoc
 modo
 loqui
 .
+
 Phi
 Fac
 quod
@@ -9011,6 +10362,7 @@ per
 me
 licet
 .
+
 Aso
 .
 Tu
@@ -9022,8 +10374,10 @@ abi
 in
 malam
 crucem
+
 Phil
 .
+
 Phil
 .
 Cometa
@@ -9038,12 +10392,14 @@ Come
 .
 heu
 .
+
 Phil
 :
 sequere
 ad
 forum
 ,
+
 Videbo
 quanti
 grana
@@ -9053,6 +10409,7 @@ Come
 .
 sequor
 .
+
 Aso
 .
 Ille
@@ -9063,6 +10420,7 @@ recta
 ad
 patrem
 processero
+
 Omnemque
 rem
 quae
@@ -9071,16 +10429,21 @@ me
 attinet
 petiuero
 .
+
 X
+
 ACTVS
 IIISCE
 .
+
 Senarij
 .
+
 Eumenius
 .
 Asotus
 .
+
 ITis
 beatus
 est
@@ -9088,11 +10451,13 @@ pater
 ,
 cui
 contigit
+
 Generare
 prudentes
 probosque
 liberos
 ,
+
 Ita
 est
 profecto
@@ -9101,6 +10466,7 @@ miserrimus
 qui
 aut
 improbos
+
 Fatuos
 ue
 consecutus
@@ -9109,6 +10475,7 @@ est
 id
 proh
 dolor
+
 Iamdudum
 ego
 experior
@@ -9116,6 +10483,7 @@ meis
 in
 prolibus
 ,
+
 Suscepi
 enim
 ex
@@ -9123,6 +10491,7 @@ uxore
 filios
 duos
 ,
+
 Quorum
 alter
 est
@@ -9131,11 +10500,13 @@ nimis
 ,
 quamque
 expedit
+
 Aequi
 tenacior
 .
 Laboriosus
 is
+
 Quidem
 &
 utilis
@@ -9145,6 +10516,7 @@ admodum
 morosus
 est
 ,
+
 Porro
 alter
 ut
@@ -9154,6 +10526,7 @@ eo
 est
 dementior
 .
+
 Nam
 ad
 ocium
@@ -9165,6 +10538,7 @@ iocum
 est
 propensior
 .
+
 Sed
 eccum
 adest
@@ -9174,16 +10548,19 @@ quasi
 ira
 percitus
 .
+
 Habet
 profecto
 nescio
 quid
 incommodi
 ,
+
 Afratre
 forsanincrepatus
 durius
 .
+
 Cui
 lenius
 quam
@@ -9192,6 +10569,7 @@ est
 loqui
 expedit
 .
+
 Aso
 .
 Salue
@@ -9205,7 +10583,9 @@ ut
 esterecte
 omnia
 ?
+
 Aso
+
 Alo
 .
 Etiam
@@ -9221,6 +10601,7 @@ Eu
 Ausculto
 libens
 .
+
 Aso
 .
 Ne
@@ -9233,6 +10614,7 @@ abs
 te
 postulo
 .
+
 Eu
 .
 Quid
@@ -9248,6 +10630,7 @@ adesdum
 dic
 patri
 .
+
 Aso
 .
 Da
@@ -9257,12 +10640,14 @@ partem
 meae
 substantiae
 ,
+
 Quae
 haereditario
 mihi
 iure
 obuenit
 .
+
 Sine
 me
 institutis
@@ -9270,6 +10655,7 @@ proprijs
 iam
 uiuere
 .
+
 Eu
 .
 Quid
@@ -9281,6 +10667,7 @@ in
 me
 displicuit
 tibi
+
 Obsecro
 ,
 ut
@@ -9293,6 +10680,7 @@ Aso
 nihil
 pater
 .
+
 Fratrem
 tamen
 mordere
@@ -9302,6 +10690,7 @@ palàm
 &
 alios
 .
+
 Mihi
 inuidere
 clanculum
@@ -9309,6 +10698,7 @@ clanculum
 non
 perfero
 .
+
 Eu
 .
 Animaequior
@@ -9318,6 +10708,7 @@ es
 bonique
 consule
 ,
+
 Quod
 in
 tuam
@@ -9328,6 +10719,7 @@ dicitus
 tibi
 ,
 aut
+
 Abs
 quolibet
 .
@@ -9335,6 +10727,7 @@ Non
 rancor
 istius
 rei
+
 Est
 feminarum
 ,
@@ -9342,6 +10735,7 @@ sed
 ipsa
 charitas
 .
+
 Lasciuiam
 fuge
 &
@@ -9349,6 +10743,7 @@ ocium
 ,
 curato
 rem
+
 Domesticam
 ,
 fratri
@@ -9359,6 +10754,7 @@ agro
 in
 uinea
 ,
+
 In
 aedibus
 ,
@@ -9367,6 +10763,7 @@ pari
 ,
 si
 nequeas
+
 Pari
 labore
 aut
@@ -9374,12 +10771,14 @@ uiribus
 .
 Ne
 iungere
+
 Potantibus
 ,
 scortantibus
 ,
 uoracibus
 ,
+
 Rapacibusque
 ,
 &
@@ -9388,6 +10787,7 @@ genus
 nihili
 uiris
 .
+
 Te
 tempori
 confer
@@ -9395,6 +10795,7 @@ domum
 ,
 mecum
 quoque
+
 Consiste
 liber
 in
@@ -9403,12 +10804,14 @@ aedibus
 Non
 te
 sinas
+
 Obsequio
 &
 arte
 subdola
 meae
 domus
+
 Seruorum
 ad
 improba
@@ -9417,12 +10820,14 @@ pertrahi
 sed
 moribus
 ,
+
 Sermone
 ,
 gestu
 ,
 actuque
 liberalibus
+
 Praestare
 cunctis
 nitere
@@ -9430,8 +10835,11 @@ nitere
 quibus
 imperas
 .
+
 Haec
+
 D
+
 Hec
 tibi
 perennem
@@ -9441,11 +10849,13 @@ haec
 tibi
 commoda
 ,
+
 Haec
 tibi
 uoluptatem
 omnium
 pulcherrimam
+
 Parauerint
 .
 Haec
@@ -9456,18 +10866,21 @@ in
 te
 ne
 quidem
+
 Catellus
 unquam
 mutiet
 ,
 sed
 omnibus
+
 Habeberis
 charus
 ,
 patri
 charißimus
 .
+
 Aso
 .
 Ne
@@ -9477,6 +10890,7 @@ moramue
 feceris
 pater
 .
+
 Praecide
 funem
 ,
@@ -9486,6 +10900,7 @@ iacta
 est
 alea
 .
+
 Eu
 .
 In
@@ -9495,6 +10910,7 @@ tuum
 tibi
 malum
 .
+
 Olim
 scies
 ,
@@ -9503,12 +10919,14 @@ te
 instruet
 uexatio
 ,
+
 Quàm
 exegeris
 temerè
 tuum
 patrimonium
 .
+
 Mecum
 ingredere
 ,
@@ -9517,12 +10935,14 @@ fusius
 tecum
 loquar
 .
+
 Et
 portionem
 quat
 requiris
 supputem
 .
+
 Eheu
 miser
 .
@@ -9534,23 +10954,30 @@ pater
 .
 sequor
 .
+
 ACTVS
 IIISCE
 .
+
 XI
 .
+
 Dimetri
 .
+
 Belial
 .
+
 Astaroth
 .
+
 A
 hahe
 ,
 quid
 usquàm
 laetius
+
 ATerra
 ,
 mari
@@ -9560,11 +10987,13 @@ coelo
 solo
 ,
 aut
+
 Apud
 inferos
 mihi
 accidit
 ?
+
 Ast
 .
 Quid
@@ -9572,11 +11001,13 @@ Belial
 adeptus
 es
 ,
+
 Solito
 quod
 es
 iucundior
 ?
+
 Bel
 .
 Per
@@ -9585,16 +11016,20 @@ tu
 bardus
 es
 .
+
 Non
+
 Non
 hanc
 uides
 pulposelam
+
 Feram
 incidere
 griphis
 meis
 ?
+
 Ast
 .
 Gnatum
@@ -9602,9 +11037,11 @@ Eumenij
 uis
 dicere
 ?
+
 Cui
 haereditariam
 pater
+
 Rem
 diuidit
 ?
@@ -9616,16 +11053,19 @@ Ast
 .
 uideo
 .
+
 Bel
 .
 Viden
 capaces
 sacculos
 ,
+
 Magnamque
 uim
 pecuniae
 ?
+
 Ast
 .
 Quin
@@ -9635,6 +11075,7 @@ uideam
 auri
 plurimum
 .
+
 Bel
 .
 Vides
@@ -9642,9 +11083,11 @@ ne
 ut
 inhiat
 filius
+
 Haereditarijs
 bonis
 ?
+
 Ast
 .
 Video
@@ -9652,15 +11095,18 @@ Video
 atque
 plenis
 lancibus
+
 Pendit
 pater
 gnato
 suo
 ,
+
 Auri
 talenta
 plurima
 .
+
 Bel
 .
 Dum
@@ -9668,14 +11114,17 @@ appenderit
 numeratio
 ea
 ,
+
 Audique
 Asoti
 uncas
 manus
+
 Ad
 inuolandum
 respice
 .
+
 Ast
 .
 Quintum
@@ -9684,21 +11133,25 @@ pependit
 Bel
 .
 prouide
+
 Ne
 erres
 in
 aliquo
 calculo
 ,
+
 Si
 non
 uelis
 stygos
 ignibus
+
 In
 tartaro
 punirier
 .
+
 Ast
 .
 Non
@@ -9707,13 +11160,16 @@ erro
 decimum
 ponderat
 .
+
 Grandemque
 uestium
 puer
+
 Parat
 expeditus
 sarcinam
 .
+
 Bel
 .
 Vide
@@ -9727,122 +11183,153 @@ iam
 appensa
 sunt
 ,
+
 Auri
 talenta
 quindecim
 .
+
 Argenti
 &
 addit
 sacculos
+
 Duos
+
 D
+
 Duos
 probati
 ponderis
 .
+
 Age
 dice
 quid
 factum
 uelis
 .
+
 Bel
 .
 Ponamus
 undique
 laqueos
 ,
+
 In
 ganeis
 ,
 in
 compitis
 ,
+
 In
 oenopolio
 ,
 in
 foro
 .
+
 Absconditi
 insidiabimur
 .
+
 Non
 poterit
 haec
 pecunia
+
 Expendier
 sine
 foenore
 .
+
 Sathana
 uafrum
 te
 exhibe
 .
+
 Ast
 .
 Ero
 fortiore
 fortior
 ,
+
 Latebo
 in
 oenopolio
 ,
+
 Tu
 ganeum
 tuum
 occupa
 .
+
 HHOR
+
 v
+
 Versu
 Iambico
 dimetro
 .
+
 Eruum
 fidelem
 hero
 decet
+
 ORem
 creditam
 tuerier
 ,
+
 Vigilem
 ,
 modestum
 ,
 sobrium
 ,
+
 Absentem
 herum
 morarier
 .
+
 Inutilis
 contrà
 solet
+
 Foris
 morante
 hero
 ,
 interim
+
 Domesticam
 rem
 perdere
+
 Domesticosque
 caedere
 .
+
 Quicquid
 fidelis
 congerit
 .
+
 Id
 infidelis
 dißipat
 ,
+
 Absente
+
 Absente
 hero
 uentri
@@ -9850,73 +11337,91 @@ uentri
 gulae
 ,
 &
+
 Veneri
 nefandae
 deditus
 .
+
 Quapropter
 is
 qui
 frugi
 crat
+
 Redeunti
 hero
 laudandus
 est
 ,
+
 At
 improbus
 uel
 in
 crucem
+
 Vel
 in
 phylacam
 agendus
 est
 .
+
 In
 rebus
 itaque
 prosperis
+
 Licentiam
 suspectam
 habe
 ,
+
 Et
 in
 omnibus
 quae
 impunè
 agis
+
 Finem
 subinde
 respice
 .
+
 1
 .
+
 Sc
 E
+
 VSIIII
+
 ACT
+
 Iambici
 trimetri
 .
+
 Merimnus
 solus
 .
+
 JOmasta
 quo
 suo
 uacaret
 luxui
 ,
+
 AVtrunque
 nostrum
 amisit
 ad
 uiuarium
 ,
+
 Pro
 irretinendis
 piscibus
@@ -9924,29 +11429,34 @@ piscibus
 ut
 eum
 Deus
+
 Fidelium
 pius
 arbiter
 redarguat
 .
+
 Profecto
 me
 piget
 pudetque
 ignauiae
 ,
+
 Quod
 ambo
 caesi
 neutiquàm
 restiterimus
 .
+
 Malo
 igitur
 insperatus
 hoc
 die
 domum
+
 Reuertier
 ,
 quàm
@@ -9954,12 +11464,14 @@ crastino
 quo
 iusserat
 ,
+
 Ne
 me
 infidelitatis
 arguat
 senex
 ,
+
 Qui
 cum
 sciam
@@ -9968,11 +11480,13 @@ infidelem
 in
 omnibus
 ,
+
 Aedeis
 timore
 uerberum
 reliquerim
 .
+
 At
 suspicor
 quòd
@@ -9981,14 +11495,18 @@ me
 herus
 praeuorterit
 ,
+
 Et
+
 4
+
 Et
 in
 improbum
 famulicium
 adnimaduorterit
 .
+
 Quod
 non
 redijt
@@ -9996,6 +11514,7 @@ ut
 dixerat
 Tribonius
 .
+
 Dij
 boni
 quid
@@ -10006,12 +11525,14 @@ ex
 cruceComastam
 
 
+
 heri
 promum
 atque
 condum
 pensilem
 ?
+
 Heu
 domine
 Deus
@@ -10022,17 +11543,20 @@ subito
 mutata
 sors
 .
+
 Vt
 grauiter
 omnium
 uirûm
 mitißimus
+
 Eumenius
 animaduortit
 hunc
 in
 noxium
 .
+
 Quid
 ego
 iam
@@ -10043,8 +11567,10 @@ me
 miser
 uertam
 :
+
 an
 domum
+
 Ingrediar
 ?
 an
@@ -10053,6 +11579,7 @@ morabor
 ,
 dum
 parum
+
 Herilis
 ira
 refrixerit
@@ -10060,6 +11587,7 @@ refrixerit
 paueo
 admodum
 .
+
 Quin
 tuta
 pertimesco
@@ -10067,6 +11595,7 @@ cuncta
 &
 horreo
 .
+
 Sed
 commodum
 ,
@@ -10075,6 +11604,7 @@ fores
 ,
 uidebo
 clam
+
 Ab
 angulo
 quis
@@ -10082,12 +11612,14 @@ exeat
 .
 Cum
 Paegnio
+
 Asotus
 est
 ,
 peculiari
 seruulo
 .
+
 Libet
 mihi
 obseruare
@@ -10095,28 +11627,34 @@ quid
 uel
 egerint
 ,
+
 Vel
 dixerint
 .
+
 ACTVSIIII
 SCE
 .
 II
 .
+
 Trimetri
 .
+
 Asotus
 .
 Paegnium
 .
 Merimnus
 .
+
 TPuer
 &
 isthaec
 trans
 fer
 ad
+
 LMargaenium
 aut
 Planesium
@@ -10125,6 +11663,7 @@ Pae
 .
 facesso
 here
+
 Vin
 ?
 redeo
@@ -10138,6 +11677,7 @@ me
 secuturum
 illico
 .
+
 Parentur
 omnia
 ,
@@ -10148,8 +11688,10 @@ gulam
 Venerem
 attinent
 .
+
 Mer
 .
+
 Mer
 ,
 ut
@@ -10163,6 +11705,7 @@ se
 habet
 domestica
 ,
+
 Diutius
 quàm
 par
@@ -10170,6 +11713,7 @@ crat
 atrio
 abfui
 ,
+
 His
 piscibus
 dum
@@ -10177,6 +11721,7 @@ irretiendis
 institi
 .
 Heus
+
 Quo
 fers
 puer
@@ -10185,6 +11730,7 @@ istud
 &
 marsupium
 ?
+
 Pae
 .
 Ecquid
@@ -10194,6 +11740,7 @@ interest
 eo
 quo
 praecipit
+
 Herus
 .
 Mer
@@ -10206,6 +11753,7 @@ Asotus
 ,
 huc
 subduxero
+
 Me
 ,
 &
@@ -10214,6 +11762,7 @@ explorauero
 euentum
 rei
 .
+
 Credam
 ne
 tantum
@@ -10222,6 +11771,7 @@ hero
 datum
 peculij
 ?
+
 Absurda
 sunt
 .
@@ -10230,6 +11780,7 @@ prodit
 infoelix
 foras
 .
+
 Aso
 .
 Nactus
@@ -10238,6 +11789,7 @@ ad
 meam
 sententiam
 ,
+
 Auri
 talenta
 quindecim
@@ -10245,6 +11797,7 @@ quindecim
 aliaque
 plurima
 ,
+
 Genio
 obsequendum
 censeo
@@ -10252,6 +11805,7 @@ censeo
 Vene
 uque
 quoque
+
 (
 Quod
 apud
@@ -10261,6 +11815,7 @@ licebat
 )
 dum
 libet
+
 Obtemperandum
 .
 Quorsum
@@ -10270,12 +11825,14 @@ uentrem
 ,
 &
 alia
+
 Haec
 corporis
 natura
 membra
 condidit
 ,
+
 Si
 non
 sub
@@ -10285,12 +11842,14 @@ ijs
 fruendum
 erat
 ?
+
 Frondescit
 omne
 nemus
 ,
 uolucres
 incubant
+
 Ouis
 ,
 pecus
@@ -10300,6 +11859,7 @@ lasciuit
 solus
 homo
 erit
+
 Solatij
 exors
 atque
@@ -10308,12 +11868,14 @@ laeticiae
 absit
 .
 at
+
 Cum
 suauibus
 puellulis
 ,
 &
 dulcibus
+
 Sunt
 poculis
 tractanda
@@ -10321,6 +11883,7 @@ gaudia
 ,
 dum
 comes
+
 Vita
 ,
 quia
@@ -10329,12 +11892,14 @@ moriemur
 haud
 praetereat
 hic
+
 Flos
 temporis
 ,
 rosis
 coronemur
 prius
+
 Quàm
 marceant
 ,
@@ -10344,6 +11909,7 @@ mea
 est
 sententia
 .
+
 Recta
 adeo
 portum
@@ -10352,6 +11918,7 @@ uiso
 siqua
 nauis
 est
+
 Milesia
 hoc
 die
@@ -10359,20 +11926,25 @@ solutura
 ,
 inde
 mox
+
 Adibo
+
 D
+
 Adibo
 amiculas
 meas
 ,
 Planesium
 &
+
 Margaenium
 ,
 coenam
 parari
 iussero
 .
+
 Mer
 .
 Heu
@@ -10383,6 +11955,7 @@ similia
 uerba
 sunt
 .
+
 Haec
 optimo
 minime
@@ -10390,6 +11963,7 @@ patri
 celanda
 sunt
 .
+
 Et
 commodum
 ,
@@ -10398,6 +11972,7 @@ foro
 redit
 Philaetius
 ,
+
 In
 agrum
 iturus
@@ -10406,17 +11981,23 @@ aggrediar
 &
 alloquar
 .
+
 115
+
 VSIIII
 SCE
 .
+
 ACT
+
 Trinetri
 .
+
 Philaetius
 .
 Merimnus
 .
+
 JEus
 quam
 premor
@@ -10426,12 +12007,14 @@ cura
 ,
 &
 improbis
+
 Laboribus
 ,
 membra
 omnia
 mei
 corporis
+
 Sub
 uesperem
 lassata
@@ -10439,6 +12022,7 @@ erunt
 :
 solus
 uacat
+
 Asotus
 .
 Mer
@@ -10453,8 +12037,10 @@ hem
 ,
 quis
 me
+
 uocat
 ?
+
 Merimne
 salue
 .
@@ -10465,6 +12051,7 @@ here
 ,
 est
 mysterium
+
 Quod
 in
 tuum
@@ -10476,6 +12063,7 @@ Phi
 .
 licet
 ,
+
 Mer
 .
 Petito
@@ -10483,6 +12071,7 @@ Asotus
 à
 patre
 patrimonio
+
 Fugam
 parat
 .
@@ -10490,6 +12079,7 @@ mentem
 suam
 mihi
 prodidit
+
 Iam
 nescius
 ,
@@ -10500,6 +12090,7 @@ fuat
 mox
 perierit
 ,
+
 Lusu
 ,
 iocis
@@ -10507,6 +12098,7 @@ iocis
 libidinique
 deditus
 .
+
 Phi
 .
 Pereat
@@ -10520,6 +12112,7 @@ in
 malam
 crucem
 ,
+
 Qui
 nil
 boni
@@ -10527,6 +12120,7 @@ socors
 patrauit
 hactenus
 .
+
 Mer
 .
 Velim
@@ -10537,8 +12131,10 @@ pater
 resciscat
 haec
 .
+
 Phi
 .
+
 Phi
 .
 Sciet
@@ -10547,12 +12143,14 @@ haud
 absque
 poenitudine
 ,
+
 Si
 totum
 ci
 peculium
 donauerit
 .
+
 Mer
 .
 Quae
@@ -10564,6 +12162,7 @@ nescio
 at
 quid
 dixerit
+
 Asotus
 ,
 &
@@ -10576,6 +12175,7 @@ quidnam
 id
 est
 ?
+
 Mer
 .
 Nactus
@@ -10585,12 +12185,14 @@ inquit
 )
 ad
 meam
+
 Sententiam
 ,
 Genio
 obsequendum
 censeo
 ,
+
 Venerique
 ,
 &
@@ -10603,6 +12205,7 @@ ad
 luxum
 attinent
 ,
+
 Quae
 ut
 praeterisset
@@ -10611,6 +12214,7 @@ uentus
 abstulit
 auribus
 .
+
 Phi
 .
 Quid
@@ -10625,6 +12229,7 @@ dico
 &
 audi
 caetera
+
 Nam
 multa
 conuasata
@@ -10634,11 +12239,13 @@ quae
 )
 in
 domum
+
 Meretriciam
 portarier
 curarat
 ,
 &
+
 Secutus
 est
 .
@@ -10648,6 +12255,7 @@ tamen
 eft
 pater
 .
+
 Phi
 .
 Non
@@ -10662,6 +12270,7 @@ sed
 admonendus
 est
 ,
+
 Ne
 quo
 modo
@@ -10670,6 +12279,7 @@ fuga
 labi
 sinat
 .
+
 Phil
 .
 Curabitur
@@ -10678,12 +12288,14 @@ non
 absque
 poenitudine
 .
+
 Sic
 nostra
 sint
 tradenda
 scortatoribus
 ?
+
 In
 hoc
 laboratum
@@ -10691,6 +12303,7 @@ atque
 sudatum
 hactenus
 ?
+
 Obtrusero
 haec
 si
@@ -10700,6 +12313,7 @@ sint
 eccum
 procul
 .
+
 Tu
 abi
 domum
@@ -10708,25 +12322,31 @@ stude
 parandis
 piscibus
 .
+
 ACTVS
 IIII
 .
 SCE
 .
+
 IIII
 .
+
 Trinetri
 .
+
 Eumenius
 .
 Philaetius
 .
+
 TIser
 aedepolstatus
 parentum
 est
 omnium
 ,
+
 C
 .
 AQui
@@ -10734,8 +12354,10 @@ enutrierunt
 obstrepentes
 liberos
 .
+
 phi
 .
+
 Phi
 .
 Isthuc
@@ -10748,6 +12370,7 @@ Eu
 tam
 prope
 aderas
+
 Fili
 ?
 Phi
@@ -10757,6 +12380,7 @@ adèram
 increpaturus
 graue
 .
+
 Eu
 .
 Ob
@@ -10771,13 +12395,16 @@ indignum
 quidem
 
 
+
 .
+
 Vita
 ,
 data
 pecunia
 dimiseris
 .
+
 Scortatur
 ,
 est
@@ -10788,6 +12415,7 @@ uolupe
 totus
 perit
 .
+
 Eu
 .
 Miserrimum
@@ -10798,6 +12426,7 @@ me
 hac
 fabula
 .
+
 Phi
 .
 Merere
@@ -10809,6 +12438,7 @@ neque
 fabula
 est
 .
+
 Tu
 uere
 enim
@@ -10816,6 +12446,7 @@ spoliando
 nos
 ,
 dementiae
+
 Illius
 interitum
 addidisti
@@ -10825,12 +12456,14 @@ Eu
 quid
 agerem
 ?
+
 Rem
 postulabat
 propriam
 ,
 culpanda
 erit
+
 Haec
 mea
 benignttas
@@ -10839,6 +12472,7 @@ uide
 ne
 tu
 magis
+
 Sis
 noxius
 ,
@@ -10846,6 +12480,7 @@ rigore
 qui
 adolescentulum
 ,
+
 Qui
 noluit
 flecti
@@ -10853,6 +12488,7 @@ flecti
 obruisti
 durior
 .
+
 Hinc
 lachrymae
 ,
@@ -10863,6 +12499,7 @@ hinc
 mihi
 iam
 seni
+
 Nece
 amara
 amaror
@@ -10870,6 +12507,7 @@ amarior
 .
 Spero
 tamen
+
 Quod
 resipiet
 tandem
@@ -10881,6 +12519,7 @@ non
 ego
 quidem
 ,
+
 Eu
 .
 Reuertor
@@ -10892,6 +12531,7 @@ quid
 facto
 opust
 .
+
 Phi
 .
 Vt
@@ -10902,6 +12542,7 @@ senex
 Cometa
 ades
 ,
+
 Vt
 uel
 aliquis
@@ -10909,6 +12550,7 @@ prudentiae
 locus
 siet
 ,
+
 Rus
 ibimus
 ,
@@ -10916,6 +12558,7 @@ nam
 res
 probe
 domesticas
+
 Tribonius
 reuersus
 (
@@ -10923,20 +12566,28 @@ eccum
 cum
 procul
 )
+
 Recturus
 est
 .
 –SCE
 
 
+
 .
+
 IIII
 .
+
 V
+
 ACT
+
 Trimetri
 .
+
 TriTribonius
+
 
 
 .
@@ -10948,11 +12599,13 @@ Planesium
 .
 Thryptus
 .
+
 Vnc
 in
 phylacam
 trusus
 est
+
 Daetrus
 coquus
 .
@@ -10960,13 +12613,16 @@ nunc
 in
 malam
 merito
+
 crucem
+
 Deterrimus
 subrectus
 est
 Comasta
 .
 sed
+
 Nunquàm
 quiescet
 mens
@@ -10974,6 +12630,7 @@ senis
 ,
 nisi
 filius
+
 Reductus
 ad
 frugem
@@ -10982,6 +12639,7 @@ siet
 Sed
 eccum
 eum
+
 Quem
 in
 compitis
@@ -10989,6 +12647,7 @@ compitis
 ganeis
 quaesiuimus
 .
+
 Clam
 obsecro
 moremur
@@ -10997,6 +12656,7 @@ ut
 intuamur
 exitum
 .
+
 Aso
 .
 O
@@ -11008,6 +12668,7 @@ uita
 suauis
 ,
 &
+
 Beata
 ,
 quae
@@ -11016,10 +12677,12 @@ coërcita
 legibus
 .
 &
+
 Suae
 uoluptati
 suisque
 amoribus
+
 Paret
 ,
 nutritur
@@ -11028,6 +12691,7 @@ pascitur
 ,
 cui
 affatim
+
 Aes
 subrogat
 crumenula
@@ -11035,6 +12699,7 @@ crumenula
 aetasque
 Venerem
 .
+
 Fruere
 anima
 ijs
@@ -11046,6 +12711,7 @@ dum
 fors
 sinit
 ,
+
 Dum
 luce
 uitae
@@ -11053,6 +12719,7 @@ uesceris
 ,
 donec
 licet
+
 Id
 quod
 libet
@@ -11063,6 +12730,7 @@ naue
 adepta
 ad
 turtures
+
 Meas
 ,
 meos
@@ -11071,18 +12739,21 @@ passerculos
 mea
 ubera
 .
+
 lihil
 moratus
 appeto
 :
 dudum
 quibus
+
 Iandaueram
 coenam
 apparare
 ,
 uidebo
 quid
+
 Igant
 .
 Sed
@@ -11092,6 +12763,7 @@ utraque
 fertur
 obuia
 ,
+
 Me
 quaeritant
 .
@@ -11102,6 +12774,7 @@ Asote
 quin
 uenis
 ?
+
 Nulla
 absque
 te
@@ -11110,6 +12783,7 @@ uoluptas
 est
 ,
 neque
+
 Sine
 te
 aliquod
@@ -11123,13 +12797,16 @@ Asote
 id
 est
 ?
+
 Te
 ocelle
 iamdudum
 moramur
 ,
 omnia
+
 OusQuae
+
 
 
 ad
@@ -11141,6 +12818,7 @@ attinent
 parata
 sunt
 ,
+
 Aso
 .
 Adeste
@@ -11149,11 +12827,13 @@ meae
 ,
 o
 Planesium
+
 Suauium
 meum
 ,
 meumque
 corculum
+
 Margaenium
 .
 Mar
@@ -11165,6 +12845,7 @@ Aso
 facio
 lubens
 .
+
 Pla
 .
 An
@@ -11176,6 +12857,7 @@ Aso
 neutiquàm
 mea
 animula
+
 Planesium
 .
 Vltro
@@ -11185,6 +12867,7 @@ ad
 uos
 iter
 ,
+
 Iam
 uero
 eamus
@@ -11192,12 +12875,14 @@ eamus
 ut
 cuticulam
 molliter
+
 Curemus
 ,
 &
 fruamur
 optatis
 diu
+
 Complexibus
 .
 Pater
@@ -11206,6 +12891,7 @@ gemit
 frater
 fremit
 ,
+
 Sed
 id
 omne
@@ -11213,6 +12899,7 @@ dißimulare
 oportet
 amodo
 .
+
 Pla
 .
 Gemat
@@ -11223,6 +12910,7 @@ delirus
 frater
 fremat
 ,
+
 Se
 torqueant
 ,
@@ -11232,6 +12920,7 @@ Mlordeant
 se
 deuorent
 .
+
 Cum
 illis
 tibi
@@ -11240,6 +12929,7 @@ quid
 est
 negocij
 ?
+
 Valeant
 graues
 curae
@@ -11248,6 +12938,7 @@ atque
 frontem
 exporrige
 .
+
 Mar
 .
 Facile
@@ -11256,6 +12947,7 @@ tibi
 omnium
 horum
 obliuium
+
 Induxero
 ,
 introeamus
@@ -11267,6 +12959,7 @@ ite
 ego
 assequor
 .
+
 Mar
 .
 Haud
@@ -11279,6 +12972,7 @@ nos
 &
 ducito
 .
+
 Aso
 .
 Esto
@@ -11291,34 +12985,42 @@ Mar
 .
 ita
 placet
+
 Aso
 .
 Foelices
 quibus
 obtigit
+
 Sors
 nec
 dura
 nec
 infima
 ,
+
 Sed
 amplißima
 &
 inclyta
 .
+
 Quis
 fauet
 Venus
 aureis
+
 Lasciuire
 cubilibus
+
 Tranquillaque
 cum
 amiculis
+
 Consuetudine
 perfrui
 .
+
 Tri
 .
 Audis
@@ -11329,12 +13031,15 @@ ut
 nequiter
 sibi
 uendicet
+
 Aso
 .
+
 Asotus
 Euripidis
 hanc
 purißimam
+
 Hei
 cantilenam
 ,
@@ -11342,6 +13047,7 @@ peßime
 uerba
 uitians
 ,
+
 Sensumque
 corrumpens
 ?
@@ -11354,6 +13060,7 @@ abs
 te
 ego
 ut
+
 Poëta
 cecinit
 gestio
@@ -11363,40 +13070,49 @@ Trib
 .
 audies
 ,
+
 Modis
 Erasmijs
 ,
 metroque
 glyconico
 :
+
 Foelices
 quibus
 obtigit
+
 Sors
 nec
 summa
 nec
 infima
 ,
+
 Sed
 sane
 modica
 ,
 &
 quibus
+
 Castos
 annuit
 aurea
+
 Nancisci
 thalamos
 ,
 Venus
 ,
+
 Tranquillaque
 perenniter
+
 Consuetudine
 perfrui
 .
+
 Thry
 .
 Pulcherrime
@@ -11406,12 +13122,14 @@ ut
 improbus
 probauiciat
 .
+
 O
 quantum
 amaroris
 pariet
 hic
 nuncius
+
 In
 corde
 patris
@@ -11419,6 +13137,7 @@ patris
 ubi
 filium
 resciuerit
+
 Perire
 scorta
 tam
@@ -11426,6 +13145,7 @@ nephanda
 ,
 &
 perdere
+
 Rem
 haereditariam
 .
@@ -11433,6 +13153,7 @@ At
 aperitur
 ostium
 .
+
 Procedit
 huc
 senex
@@ -11441,21 +13162,28 @@ foras
 silendum
 erit
 .
+
 ACTVS
+
 SCE
 .
 VI
 .
+
 IIII
 .
+
 Trimetri
 .
+
 Eumenius
 .
 Tribonius
 .
+
 Thryptus
 .
+
 JOx
 cantici
 me
@@ -11464,10 +13192,13 @@ huc
 foras
 ,
 putem
+
 Foelicitatis
 quippiam
 infoelicibus
+
 Fatis
+
 Fatis
 meis
 ea
@@ -11476,6 +13207,7 @@ nunciet
 frustra
 putem
 .
+
 Nam
 quicquid
 usquàm
@@ -11485,6 +13217,7 @@ mali
 in
 me
 concidit
+
 Vnùm
 .
 Sed
@@ -11495,6 +13228,7 @@ pueri
 inter
 se
 gerunt
+
 Nescio
 quid
 occultae
@@ -11503,12 +13237,14 @@ minime
 integrae
 .
 Heus
+
 Quid
 mußitatis
 mutuo
 ?
 nolite
 me
+
 Celare
 ,
 dum
@@ -11519,6 +13255,7 @@ Tri
 .
 refert
 parùm
+
 Tua
 ,
 dolentis
@@ -11527,6 +13264,7 @@ here
 profecto
 cantus
 hic
+
 Non
 gaudij
 ,
@@ -11537,12 +13275,14 @@ est
 nam
 herus
 meus
+
 Asotus
 adole
 scentior
 totus
 perit
 .
+
 Eu
 .
 Quidum
@@ -11553,21 +13293,25 @@ Tri
 adhaeret
 is
 spurcißimis
+
 Meretriculis
 Margaenio
 &
 Planesio
 .
+
 Vidimus
 eas
 huic
 excipi
 perblanditer
 ,
+
 Affabulari
 mollius
 ,
 suauißimè
+
 Quoque
 oscularier
 .
@@ -11578,6 +13322,7 @@ loci
 perductus
 est
 ?
+
 Tri
 .
 In
@@ -11587,6 +13332,7 @@ conijcio
 ,
 quoniam
 brachijs
+
 Vtrimque
 consertis
 eo
@@ -11594,6 +13340,7 @@ an
 perductus
 est
 ,
+
 An
 duxerit
 mage
@@ -11601,6 +13348,7 @@ concinendo
 ,
 nescio
 .
+
 Id
 here
 fuit
@@ -11610,6 +13358,7 @@ me
 canentem
 audiueras
 .
+
 Repetebam
 enim
 ,
@@ -11618,6 +13367,7 @@ is
 nequiter
 corruperat
 ,
+
 Casta
 Euripidis
 carmina
@@ -11629,6 +13379,7 @@ Ast
 ut
 iusseram
 )
+
 Cur
 non
 reduxtis
@@ -11637,6 +13388,7 @@ perditum
 cum
 occurreret
 ?
+
 Tri
 .
 Iam
@@ -11648,11 +13400,13 @@ quod
 te
 adierit
 ,
+
 Patrimonium
 petiuerit
 ,
 receperit
 .
+
 Emancipatus
 est
 ,
@@ -11660,6 +13414,7 @@ est
 ipsum
 adhuc
 uclis
+
 Reducier
 ?
 taceo
@@ -11667,14 +13422,17 @@ quod
 etiam
 non
 queat
+
 Inducier
 ,
 cui
 tanta
 cum
 meretriculis
+
 Et
 tam
+
 Et
 tam
 arcta
@@ -11686,6 +13444,7 @@ Eu
 Asote
 mi
 ,
+
 Mi
 chare
 Asote
@@ -11696,6 +13455,7 @@ mi
 quis
 det
 mihi
+
 Vt
 aurum
 &
@@ -11705,6 +13465,7 @@ impendam
 tibi
 ,
 &
+
 Impendar
 ipse
 pro
@@ -11713,6 +13474,7 @@ anima
 gnate
 mi
 ?
+
 Ite
 pueri
 ad
@@ -11724,6 +13486,7 @@ ego
 mox
 sequar
 .
+
 Heus
 Thrypte
 curriculum
@@ -11731,12 +13494,14 @@ fac
 ocyus
 ad
 forum
+
 Piscarium
 ,
 unde
 siquid
 euectum
 mari
+
 Quod
 edat
 familia
@@ -11745,6 +13510,7 @@ piscium
 accipe
 hos
 decem
+
 Denarios
 ,
 eme
@@ -11752,6 +13518,7 @@ quantum
 opus
 praesentibus
 .
+
 Nam
 quod
 Merimnus
@@ -11760,6 +13527,7 @@ attulit
 non
 sufficit
 .
+
 Thry
 .
 Faciam
@@ -11770,6 +13538,7 @@ ibo
 redibo
 ocyßime
 .
+
 Eu
 .
 Satage
@@ -11780,15 +13549,19 @@ quod
 interim
 pegregero
 .
+
 VII
 .
+
 ACTVS
 IIII
 .
 SCE
 .
+
 Tetrametri
 .
+
 Asotus
 .
 Paegnium
@@ -11799,6 +13572,7 @@ Planesium
 .
 Ancilla
 .
+
 Transfer
 hec
 puer
@@ -11809,8 +13583,10 @@ Asiaticam
 Pae
 .
 gd
+
 postea
 ?
+
 Aso
 .
 Dices
@@ -11820,8 +13596,10 @@ ad
 horam
 proximam
 meme
+
 adfore
 .
+
 Tantisper
 in
 portu
@@ -11831,6 +13609,7 @@ dum
 paratus
 adsiem
 .
+
 Paeg
 .
 Facesso
@@ -11843,11 +13622,15 @@ dixero
 ?
 num
 addux
+
 eris
 .
+
 Aso
 .
+
 E
+
 Aso
 .
 Adduxero
@@ -11861,7 +13644,9 @@ hic
 decreuimus
 
 
+
 ?
+
 Abi
 ocyus
 furcifer
@@ -11873,6 +13658,7 @@ loco
 apto
 colloca
 .
+
 Caue
 ne
 carina
@@ -11883,6 +13669,7 @@ neu
 tecta
 perstillantia
 ,
+
 Vbi
 turturellas
 has
@@ -11891,6 +13678,7 @@ iam
 comptulas
 composuero
 .
+
 Pae
 .
 Curabo
@@ -11902,7 +13690,9 @@ est
 quod
 statim
 factum
+
 uoles
+
 Cum
 ueneris
 ?
@@ -11915,10 +13705,12 @@ una
 id
 exigam
 .
+
 Aso
 .
 nihil
 .
+
 Comptis
 puellulis
 meis
@@ -11931,6 +13723,7 @@ Pae
 .
 uale
 .
+
 Aso
 .
 Heus
@@ -11948,6 +13741,7 @@ Aso
 stabis
 
 
+
 no
 flagrio
 ?
@@ -11956,6 +13750,7 @@ Pae
 quid
 est
 ?
+
 Aso
 .
 Vtres
@@ -11970,7 +13765,9 @@ Pae
 meminero
 
 
+
 .
+
 As
 .
 Res
@@ -11983,6 +13780,7 @@ amiculisque
 ,
 &
 omnibus
+
 Mihi
 familiaribus
 ualedicam
@@ -11992,6 +13790,7 @@ at
 obstat
 serior
 .
+
 Namaestus
 maris
 iam
@@ -12003,8 +13802,10 @@ id
 uereor
 
 
+
 ,
 patrem
+
 Si
 accessero
 ,
@@ -12015,6 +13816,8 @@ instabitque
 lachrymis
 ,
 trahent
+
+
 
 
 Me
@@ -12028,6 +13831,7 @@ uetabunt
 singuli
 ,
 ut
+
 Resilire
 nequeam
 .
@@ -12036,6 +13840,7 @@ consultius
 ,
 si
 soluero
+
 Sic
 clanculum
 .
@@ -12048,6 +13853,7 @@ Veneres
 ?
 quid
 est
+
 Quòd
 non
 uenitis
@@ -12061,7 +13867,9 @@ puella
 crepidulas
 
 
+
 ,
+
 Sandalia
 ,
 armillas
@@ -12072,7 +13880,9 @@ chirothecas
 ,
 uittulas
 ,
+
 FluFlabella
+
 
 
 ,
@@ -12088,6 +13898,8 @@ thus
 reliquum
 
 
+
+
 Mundum
 utriusque
 nostrum
@@ -12098,7 +13910,9 @@ Veneris
 incitabulum
 
 
+
 .
+
 An
 .
 Hem
@@ -12111,9 +13925,11 @@ locata
 sunt
 :
 num
+
 aliud
 iubes
 ?
+
 Pl
 .
 Faxis
@@ -12124,6 +13940,7 @@ usque
 seruetur
 .
 caue
+
 Ne
 quempiam
 introduxeris
@@ -12133,8 +13950,10 @@ foenore
 An
 .
 obsequar
+
 mi
 hera
+
 Pla
 .
 Videsis
@@ -12145,8 +13964,10 @@ noctem
 cum
 die
 aequet
+
 aderimus
 .
+
 Aso
 .
 Vos
@@ -12159,8 +13980,10 @@ moraruni
 annus
 est
 dum
+
 comitur
 .
+
 Ma
 .
 O
@@ -12172,6 +13995,7 @@ tandem
 quid
 oro
 tristior
+
 Videre
 ?
 quid
@@ -12184,9 +14008,11 @@ Asote
 tu
 ne
 amabo
+
 tristis
 es
 ?
+
 Aso
 .
 Nequaquàm
@@ -12198,8 +14024,10 @@ mouet
 ,
 quod
 insalutato
+
 patre
 ,
+
 Amiculisque
 proximis
 abiuero
@@ -12208,6 +14036,7 @@ Pla
 .
 ualeant
 graues
+
 Curae
 ,
 an
@@ -12219,8 +14048,10 @@ sumus
 propinquior
 ?
 Tu
+
 nos
 quidem
+
 Materculas
 ,
 sororculas
@@ -12228,6 +14059,7 @@ sororculas
 uxorculas
 ,
 amiculas
+
 Habebis
 usque
 ,
@@ -12241,6 +14073,7 @@ foris
 intra
 cubiculum
 .
+
 Facessat
 omnis
 moeror
@@ -12252,6 +14085,7 @@ accipe
 .
 Ma
 .
+
 Mi
 Asote
 amor
@@ -12263,6 +14097,7 @@ pectusculum
 nunc
 obsecro
 ad
+
 Nauim
 alacriter
 properemus
@@ -12270,7 +14105,9 @@ properemus
 omnium
 propulsaturi
 ibi
+
 curaCurarum
+
 
 
 amaritudinem
@@ -12282,6 +14119,7 @@ iocis
 &
 osculis
 ,
+
 Dehinc
 perennibus
 in
@@ -12292,7 +14130,9 @@ Aso
 .
 ô
 mea
+
 gaudia
+
 Non
 poßum
 enim
@@ -12301,8 +14141,10 @@ gaudeam
 praesentibus
 uobis
 ,
+
 nec
 est
+
 Vllus
 iam
 amaritudini
@@ -12311,6 +14153,7 @@ locus
 mea
 gaudia
 .
+
 Eamus
 ultro
 ad
@@ -12320,6 +14163,7 @@ ocyus
 .
 Vini
 optimi
+
 Ferri
 in
 triremem
@@ -12330,6 +14174,7 @@ duas
 .
 Valeat
 pater
+
 Valeat
 Philaetius
 tenax
@@ -12338,6 +14183,7 @@ ualeant
 amici
 caeteri
 ,
+
 Nostros
 amores
 exigamus
@@ -12347,23 +14193,29 @@ Pla
 .
 concedimus
 .
+
 IIII
 .
+
 SCE
 .
 VIII
 .
+
 ACTVOS
+
 Tetrametri
 ut
 superiores
 .
+
 Eumenius
 .
 Thryptus
 .
 Philaetius
 .
+
 Quàm
 est
 anxium
@@ -12372,7 +14224,9 @@ parentum
 ,
 liberis
 qui
+
 moleuolis
+
 Prauisque
 consultum
 uolunt
@@ -12382,6 +14236,7 @@ ipse
 iam
 annis
 plusculis
+
 Experior
 hoc
 in
@@ -12391,6 +14246,7 @@ qui
 iam
 suam
 substantiam
+
 Poposcit
 ,
 accepit
@@ -12402,12 +14258,14 @@ dum
 reuersus
 .
 Ferunt
+
 Alij
 meretricum
 sibi
 concire
 contubernium
 ,
+
 Alij
 fugam
 molirier
@@ -12415,6 +14273,7 @@ praenunciant
 ,
 alij
 aliud
+
 (
 Nescio
 quid
@@ -12425,6 +14284,7 @@ profecto
 calamitatis
 initium
 .
+
 Iam
 uesper
 proximus
@@ -12437,8 +14297,10 @@ aliqua
 ,
 mox
 redi
+
 erit
 .
+
 Occurrit
 ecce
 Thryptulus
@@ -12447,7 +14309,9 @@ praeter
 suum
 morem
 quidem
+
 Iam
+
 Iam
 serius
 redit
@@ -12460,6 +14324,7 @@ tam
 sero
 ades
 ?
+
 Iam
 uesper
 est
@@ -12471,7 +14336,9 @@ oportuit
 Thry
 .
 non
+
 Eumeni
+
 Sit
 irae
 ,
@@ -12482,6 +14349,7 @@ locus
 sed
 luctui
 .
+
 Eu
 .
 An
@@ -12494,8 +14362,10 @@ genus
 ?
 Thr
 .
+
 feram
 .
+
 Eu
 .
 Noli
@@ -12510,6 +14380,7 @@ hypocrisi
 quid
 est
 ?
+
 Th
 .
 Veni
@@ -12522,6 +14393,7 @@ pauculos
 pisces
 ,
 quia
+
 Alij
 ferc
 distracti
@@ -12533,6 +14405,7 @@ ad
 portum
 ,
 uti
+
 Siquid
 maritimorum
 marè
@@ -12541,6 +14414,7 @@ attulisset
 emerem
 piscium
 .
+
 Eu
 .
 Quid
@@ -12554,7 +14428,9 @@ dixeris
 .
 Thry
 .
+
 breuißime
+
 Dum
 sollicitus
 &
@@ -12565,8 +14441,10 @@ per
 mare
 &
 portum
+
 feror
 ,
+
 Paegnion
 Asoti
 adest
@@ -12575,6 +14453,8 @@ puer
 uidulum
 gerens
 marsupiumque
+
+
 
 
 Et
@@ -12589,6 +14469,7 @@ ista
 ?
 quo
 libet
+
 Mihi
 inquit
 :
@@ -12604,9 +14485,11 @@ Vbi
 inquam
 
 
+
 Asotus
 est
 ?
+
 In
 basilica
 inquit
@@ -12616,8 +14499,10 @@ curro
 illico
 &
 lustro
+
 forum
 ,
+
 Et
 basilicam
 totam
@@ -12631,6 +14516,7 @@ est
 Vt
 conspicor
 .
+
 Mihi
 data
 uerba
@@ -12641,8 +14527,10 @@ in
 ganeum
 ad
 Margae
+
 nium
 .
+
 Rogo
 si
 Asotus
@@ -12653,6 +14541,7 @@ refert
 puella
 abisse
 cum
+
 Margaenio
 &
 Planesio
@@ -12662,9 +14551,12 @@ portum
 soluturum
 illico
 ,
+
 Et
+
 E
 3
+
 Et
 nauigaturum
 in
@@ -12675,6 +14567,7 @@ remora
 Mox
 denuo
 in
+
 Portum
 propero
 ,
@@ -12685,8 +14578,10 @@ ad
 te
 nactum
 herum
+
 reducere
 .
+
 Sed
 heu
 laboratum
@@ -12700,7 +14595,9 @@ in
 portum
 
 
+
 irruo
+
 Soluta
 in
 altum
@@ -12712,6 +14609,7 @@ Eu
 .
 qui
 tibi
+
 Certum
 est
 eam
@@ -12723,6 +14621,7 @@ Th
 .
 stabant
 ibi
+
 Plerique
 ,
 qui
@@ -12733,6 +14632,7 @@ Asoto
 ,
 &
 prospera
+
 Ei
 imprecantes
 publice
@@ -12741,6 +14641,7 @@ omnibus
 .
 Phi
 .
+
 Valeat
 iners
 .
@@ -12757,7 +14658,9 @@ abisse
 credidi
 
 
+
 ,
+
 At
 ante
 crastinun
@@ -12770,8 +14673,10 @@ omnia
 audiui
 
 
+
 procul
 .
+
 Nam
 cum
 uiderem
@@ -12783,6 +14688,7 @@ discurrere
 haec
 mihi
 incidit
+
 Suspicio
 .
 Cometaque
@@ -12792,6 +14698,7 @@ te
 sequebar
 eminus
 .
+
 Pereat
 iners
 ,
@@ -12804,6 +14711,7 @@ utile
 uel
 probum
 .
+
 Eu
 .
 O
@@ -12817,6 +14725,7 @@ tuam
 cui
 non
 dolet
+
 Fraternus
 interitus
 .
@@ -12830,6 +14739,7 @@ non
 libet
 mihi
 .
+
 Praemisi
 in
 agrum
@@ -12840,6 +14750,7 @@ non
 uolo
 fraudarier
 .
+
 Rus
 abeo
 ,
@@ -12851,9 +14762,11 @@ die
 aut
 omissum
 aut
+
 perditum
 est
 .
+
 Perire
 adhuc
 satius
@@ -12864,6 +14777,7 @@ quàm
 adesse
 inutilem
 ,
+
 Tametsi
 pater
 reclamitat
@@ -12874,7 +14788,9 @@ iners
 Eu
 .
 quisnam
+
 dabit
+
 Capiti
 meo
 fontes
@@ -12884,6 +14800,7 @@ noctu
 ,
 fleam
 ,
+
 Diu
 fleam
 ,
@@ -12895,12 +14812,16 @@ fili
 Asote
 perditum
 ?
+
 ChoCHORVS
+
+
 
 
 Iambico
 dimetro
 .
+
 Rs
 ,
 cura
@@ -12908,48 +14829,61 @@ cura
 mos
 ,
 industria
+
 438
+
 AERommibus
 imeretricadis
 ,
+
 Tantisper
 adolescentulum
+
 Lactare
 dum
 pellexerint
 .
+
 Tantisper
 adolescentulum
+
 Amant
 fouentque
 lubricum
 ,
+
 Dum
 poßidet
 quod
 porrigat
 ,
+
 Et
 porrigit
 quòd
 poßidet
 .
+
 Hinc
 oscula
 &
 pectuscula
+
 Et
 delicatas
 mammulas
+
 Tibi
 uenditant
 ,
 donec
 tibi
+
 Iecur
 sagitta
 transigant
 .
+
 Si
 quid
 feras
@@ -12957,12 +14891,14 @@ feras
 acceptus
 es
 ,
+
 Si
 nil
 feras
 exclusus
 es
 ,
+
 Si
 quid
 feras
@@ -12970,48 +14906,61 @@ feras
 amator
 es
 ,
+
 Si
 nilferas
 ,
 amaror
 es
 .
+
 Vita
 ergo
 ephebe
 fornices
 ,
+
 Fuge
 scorta
 priua
 &
 publica
 ,
+
 Ne
 post
 tuam
 petulantiam
+
 Cum
 re
 salutem
 perduas
 .
+
 V
 .
 SCENAI
 .
+
 V
 .
+
 ACT
+
 Iambici
 trimetri
 .
+
 colax
+
 E
 4
+
 Colax
 solus
 .
+
 Voties
 propinquo
 ad
@@ -13019,6 +14968,7 @@ huius
 aedes
 diuitis
 ,
+
 Toties
 cutis
 mihi
@@ -13027,6 +14977,7 @@ prurit
 horret
 denuo
 .
+
 Sub
 hoc
 eodem
@@ -13034,11 +14985,13 @@ anni
 prioris
 tempore
 ,
+
 Fecere
 me
 illi
 plagiarij
 senis
+
 Totum
 ulmeum
 ,
@@ -13047,6 +15000,7 @@ haud
 sine
 ingenti
 illius
+
 Incommodo
 ,
 ingenti
@@ -13054,6 +15008,7 @@ quoque
 meo
 commodo
 .
+
 Verum
 est
 profecto
@@ -13061,6 +15016,7 @@ quod
 ferunt
 :
 Scholasticus
+
 Si
 ludus
 est
@@ -13068,6 +15024,7 @@ bonus
 ,
 flagella
 scholaria
+
 Minimi
 aestimat
 .
@@ -13075,6 +15032,7 @@ Parasitus
 ipse
 identidem
 ,
+
 Vt
 estur
 atque
@@ -13082,11 +15040,13 @@ bibitur
 ,
 omnia
 interim
+
 Flagella
 successura
 nihili
 pensitat
 .
+
 Dijs
 maxima
 lamen
@@ -13094,11 +15054,13 @@ est
 habenda
 gratia
 ,
+
 Quod
 mitiorem
 cum
 mihi
 probauerim
+
 Quàm
 merueram
 ,
@@ -13107,16 +15069,19 @@ speraueram
 iratum
 senem
 .
+
 Liuida
 cutis
 curarier
 facillime
+
 Potestur
 ,
 at
 nexum
 semel
 suspendio
+
 Guttur
 cruci
 ,
@@ -13124,6 +15089,7 @@ marcescit
 usque
 miserrimum
 .
+
 Apage
 à
 gula
@@ -13135,6 +15101,7 @@ ut
 Comasta
 mi
 ,
+
 Vt
 pendula
 istic
@@ -13142,6 +15109,7 @@ fronte
 &
 ore
 lurido
+
 Agitare
 uento
 in
@@ -13150,17 +15118,20 @@ uacuo
 ,
 &
 imbrium
+
 Iniurijs
 exponeris
 .
 Nae
 cautius
+
 Mercarier
 me
 isthaec
 docebunt
 amodo
 .
+
 Recta
 igitur
 accedo
@@ -13168,13 +15139,16 @@ forum
 ,
 siquo
 modo
+
 Queam
 honestius
 rationem
 edendi
 abs
 quolibet
+
 Nauciscier
+
 Nanciscier
 ,
 nam
@@ -13183,6 +15157,7 @@ parare
 ,
 inhonestius
 .
+
 Strident
 fores
 ,
@@ -13191,6 +15166,7 @@ si
 uidear
 seni
 .
+
 V
 .
 SC
@@ -13199,19 +15175,24 @@ E
 .
 II
 .
+
 AC
+
 Trinetri
 .
+
 Senex
 .
 Peregrinus
 .
+
 VNati
 mei
 sollicitor
 usque
 imagine
 ,
+
 TEt
 non
 queo
@@ -13220,6 +15201,7 @@ abs
 quibusque
 scisciter
 ,
+
 Si
 fors
 queam
@@ -13227,12 +15209,14 @@ qui
 filium
 usquàm
 ucierit
+
 Adipiscier
 .
 Sed
 ecce
 oberrat
 rustico
+
 Sago
 opertus
 ,
@@ -13244,6 +15228,7 @@ ferens
 adibo
 cum
 .
+
 Pere
 .
 An
@@ -13253,6 +15238,7 @@ Iuppiter
 uel
 me
 semel
+
 Respexerit
 ,
 quo
@@ -13260,6 +15246,7 @@ post
 uiarum
 maxima
 haec
+
 Incommoda
 ,
 aut
@@ -13268,18 +15255,21 @@ quietas
 recipiam
 ,
 aut
+
 Diuenditis
 his
 mercibus
 regredi
 queam
 ?
+
 Obambulat
 mihi
 quispiam
 ,
 rectaque
 me
+
 Petit
 ,
 morabor
@@ -13287,6 +15277,7 @@ paululum
 tardum
 senem
 .
+
 Eu
 .
 Salue
@@ -13299,6 +15290,7 @@ Pere
 .
 Boni
 Ioues
+
 Tibi
 salutem
 dent
@@ -13308,6 +15300,7 @@ ex
 Asia
 :
 adhaec
+
 (
 Si
 exactius
@@ -13316,6 +15309,7 @@ quaeras
 uides
 Milesium
 .
+
 Eu
 .
 Quid
@@ -13326,12 +15320,14 @@ prouinciam
 te
 propulit
 ,
+
 Vbi
 terra
 sterilior
 &
 infelicior
 ?
+
 Pere
 .
 Dicam
@@ -13341,10 +15337,13 @@ tibi
 Regio
 quae
 uberrima
+
 Fuit
 .
+
 E
 5
+
 Fuit
 hactenus
 ,
@@ -13353,6 +15352,7 @@ frugum
 inopia
 iam
 fame
+
 Interit
 .
 Eu
@@ -13367,6 +15367,7 @@ Pere
 rotat
 sic
 omnia
+
 Fatum
 .
 Eu
@@ -13377,6 +15378,7 @@ filio
 dicere
 potes
 ?
+
 Pe
 .
 Tuo
@@ -13396,13 +15398,16 @@ Eu
 .
 dudum
 in
+
 Asiam
+
 Abisse
 ,
 Miletique
 uiuere
 asserunt
 .
+
 Perc
 .
 Mori
@@ -13414,6 +15419,7 @@ artis
 cuius
 est
 ?
+
 Eu
 .
 Nullius
@@ -13427,6 +15433,7 @@ illi
 nomen
 est
 ?
+
 Eu
 .
 Asotus
@@ -13441,6 +15448,7 @@ Pere
 scribe
 faciem
 .
+
 Eu
 .
 Facie
@@ -13450,12 +15458,14 @@ obesa
 oculisque
 nigricantibus
 ,
+
 Genis
 rubentibus
 ,
 decentibus
 labris
 ,
+
 Tum
 mediocri
 statara
@@ -13463,6 +15473,7 @@ statara
 &
 omnibus
 artubus
+
 Gracilis
 .
 Pere
@@ -13473,6 +15484,7 @@ habet
 sub
 pectore
 ?
+
 Eu
 .
 Habet
@@ -13483,6 +15495,7 @@ hulcere
 illo
 quod
 tulit
+
 Infantulus
 :
 nouisti
@@ -13493,12 +15506,14 @@ Perc
 noui
 probe
 .
+
 Pridem
 fuit
 mihi
 ipse
 coniunctißimus
 .
+
 Eu
 .
 Viuit
@@ -13514,6 +15529,7 @@ non
 scio
 ,
 tamen
+
 Vnum
 scio
 ,
@@ -13521,6 +15537,7 @@ si
 uiuat
 ,
 infoeliciter
+
 Viuit
 .
 Nam
@@ -13530,6 +15547,7 @@ quam
 attulit
 rem
 prodige
+
 Scortando
 ,
 edendo
@@ -13538,6 +15556,7 @@ edendo
 heluando
 perdidit
 ,
+
 Egere
 coepit
 ,
@@ -13547,10 +15566,12 @@ adhaesit
 ciuium
 ,
 in
+
 Suburbio
 Milesiorum
 diuiti
 ,
+
 Qui
 calamitosum
 mox
@@ -13558,24 +15579,29 @@ in
 agros
 eijcit
 ,
+
 Porcisque
 pascendis
 ibidem
 destinat
 .
+
 Sic
 seruitutem
 seruit
 is
 miserrimam
 .
+
 Nam
 siliquis
 suum
 cupit
 uentrem
 suum
+
 Satura
+
 Saturare
 ,
 si
@@ -13584,6 +15610,7 @@ quispiam
 qui
 porrigat
 .
+
 Eu
 .
 Miserrimum
@@ -13591,6 +15618,7 @@ subulcum
 :
 oboriuntur
 mihi
+
 Iam
 lachrymae
 .
@@ -13600,6 +15628,7 @@ abundant
 seruuli
 ,
 &
+
 Gnatus
 fame
 tabescit
@@ -13610,6 +15639,7 @@ usque
 id
 clamitat
 ,
+
 Quot
 (
 inquit
@@ -13618,6 +15648,7 @@ in
 patris
 aede
 mercenarij
+
 Panibus
 abundant
 ,
@@ -13625,6 +15656,7 @@ atque
 lacte
 uictitant
 ,
+
 Ast
 ego
 fame
@@ -13634,11 +15666,13 @@ Reuertar
 ad
 patrem
 ,
+
 Fassoque
 crimine
 ,
 poenitentiae
 indices
+
 Dabo
 supplices
 manus
@@ -13646,6 +15680,7 @@ manus
 reflexos
 poplites
 ,
+
 Si
 quo
 modo
@@ -13653,6 +15688,7 @@ poßim
 impetrare
 gratiam
 .
+
 Eu
 .
 Faxit
@@ -13664,12 +15700,14 @@ ac
 redeat
 semel
 ,
+
 Qui
 filium
 aspernarier
 ualeat
 pater
 ?
+
 Perc
 .
 In
@@ -13678,6 +15716,7 @@ ubi
 rediero
 distractis
 meis
+
 Hic
 mercibus
 ,
@@ -13686,6 +15725,7 @@ filio
 haec
 narrauero
 ,
+
 Nisi
 (
 quod
@@ -13695,6 +15735,7 @@ puto
 prius
 reuerterit
 .
+
 Vale
 senex
 .
@@ -13706,6 +15747,7 @@ longum
 tu
 uale
 .
+
 Fac
 si
 potes
@@ -13713,11 +15755,13 @@ resipiscat
 ille
 miserrimus
 ,
+
 In
 publico
 facile
 foro
 perendie
+
 Merces
 tuas
 distraxeris
@@ -13728,6 +15772,7 @@ spero
 .
 Vale
 .
+
 Eu
 .
 Ognate
@@ -13741,6 +15786,7 @@ o
 Asote
 ,
 quo
+
 Tu
 calamitatis
 adactus
@@ -13750,6 +15796,7 @@ redi
 ,
 redi
 .
+
 Putas
 ne
 uerum
@@ -13757,6 +15804,7 @@ dixerit
 ?
 reducem
 breui
+
 Sperare
 liceat
 ?
@@ -13764,6 +15812,7 @@ an
 magis
 data
 epistola
+
 Mittam
 uirum
 ,
@@ -13772,6 +15821,7 @@ ipsum
 reducat
 certius
 ?
+
 Id
 certius
 multoque
@@ -13779,12 +15829,15 @@ certius
 :
 uir
 hic
+
 Milesius
 me
 certiorem
 de
 loco
+
 ractu
+
 Facturus
 est
 ,
@@ -13793,6 +15846,7 @@ iam
 inforo
 conuenero
 .
+
 Vt
 huic
 rei
@@ -13804,6 +15858,7 @@ refero
 domum
 .
 O
+
 Colax
 Colax
 (
@@ -13812,11 +15867,13 @@ omnino
 non
 caecutio
 )
+
 Quantum
 mihi
 meoque
 filio
 mali
+
 Partum
 est
 tua
@@ -13826,6 +15883,7 @@ non
 iam
 places
 .
+
 Lactandus
 alius
 qui
@@ -13833,17 +15891,24 @@ tuam
 ingluuiem
 expleat
 .
+
 SCE
 .
+
 I11
 .
+
 v
+
 ACTVS
+
 Tetrametri
 .
+
 ecolax
 solus
 .
+
 FAntum
 mihi
 foelicitatis
@@ -13851,6 +15916,7 @@ attulit
 praesens
 dies
 ,
+
 Vt
 non
 diurnum
@@ -13860,6 +15926,8 @@ modo
 ,
 uerum
 annuum
+
+
 
 
 Perpetuum
@@ -13872,7 +15940,9 @@ gratis
 porrigat
 
 
+
 .
+
 Quis
 aestimet
 quantum
@@ -13881,8 +15951,10 @@ in
 portu
 interim
 porten
+
 ditur
 ?
+
 Euax
 saturitas
 sancta
@@ -13892,6 +15964,7 @@ supreme
 ,
 tu
 quoque
+
 Ter
 maxime
 ô
@@ -13902,6 +15975,7 @@ gratias
 tibi
 referam
 .
+
 Merito
 ô
 Palaemon
@@ -13912,7 +15986,9 @@ tibi
 sacrificem
 
 
+
 ,
+
 Qui
 gaudij
 ingens
@@ -13923,6 +15999,7 @@ die
 mi
 aduexeris
 .
+
 Quantum
 foro
 Portune
@@ -13931,7 +16008,9 @@ praestes
 prodit
 opportunitas
 .
+
 Nam
+
 Namut
 ad
 forum
@@ -13941,6 +16020,7 @@ salut
 auique
 adolescentulos
 ,
+
 Mox
 profero
 unum
@@ -13949,8 +16029,10 @@ alterum
 ex
 melioribus
 dictis
+
 meis
 ,
+
 Rogo
 quo
 uel
@@ -13961,8 +16043,10 @@ uel
 prandium
 instructum
 ,
+
 uel
 ad
+
 Coenam
 opiparam
 concedimus
@@ -13972,6 +16056,7 @@ uelut
 muti
 silent
 .
+
 Illico
 ,
 uel
@@ -13984,6 +16069,7 @@ Forum
 detestor
 ,
 ad
+
 Portum
 uenio
 .
@@ -13992,6 +16078,7 @@ boni
 quantum
 mihi
 solatij
+
 Ibi
 obtulistis
 ,
@@ -14000,6 +16087,7 @@ diu
 expectatum
 Asotum
 amiculum
+
 Reducem
 mihi
 monstrastis
@@ -14009,6 +16097,7 @@ celoce
 uectum
 publica
 .
+
 Valeant
 modo
 nihili
@@ -14019,6 +16108,7 @@ scurrae
 neblones
 ,
 infima
+
 Qui
 hic
 occupant
@@ -14032,7 +16122,9 @@ scabrum
 sordidum
 
 
+
 ,
+
 Stupidumque
 &
 ignobile
@@ -14041,8 +16133,10 @@ uulgus
 ,
 quibus
 cum
+
 iam
 nihil
+
 Commune
 erit
 mihi
@@ -14054,6 +16148,7 @@ elixa
 assa
 porrigant
 .
+
 Primum
 amodo
 me
@@ -14063,7 +16158,9 @@ dehinc
 duces
 ,
 pauloque
+
 post
+
 Reges
 (
 ut
@@ -14077,6 +16174,8 @@ ad
 conuiuium
 
 
+
+
 Suum
 uel
 inuitum
@@ -14085,6 +16184,7 @@ uocauerint
 rogauerint
 quoque
 .
+
 Iam
 nunc
 abite
@@ -14096,6 +16196,7 @@ semita
 ,
 cauete
 ne
+
 Quis
 uestrum
 adoriatur
@@ -14104,8 +16205,10 @@ Colaca
 nec
 obstrepat
 uerbo
+
 aut
 ioco
+
 Vano
 ,
 quibus
@@ -14114,6 +16217,7 @@ appellare
 me
 consuescitis
 ,
+
 Nisi
 in
 caput
@@ -14123,8 +16227,10 @@ pugnos
 meos
 infringier
 .
+
 uis
 .
+
 Nisi
 uostra
 crura
@@ -14135,6 +16241,7 @@ rostra
 uostra
 colla
 penditis
+
 Minimi
 ,
 eminus
@@ -14143,8 +16250,10 @@ prospera
 imprecamini
 :
 viuat
+
 Colax
 .
+
 Mihi
 (
 inquio
@@ -14157,6 +16266,7 @@ Colax
 Viuat
 Colax
 .
+
 Nunc
 auspicetur
 à
@@ -14165,6 +16275,7 @@ regnum
 sibi
 contraditum
 ,
+
 Accedat
 Eumenij
 domum
@@ -14173,6 +16284,7 @@ senis
 ubi
 promptuaria
 ,
+
 Vinò
 redundant
 optimo
@@ -14184,8 +16296,10 @@ regio
 haec
 mea
 cu
+
 ria
 .
+
 Sed
 eccum
 honorandum
@@ -14197,8 +16311,10 @@ meum
 Bacchum
 
 
+
 meum
 ,
+
 Qui
 saturitatem
 sempiternam
@@ -14206,6 +16322,7 @@ mox
 mihi
 produxerit
 .
+
 Pridem
 quidem
 diuis
@@ -14215,6 +16332,7 @@ expulit
 ,
 faxo
 modo
+
 Non
 expulerit
 ,
@@ -14225,6 +16343,7 @@ est
 me
 blanditer
 .
+
 In
 abditum
 carnarium
@@ -14232,6 +16351,7 @@ atque
 promptuarium
 domus
 .
+
 Quid
 cesso
 compellare
@@ -14240,6 +16360,7 @@ longius
 quam
 ab
 aedibus
+
 Abscedat
 ,
 aut
@@ -14249,19 +16370,23 @@ rei
 anteuortat
 nuncius
 ?
+
 ACTVS
 VSCEIIII
 .
+
 Quadrati
 ut
 superiores
 .
+
 Eumenius
 .
 Colax
 .
 Famuli
 .
+
 Vemadmodum
 solent
 ,
@@ -14271,7 +16396,9 @@ amiculum
 absentem
 
 
+
 diu
+
 Saluum
 redire
 gestiunt
@@ -14280,6 +16407,7 @@ lustrare
 singulas
 uias
 ,
+
 Per
 quas
 putant
@@ -14289,7 +16417,9 @@ hospitem
 ,
 perinde
 mihi
+
 QuoQuoque
+
 
 
 actitandum
@@ -14302,6 +16432,8 @@ forum
 Milesium
 
 
+
+
 Quaeram
 ,
 deinde
@@ -14312,9 +16444,11 @@ qui
 ferat
 epistolam
 .
+
 Inde
 eo
 ad
+
 Portam
 superiorem
 ,
@@ -14326,6 +16460,7 @@ uti
 ,
 siquà
 meus
+
 Compareat
 gnatus
 ,
@@ -14334,6 +16469,7 @@ clementer
 excipere
 ,
 antequam
+
 Pudore
 suffusus
 animum
@@ -14343,6 +16479,7 @@ Col
 .
 de
 filio
+
 Fit
 sermo
 .
@@ -14353,8 +16490,10 @@ quod
 uenerit
 ?
 Polnon
+
 potest
 :
+
 Virum
 alloquar
 .
@@ -14366,6 +16505,7 @@ Eumeni
 licet
 modo
 subduceres
+
 Cum
 me
 uideres
@@ -14379,8 +16519,10 @@ uocat
 ?
 quid
 stem
+
 tibi
 ?
+
 Alio
 uocato
 non
@@ -14393,6 +16535,7 @@ Sta
 inquam
 ,
 quia
+
 Ego
 impero
 .
@@ -14405,6 +16548,7 @@ cui
 sic
 imperes
 .
+
 Sed
 omitte
 nugas
@@ -14418,8 +16562,10 @@ Co
 .
 scis
 quem
+
 prius
 .
+
 Caecideris
 ?
 Eu
@@ -14435,10 +16581,12 @@ meritum
 ?
 Col
 .
+
 &
 quidem
 optime
 ,
+
 Sed
 quaeso
 te
@@ -14448,6 +16596,7 @@ meis
 liuoribus
 malagmata
 ex
+
 Sumine
 suillo
 &
@@ -14456,6 +16605,7 @@ circumliga
 ,
 alioqui
 time
+
 Tabo
 cicatrices
 putrescere
@@ -14467,6 +16617,7 @@ tuo
 capiti
 heluo
 .
+
 Co
 .
 Mane
@@ -14479,6 +16630,7 @@ tibi
 adfero
 gaudij
 ,
+
 Vt
 ultro
 spondeas
@@ -14489,8 +16641,10 @@ saturitatem
 Eu
 .
 ego
+
 tibi
 ?
+
 Cò
 .
 Tu
@@ -14505,14 +16659,18 @@ gaudium
 qui
 filium
 meum
+
 tua
+
 vita
+
 vita
 atque
 corruptißimis
 disperdidisti
 moribus
 ?
+
 Fuge
 è
 meo
@@ -14525,9 +16683,11 @@ tibi
 debitam
 
 
+
 .
 Co
 .
+
 Bona
 uerba
 quaeso
@@ -14542,8 +16702,10 @@ abibis
 ?
 Co
 .
+
 Eumeni
 .
+
 Eu
 .
 Heus
@@ -14559,7 +16721,9 @@ deos
 superfluunt
 
 
+
 meae
+
 Nugae
 :
 nisi
@@ -14573,7 +16737,9 @@ Iuro
 deum
 
 
+
 ac
+
 Hominum
 fidem
 Eumeni
@@ -14585,8 +16751,10 @@ Eu
 quid
 tu
 prophane
+
 deieras
 ?
+
 Co
 .
 Cedo
@@ -14603,8 +16771,10 @@ dari
 ?
 Co
 .
+
 tantum
 tibi
+
 Iam
 apporto
 gaudij
@@ -14613,6 +16783,7 @@ ut
 facillime
 anteuortat
 omnibus
+
 Moeroribus
 cordis
 tui
@@ -14625,6 +16796,7 @@ rursus
 Co
 .
 Eumeni
+
 Irascier
 noli
 ,
@@ -14640,6 +16812,7 @@ audiam
 Co
 .
 iube
+
 Vasa
 elui
 ,
@@ -14653,6 +16826,7 @@ pocula
 .
 Eu
 .
+
 Quare
 ?
 Co
@@ -14664,8 +16838,10 @@ meo
 Genio
 mihi
 sacrificandum
+
 erit
 .
+
 Sanctaeque
 saturitati
 .
@@ -14682,8 +16858,10 @@ tuae
 Eu
 .
 nisi
+
 famuli
 hunc
+
 Tuleritis
 .
 Fa
@@ -14698,8 +16876,10 @@ fecerint
 quia
 filium
 tuum
+
 tibi
 .
+
 Eu
 .
 Quid
@@ -14717,9 +16897,11 @@ tu
 filium
 
 
+
 ?
 Co
 .
+
 Tuum
 inquio
 .
@@ -14734,9 +16916,12 @@ Co
 mihi
 quidem
 ,
+
 haud
+
 haadtibi
 .
+
 Eu
 .
 Dic
@@ -14748,7 +16933,9 @@ reductus
 Asotus
 est
 gnatus
+
 meus
+
 Minor
 ,
 ultro
@@ -14760,7 +16947,9 @@ saturitatem
 CoEumeni
 
 
+
 ,
+
 Iouem
 supremum
 capite
@@ -14768,7 +16957,9 @@ aperto
 testor
 ,
 incolumem
+
 tuum
+
 Saluum
 quoque
 aduenisse
@@ -14778,6 +16969,7 @@ in
 celoce
 publica
 ,
+
 Cultu
 tamen
 tam
@@ -14789,7 +16981,9 @@ eius
 misereat
 
 
+
 .
+
 Tam
 flaccidis
 genis
@@ -14800,6 +16994,7 @@ situ
 cute
 lurida
 ,
+
 Vt
 uix
 pater
@@ -14814,6 +17009,8 @@ mihi
 lachrymae
 
 
+
+
 Te
 propter
 oboriunturo
@@ -14824,6 +17021,7 @@ fili
 mi
 ,
 huccine
+
 Tu
 cala
 nitatis
@@ -14838,7 +17036,9 @@ desine
 ,
 ad
 ma
+
 re
+
 Propera
 ,
 ut
@@ -14848,8 +17048,10 @@ sordidum
 antequàm
 pudore
 con
+
 cidat
 ,
+
 Et
 intrò
 me
@@ -14860,6 +17062,8 @@ phylacam
 ubi
 insontes
 iacent
+
+
 
 
 Tibi
@@ -14875,8 +17079,10 @@ Eu
 optime
 
 
+
 mones
 ,
+
 Sed
 hactenus
 quid
@@ -14886,6 +17092,7 @@ nugis
 tuis
 &
 ludicris
+
 Lubitum
 est
 fatigare
@@ -14896,9 +17103,12 @@ hercle
 ut
 hanc
 ulciscerer
+
 meam
 cutem
+
 Quam
+
 Quam
 apparitoribus
 dedisti
@@ -14906,9 +17116,11 @@ olim
 flagris
 caedendam
 .
+
 Eu
 .
 age
+
 Nunc
 irrue
 in
@@ -14917,6 +17129,7 @@ carnarium
 &
 uibicibus
 cataplasmata
+
 Imponito
 ,
 edito
@@ -14928,6 +17141,7 @@ uixeris
 domi
 meae
 .
+
 Co
 .
 Dij
@@ -14939,9 +17153,11 @@ uicißitudinem
 atque
 ego
 me
+
 am
 operam
 ,
+
 Omnemque
 sollicitudinem
 amodo
@@ -14949,6 +17165,7 @@ tibi
 &
 rebus
 tuis
+
 Impendero
 ,
 atque
@@ -14958,8 +17175,10 @@ seruulum
 tibi
 me
 ob
+
 ligo
 .
+
 Eu
 .
 Herum
@@ -14972,6 +17191,7 @@ modo
 frugi
 sies
 ,
+
 Nunc
 intrò
 abi
@@ -14984,6 +17204,7 @@ opera
 uestra
 utier
 .
+
 Si
 postulet
 res
@@ -14996,6 +17217,7 @@ supreme
 ,
 qui
 omnia
+
 Condis
 ,
 gubernas
@@ -15006,6 +17228,7 @@ coeloque
 terraque
 pelagoque
 .
+
 Ago
 tibi
 gratias
@@ -15015,13 +17238,16 @@ ex
 tibi
 insita
 clementia
+
 Tandem
 ultimam
 respicere
 dignaris
 calamitatem
+
 meam
 .
+
 Quasi
 è
 graui
@@ -15032,6 +17258,7 @@ uideor
 renatus
 denuo
 .
+
 Profecto
 lachrymas
 tenere
@@ -15040,6 +17267,7 @@ queo
 prae
 gaudio
 .
+
 Ades
 Merimne
 citus
@@ -15050,22 +17278,27 @@ Triboni
 adeste
 celeriter
 .
+
 ACTVS
 VSCE
 .
 v
 .
+
 Octonarij
 ut
 superiores
 .
+
 Merinnus
 .
 Tribonius
 .
 Eumenus
 .
+
 Adsus
+
 Dsumus
 here
 ,
@@ -15074,10 +17307,12 @@ at
 mandata
 tua
 non
+
 A
 .
 segiter
 .
+
 O
 mi
 Deus
@@ -15087,7 +17322,9 @@ eminus
 conspicio
 ,
 demißis
+
 humi
+
 Moerore
 multo
 uoltibus
@@ -15099,6 +17336,7 @@ ille
 Asotus
 est
 ,
+
 Fallit
 profecto
 me
@@ -15111,6 +17349,7 @@ te
 fefellit
 dictio
 ,
+
 Ipsißimust
 .
 Facilis
@@ -15121,6 +17360,7 @@ mediocris
 ,
 sed
 &
+
 Gracilia
 membra
 corporis
@@ -15130,6 +17370,7 @@ filium
 tuum
 indicant
 .
+
 Eu
 .
 Qui
@@ -15142,8 +17383,10 @@ mihi
 persuadeat
 ,
 quod
+
 hic
 meus
+
 Sit
 filius
 ?
@@ -15155,6 +17398,7 @@ inuoluit
 obsecro
 sordibus
 ?
+
 Nudauit
 et
 foedauit
@@ -15166,7 +17410,9 @@ nge
 ut
 indignum
 hoc
+
 meo
+
 Generi
 ,
 modo
@@ -15180,6 +17426,7 @@ is
 psus
 esthere
 .
+
 Tri
 .
 Nihil
@@ -15192,8 +17439,10 @@ Eumeni
 nisi
 unum
 Asotum
+
 praeferunt
 ,
+
 Quid
 ambigis
 here
@@ -15206,7 +17455,9 @@ tandem
 miserrimum
 
 
+
 meum
+
 Gnatum
 ,
 modo
@@ -15216,8 +17467,10 @@ haud
 modo
 paternus
 affectus
+
 sinit
 .
+
 Mentem
 meam
 consistere
@@ -15227,9 +17480,12 @@ possum
 modo
 quin
 ad
+
 (
 senis
+
 aduolem
+
 Amplectar
 ,
 ac
@@ -15239,6 +17495,7 @@ Tri
 .
 Pijßimamo
 mentem
+
 In
 gnatum
 ,
@@ -15249,6 +17506,7 @@ senectae
 ,
 longe
 adhuc
+
 Posito
 cito
 cursu
@@ -15263,9 +17521,12 @@ singultit
 Me
 .
 en
+
 Iam
+
 F
 2
+
 Iam
 flius
 supplex
@@ -15274,6 +17535,7 @@ prosternitur
 ,
 complodit
 &
+
 Cum
 fletibus
 palmas
@@ -15284,6 +17546,7 @@ pater
 fit
 proximus
 .
+
 Tri
 .
 Ouiscera
@@ -15294,7 +17557,9 @@ paternum
 amorem
 ,
 ut
+
 est
+
 Propensus
 in
 tam
@@ -15307,9 +17572,11 @@ ruit
 in
 eius
 col
+
 la
 ,
 iam
+
 Complectitur
 ,
 cum
@@ -15318,7 +17585,9 @@ deosculatur
 .
 Age
 pro
+
 pius
+
 Adeamus
 ,
 ut
@@ -15328,6 +17597,7 @@ parentis
 mutuos
 poßimus
 hos
+
 Audire
 sermones
 .
@@ -15343,10 +17613,12 @@ mi
 pater
 Eu
 .
+
 quid
 gnate
 mi
 ?
+
 Aso
 .
 O
@@ -15362,7 +17634,9 @@ in
 te
 ,
 iam
+
 quoque
+
 Sum
 indignus
 appellarier
@@ -15372,6 +17646,7 @@ tuus
 fac
 me
 uelut
+
 Vnum
 ex
 tuis
@@ -15381,6 +17656,7 @@ mercenarijs
 ,
 recipe
 modo
+
 Tibi
 supplicem
 rogo
@@ -15391,9 +17667,11 @@ superbum
 arrogantem
 
 
+
 passus
 es
 .
+
 Iam
 poenitentem
 recipe
@@ -15402,9 +17680,11 @@ quem
 iamdudum
 iniquum
 pal
+
 sus
 es
 .
+
 Te
 lachrymae
 flectant
@@ -15414,6 +17694,7 @@ te
 supplices
 manus
 pater
+
 Flexique
 poplites
 .
@@ -15422,6 +17703,7 @@ te
 calamitatis
 meae
 .
+
 En
 membra
 nuda
@@ -15430,17 +17712,22 @@ en
 uiscerum
 flaccentium
 squallida
+
 cutis
 .
+
 Miserere
 clementißime
 pater
 huic
 miserrimo
 gnato
+
 tuo
 ,
+
 vt
+
 Vi
 pristinum
 tuum
@@ -15448,6 +17735,7 @@ fauorem
 &
 gratiam
 primariam
+
 Mereatur
 .
 Tr
@@ -15458,9 +17746,11 @@ quantae
 utrinque
 lachrymae
 ,
+
 haud
 ualet
 .
+
 Se
 temperare
 à
@@ -15471,7 +17761,9 @@ haud
 queo
 quin
 lachry
+
 mer
+
 Ipse
 quoque
 .
@@ -15482,8 +17774,10 @@ quoque
 lachrymas
 excutit
 uterque
+
 lachrymans
 .
+
 Eu
 .
 Mi
@@ -15498,6 +17792,7 @@ in
 me
 admiseris
 .
+
 Sed
 &
 amodo
@@ -15508,7 +17803,9 @@ non
 meminero
 
 
+
 .
+
 Hoc
 teste
 summo
@@ -15520,6 +17817,7 @@ osculo
 tibi
 spondeo
 .
+
 Aso
 .
 O
@@ -15530,8 +17828,10 @@ iaam
 pater
 primam
 ,
+
 licet
 .
+
 Duro
 atque
 sicco
@@ -15546,7 +17846,9 @@ surge
 alacriter
 
 
+
 ,
+
 Confidito
 :
 An
@@ -15561,6 +17863,8 @@ nunquid
 potest
 
 
+
+
 Filij
 uteri
 sui
@@ -15570,6 +17874,7 @@ pater
 ?
 Heus
 cito
+
 Proferte
 ab
 aedibus
@@ -15582,13 +17887,16 @@ annulum
 sandalia
 
 
+
 .
+
 Alij
 procurent
 celeriter
 uitulum
 saginatum
 probe
+
 Iugularier
 ,
 ut
@@ -15600,6 +17908,7 @@ die
 ,
 quia
 hic
+
 Gnatus
 meus
 qui
@@ -15610,6 +17919,7 @@ reuixit
 spiritu
 ,
 &
+
 Qui
 perierat
 repertus
@@ -15622,9 +17932,13 @@ parebimus
 Eu
 .
 celer
+
 rime
 .
+
 Act3
+
+
 
 
 ACTVS
@@ -15634,13 +17948,16 @@ SCE
 .
 VI
 .
+
 Iambici
 trimetri
 .
+
 Eumenius
 .
 Asotus
 .
+
 Ignate
 dic
 modo
@@ -15648,12 +17965,14 @@ modo
 fatere
 libere
 ,
+
 EQuis
 namte
 eò
 dementiae
 perduxerit
 ,
+
 Vt
 me
 patrem
@@ -15662,12 +17981,14 @@ tibi
 adeo
 affabilem
 ,
+
 Adeo
 benignum
 &
 obuium
 relinqueres
 ,
+
 Et
 in
 hanc
@@ -15676,6 +17997,7 @@ extimam
 te
 mergeres
 ?
+
 Quis
 incitauit
 ,
@@ -15684,6 +18006,7 @@ quislocuit
 &
 perdidit
 ?
+
 Aso
 .
 Mi
@@ -15694,24 +18017,28 @@ dolo
 ,
 tametsi
 quidem
+
 Comasta
 me
 corruperat
 primum
 ,
 tamen
+
 Ex
 propria
 prorsus
 libidine
 in
 malum
+
 Praeceps
 ferebar
 ,
 inde
 scortis
 blandulis
+
 Agglutinatus
 ,
 in
@@ -15720,16 +18047,19 @@ subuectus
 sumVbi
 
 
+
 omnibus
 tuis
 pater
 sudoribus
+
 Iam
 prodige
 absumptis
 ,
 meoque
 corpore
+
 Scortando
 ,
 edendo
@@ -15738,12 +18068,14 @@ edendo
 potitando
 ,
 eneruiter
+
 Corrupto
 ,
 ad
 impijßimi
 me
 contuli
+
 viri
 iugum
 (
@@ -15752,6 +18084,7 @@ inedia
 ac
 calida
 fames
+
 Me
 eo
 impulit
@@ -15761,6 +18094,7 @@ sues
 dum
 pascerem
 ,
+
 Ter
 scruitutem
 maximam
@@ -15768,6 +18102,7 @@ seruiui
 ,
 ut
 hi
+
 Mei
 indicant
 artus
@@ -15777,7 +18112,9 @@ hic
 uilis
 habitus
 .
+
 cum
+
 Cum
 iam
 fame
@@ -15786,11 +18123,13 @@ tabescerem
 &
 uentrem
 meum
+
 Opplere
 non
 liceret
 siliquis
 suum
+
 Reuersus
 ad
 mentem
@@ -15800,6 +18139,7 @@ pater
 gemitu
 graui
 ,
+
 O
 (
 inquam
@@ -15811,12 +18151,14 @@ patris
 mei
 uiri
 ,
+
 Quot
 mancipia
 ,
 gregesque
 mercenariùm
 ,
+
 Beati
 abundant
 panibus
@@ -15824,6 +18166,7 @@ panibus
 porro
 ego
 fame
+
 Marceseo
 tabescoque
 .
@@ -15832,17 +18175,20 @@ igitur
 ,
 &
 hinc
+
 Regressus
 accedam
 patrem
 meum
 optimum
 ,
+
 Siquo
 modo
 queam
 priorem
 gratiam
+
 Efflagitare
 precibus
 ,
@@ -15850,6 +18196,7 @@ ecce
 re
 .
 Precor
+
 Iccireo
 &
 obsecro
@@ -15857,6 +18204,7 @@ denuo
 cum
 lachrymis
 .
+
 Supplexque
 ,
 ut
@@ -15868,6 +18216,7 @@ in
 mari
 est
 ,
+
 Scelera
 haec
 pater
@@ -15877,11 +18226,13 @@ foeda
 ,
 enormia
 ,
+
 Posthac
 uelis
 obliuioni
 tradere
 .
+
 Nam
 fretus
 olim
@@ -15889,6 +18240,7 @@ mihi
 probata
 gratia
 &
+
 Clementia
 tua
 ,
@@ -15896,6 +18248,7 @@ reuersus
 sum
 pater
 .
+
 Eu
 .
 Exurge
@@ -15904,6 +18257,7 @@ denuo
 remitto
 quicquid
 est
+
 Delicti
 ,
 ades
@@ -15912,6 +18266,7 @@ Quam
 lachryme
 istae
 gratiam
+
 Non
 impetrent
 ?
@@ -15923,6 +18278,7 @@ quo
 nescio
 )
 haec
+
 Resciueram
 .
 Nunc
@@ -15930,6 +18286,7 @@ itaque
 gnate
 tuam
 improbam
+
 Probitate
 uitam
 corrige
@@ -15939,6 +18296,7 @@ Aso
 efficiam
 pater
 .
+
 Eu
 .
 Heus
@@ -15947,17 +18305,22 @@ adestis
 ?V
 
 
+
 .
 SCE
 .
 VII
 .
+
 ACTV
+
 Trimetri
 .
+
 F
 4
 MerimaMerimnus
+
 
 
 .
@@ -15965,11 +18328,13 @@ Eumenius
 .
 Asotus
 .
+
 Dsumus
 here
 ,
 &
 omnia
+
 Lurata
 sunt
 ,
@@ -15978,6 +18343,8 @@ afferre
 nos
 &
 exequi
+
+
 
 
 Mandaueras
@@ -15995,6 +18362,7 @@ Mer
 hbemEu
 
 
+
 .
 Et
 induatur
@@ -16003,6 +18371,7 @@ prius
 stola
 usus
 est
+
 In
 innocentia
 .
@@ -16010,6 +18379,7 @@ Haud
 decet
 sic
 filium
+
 Domum
 ingredi
 ,
@@ -16021,8 +18391,10 @@ sordidum
 .
 Mer
 .
+
 hem
 .
+
 Eu
 .
 Date
@@ -16036,6 +18408,7 @@ Mer
 .
 bem
 .
+
 Eu
 .
 Et
@@ -16045,12 +18418,14 @@ pedibus
 reliqua
 intus
 in
+
 Domo
 quae
 oportet
 singula
 instaurabimus
 .
+
 Mer
 .
 Dedi
@@ -16067,12 +18442,14 @@ intrò
 ,
 tu
 face
+
 Merimne
 psalten
 accias
 ,
 ut
 interim
+
 Dum
 epulabimur
 ducat
@@ -16082,6 +18459,7 @@ Mer
 .
 accersiam
 .
+
 Eu
 .
 Volo
@@ -16091,6 +18469,7 @@ hunc
 peragere
 festiuißime
 .
+
 Mer
 .
 Dignißimum
@@ -16103,6 +18482,7 @@ abi
 uocato
 proximum
 .
+
 Mer
 .
 Licet
@@ -16115,6 +18495,7 @@ Comasta
 pensilis
 pater
 ?
+
 Eu
 .
 Adhuc
@@ -16127,7 +18508,9 @@ Aso
 Miserum
 hominem
 ,
+
 at
+
 Vbi
 Daetrus
 est
@@ -16138,6 +18521,7 @@ in
 carcerem
 conieceram
 ,
+
 Vbi
 infidelem
 noueram
@@ -16146,6 +18530,7 @@ Aso
 .
 squalet
 pater
+
 Adhuc
 miser
 ?
@@ -16156,6 +18541,7 @@ phylaca
 eductus
 est
 .
+
 Aso
 .
 Me
@@ -16165,13 +18551,16 @@ siet
 pater
 obsccro
 .
+
 Nostrum
+
 Nostrum
 utriusque
 simul
 remitte
 noxiam
 .
+
 Eu
 .
 Etsi
@@ -16181,6 +18570,7 @@ meruerat
 ,
 seruabitur
 .
+
 Nam
 destinaueram
 hunc
@@ -16188,6 +18578,7 @@ quoque
 malis
 peßimis
 .
+
 Tu
 me
 sequere
@@ -16200,6 +18591,7 @@ pater
 ,
 praei
 .
+
 O
 si
 &
@@ -16208,6 +18600,7 @@ cum
 fratre
 inire
 gratiam
+
 Mihi
 liceat
 .
@@ -16219,21 +18612,26 @@ animo
 ,
 placabitur
 .
+
 VIII
 .
+
 ACTVS
 VSCE
 .
+
 Senarij
 ut
 superiores
 .
+
 Tribonius
 .
 Merimnus
 .
 Philaetius
 .
+
 Salten
 moratur
 herus
@@ -16242,6 +18640,7 @@ modos
 qui
 succinat
 ,
+
 Eccum
 Merimnum
 .
@@ -16253,7 +18652,9 @@ ubi
 fidecen
 
 
+
 ?
+
 Mer
 .
 Nunc
@@ -16263,6 +18664,7 @@ posticulum
 intrauit
 domum
 .
+
 Audin
 ?
 modo
@@ -16275,6 +18677,7 @@ probe
 ,
 sed
 est
+
 Quod
 te
 uelim
@@ -16289,12 +18692,14 @@ Tri
 .
 ex
 agro
+
 Philaetium
 uocare
 me
 mittit
 senex
 ,
+
 Obsecro
 (
 si
@@ -16304,11 +18709,13 @@ ferat
 pro
 illo
 conquo
+
 Interueni
 miserrimo
 ,
 forsan
 queat
+
 Iam
 propter
 haec
@@ -16318,6 +18725,7 @@ gaudia
 neruo
 eximi
 .
+
 Nam
 obnixius
 quoque
@@ -16325,6 +18733,7 @@ idipsum
 Asotus
 postulat
 .
+
 Mer
 .
 Ego
@@ -16338,12 +18747,15 @@ Tri
 .
 uale
 .
+
 Noui
+
 Noui
 profecto
 inamoenum
 erit
 philaetio
+
 Hoc
 nuncium
 ,
@@ -16352,12 +18764,14 @@ adferam
 de
 prodigo
 .
+
 Malit
 decem
 coros
 in
 horreo
 tritici
+
 (
 Quanquàm
 labore
@@ -16367,12 +18781,14 @@ conuchi
 quàm
 unum
 sibi
+
 Sanguine
 propinquum
 fratrem
 Asotum
 regredi
 .
+
 Sed
 commodum
 ,
@@ -16381,6 +18797,7 @@ ademit
 hanc
 molestiam
 .
+
 Adest
 homo
 ,
@@ -16389,6 +18806,7 @@ sibi
 quid
 supputans
 .
+
 Manebo
 eum
 ,
@@ -16396,6 +18814,7 @@ quid
 dicat
 auscultauero
 .
+
 Phi
 .
 Prudentis
@@ -16403,6 +18822,7 @@ est
 quotidie
 addere
 calculum
+
 Rei
 suae
 ,
@@ -16412,6 +18832,7 @@ accreuerit
 ei
 ,
 aut
+
 Decreuerit
 ,
 ne
@@ -16420,11 +18841,13 @@ res
 pessum
 eat
 .
+
 Congeßi
 in
 horreum
 trecentos
 hordei
+
 Ferme
 hoc
 die
@@ -16433,28 +18856,33 @@ modios
 corosque
 plus
 minus
+
 Flaui
 quadraginta
 octo
 ferme
 tritici
 ,
+
 Simulque
 quinquaginta
 quatuor
 coros
 ,
+
 Multis
 miserrimis
 laboribus
 ,
 tamen
+
 Solabitur
 me
 usura
 parti
 plurima
 ,
+
 Haec
 nanque
 in
@@ -16462,6 +18890,7 @@ annum
 proximum
 arbitror
 affatim
+
 Sufficere
 toti
 familiae
@@ -16470,6 +18899,7 @@ Trib
 .
 quantum
 miser
+
 Se
 excruciat
 absque
@@ -16480,6 +18910,7 @@ Phi
 quid
 audio
 ?
+
 Tri
 .
 Symphoniam
@@ -16491,6 +18922,7 @@ Ph
 .
 symphonia
 est
+
 Chorusque
 .
 Num
@@ -16502,6 +18934,7 @@ domo
 haud
 ibi
 .
+
 Vbi
 ergo
 ?
@@ -16519,6 +18952,8 @@ tu
 quoque
 
 
+
+
 Salue
 Triboni
 ,
@@ -16527,7 +18962,9 @@ ubi
 haec
 symphouia
 ?
+
 vbi
+
 vbi
 chorus
 ?
@@ -16542,6 +18979,7 @@ nostrae
 rogo
 ,
 an
+
 Alienae
 ?
 Tri
@@ -16555,8 +18993,10 @@ nostrae
 Phil
 .
 quid
+
 hoc
 ?
+
 Tri
 .
 Frater
@@ -16567,6 +19007,7 @@ pericrat
 pridem
 ,
 domum
+
 Reuersus
 est
 ,
@@ -16575,6 +19016,7 @@ parenti
 in
 gratiam
 .
+
 Phi
 .
 Asotus
@@ -16586,11 +19028,13 @@ Asotus
 .
 occidit
 pater
+
 Vitulum
 saginatum
 tenerrimumque
 ,
 ouans
+
 Gaudensque
 ,
 eum
@@ -16598,6 +19042,7 @@ quod
 sospitem
 receperit
 .
+
 Hinc
 chorus
 &
@@ -16607,6 +19052,7 @@ symphonia
 hinc
 pater
 tuus
+
 Me
 misit
 ,
@@ -16619,6 +19065,7 @@ Ph
 rem
 fecit
 is
+
 Stultißimam
 .
 Tri
@@ -16628,6 +19075,7 @@ stultißimam
 Phi
 .
 stultißimam
+
 Dico
 atque
 peßimam
@@ -16637,12 +19085,14 @@ Trib
 at
 pijßimam
 mihi
+
 Fecisse
 rem
 pulcherrimamque
 uisus
 est
 .
+
 Qui
 enim
 potest
@@ -16650,6 +19100,7 @@ gnatum
 pater
 disperdere
 ?
+
 Phi
 .
 Spreto
@@ -16660,6 +19111,7 @@ duris
 laboribus
 meis
 ,
+
 Recipit
 honestatque
 hunc
@@ -16668,6 +19120,7 @@ inertem
 &
 prodigum
 ?
+
 Non
 me
 teneo
@@ -16681,12 +19134,14 @@ intra
 mecum
 here
 ,
+
 Fratrem
 saluta
 ,
 aliosque
 conuiuas
 patris
+
 Laetifica
 .
 Ph
@@ -16705,6 +19160,7 @@ P
 .
 abi
 .
+
 Tri
 .
 Iratus
@@ -16714,15 +19170,19 @@ salute
 fratris
 liuidus
 .
+
 V
 .
 SCE
 .
 ultima
 .
+
 ACTVS
+
 Trimetri
 .
+
 Eumenius
 .
 Philaetius
@@ -16731,13 +19191,16 @@ Daetrus
 .
 Merimnus
 .
+
 Me
+
 TE
 uox
 tua
 exciuit
 foras
 amarior
+
 NLignate
 ,
 cur
@@ -16746,6 +19209,7 @@ domum
 ?
 quid
 et
+
 Turbatus
 hic
 perstas
@@ -16753,6 +19217,7 @@ foris
 ?
 Si
 prodigi
+
 Tibi
 uita
 displicuit
@@ -16760,11 +19225,13 @@ peius
 ,
 placeat
 modo
+
 Tibi
 poenitentis
 continentia
 obsecro
 .
+
 Phi
 .
 En
@@ -16776,6 +19243,7 @@ pater
 ,
 &
 uolens
+
 Tua
 iussa
 nunquàm
@@ -16785,6 +19253,7 @@ sciam
 )
 praeuaricor
 ,
+
 At
 ne
 quidem
@@ -16794,6 +19263,7 @@ hoedum
 mihi
 ,
 ut
+
 Cum
 amiculis
 epularier
@@ -16801,6 +19271,7 @@ epularier
 &
 festum
 diem
+
 Laetus
 agerem
 .
@@ -16809,6 +19280,7 @@ ubi
 redijt
 gnatus
 tuus
+
 Is
 ,
 qui
@@ -16816,6 +19288,7 @@ abliguriuit
 tuam
 substantiam
 ,
+
 Scortando
 cum
 me
@@ -16823,6 +19296,7 @@ etricibis
 ,
 dedisti
 ei
+
 Vitulum
 saginatum
 ,
@@ -16830,12 +19304,14 @@ chorum
 &
 symphoniam
 .
+
 Frustra
 tot
 aerumnas
 laboris
 exigo
 ,
+
 Aestum
 geluque
 perfero
@@ -16844,6 +19320,7 @@ perfero
 cura
 opprimor
 .
+
 Eu
 .
 Hem
@@ -16856,6 +19333,7 @@ es
 mecum
 ,
 omnia
+
 Quaecunque
 sunt
 mea
@@ -16865,6 +19343,7 @@ sunt
 .
 Porro
 modo
+
 Epulari
 oportet
 ,
@@ -16874,12 +19353,14 @@ festum
 hunc
 diem
 ,
+
 Quia
 Asotus
 hic
 frater
 tuus
 praemortuus
+
 Fuit
 ,
 ac
@@ -16890,6 +19371,7 @@ atque
 inuentus
 est
 .
+
 Eamus
 intro
 .
@@ -16904,8 +19386,10 @@ Eu
 ecqua
 nunc
 mo
+
 ra
 ?
+
 Mer
 .
 Supplex
@@ -16915,6 +19399,7 @@ Daetrus
 rogatque
 gratiam
 .
+
 Dae
 .
 Ignosce
@@ -16923,6 +19408,7 @@ miserrimo
 mihi
 noxiam
 .
+
 Eu
 .
 Tu
@@ -16933,7 +19419,9 @@ hypocrites
 qui
 abusus
 es
+
 Penu
+
 Penu
 meo
 nequißime
@@ -16942,6 +19430,7 @@ si
 frugi
 eris
 ,
+
 Pone
 &
 catenam
@@ -16952,6 +19441,7 @@ compedes
 ne
 quis
 locus
+
 Moeroribus
 siet
 .
@@ -16963,6 +19453,7 @@ ero
 ut
 uoles
 .
+
 Eu
 .
 Beneest
@@ -16976,9 +19467,12 @@ Ph
 .
 praei
 .
+
 GREXSIVEEPILOGVS
+
 Trimetri
 .
+
 Xhibita
 uobis
 fabula
@@ -16987,11 +19481,13 @@ est
 non
 fabula
 ,
+
 LSed
 Christiana
 euangelicaque
 parabola
 .
+
 Quae
 non
 in
@@ -17000,6 +19496,7 @@ sit
 acta
 spectatoribus
 ,
+
 Vt
 excitet
 risum
@@ -17008,10 +19505,12 @@ risum
 uoluptatem
 adferat
 ,
+
 Sed
 poenitentiae
 monendo
 formulam
+
 A
 luxu
 &
@@ -17019,6 +19518,7 @@ improbo
 facinore
 retrahat
 .
+
 Quare
 orat
 hic
@@ -17028,11 +19528,13 @@ noster
 ut
 re
 mystica
+
 Pro
 corrigendis
 moribus
 fruamini
 .
+
 Post
 furta
 ,
@@ -17043,6 +19545,7 @@ libidinem
 atque
 inertiam
 ,
+
 (
 Pater
 benignum
@@ -17051,6 +19554,7 @@ offeret
 )
 resipiscite
 .
+
 Iam
 si
 placuimus
@@ -17058,6 +19562,7 @@ placuimus
 atque
 commodauimus
 ,
+
 Fauete
 nobis
 candidi
@@ -17066,28 +19571,42 @@ candidi
 plausum
 date
 .
+
 FINIS
 ASOTI
 .
 
+
 DISC
 .
+
 GEEEe
 
 
+
+
 BSB
+
 MUNCIII
 
 
 
 
+
 lcomh
+
 lao
+
 lad
+
 120
+
 lo
+
 n7
+
 2IIID3E
+
 
 
 III
@@ -17095,28 +19614,39 @@ III
 71
 -
 4
+
 AEIII
 228
+
 5E111
+
 mnn
+
 4
+
 S
 =
 m
 IIIE
 T
 III
+
 Bayerische
+
 GS8
 cgblota
+
 Q
 2OOT
 digitalfoto
 -
 trainer
 de
+
 O
+
 O
 —
 I
+
 

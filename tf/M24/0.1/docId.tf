@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:34:36Z
+@dateWritten=2023-12-13T13:02:42Z
 
-15467	1503158
+17855	1503158

@@ -5,9 +5,9 @@
 @project=TransLatin
 @valueType=int
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:34:35Z
+@dateWritten=2023-12-13T13:02:41Z
 
-17579	83
+20432	83
 39
 45
 42

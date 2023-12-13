@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:34:58Z
+@dateWritten=2023-12-13T13:03:02Z
 
-67738	Pendularia
+77534	Pendularia

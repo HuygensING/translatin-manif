@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:34:45Z
+@dateWritten=2023-12-13T13:02:50Z
 
-30866	Adamus exul
+35978	Adamus exul

@@ -5,20 +5,27 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:35:14Z
+@dateWritten=2023-12-13T13:03:16Z
 
 kk
 5
+
 AASA
+
 DELENS
 STIRPEM
+
 EROBOAMI
 .
+
 TRAGAEDIA
+
 EXHIBEBITUR
+
 STUDIOSA
 JUVENTUTE
 GYMNASII
+
 S
 .
 S
@@ -27,6 +34,7 @@ ANNAE
 &
 ANTONII
 ,
+
 sub
 Regimine
 RR
@@ -34,6 +42,7 @@ RR
 Patrum
 Carmelitarum
 .
+
 Deo
 auspice
 ,
@@ -45,10 +54,12 @@ Mariae
 particularis
 
 
+
 Ordinis
 Patronae
 ac
 Matris
+
 BENE
 -
 MERENTIBUS
@@ -56,6 +67,7 @@ STUDIOSIS
 DISTRIBUENTUR
 PRAEMIA
 .
+
 Munsterblisiae
 die
 19
@@ -63,6 +75,7 @@ die
 20
 Augusti
 1776
+
 horâ
 scemdâ
 post
@@ -73,20 +86,27 @@ admitterur
 in
 Theatro
 .
+
 A
+
 ROYENDE
 HET
 GESLACHT
+
 VAN
+
 EROBOAM
 .
+
 TREUR
 -
 SPEL
+
 ZAL
 VERTOONT
 WORDEN
 .
+
 DOOR
 DE
 LEER
@@ -94,6 +114,7 @@ LEER
 ZUGTIGE
 JONKHYDVAN
 TCOLLEGIE
+
 VAN
 DE
 H
@@ -102,6 +123,7 @@ ANNA
 ENDE
 ANTONIUS
 ,
+
 Onder
 de
 Bestieringe
@@ -111,6 +133,7 @@ Eerw
 Paters
 Carmeliten
 .
+
 Met
 de
 hulpe
@@ -124,6 +147,7 @@ de
 Alderh
 .
 Maget
+
 Maria
 ,
 besonder
@@ -134,6 +158,7 @@ van
 dit
 Orden
 ,
+
 ZULLEN
 DE
 PRYSEN
@@ -144,6 +169,7 @@ UYTGEDEELT
 WORDENTot
 
 
+
 Munsterbilsen
 den
 19
@@ -152,6 +178,7 @@ en
 Augusti
 1776
 .
+
 Ten
 twé
 uren
@@ -166,15 +193,21 @@ t
 Theater
 admitteren
 .
+
 l1516
+
 ZI2VI
 .
+
 598
+
 KORT
 BEGRYP
 .
+
 ARGUMENTUM
 .
+
 INterfecit
 .
 ,
@@ -183,12 +216,14 @@ illum
 Nadabum
 Filium
 Je
+
 BAasa
 heefe
 doodgesltaegen
 .
 (
 Nadab
+
 roboami
 Baasa
 .
@@ -206,6 +241,7 @@ Koning
 Jeroboam
 )
 ende
+
 „
 heeft
 voor
@@ -216,12 +252,14 @@ ende
 als
 hy
 nu
+
 que
 regnasset
 ,
 percussit
 omnem
 domum
+
 eroboam
 :
 non
@@ -229,6 +267,7 @@ dimisit
 ne
 unam
 quidem
+
 Koning
 was
 ,
@@ -239,6 +278,7 @@ heel
 i
 '
 huys
+
 q
 van
 seroboam
@@ -253,12 +293,14 @@ t
 leAnimam
 
 
+
 de
 semine
 éjus
 ,
 donec
 delereteum
+
 
 
 :
@@ -272,6 +314,7 @@ Domini
 prop&
 
 
+
 ven
 gelaeten
 dat
@@ -280,6 +323,7 @@ had
 van
 Jeroboam
 ,
+
 ter
 peccata
 Jeroboam
@@ -288,6 +332,7 @@ quae
 peccaverat
 ,
 &
+
 &
 tot
 dat
@@ -297,6 +342,7 @@ geheel
 vernielde
 :
 naer
+
 des
 Heeren
 woord
@@ -308,12 +354,14 @@ om
 de
 sonden
 van
+
 quibus
 .
 peccare
 Fecerat
 Israël
 .
+
 Jeroboam
 door
 welke
@@ -322,6 +370,7 @@ gesondigt
 had
 ,
 en
+
 3
 .
 Reg
@@ -330,11 +379,13 @@ Cap
 .
 15
 .
+
 Israël
 had
 doen
 sondigen
 .
+
 III
 Boeck
 der
@@ -342,30 +393,38 @@ Koningen
 XV
 Heoftstuck
 .
+
 SONAE
 .
+
 PER
+
 Baasa
 ,
 Rex
 Israëlis
 .
+
 Mathias
 Du
 Halle
 ,
 Synt
 .
+
 Qnana
 ,
 Vidua
 Nadabi
 ,
+
 Ela
 Filius
 Baasae
 ,
+
 ba6
+
 Philippus
 Maxim
 .
@@ -373,47 +432,57 @@ Bosquet
 ,
 Synt
 .
+
 Ludovicus
 Vaes
 ,
 Synt
 .
+
 Cinotha
 ,
 Filia
 Nadabi
 ,
+
 RS
+
 Manabem
 ,
 Praesectus
 aulae
 ,
+
 Petrus
 Weyns
 ,
 Synt
 .
+
 Joannes
 Wilhelmus
 Lambreglits
 ,
 Synt
 .
+
 Senon
 ,
 Filius
 Nadabi
 ,
+
 Jeriel
 ,
 Princeps
 ,
+
 Joannes
 Krooll
 ,
 Gram
 .
+
 Joannes
 Eyben
 ,
@@ -421,20 +490,25 @@ Fig
 .
 maj
 .
+
 Arsa
 ,
 Princeps
 ,
+
 Zambri
 ,
 Princeps
 ,
+
 Wilhelmus
 Meyers
 ,
 Grami
 !
+
 S6
+
 Wilhelmus
 Janssens
 ,
@@ -442,16 +516,19 @@ Fig
 .
 min
 .
+
 Harpax
 ,
 Carceris
 praefectus
 ,
+
 Thraso
 ,
 Carceris
 praefectus
 ,
+
 Henricus
 Geuskens
 ,
@@ -459,6 +536,7 @@ Fig
 .
 min
 .
+
 Joannes
 Petrus
 Pisart
@@ -467,14 +545,17 @@ Fis
 .
 min
 .
+
 I
 .
 BEDRYF
 .
+
 ACTUS
 .
 I
 .
+
 aasa
 door
 den
@@ -483,10 +564,12 @@ zegen
 verwaendeQUm
 
 
+
 Sceptro
 superbit
 arrogantius
 BaaDlyek
+
 
 
 opgeblaesen
@@ -496,6 +579,7 @@ door
 Ela
 in
 achDsa
+
 
 
 ,
@@ -514,6 +598,7 @@ den
 Zone
 van
 Nadab
+
 iri
 praesagit
 Ela
@@ -522,6 +607,7 @@ quod
 timens
 rex
 cum
+
 bem
 het
 ryck
@@ -532,6 +618,7 @@ t
 '
 welck
 den
+
 fuis
 Conspirat
 in
@@ -539,6 +626,7 @@ mortem
 Senonis
 ,
 eumque
+
 Koning
 vreesende
 ,
@@ -548,12 +636,14 @@ de
 syne
 de
 dood
+
 capiendi
 Manabemo
 committit
 curam
 ,
 quam
+
 van
 Senon
 ,
@@ -565,6 +655,7 @@ van
 hemN
 
 
+
 te
 vangen
 op
@@ -574,6 +665,7 @@ dewelke
 hy
 wel
 op
+
 hic
 quidem
 assumit
@@ -581,6 +673,7 @@ assumit
 verum
 mox
 facti
+
 sig
 neemt
 ;
@@ -590,11 +683,13 @@ hier
 over
 leet
 vesen
+
 paenitens
 Succurrero
 Senoni
 statuit
 .
+
 &
 hebbende
 ,
@@ -605,13 +700,16 @@ by
 te
 staen
 .
+
 II
 .
 BEDRYF
 .
+
 ACTUS
 II
 .
+
 α
 SEnon
 syn
@@ -621,6 +719,7 @@ bewoenende
 vord
 van
 syne
+
 CEnonem
 ,
 ereptum
@@ -628,6 +727,7 @@ sibi
 regnum
 lugentem
 ,
+
 O
 Moeder
 en
@@ -636,6 +736,7 @@ vertroost
 :
 maar
 nauwelyckx
+
 solantur
 Onana
 &
@@ -644,6 +745,7 @@ cinotha
 hinc
 parum
 re*
+
 
 
 Verquickt
@@ -655,12 +757,14 @@ rampen
 gewickcreatus
 
 
+
 Senon
 ,
 auditâ
 ex
 Manahemo
 con3
+
 
 
 helt
@@ -673,11 +777,13 @@ behoudenis
 vanjuratione
 
 
+
 in
 Angustias
 graviores
 dimittitur
 .
+
 haeren
 Zoon
 ,
@@ -687,6 +793,7 @@ hem
 over
 aan
 Manahem
+
 mater
 filio
 ut
@@ -694,6 +801,7 @@ consulat
 ,
 eum
 Manahemo
+
 om
 hem
 te
@@ -703,6 +811,7 @@ Cinotha
 neemt
 devlucht
 .
+
 occultandum
 tradit
 .
@@ -710,6 +819,7 @@ Aegré
 avellitur
 Sexon
 ;
+
 Onana
 van
 Arsa
@@ -718,6 +828,7 @@ verrast
 word
 veor
 den
+
 maesta
 dimittitur
 Cinotha
@@ -726,6 +837,7 @@ regi
 sistitur
 ab
 &
+
 Koning
 gebraebt
 ,
@@ -733,6 +845,7 @@ door
 welkers
 beloften
 bedrogen
+
 
 
 ,
@@ -743,6 +856,7 @@ vederom
 te
 roepen
 .
+
 Arsa
 deprehensa
 Onana
@@ -752,22 +866,27 @@ regiis
 promissis
 
 
+
 elusa
 filium
 statuit
 revocare
 .
+
 ACTUSIII
 .
+
 III
 .
 BEDRYF
 .
+
 ONana
 ,
 reluctantibus
 nequicquam
 ManaNana
+
 
 
 doet
@@ -776,12 +895,14 @@ tegen
 het
 gevoelen
 van
+
 OManahem
 ende
 Cinotha
 weerom
 roepen
 :
+
 hemo
 &
 Cinothâ
@@ -791,6 +912,7 @@ revocare
 jubet
 ;
 &
+
 desen
 seer
 bevreest
@@ -801,6 +923,7 @@ hofte
 verschynen
 ,
 word
+
 huic
 ,
 dum
@@ -812,6 +935,7 @@ aulam
 tradoor
 
 
+
 Ela
 verkloeckt
 ,
@@ -819,6 +943,7 @@ denwelken
 uyt
 Arsa
 verhitur
+
 
 
 ,
@@ -829,6 +954,7 @@ Elae
 ,
 qui
 mox
+
 staende
 ?
 Konings
@@ -837,6 +963,7 @@ verandert
 te
 syn
 ,
+
 mutatum
 regis
 animum
@@ -845,6 +972,7 @@ Arsa
 intelligens
 ,
 &
+
 voor
 komt
 Senon
@@ -857,11 +985,13 @@ t
 breSenonem
 
 
+
 praevertit
 ,
 &
 ruptam
 conjuratio3
+
 
 
 ken
@@ -874,6 +1004,7 @@ hem
 i
 ’
 benem
+
 
 
 Patri
@@ -890,6 +1021,7 @@ hy
 Senon
 verraederlyck
 does
+
 Baasa
 ,
 dum
@@ -898,6 +1030,7 @@ catenas
 Senoni
 injicit
 ,
+
 in
 de
 banden
@@ -905,19 +1038,24 @@ smyten
 ,
 ondertusschen
 woed
+
 furente
 Onana
 .
+
 Onana
 door
 gramschap
 .
+
 IV
 .
 BEDRYE
 .
+
 ACTUSIV
 .
+
 )
 Nana
 haar
@@ -929,6 +1067,7 @@ Zoons
 ellenONanae
 
 
+
 ,
 suas
 &
@@ -936,6 +1075,7 @@ filii
 miserias
 deflenti
 occur
+
 Oden
 beweenende
 ,
@@ -943,6 +1083,8 @@ ontmoet
 Cinotha
 ,
 de¬rit
+
+
 
 
 
@@ -954,6 +1096,7 @@ audito
 fratris
 fato
 ,
+
 velke
 haar
 broeders
@@ -961,12 +1104,14 @@ ongeval
 verstaende
 ,
 gaes
+
 dissuadente
 Manahemo
 ,
 cum
 Matre
 Baasam
+
 met
 haar
 moeder
@@ -977,6 +1122,7 @@ van
 Manaadit
 
 
+
 &
 Machinas
 omnes
@@ -984,6 +1130,7 @@ admovet
 :
 regem
 3
+
 hem
 naar
 t
@@ -997,6 +1144,7 @@ alles
 aen
 by
 den
+
 pené
 victum
 Onanae
@@ -1004,6 +1152,7 @@ Onanae
 cinothae
 precibus
 ac
+
 Koning
 ,
 die
@@ -1017,12 +1166,14 @@ d
 onverlacrymis
 
 
+
 subitus
 Elae
 adventus
 adeo
 immutat
 ,
+
 δ
 wagte
 aenkomste
@@ -1032,6 +1183,7 @@ zoo
 verandert
 ,
 dat
+
 ut
 utramque
 carceri
@@ -1039,6 +1191,7 @@ mancipet
 ;
 hic
 mutuo
+
 G
 hy
 s
@@ -1052,6 +1205,7 @@ kerker
 smyten
 .
 dese
+
 3ongeluckkige
 Moeder
 met
@@ -1059,6 +1213,7 @@ haere
 Kinders
 aen
 de
+
 amori
 indulgent
 cum
@@ -1067,12 +1222,14 @@ mater
 &
 Soror
 .
+
 wederzydsche
 droefhyd
 ende
 liefde
 den
 vollen
+
 cas
 separari
 .
@@ -1081,6 +1238,7 @@ stirpis
 reliquias
 detrudi
 in
+
 toom
 gevende
 ,
@@ -1091,6 +1249,7 @@ t
 gebod
 van
 Baasa
+
 carcerem
 Jubet
 Baasa
@@ -1098,6 +1257,7 @@ Baasa
 interim
 cum
 Filio
+
 van
 bun
 geschyden
@@ -1108,12 +1268,14 @@ d
 ’
 overige
 van
+
 &
 proceribus
 de
 supplicio
 deliberaturus
 .
+
 t
 ’
 gestagt
@@ -1125,6 +1287,7 @@ boyen
 gesmeten
 ,
 Baasa
+
 Q
 sullende
 ondertusschen
@@ -1133,12 +1296,15 @@ overde
 straste
 beraeden
 .
+
 ACTUSV
 .
+
 V
 .
 BEDRYF
 .
+
 Ex
 ,
 primum
@@ -1149,6 +1315,7 @@ Ela
 con
 -
 c
+
 LEn
 Koning
 onseker
@@ -1157,6 +1324,7 @@ ost
 ky
 de
 vrouvuen
+
 silio
 faeminis
 parsurus
@@ -1166,6 +1334,7 @@ Onanam
 CiDvilt
 
 
+
 spaeren
 ,
 stelt
@@ -1173,6 +1342,7 @@ dit
 eyndelyck
 door
 den
+
 raed
 van
 Ela
@@ -1182,6 +1352,7 @@ en
 schenkt
 Onana
 ende
+
 notham
 ad
 se
@@ -1191,6 +1362,7 @@ donat
 &
 libertare
 .
+
 5
 Cinotha
 s
@@ -1202,6 +1374,7 @@ vryhyd
 ,
 deoxe
 door
+
 Hae
 ,
 insperato
@@ -1210,6 +1383,7 @@ attonitae
 ,
 Eamdem
 ?
+
 r
 ’
 onverwagt
@@ -1220,11 +1394,13 @@ smeeken
 ootSenoni
 
 
+
 gratiam
 postulant
 supplices
 ;
 annuere
+
 moedig
 om
 de
@@ -1234,6 +1410,7 @@ voor
 Senon
 ;
 Baasa
+
 se
 simulans
 Baasa
@@ -1244,6 +1421,7 @@ cum
 nepotiveynsende
 
 
+
 hunne
 vraege
 in
@@ -1252,6 +1430,7 @@ willigen
 ,
 toont
 hun
+
 bus
 a
 canibus
@@ -1259,6 +1438,7 @@ dilaniatum
 Matri
 reddit
 ;
+
 Senon
 met
 hunne
@@ -1269,17 +1449,20 @@ honden
 verhinc
 
 
+
 furore
 Amentes
 Onanam
 &
 Cinotham
+
 scheurt
 ,
 deze
 onmenscholychyd
 verwyten
 Onana
+
 pariter
 Morti
 tradit
@@ -1287,6 +1470,7 @@ tradit
 atque
 ita
 sceptrum
+
 &
 ende
 Cinotha
@@ -1295,6 +1479,7 @@ den
 Koning
 zoodaenigh
 ,
+
 dat
 hy
 hun
@@ -1306,11 +1491,13 @@ der
 vrousibi
 
 
+
 &
 Filio
 Coufirmatum
 Gloriatur
 .
+
 *
 ven
 doet
@@ -1321,6 +1508,7 @@ dat
 alzoo
 voor
 sic
+
 en
 synen
 Zoon
@@ -1329,20 +1517,24 @@ ryck
 bevestigt
 it
 ,
+
 KLUGT
 -
 SPEL
 .
+
 D
 ’
 ONNOOSELHYD
 VAN
 ARLEQUIN
 .
+
 OP
 DE
 ZINSPREUK
 .
+
 De
 blinde
 waerhyd
@@ -1353,6 +1545,7 @@ d
 ’
 onnooselheid
 ,
+
 Wanneer
 ,
 al
@@ -1364,10 +1557,13 @@ de
 waerhyd
 seid
 .
+
 PERSOONEN
 .
+
 Davus
 ,
+
 Constantinus
 M
 .
@@ -1377,6 +1573,7 @@ Nanteuil
 ,
 Poëta
 .
+
 Nautrato
 ,
 Ouden
@@ -1385,16 +1582,19 @@ Vaeder
 van
 Flor
 .
+
 clitander
 ,
 Minnaer
 van
 Flor
 ,
+
 Petrus
 Withoss
 ,
 GramJoannes
+
 
 
 Theodorus
@@ -1402,24 +1602,28 @@ van
 Gulpen
 ,
 Poëta
+
 Florinde
 ,
 Liefste
 van
 Clitander
 .
+
 Damis
 ,
 Minnaer
 van
 Florinde
 ,
+
 Andreas
 Berents
 ,
 Fig
 min
 .
+
 Engelbertus
 M
 .
@@ -1428,44 +1632,54 @@ Meyer
 ,
 Synt
 .
+
 N4
+
 Violette
 ,
 Liefste
 van
 Davus
 ,
+
 Strobolus
 ,
 Luvkschen
 Wael
 ,
+
 Everardus
 Ceulen
 ,
 Synt
 .
+
 Leonardus
 Bemelmans
 ,
 Gram
 .
+
 348
+
 Shrigani
 ,
 Schouth
 ,
+
 Crispye
 ,
 Knegr
 van
 Clitander
 ,
+
 Wynandus
 Thecuwissen
 ,
 Gram
 .
+
 &
 N
 Joannes
@@ -1476,15 +1690,19 @@ Fig
 .
 min
 .
+
 Rhodganus
 ,
 Soldaet
 .
+
 Picolon
 ,
 Soldaet
 ,
+
 373
+
 Hubertus
 Heckelers
 ,
@@ -1492,12 +1710,14 @@ Fig
 .
 min
 .
+
 Libertus
 Achten
 ,
 in
 Rud
 .
+
 Door
 de
 Pantomine
@@ -1510,6 +1730,7 @@ Danssen
 ,
 zal
 vertoont
+
 worden
 de
 waere
@@ -1524,6 +1745,7 @@ Lichtenschyn
 Zangmeester
 
 
+
 vant
 Doorl
 .
@@ -1534,8 +1756,10 @@ Capittel
 van
 Munsterbilsen
 .
+
 DANSSERS
 .
+
 Constantinus
 M
 M
@@ -1544,6 +1768,7 @@ Nenteuil
 ,
 Poëtu
 .
+
 Franciscus
 Bosquet
 ,
@@ -1551,11 +1776,13 @@ Fig
 .
 maj
 .
+
 Mathias
 Duhalle
 ,
 Synt
 .
+
 ae
 Henricus
 Geuskens
@@ -1564,11 +1791,13 @@ Fig
 .
 min
 .
+
 Everardus
 Ceulen
 ,
 Synt
 .
+
 &
 Wilhelm
 .
@@ -1589,11 +1818,13 @@ Fig
 .
 min
 .
+
 Petrus
 Weyns
 ,
 Synt
 .
+
 nannes
 Petrus
 Pisart
@@ -1602,6 +1833,7 @@ Fig
 .
 min
 .
+
 Andreas
 Berenis
 ,
@@ -1609,6 +1841,7 @@ Fig
 .
 min
 .
+
 Engelb
 .
 M
@@ -1618,6 +1851,7 @@ Meyer
 ,
 Synt
 .
+
 &
 Petrus
 Jaussens
@@ -1636,12 +1870,14 @@ in
 RudJoes
 
 
+
 Henr
 .
 Krool
 ,
 Gram
 .
+
 annes
 Olillagers
 ,
@@ -1657,11 +1893,13 @@ Achten
 in
 Rud
 .
+
 Wyn
 .
 Theeuwissen
 ,
 Gram
+
 Hubertus
 Heckelers
 ,
@@ -1676,6 +1914,7 @@ Moris
 in
 Rud
 .
+
 Joannes
 Eyben
 ,
@@ -1683,6 +1922,7 @@ Fig
 .
 maj
 .
+
 cia
 Wilhelmus
 Janssens
@@ -1698,6 +1938,7 @@ Vincent
 in
 Rud
 .
+
 Ad
 Majorem
 Dei
@@ -1706,6 +1947,7 @@ Dei
 -
 paraeque
 Virginis
+
 Mariae
 ,
 nec
@@ -1713,12 +1955,15 @@ non
 Sancti
 Patris
 nostri
+
 Eliae
 honorem
 &
 Gloriam
 .
+
 cbcoca
+
 TOT
 MAASTRICUT
 ,
@@ -1731,6 +1976,7 @@ J
 TVAN
 GULPEN
 ,
+
 woonende
 in
 de
@@ -1740,3 +1986,4 @@ straet
 ,
 1776
 .
+

@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:35:14Z
+@dateWritten=2023-12-13T13:03:16Z
 
-307	https://www.let.leidenuniv.nl/Dutch/Ceneton/SJJaromirusIeper1743.html
+394	https://www.let.leidenuniv.nl/Dutch/Ceneton/SJJaromirusIeper1743.html

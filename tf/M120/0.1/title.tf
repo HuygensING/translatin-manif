@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:34:41Z
+@dateWritten=2023-12-13T13:02:46Z
 
-12494	15813323987876bsb00016451
+14348	15813323987876bsb00016451

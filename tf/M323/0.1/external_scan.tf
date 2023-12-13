@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:35:03Z
+@dateWritten=2023-12-13T13:03:06Z
 
-22307	http://books.google.be/books?id=L9tIAAAAcAAJ&printsec=frontcover&hl=nl&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
+25772	http://books.google.be/books?id=L9tIAAAAcAAJ&printsec=frontcover&hl=nl&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false

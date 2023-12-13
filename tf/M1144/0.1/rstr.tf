@@ -5,149 +5,314 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:35:13Z
+@dateWritten=2023-12-13T13:03:16Z
 
-8	Dr
+5	
+9	
+Dr
 ¬
+
 Q4
-14	c
+
+18	
+c
 ¬
+
 COMOEDIAE
-18	IV
+24	IV
 ¬
+
 ACTUS
-46	ha
+30	
+39	
+48	
+50	
+57	ha
 ¬
+
 dolet
-57	de
+69	de
 ¬
+
 recto
-69	Fi
+82	Fi
 ¬
+
 be
-81	nsa
+95	nsa
 ¬
+
 De
-88	e
+103	e
 ¬
+
 AD
-154	Men
+108	
+110	
+113	
+116	
+119	
+121	
+125	
+128	
+132	
+134	
+140	
+143	
+149	
+153	
+155	
+158	
+162	
+171	
+175	
+177	
+185	
+188	
+190	
+193	Men
 ¬
+
 anius
-159	hercemm
+
+199	
+201	hercemm
 ¬
+
 ectes
-167	petims
+208	
+210	
+212	petims
 ¬
+
 varam
-173	pnes
+
+218	
+221	pnes
 ¬
+
 betem
-177	nents
+226	nents
 ¬
+
 unotlio
+
 cernori
 ¬
+
 nems
-184	pn
+236	pn
 ¬
+
 Centas
-188	tenhte
+241	tenhte
 ¬
+
 iecui
 ¬
+
 1ec1o
-196	nnd
+
+250	
+253	nnd
 ¬
+
 huneus
-205	d
+259	
+261	
+263	
+266	d
 ¬
+
 eareas
-236	prtus
+272	
+276	
+280	
+289	
+297	
+302	
+304	
+prtus
 ¬
+
 tepmm
 pet
 ¬
+
 senes
 bnstet
 ¬
+
 HEGIO
-249	phi
+319	
+322	phi
 ¬
+
 Sanbnas
 Andt
 ¬
+
 meanhus
-262	Cafe
+331	
+333	
+335	
+339	
+341	Cafe
 ¬
+
 ntaptiana
-267	hem
+
+347	
+349	hem
 ¬
+
 tnnus
 pn
 ¬
+
 saNnno
-276	cmniimd
+
+359	
+362	cmniimd
 ¬
+
 hmntem
-280	
-295	ne
+367	
+
+370	
+373	
+376	
+379	
+381	
+383	
+385	
+388	
+391	ne
 ¬
+
 beri
 ¬
+
 DORUS
-303	cne
+
+400	
+403	cne
 ¬
+
 pumm
-307	hesta
+408	hesta
 ¬
+
 uernoontscam
 pa
 ¬
+
 peonunm
-316	Cea
+
+419	
+421	Cea
 ¬
+
 ouaro
-326	Destm
+
+427	
+429	
+433	
+436	Destm
 ¬
+
 1
-334	c
+
+443	
+445	
+448	c
 ¬
+
 cene
-338	na
+453	na
 ¬
+
 ACTUS
-368	mali
+460	
+470	
+478	
+487	mali
 ¬
+
 interdicit
-377	mina
+497	mina
 ¬
+
 tur
-395	Pn
+511	
+515	
+518	Pn
 ¬
+
 ACTUS
-406	de
+523	
+531	de
 ¬
+
 stinatam
-427	re
+543	
+554	re
 ¬
+
 agendum
-452	fru
+566	
+568	
+573	
+577	
+584	fru
 ¬
+
 Lctum
-461	dis
+594	dis
 ¬
+
 cedit
-491	
+607	
+619	
+627	
 
 
 
-524	au
+
+636	
+640	
+648	
+657	
+665	au
 ¬
+
 fugiunt
-549	late
+675	
+682	
+686	
+694	late
 ¬
+
 bris
-558	seseab
+704	seseab
 ¬
+
 diderant
+717	
+725	
+729	
+732	
+736	
+738	
+745	
+747	
+749	
+754	
+759	
+761	
+765	
+769	
+772	
+783	
+787	
+795	

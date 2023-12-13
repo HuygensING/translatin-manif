@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:35:13Z
+@dateWritten=2023-12-13T13:03:16Z
 
-316	1730-01-01
+398	1730-01-01

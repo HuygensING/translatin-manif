@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:34:45Z
+@dateWritten=2023-12-13T13:02:50Z
 
-30866	https://www.let.leidenuniv.nl/Dutch/Ceneton/Facsimiles/GrotiusAdamusExul1601
+35978	https://www.let.leidenuniv.nl/Dutch/Ceneton/Facsimiles/GrotiusAdamusExul1601

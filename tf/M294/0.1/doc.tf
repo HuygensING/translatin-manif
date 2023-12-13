@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:34:57Z
+@dateWritten=2023-12-13T13:03:02Z
 
-67738	M294
+77534	M294

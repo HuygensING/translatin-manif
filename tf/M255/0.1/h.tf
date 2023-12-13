@@ -5,9 +5,9 @@
 @project=TransLatin
 @valueType=int
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:34:52Z
+@dateWritten=2023-12-13T13:02:57Z
 
-223928	51
+259433	51
 53
 57
 49

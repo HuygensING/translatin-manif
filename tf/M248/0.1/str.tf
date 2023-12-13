@@ -5,12 +5,14 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:34:48Z
+@dateWritten=2023-12-13T13:02:53Z
 
 Goo
+
 Over
 dit
 hoek
+
 Dit
 is
 een
@@ -28,6 +30,7 @@ bibliotheekplanken
 heest
 gestaa
 .
+
 doen
 we
 omdat
@@ -41,6 +44,7 @@ beschikbaar
 willen
 maken
 .
+
 Dit
 boek
 is
@@ -60,6 +64,7 @@ nu
 deel
 uitmaakt
 va
+
 domein
 behoort
 ,
@@ -78,6 +83,7 @@ of
 waarvan
 de
 we
+
 verschillen
 of
 een
@@ -94,6 +100,7 @@ het
 publieke
 domein
 zi
+
 geschiedenis
 ,
 cultuur
@@ -107,6 +114,7 @@ verkrijgen
 zou
 zijn
 .
+
 Aantekeningen
 ,
 opmerkingen
@@ -120,6 +128,7 @@ origineel
 stonden
 ,
 wo
+
 lange
 reis
 die
@@ -137,9 +146,11 @@ uiteindelijk
 naar
 u
 .
+
 Richtlijnen
 voor
 gebruik
+
 Google
 werkt
 samen
@@ -153,6 +164,7 @@ publieke
 domein
 te
 digitalise
+
 uit
 het
 publieke
@@ -173,6 +185,7 @@ is
 echteleveren
 
 
+
 ,
 hebben
 we
@@ -185,9 +198,11 @@ commerciêle
 partijen
 te
 ve
+
 automatisch
 zoeken
 .
+
 Verder
 vragen
 we
@@ -195,6 +210,7 @@ u
 het
 volgende
 :
+
 Gebruik
 de
 bestanden
@@ -209,6 +225,7 @@ hebben
 Zoeken
 naar
 bo
+
 individuen
 .
 We
@@ -225,6 +242,7 @@ en
 niet
 -
 comm
+
 Voer
 geen
 geautomatiseerde
@@ -234,6 +252,7 @@ Stuur
 geen
 geautomatiseerde
 zoekopdrach
+
 doet
 naar
 computer
@@ -245,6 +264,7 @@ of
 andere
 wetenschapsgebieden
 wi
+
 den
 tekst
 ,
@@ -266,10 +286,12 @@ het
 pulhiermee
 
 
+
 van
 dienst
 zijn
 .
+
 Laat
 de
 eigendomsverklaring
@@ -283,6 +305,7 @@ u
 onder
 aan
 elk
+
 project
 te
 geven
@@ -301,6 +324,7 @@ naar
 boeken
 met
 G
+
 Houd
 u
 aan
@@ -319,6 +343,7 @@ u
 er
 zelf
 verantwoordelijl
+
 niet
 van
 uitgaan
@@ -335,6 +360,7 @@ het
 publieke
 domein
 in
+
 voor
 gebruikers
 in
@@ -353,6 +379,7 @@ rust
 verschilt
 per
 li
+
 met
 een
 bepaald
@@ -371,6 +398,7 @@ boek
 overal
 ter
 wer
+
 cenmaal
 in
 Zoeken
@@ -385,6 +413,7 @@ wetteliske
 aansprakelijkheid
 voor
 aute
+
 Informatie
 over
 Zoeken
@@ -392,6 +421,7 @@ naar
 boeken
 met
 Google
+
 Het
 doel
 van
@@ -409,6 +439,7 @@ maken
 .
 Z
 .
+
 allerlei
 landen
 te
@@ -425,6 +456,7 @@ nieuw
 leespubliek
 te
 bei
+
 op
 het
 web
@@ -441,52 +473,75 @@ qoogLe
 comNICOLAI
 
 
+
 VERNVLAEI
+
 PVBLICI
+
 ELOQVENTIAE
+
 PROFESSORIS
 IN
+
 Acadaemia
 Louaniensi
 ,
+
 DIVVS
+
 EVSTACHIVS
 ,
+
 SIVE
+
 FIDEI
 &
 PATIENTIAE
+
 –
+
 TRIVMPHVS
 .
+
 TRAGOEDIA
 .
+
 LOVANII
 ,
+
 Typis
 Philippi
 Dormalij
 .
+
 CIƆ
 .
 IƆC
 .
 XII
 .
+
 Cum
 Gratia
 &
 Priuilegio
 .
+
 Digitized
 by
 Google
 
+
 7
+
 —
+
 4
+
 –
+
 -
+
 
 6
 -
@@ -494,40 +549,60 @@ Google
 -
 -
 -
+
 -
 –
+
 4
+
 5
+
+
 
 
 
 Digitized
 by
 Google
+
 AMPLISSIMO
+
 ET
+
 PERQVAM
 REVERENDO
+
 DOMINO
+
 D
 .
 NICOLAO
+
 DE
 FANSON
 ,
+
 PERILLVSTRIS
+
 MONASTERII
+
 DIVI
 HVBERTI
 IN
+
 ARDVENNA
+
 ARCHIMANDRITAE
 ,
+
 DOMINO
 SVO26
 
 
+
+
 1243
+
 1
 permittis
 ,
@@ -535,14 +610,19 @@ permittis
 positis
 
 
+
 dignitatis
 excelsae
 
 
+
 fascibus
 tot
+
 inter
 congratulan2
+
+
 
 
 tium
@@ -551,28 +631,35 @@ me
 pateris
 
 
+
 apparere
 ,
 PRAESVLAMPLISSIME
+
 
 
 ,
 ET
 OPTIME
 ,
+
 —
 -
 -
 -
 -
 -
+
 A
 2
 ecce
+
 Digitized
 by
 Google
+
 EPISTOLA
+
 ecce
 purâ
 manu
@@ -581,15 +668,18 @@ mente
 religiosâ
 
 
+
 munusculum
 tuis
 infero
+
 delubris
 .
 Non
 est
 hic
 Elephantis
+
 
 
 partus
@@ -599,16 +689,19 @@ vtero
 gestatus
 
 
+
 ;
 nec
 ego
 Tages
 aliquis
+
 Etruscus
 confestim
 è
 glebâ
 Poëta
+
 
 
 natus
@@ -618,6 +711,7 @@ est
 verò
 ,
 vna
+
 veluti
 nocte
 vnóque
@@ -625,11 +719,13 @@ imbre
 concretus
 
 
+
 ,
 quem
 ,
 dum
 Reuerendae
+
 Dignitati
 tuae
 per
@@ -637,9 +733,11 @@ amoena
 Musarum
 
 
+
 nostrarum
 viridaria
 munus
+
 
 
 quaero
@@ -649,11 +747,13 @@ manu
 decerpsi
 
 
+
 .
 Sed
 nunquid
 offerre
 pertimesco
+
 
 
 ,
@@ -664,15 +764,18 @@ ruborem
 inijcit
 
 
+
 pudor
 ?
 Ita
 quidem
 si
 per
+
 adulationem
 aduentitio
 fortunae
+
 paratu
 ,
 non
@@ -681,11 +784,13 @@ animi
 dotibus
 
 
+
 aestimare
 te
 vellem
 .
 nunc
+
 verò
 cum
 te
@@ -695,29 +800,37 @@ non
 ignorem
 
 
+
 ,
 à
 cuius
 conspectu
 nemo
+
 vnquam
+
 Digitized
 by
 Google
+
 40
+
 DEDICATORIA
 .
+
 vnquam
 repulsus
 abibit
 ,
 qui
 ad
+
 tuae
 Virtutis
 &
 Dignitatis
 cultum
+
 
 
 ,
@@ -727,16 +840,19 @@ munere
 ,
 at
 amore
+
 magno
 instructus
 accedet
 ;
 cur
+
 munusculum
 hoc
 è
 censu
 nostro
+
 litterario
 ,
 non
@@ -744,11 +860,13 @@ opulenti
 thesauri
 
 
+
 ,
 sed
 amoris
 ingentis
 indicium
+
 pudeat
 offerre
 ?
@@ -756,25 +874,30 @@ Et
 verò
 si
 non
+
 offerentis
 humilitas
 ,
 at
 oblati
+
 muneris
 dignitas
 viam
 inueniet
 .
+
 DIVVS
 EVSTACHIVS
 est
 ,
+
 Christianus
 à
 venatione
 rediens
 :
+
 in
 quo
 quia
@@ -786,10 +909,12 @@ D
 HVBERTVS
 
 
+
 ,
 magnum
 illud
 domus
+
 vestrae
 Numen
 ,
@@ -798,16 +923,19 @@ ingens
 thesaurus
 
 
+
 ,
 iam
 illum
 tibi
 in
 hoc
+
 puluere
 Tragico
 praelusisse
 videbor
+
 
 
 .
@@ -817,37 +945,49 @@ certè
 ,
 cum
 tua
+
 illa
 singularis
 Humanitas
 ,
+
 Deponens
 radios
 ,
 propiusque
+
 —
 -
 -
 -
 -
+
 acceA
 
 
+
+
 42
+
 Digitized
 by
 Google
+
 EPISTOLA
+
 -
 -
 2
+
 accedere
 mandans
 ,
+
 praecentum
 hunc
 lubenter
 admiserit
+
 
 
 ad
@@ -855,12 +995,14 @@ aures
 ,
 altius
 lyram
+
 tendere
 ,
 &
 tuum
 illud
 sacrum
+
 Numen
 .
 D
@@ -869,16 +1011,19 @@ HVBERTVM
 intonare
 
 
+
 conabor
 .
 Atque
 vtinam
+
 nec
 diffidendum
 est
 ei
 ,
 cui
+
 OTIVM
 EST
 LABOR
@@ -886,15 +1031,18 @@ LABOR
 dignum
 
 
+
 aliquid
 tua
 ista
 admirabili
+
 Virtute
 proferre
 ita
 possem
 in
+
 lucem
 ,
 vt
@@ -902,21 +1050,25 @@ ferret
 aetatem
 !
 Vt
+
 enim
 Athenis
 quondam
 Phidiae
+
 signum
 ;
 ita
 in
 commum
 luce
+
 palam
 tua
 Virtus
 simul
 aspecta
+
 &
 probata
 fuit
@@ -924,23 +1076,27 @@ fuit
 imò
 tanto
 cum
+
 amore
 &
 admiratione
 excepta
 ;
+
 vt
 suis
 ipsa
 propè
 manibus
 in
+
 hoc
 sublimi
 ,
 &
 excelso
 Ecclesiae
+
 gradu
 te
 collocauerit
@@ -948,6 +1104,7 @@ collocauerit
 In
 quo
 ,
+
 vt
 primum
 tua
@@ -956,11 +1113,15 @@ DOMVS
 niueum
 
 
+
+
 Digitized
 by
 Google
+
 DEDICATORIA
 .
+
 ueum
 illud
 pectus
@@ -969,9 +1130,11 @@ istam
 infucatam
 
 
+
 simplicitatem
 tuam
 conspexit
+
 
 
 ,
@@ -981,13 +1144,16 @@ verò
 adlaborantem
 
 
+
 Industriam
 sensit
 ,
+
 protinus
 velut
 perfuncta
 laboribus
+
 
 
 ,
@@ -997,12 +1163,14 @@ attollens
 humo
 
 
+
 caput
 ,
 respirauit
 .
 Sed
 non
+
 ego
 his
 alueis
@@ -1011,43 +1179,51 @@ tantùm
 includam
 
 
+
 ;
 non
 hunc
 Solem
 paruâ
+
 face
 adorabo
 ,
 veniet
 tempus
+
 cum
 arriseris
 .
 Hoc
 nunc
 verò
+
 precor
 ,
 vt
 quos
 in
 restauranda
+
 Domo
 tua
 te
 labores
 audimus
+
 exhaurire
 suae
 benignitatis
 aura
+
 Deus
 afflet
 ac
 bene
 fortunet
 .
+
 Louanio
 ,
 Cal
@@ -1056,50 +1232,66 @@ Febr
 .
 1612
 .
+
 Reuerendae
 Amplitudini
 tuae
+
 Addictus
 ,
 Deuotus
 ,
 Suus
 ,
+
 NICOLAVS
 VERNVLAEVS
 .
+
 A
 4
+
 Digitized
 by
 Google
+
 IN
 TRAGOEDIAS
+
 DOMINI
+
 NICOLAI
 VERNVLAEI
+
 Acadaemici
 Eloquentiae
+
 Professoris
 ,
+
 Optimè
 de
 se
 meriti
 .
+
 CAROLVS
 DE
 MARESCHAI
+
 NAMVRCENSIS
 .
+
 *
 XILIVM
 FIDEI
 tragico
 tua
 Musa
+
 E
 cothumo
+
 Fleuit
 ,
 &
@@ -1108,7 +1300,9 @@ planctibus
 ingemuit
 
 
+
 .
+
 Gorcomio
 Batauum
 rubuit
@@ -1116,6 +1310,7 @@ cum
 sanguine
 Tellus
 ,
+
 Et
 tonuêre
 truci
@@ -1123,14 +1318,17 @@ pulsa
 theatra
 sono
 .
+
 Nunc
 verò
 FIDEI
 resonat
 tua
 Musa
+
 TRIVMPHVM
 ,
+
 Dum
 petis
 Euripedis
@@ -1138,14 +1336,17 @@ saecula
 vectus
 equo
 .
+
 Venaturque
 FIDEM
 tragicis
 EVSTACHIVS
 
 
+
 armis
 ,
+
 Et
 moriens
 signat
@@ -1153,21 +1354,30 @@ Caesare
 teste
 FIDEM
 .
+
 uam
 benè
 consurgunt
 tibi
 VERNVLAEE
+
 labe
+
 —
+
 Digitized
 by
 Google
+
 S
+
 20
+
 c0
+
 labores
 ?
+
 EXILIVM
 dederas
 ,
@@ -1175,8 +1385,10 @@ ecce
 TRIVMPHVS
 
 
+
 adest
 .
+
 Macte
 ergo
 ,
@@ -1184,8 +1396,11 @@ FIDEI
 VATES
 ,
 decuisse
+
 43
+
 probabit
+
 Posteritas
 ,
 lachrymas
@@ -1194,7 +1409,9 @@ namque
 premunt
 
 
+
 .
+
 Si
 dedit
 EXILIVM
@@ -1204,7 +1421,9 @@ liuórque
 fatetur
 
 
+
 ,
+
 Hic
 TVVS
 ,
@@ -1214,8 +1433,10 @@ teste
 TRIVMPHVS
 
 
+
 erit
 .
+
 Huncque
 ,
 ego
@@ -1224,8 +1445,10 @@ vocem
 formasti
 ,
 voce
+
 TRIVM
 PHVM
+
 Impello
 ,
 Genio
@@ -1233,6 +1456,7 @@ viue
 Poëta
 tuo
 .
+
 Viue
 diu
 ,
@@ -1242,6 +1466,7 @@ sic
 viuere
 tecum
 !
+
 Dum
 venient
 vires
@@ -1251,48 +1476,65 @@ tamen
 adsit
 amor
 .
+
 A
 5
 1V
+
 Digitized
 by
 Google
+
 10
+
 IN
+
 D
 .
 EVSTACHIVM
+
 SEV
 PLACIDVM
+
 DOCTISSIMI
 VIRI
+
 NICOLAI
 VERNVLAEI
+
 Academici
 Eloquentiae
+
 Professoris
 .
+
 HONORIS
 ERGO
 POSVIT
+
 ALPHONSVS
 LE
 VAILLE
+
 BRVXELLENSIS
 .
+
 TOBSTA
 Sophocleo
 strepuit
 iam
+
 M
 scena
 cothurno
 ,
+
 Exprobrans
 Batauis
 ExILIVM
 FIDEI
 .
+
 Nobilis
 ast
 PLACIDI
@@ -1300,14 +1542,17 @@ connectens
 dramata
 
 
+
 Vates
 ,
+
 Alterius
 miscet
 gaudia
 cum
 lachrymis
 .
+
 Sic
 punctum
 seruasse
@@ -1315,7 +1560,9 @@ iuuat
 ;
 dum
 tristia
+
 laetis
+
 Ingeris
 ,
 aeternum
@@ -1323,35 +1570,50 @@ fama
 beabit
 opus
 .
+
 REVEDigitized
+
 
 
 by
 Google
+
 11
+
 REVERENDO
+
 ET
 DOCTO
 VIRO
+
 NICOLAO
 VERNVLAEO
+
 EVSTACHIVM
+
 EDENTI
 .
+
 CORNELIVS
 LVMENAEVS
+
 1
+
 AMARCA
 .
+
 VSTACHIVS
 durâ
 fatorum
 comE
 
 
+
+
 pede
 vinctus
 ,
+
 Anxius
 &
 vitae
@@ -1360,6 +1622,7 @@ vitae
 mortis
 anhelat
 opem
+
 Belua
 praedatur
 natum
@@ -1369,12 +1632,14 @@ sed
 altera
 natum
 ,
+
 Delicias
 chari
 coniugis
 alter
 habet
 .
+
 Quid
 faceret
 ?
@@ -1383,6 +1648,7 @@ suprema
 in
 vota
 citatis
+
 Supplicat
 ,
 &
@@ -1391,6 +1657,7 @@ pollice
 pensa
 cadunt
 .
+
 Insperata
 redit
 Coniunx
@@ -1398,11 +1665,13 @@ Coniunx
 &
 laeta
 Iuuentus
+
 Natorum
 attonitum
 sistitur
 ante
 Patrem
+
 Oscula
 miscentur
 lachrymis
@@ -1411,118 +1680,168 @@ quis
 caetera
 narret
 ?
+
 VERNVLAEVS
 doctâ
 perficit
 in
 tabulâ
 .
+
 PERDigitized
+
 
 
 by
 Google
+
 12
+
 PERSONAE
+
 TRAGOEDIAE
 .
+
 Traianus
 Imperator
 .
+
 Sosius
+
 Viri
 Nobiles
 .
+
 Celsus
+
 Placidus
+
 Eustachius
 .
+
 )
+
 Theophistes
 vxor
 .
+
 Traiana
+
 Agapitus
+
 Filij
 .
+
 Theophistus
+
 Acacius
 .
+
 Ministri
 in
 belleAntiochus
 
 
+
 .
+
 Vox
 diuina
 .
+
 Adrianus
 Imperator
 .
+
 Iulius
 Seuerus
 Dux
 Belli
 .
+
 Pontifex
 .
+
 Milites
 .
+
 Virtutum
 .
+
 Angelorum
 .
+
 Chori
 5
+
 Catholicorum
 .
+
 Daemon
 .
+
 Interueniunt
 ,
 Nautae
 ,
 Rustici
 ,
+
 Nuncius
 .
+
 ACTVS
+
 Digitized
 by
 Google
+
 —
+
 13
 
+
 77
+
 —
+
 0
+
 V
 
+
 aallilbb—
+
+
 
 
 ACTVS
 PRIMVS
 .
+
 SCENA
 PRIMA
 .
+
 Traianus
 ,
 Sosius
 ,
 Placidus
 ,
+
 Celsus
 .
+
 TRAIANVS
 .
+
 Imperator
 aetheris
 magni
 Tonans
 ,
+
 Monarcha
 mundi
 ;
@@ -1530,6 +1849,7 @@ nunquid
 illa
 fax
 tui
+
 Aeterna
 Caeli
 ,
@@ -1537,6 +1857,7 @@ lucis
 alternae
 parens
 ,
+
 Sol
 ille
 ,
@@ -1545,6 +1866,7 @@ qui
 suo
 motu
 trahit
+
 Vices
 reducens
 ,
@@ -1553,6 +1875,7 @@ premens
 rursum
 vices
 ,
+
 Facit
 colendum
 Numen
@@ -1560,6 +1883,7 @@ in
 terris
 tuum
 ?
+
 Sic
 est
 ;
@@ -1567,6 +1891,7 @@ adorat
 Numen
 aeternum
 Iouis
+
 Qui
 squis
 coruscum
@@ -1574,12 +1899,14 @@ Solis
 accensi
 iubar
 ;
+
 Et
 flammeos
 super
 astra
 quadrupedes
 videt
+
 Efflare
 lucem
 :
@@ -1588,12 +1915,14 @@ est
 istud
 Iouis
 ,
+
 Cuius
 potestas
 terquet
 imperio
 polos
 ,
+
 Polique
 Duos
 .
@@ -1603,6 +1932,7 @@ tamen
 si
 fas
 loqui
+
 Alios
 adorat
 Terra
@@ -1610,14 +1940,19 @@ Reges
 ,
 &
 iugum
+
 Fraenata
+
 Digitized
 by
 Google
+
 C
+
 14
 NICOLAI
 VERNVLAEI
+
 Fraenata
 portat
 ,
@@ -1625,11 +1960,13 @@ colla
 submittens
 sua
 .
+
 Quos
 inter
 aemulator
 existit
 Iouis
+
 Qui
 iura
 ponens
@@ -1637,6 +1974,7 @@ caeteris
 ,
 orbem
 suâ
+
 Sub
 lege
 fraenat
@@ -1645,12 +1983,14 @@ Dminus
 O
 semper
 tui
+
 Memor
 Quirini
 Iupiter
 ?
 quantum
 tibi
+
 Debent
 Quirites
 !
@@ -1658,6 +1998,7 @@ solus
 &
 quantum
 tibi
+
 Debeo
 Monarcha
 ?
@@ -1665,6 +2006,7 @@ nomen
 in
 terras
 meum
+
 Abiuit
 omnes
 ,
@@ -1673,12 +2015,14 @@ secutus
 est
 timor
 ,
+
 Nutuque
 Patulus
 concutitur
 Orbis
 meo
 :
+
 Reges
 adorant
 ,
@@ -1687,12 +2031,14 @@ simul
 trepidi
 pauent
 ,
+
 Solúsque
 nostram
 Iupiter
 nescit
 manum
 .
+
 Quid
 ergo
 restat
@@ -1702,6 +2048,7 @@ PL
 Restat
 ô
 Caesartus
+
 Vt
 honore
 gaudens
@@ -1709,6 +2056,7 @@ Numen
 in
 terris
 tuum
+
 Diu
 reserues
 .
@@ -1717,6 +2065,7 @@ te
 quanquam
 domus
 ,
+
 Domus
 superba
 coelitum
@@ -1724,16 +2073,19 @@ in
 partem
 vocet
 ,
+
 Vt
 solis
 astro
 clarior
 fundens
 diem
+
 Diuos
 serenes
 annuentibus
 polis
+
 Terrae
 tamen
 ,
@@ -1742,12 +2094,14 @@ Maris
 homines
 Rege
 .
+
 Iouíque
 rutilas
 fulminis
 dona
 plagas
 .
+
 TRA
 .
 Nec
@@ -1758,6 +2112,7 @@ suum
 dominum
 negat
 .
+
 Victumque
 Mare
 submisit
@@ -1765,17 +2120,20 @@ vndas
 ,
 nec
 furor
+
 Regum
 rebellis
 sanguinis
 sitiens
 mei
+
 Perferre
 potuit
 dexterae
 fulmen
 meae
 .
+
 SOS
 .
 Scit
@@ -1785,6 +2143,7 @@ Tyrannus
 ;
 ille
 trur
+
 Decebalus
 ,
 arma
@@ -1792,28 +2151,36 @@ qui
 lacessens
 Caesaris
 ,
+
 Sacros
 subactus
 Caesaris
 coluit
 pedes
 ,
+
 HumiDigitized
+
 
 
 by
 Google
+
 —
 —
+
 15
+
 EVSTACHIVS
 .
+
 Humilisque
 adorans
 Nnmen
 in
 terris
 tuum
+
 Posuit
 furorem
 &
@@ -1821,6 +2188,7 @@ induit
 rursus
 iugum
 .
+
 Frustra
 Gygantum
 tollit
@@ -1828,6 +2196,7 @@ in
 Iouem
 furor
 ,
+
 Periturus
 arma
 .
@@ -1837,6 +2206,7 @@ Nunquid
 &
 Parthus
 tuor
+
 Expauit
 ortus
 ,
@@ -1844,24 +2214,28 @@ ortus
 lubens
 voluit
 iugum
+
 Supplex
 habenas
 Roma
 cum
 domino
 tibi
+
 Conceßit
 imperij
 ?
 Equidem
 rursum
 fugax
+
 Iaculum
 resumpsit
 Parthus
 excutiens
 iugum
 ,
+
 PLA
 .
 Sic
@@ -1872,12 +2246,14 @@ Parthicum
 te
 plebs
 vocat
+
 Inuicte
 Caesar
 ,
 inuidendum
 quod
 Dijs
+
 Vaga
 Fama
 nomen
@@ -1888,6 +2264,7 @@ suis
 (
 moror
 ,
+
 TRA
 .
 Quod
@@ -1897,6 +2274,7 @@ nomen
 ,
 haud
 multum
+
 Fortuna
 nomen
 hoc
@@ -1904,6 +2282,7 @@ facit
 Martis
 Comes
 :
+
 Sed
 dum
 meretur
@@ -1913,6 +2292,7 @@ nomen
 &
 refert
 ,
+
 Vitaeque
 sanctae
 nomen
@@ -1920,6 +2300,7 @@ est
 nomen
 Ducis
 ,
+
 Optare
 maius
 nil
@@ -1927,6 +2308,7 @@ potens
 Caesar
 potest
 .
+
 SOS
 .
 Vtroque
@@ -1937,6 +2319,7 @@ Caesar
 Mauors
 tibi
 ,
+
 Et
 vita
 nomen
@@ -1944,6 +2327,7 @@ fecit
 :
 Optimum
 vocat
+
 Te
 Roma
 Caesar
@@ -1952,6 +2336,7 @@ Optimum
 te
 plebs
 tua
+
 Supplex
 adorat
 :
@@ -1959,6 +2344,7 @@ inuideat
 Aether
 licet
 ,
+
 Commune
 nomen
 poßides
@@ -1966,6 +2352,7 @@ iam
 cum
 Ioue
 .
+
 CEL
 .
 Vt
@@ -1975,6 +2362,7 @@ Optimus
 caelum
 suum
 ,
+
 Sic
 ipse
 torques
@@ -1982,6 +2370,7 @@ Optimus
 terram
 tuam
 .
+
 PLA
 .
 Dant
@@ -1993,6 +2382,7 @@ Ioui
 sed
 dat
 tibi
+
 Tua
 vita
 nomen
@@ -2002,6 +2392,7 @@ mereris
 dum
 tibi
 ,
+
 Tua
 vita
 magni
@@ -2009,14 +2400,18 @@ fata
 praecedit
 Iouis
 .
+
 TRA
 .
+
 Digitized
 by
 Google
+
 64
 NICOLAI
 VERNVLAEI
+
 TRA
 .
 Agnosco
@@ -2025,6 +2420,7 @@ Numen
 aeternum
 Iouis
 ,
+
 Illudque
 testor
 ,
@@ -2033,6 +2429,7 @@ sacrum
 lucis
 iubar
 .
+
 Vt
 me
 vocarunt
@@ -2040,6 +2437,7 @@ Optimum
 ,
 sic
 sentient
+
 Talem
 Quirites
 .
@@ -2048,6 +2446,7 @@ tamen
 vestra
 est
 quoque
+
 Laus
 magna
 Proceres
@@ -2056,6 +2455,7 @@ quae
 laus
 nitet
 .
+
 Vt
 Astra
 Caelos
@@ -2064,6 +2464,7 @@ suum
 decorant
 Iouem
 ,
+
 Sic
 vestra
 nomen
@@ -2071,6 +2472,7 @@ Caesari
 virtus
 facit
 .
+
 Quoties
 rebellis
 Dacus
@@ -2078,6 +2480,7 @@ Dacus
 aut
 Parthus
 mihi
+
 Extorsit
 arma
 ,
@@ -2085,12 +2488,14 @@ vestra
 toties
 me
 fides
+
 Robúrque
 iuuit
 :
 ipse
 spectator
 fui
+
 Comésque
 belli
 ,
@@ -2098,6 +2503,7 @@ cum
 Placide
 virtus
 tua
+
 Rumore
 solo
 vertit
@@ -2105,6 +2511,7 @@ hostes
 in
 fugam
 .
+
 PLA
 .
 Auguste
@@ -2113,17 +2520,20 @@ Caesar
 cuius
 imperium
 lubem
+
 Tellus
 fatetur
 ,
 mille
 cuius
 dextera
+
 Peperit
 triumphos
 &
 Quiritum
 gloriam
+
 Aequauit
 astris
 ,
@@ -2132,18 +2542,21 @@ fatebor
 dum
 cupis
 ,
+
 Equitum
 Magister
 solis
 Eoi
 plagas
 ,
+
 Syriaeque
 regna
 ,
 dum
 superbit
 insolens
+
 Iudaeus
 ,
 intraui
@@ -2151,6 +2564,7 @@ intraui
 fuitque
 tunc
 mihi
+
 Testis
 laborum
 Titus
@@ -2159,6 +2573,7 @@ Titus
 qui
 nunc
 tenes
+
 Orbem
 Monarcha
 .
@@ -2167,12 +2582,14 @@ hanc
 Dacus
 manum
 .
+
 Iterûmque
 testis
 extitisti
 :
 sic
 tibi
+
 Mea
 dextra
 sudat
@@ -2181,12 +2598,14 @@ sic
 tibi
 vitam
 traho
+
 Vitam
 paratus
 ignibus
 pro
 te
 dare
+
 TRA
 .
 Non
@@ -2195,6 +2614,7 @@ rebellis
 totus
 insurgat
 simul
+
 Qua
 fundit
 arua
@@ -2202,14 +2622,19 @@ Mundus
 :
 cinctus
 mari
+
 9ώDigitized
+
 
 
 by
 Google
+
 EVSTACHIVS
 .
+
 17
+
 Quicquam
 pauescam
 ,
@@ -2217,6 +2642,7 @@ dum
 tibi
 gladius
 manum
+
 Impleat
 ,
 &
@@ -2225,6 +2651,7 @@ verticem
 Cristae
 rotent
 :
+
 Eris
 Quiritum
 fulmen
@@ -2232,6 +2659,7 @@ fulmen
 hostium
 timor
 .
+
 PLA
 .
 Sic
@@ -2242,6 +2670,7 @@ meum
 sacrum
 tibi
 ;
+
 Sic
 fulminantis
 ,
@@ -2249,18 +2678,21 @@ dexteram
 rutilam
 Iouis
 ,
+
 Tuumque
 Caesar
 verticem
 terris
 sacrum
 ;
+
 Iouis
 Tonantis
 ,
 &
 Quritum
 gloriam
+
 Tuebor
 audax
 .
@@ -2271,12 +2703,14 @@ sic
 te
 Tonans
 ,
+
 Sic
 vos
 eodem
 reddat
 animo
 Iuppiter
+
 Terris
 tremendos
 .
@@ -2286,6 +2720,7 @@ Corpus
 illum
 iam
 tibi
+
 Fouet
 animum
 Monarcha
@@ -2293,11 +2728,13 @@ magne
 Scit
 Tonans
 ,
+
 Nunquam
 negata
 Patriae
 vel
 Caesari
+
 Mors
 nostra
 vitam
@@ -2307,6 +2744,7 @@ quaeret
 lucis
 diem
 .
+
 CEL
 .
 Romana
@@ -2314,6 +2752,7 @@ virtus
 nescit
 ignauam
 sequi
+
 In
 luce
 vitam
@@ -2321,6 +2760,7 @@ vitam
 Caesarem
 semper
 suum
+
 Suspicit
 ,
 &
@@ -2329,6 +2769,7 @@ fata
 contemnit
 necis
 .
+
 TRA
 .
 Obscura
@@ -2338,12 +2779,14 @@ mihi
 virtus
 fuit
 ,
+
 Testísque
 Roma
 laudis
 in
 pretium
 nouae
+
 Monumenta
 posuit
 ,
@@ -2353,6 +2796,7 @@ volo
 sic
 impero
 ,
+
 Virtutis
 est
 merces
@@ -2361,6 +2805,7 @@ honor
 nunc
 dum
 silet
+
 Pacatus
 Orbis
 bella
@@ -2368,6 +2813,7 @@ nec
 Mauors
 agit
 ,
+
 Ponite
 laborem
 ,
@@ -2375,32 +2821,40 @@ gaudium
 meruit
 labor
 ,
+
 Reparatque
 multum
 parua
 virtutem
 quies
 .
+
 B
 SCEDigitized
 
 
+
 by
 Google
+
 38
 NICOLAI
 VERNVLAEI
+
 SCENA
 II
 .
+
 Placidus
 ,
 Acacius
 ,
 Antiochus
 .
+
 PLACIDVS
 .
+
 1
 bella
 cessant
@@ -2408,11 +2862,13 @@ amplius
 nec
 Mars
 tonat
+
 Ergonè
 virtus
 otio
 languens
 suo
+
 Peribit
 ?
 AC
@@ -2423,6 +2879,7 @@ otio
 ,
 &
 quies
+
 Vires
 reducit
 ,
@@ -2430,6 +2887,7 @@ quas
 fatigauit
 labor
 .
+
 PL
 .
 Inimica
@@ -2438,6 +2896,7 @@ quies
 :
 nunquid
 viros
+
 Eneruat
 illa
 ?
@@ -2447,6 +2906,7 @@ Saepè
 prostrauit
 Duces
 ,
+
 Hostilis
 ardor
 Marte
@@ -2454,6 +2914,7 @@ quos
 duro
 nequit
 .
+
 PLA
 .
 Nec
@@ -2463,17 +2924,20 @@ decet
 animum
 quies
 ;
+
 Amat
 quietem
 degener
 quisquis
 suos
+
 Nescit
 parentes
 ;
 at
 laborem
 diligens
+
 Virtus
 requirit
 .
@@ -2483,14 +2947,17 @@ Sed
 tamen
 honesta
 est
+
 quies
 ,
+
 Et
 mollis
 obrepit
 voluptas
 in
 sinum
+
 Cum
 dextra
 languet
@@ -2500,6 +2967,7 @@ per
 herbas
 cum
 iacet
+
 Fessus
 viator
 ,
@@ -2508,6 +2976,7 @@ oculos
 somnus
 ligat
 ,
+
 Sensim
 per
 hercas
@@ -2515,6 +2984,7 @@ mota
 serpens
 in
 sinum
+
 Iacentis
 intrat
 ,
@@ -2523,18 +2993,21 @@ simul
 miserum
 necat
 .
+
 Campana
 saeuum
 strauit
 Hannibalem
 quies
 ;
+
 Et
 mollis
 Antiochus
 venere
 iacuit
 suam
+
 Deuictus
 inter
 arma
@@ -2543,6 +3016,7 @@ dum
 quaerit
 rosas
 ,
+
 Vbi
 dura
 Martis
@@ -2550,16 +3024,21 @@ tela
 poscebat
 furor
 .
+
 A
+
 Digitized
 by
 Google
+
 p
 -
 -
 -
+
 EVSTACHIVS
 !
+
 AN
 .
 Inimica
@@ -2569,6 +3048,7 @@ voluptas
 ,
 &
 necat
+
 Quos
 nutrit
 illa
@@ -2577,6 +3057,7 @@ sic
 catenas
 cum
 subit
+
 Mauors
 ,
 &
@@ -2584,6 +3065,7 @@ aedes
 clausa
 Iani
 supplices
+
 Remittit
 ,
 alius
@@ -2592,6 +3074,7 @@ petendus
 tunc
 labor
 ,
+
 Bello
 minorem
 quem
@@ -2599,6 +3082,7 @@ quies
 nunquam
 neget
 .
+
 Vltroque
 quaerat
 .
@@ -2609,8 +3093,10 @@ laborem
 iam
 peto
 ?
+
 7
 40
+
 AC
 .
 Lustrare
@@ -2620,6 +3106,7 @@ insequi
 cursu
 feras
 ,
+
 Ferire
 ceruos
 ,
@@ -2628,6 +3115,7 @@ est
 gratus
 labor
 ?
+
 PL
 .
 Et
@@ -2639,6 +3127,7 @@ nobilem
 labor
 decet
 .
+
 Nec
 Marte
 caret
@@ -2649,6 +3138,7 @@ ardor
 ,
 &
 furor
+
 Inflammat
 apros
 ,
@@ -2656,18 +3146,21 @@ dente
 cum
 exerto
 Canes
+
 Petunt
 anhelos
 ?
 quantus
 inuadit
 tremor
+
 Ceruos
 fugaces
 ,
 cum
 Moloßi
 faltibus
+
 Saltus
 adaequant
 ,
@@ -2676,6 +3169,7 @@ pedibus
 vrgent
 pedes
 ?
+
 Date
 Famuli
 ,
@@ -2687,6 +3181,7 @@ iacula
 ,
 &
 canes
+
 Parate
 ,
 lustrare
@@ -2695,6 +3190,7 @@ nemus
 &
 montes
 mihi
+
 Gestit
 animus
 .
@@ -2702,6 +3198,7 @@ Sic
 testor
 auratum
 iubar
+
 Phoebi
 micantis
 ,
@@ -2710,6 +3207,7 @@ hunc
 animum
 meum
 ,
+
 (
 Nec
 fallit
@@ -2720,6 +3218,7 @@ non
 prius
 noctem
 dies
+
 Moriens
 reducet
 ,
@@ -2727,6 +3226,7 @@ praeda
 quam
 factus
 mea
+
 Sit
 Ceruus
 :
@@ -2738,6 +3238,7 @@ opus
 ,
 date
 .
+
 AN
 .
 Parata
@@ -2748,6 +3249,7 @@ casses
 &
 canes
 .
+
 Abire
 magne
 Dux
@@ -2759,6 +3261,7 @@ Sic
 ite
 vos
 ,
+
 Canibus
 date
 tacitis
@@ -2767,12 +3270,14 @@ habenas
 vos
 sequor
 :
+
 Intrate
 syluas
 ,
 &
 teretibus
 cingite
+
 Laqueis
 nemus
 .
@@ -2782,16 +3287,23 @@ ite
 sed
 memores
 sonum
+
 Seruate
+
 —
+
 –
+
 Digitized
 by
 Google
+
 N
+
 20
 NICOLAI
 VERNVLAEI
+
 Serna
 te
 pressum
@@ -2800,6 +3312,7 @@ claudere
 hinc
 Syluas
 labor
+
 Vester
 erit
 ,
@@ -2810,6 +3323,7 @@ sagittas
 ,
 &
 meas
+
 Parabo
 .
 AC
@@ -2819,6 +3333,7 @@ murmur
 auditur
 ,
 ruunt
+
 Apri
 furentes
 ,
@@ -2826,6 +3341,7 @@ ore
 spumantes
 truci
 .
+
 PL
 .
 Instent
@@ -2838,6 +3354,7 @@ AN
 .
 Sed
 en
+
 De
 rupe
 celsa
@@ -2846,6 +3363,7 @@ in
 terram
 venit
 ;
+
 Instate
 canibus
 .
@@ -2857,6 +3375,7 @@ datc
 locum
 ,
 mea
+
 Iam
 iam
 sagitta
@@ -2864,6 +3383,7 @@ Saucium
 ponet
 latus
 .
+
 Vbi
 est
 ?
@@ -2875,6 +3395,7 @@ in
 rupes
 abit
 .
+
 PL
 .
 Vos
@@ -2884,6 +3405,7 @@ vos
 inde
 rupem
 cingite
+
 Canibus
 ,
 in
@@ -2892,6 +3414,7 @@ rupe
 saucium
 premam
 .
+
 Cerno
 fugacem
 ,
@@ -2900,6 +3423,7 @@ praeda
 mox
 erit
 .
+
 Instate
 currite
 ,
@@ -2908,10 +3432,13 @@ cingite
 occludam
 viam
 .
+
 C
+
 SCENA
 III
 .
+
 Vox
 diuina
 ,
@@ -2920,11 +3447,14 @@ Placidus
 Misericordia
 
 
+
 ,
 Fides
 .
+
 VOX
 .
+
 Placide
 quid
 vrges
@@ -2935,6 +3465,7 @@ Placide
 ,
 quid
 tuam
+
 In
 me
 furorem
@@ -2949,6 +3480,7 @@ sum
 ?
 ruo
 ,
+
 Ruo
 ,
 recedit
@@ -2957,6 +3489,7 @@ lumen
 aut
 nimium
 mihi
+
 Rapit
 oculos
 ,
@@ -2965,6 +3498,7 @@ ipsa
 truncatur
 metu
 .
+
 Vbi
 sum
 ?
@@ -2977,6 +3511,7 @@ Placide
 ,
 iam
 tibi
+
 Illuxit
 Aether
 ,
@@ -2984,13 +3519,18 @@ Aether
 misertus
 est
 tui
+
 Tonan
+
 gitized
 by
 Google
+
 21
+
 EVSTACHIVS
 !
+
 Tonans
 ab
 alto
@@ -3001,6 +3541,7 @@ da
 vocem
 Deo
 .
+
 PL
 .
 Domine
@@ -3015,6 +3556,7 @@ te
 voco
 ,
 Deus
+
 Quem
 rutilus
 Aether
@@ -3023,11 +3565,13 @@ trepidat
 &
 Mundus
 pauet
+
 Iustum
 supremae
 Iudicem
 sententiae
 .
+
 Ego
 te
 creaui
@@ -3037,6 +3581,7 @@ nihil
 Placide
 fores
 ,
+
 Et
 mox
 creatum
@@ -3044,12 +3589,14 @@ maximis
 auxi
 bonis
 ,
+
 Honoribusque
 maximis
 .
 Te
 te
 voco
+
 Mundi
 Redemptor
 Christus
@@ -3057,6 +3604,7 @@ Christus
 Aeterni
 Patris
 ,
+
 Aeterna
 proles
 ,
@@ -3065,6 +3613,7 @@ Deúsque
 idem
 simul
 .
+
 Pro
 te
 ,
@@ -3073,6 +3622,7 @@ auras
 natus
 indui
 sacro
+
 De
 ventre
 corpus
@@ -3085,6 +3635,7 @@ sitim
 ,
 &
 necem
+
 Cruci
 reuinctus
 pertuli
@@ -3092,6 +3643,7 @@ pro
 te
 Deus
 .
+
 FID
 .
 Sic
@@ -3103,6 +3655,7 @@ deciperè
 nescit
 Deus
 ;
+
 Animum
 resolue
 .
@@ -3115,6 +3668,7 @@ dubium
 mihi
 est
 .
+
 O
 sancta
 Maiestas
@@ -3123,6 +3677,7 @@ O
 aeternum
 bonum
 !
+
 Spes
 orbis
 vna
@@ -3131,6 +3686,7 @@ solus
 Astrorum
 parens
 !
+
 Vt
 lucè
 multâ
@@ -3138,6 +3694,7 @@ perdo
 lucis
 hunc
 diem
+
 Mortalis
 !
 FID
@@ -3149,6 +3706,7 @@ vultus
 ,
 en
 tibi
+
 Salutis
 ara
 ,
@@ -3156,6 +3714,7 @@ crux
 salutifera
 emicat
 .
+
 PL
 .
 Credo
@@ -3167,6 +3726,7 @@ quantus
 coeli
 fauor
 !
+
 MIS
 .
 Ille
@@ -3177,12 +3737,14 @@ tui
 ,
 qui
 stipiti
+
 Affixus
 harens
 sanguinem
 fudit
 suum
 .
+
 PL
 .
 Credo
@@ -3195,8 +3757,10 @@ Deus
 ?
 VOX
 .
+
 quoniam
 tibi
+
 Iam
 certa
 nascitur
@@ -3205,6 +3769,7 @@ fides
 frlix
 eris
 .
+
 I
 nunc
 in
@@ -3214,20 +3779,26 @@ fontis
 vt
 sacri
 nouam
+
 Aolutus
+
 B
+
 Digitized
 by
 Google
+
 22
 NICOLAI
 VERNVLAEI
+
 Ablutus
 vnda
 mox
 renascaris
 mihi
 .
+
 PLA
 .
 Nunquid
@@ -3235,6 +3806,7 @@ etiam
 foelicitas
 eadem
 mea
+
 Vxoris
 erit
 ?
@@ -3244,6 +3816,7 @@ Abluta
 tecum
 sit
 sacro
+
 Sub
 fonte
 ,
@@ -3253,12 +3826,14 @@ liberi
 abluti
 tui
 .
+
 Sed
 cùm
 reducet
 proximum
 Phoebus
 diem
+
 Iterum
 redibis
 ,
@@ -3266,6 +3841,7 @@ tempora
 tibi
 tunc
 tuae
+
 Ventura
 vitae
 ,
@@ -3273,6 +3849,7 @@ quicquid
 aut
 fatum
 dabit
+
 Fato
 resoluam
 ,
@@ -3281,6 +3858,7 @@ certus
 vt
 scias
 .
+
 PLA
 .
 Ibo
@@ -3296,6 +3874,7 @@ sed
 quis
 sum
 modo
+
 O
 quanta
 vidi
@@ -3303,6 +3882,7 @@ vidi
 quanta
 percepi
 meis
+
 Auribus
 ?
 an
@@ -3311,6 +3891,7 @@ tantus
 in
 Deo
 potest
+
 Amor
 hominis
 ?
@@ -3322,6 +3903,7 @@ est
 ,
 credas
 licet
+
 Plus
 diligit
 homines
@@ -3331,6 +3913,7 @@ quam
 homines
 Deum
 .
+
 PL
 .
 Nil
@@ -3343,6 +3926,7 @@ Tonans
 sed
 est
 simul
+
 Bonus
 Tonans
 .
@@ -3350,12 +3934,14 @@ Nunquid
 clientem
 me
 suum
+
 Affatur
 omnipotens
 ?
 OAeternus
 Deus
 !
+
 Aterna
 bonitas
 !
@@ -3367,6 +3953,7 @@ misericors
 &
 bonus
 ,
+
 Totumque
 Coelum
 ,
@@ -3374,6 +3961,7 @@ sanguinem
 totum
 suum
 ,
+
 Largitur
 Orbi
 ,
@@ -3382,6 +3970,7 @@ est
 Bonitas
 Deus
 ,
+
 PLA
 .
 Vt
@@ -3392,6 +3981,7 @@ coecus
 error
 te
 tibi
+
 Rapiebat
 ,
 &
@@ -3399,6 +3989,7 @@ iam
 iam
 profundis
 merserat
+
 Orci
 tenebris
 ?
@@ -3407,6 +3998,7 @@ Placide
 sed
 vos
 lachryma
+
 Ite
 lachrymae
 ,
@@ -3415,6 +4007,7 @@ vultus
 :
 o
 mihi
+
 Lachrymae
 suaues
 ,
@@ -3423,12 +4016,14 @@ perire
 non
 licet
 .
+
 Ite
 Lachrymae
 ,
 deflete
 quicquid
 hactenus
+
 Errauit
 aetas
 ,
@@ -3438,13 +4033,18 @@ hodie
 est
 salus
 ,
+
 Et
+
 Digitized
 by
 Google
+
 EVSTACHIVS
 !
+
 23
+
 Et
 voce
 me
@@ -3453,6 +4053,7 @@ est
 Tonans
 suâ
 .
+
 Quid
 ?
 méne
@@ -3465,6 +4066,7 @@ est
 &
 bonus
 .
+
 O
 Iuppiter
 !
@@ -3472,11 +4074,13 @@ damnate
 Iuppiter
 !
 tuas
+
 Toties
 per
 aras
 fumigantibus
 dedi
+
 Focis
 cruores
 ,
@@ -3484,6 +4088,7 @@ victimam
 gratam
 tibi
 ;
+
 Sed
 heul
 perieram
@@ -3496,12 +4101,14 @@ nunc
 ,
 dum
 licet
+
 Valete
 Patrum
 numina
 ,
 illuxit
 mihi
+
 Iubar
 salutis
 ;
@@ -3510,6 +4117,7 @@ perijt
 aetas
 prior
 ,
+
 Perijsse
 sit
 satis
@@ -3518,12 +4126,14 @@ sapiat
 aetas
 noua
 .
+
 Iam
 nunctabo
 Coniugi
 ,
 quicquid
 Deus
+
 Mihi
 nunciauit
 .
@@ -3531,6 +4141,7 @@ Vxoro
 foelix
 mea
 !
+
 O
 vos
 beati
@@ -3540,24 +4151,30 @@ Sed
 en
 venit
 .
+
 SCENA
 IV
 .
+
 Traiana
 ,
 Placidus
 ,
 Agapitus
 ,
+
 Theophisthus
 .
+
 TRAIANA
 .
+
 Sol
 parentis
 fide
 naturae
 Comes
+
 O
 Parens
 diei
@@ -3567,6 +4184,7 @@ lucis
 vitae
 dator
 ,
+
 Quid
 ergo
 dabis
@@ -3577,6 +4195,7 @@ Nox
 ,
 ecquid
 tuis
+
 Vidi
 sub
 vmbris
@@ -3585,6 +4204,7 @@ Ipsa
 memet
 nescio
 .
+
 Gaudeo
 ,
 metuo
@@ -3596,6 +4216,7 @@ tamen
 est
 sed
 tamen
+
 PLA
 .
 O
@@ -3606,6 +4227,7 @@ dulcis
 ò
 consors
 thori
+
 Quis
 nunc
 tibi
@@ -3614,16 +4236,22 @@ ora
 depingit
 rubor
 ?
+
 Num
+
 B
 4
+
 Digitized
 by
 Google
+
 E
+
 24
 NICOLAI
 VERNVLAEI
+
 Num
 moesta
 ?
@@ -3633,6 +4261,7 @@ in
 genas
 aqua
 ,
+
 Hilarum
 sed
 altae
@@ -3640,6 +4269,7 @@ mentis
 emergit
 iubar
 .
+
 VRA
 .
 Potius
@@ -3647,6 +4277,7 @@ marite
 mentis
 explica
 tuae
+
 Dubios
 labores
 .
@@ -3655,6 +4286,7 @@ Fare
 quid
 vultum
 nouus
+
 Colorpererrat
 ?
 ora
@@ -3662,6 +4294,7 @@ quid
 guttis
 madent
 ,
+
 Et
 lachrymosus
 vndat
@@ -3669,6 +4302,7 @@ in
 vultum
 liquor
 ?
+
 Vbi
 praeda
 ?
@@ -3682,6 +4316,7 @@ ter
 foelix
 Comes
 ?
+
 Fatebor
 ecce
 ,
@@ -3690,6 +4325,7 @@ sic
 Tonans
 iubet
 ,
+
 Vix
 dum
 teretibus
@@ -3697,6 +4333,7 @@ clauserant
 laqueis
 nemus
 ,
+
 Descendit
 alta
 rupe
@@ -3704,11 +4341,13 @@ Ceruus
 ,
 &
 sua
+
 Inter
 recludens
 cornua
 elatam
 crucem
+
 Subsistit
 ,
 at
@@ -3716,6 +4355,7 @@ vox
 maior
 humanâ
 procul
+
 Audita
 syluas
 implet
@@ -3725,6 +4365,7 @@ haud
 subest
 dolus
 )
+
 Tonantis
 illa
 vox
@@ -3734,6 +4375,7 @@ fuit
 vt
 mox
 sacris
+
 Abluar
 in
 vndis
@@ -3743,6 +4385,7 @@ coniunx
 ,
 hi
 quoque
+
 Nati
 pusilli
 iußit
@@ -3750,6 +4393,7 @@ iußit
 &
 iterum
 loquens
+
 Iußit
 redirem
 .
@@ -3758,6 +4402,7 @@ o
 Consors
 mihi
 !
+
 Amica
 Coniunx
 !
@@ -3766,6 +4411,7 @@ tuam
 precor
 fidem
 ,
+
 Per
 quicquid
 est
@@ -3774,12 +4420,14 @@ coniugibus
 ,
 per
 ho
+
 Natos
 meos
 tuósque
 ,
 sequere
 coniugem
+
 Coniunx
 amatum
 ,
@@ -3787,6 +4435,7 @@ redde
 quod
 poscit
 Deus
+
 Animum
 paratum
 ,
@@ -3794,6 +4443,7 @@ fontis
 &
 mecum
 sacri
+
 Purgeris
 vndâ
 .
@@ -3803,6 +4453,7 @@ Tolle
 coniunx
 has
 preces
+
 Lachrymas
 vides
 ,
@@ -3811,11 +4462,13 @@ testor
 has
 lachrymas
 meas
+
 Nondum
 renatus
 purpuratum
 Sol
 diem
+
 Regnante
 lunâ
 reddiderat
@@ -3823,13 +4476,18 @@ reddiderat
 &
 me
 sopor
+
 Adhuc
+
 Digitized
 by
 Google
+
 EVSTACHIVS
 .
+
 35
+
 Adhuc
 ligabat
 (
@@ -3837,6 +4495,7 @@ sed
 tamen
 memini
 probe
+
 Audita
 vox
 est
@@ -3845,12 +4504,14 @@ hanc
 Dei
 vocem
 reor
+
 Quem
 Christiani
 victimis
 nullis
 colunt
 ,
+
 Monuitque
 leges
 vt
@@ -3858,6 +4519,7 @@ suas
 caperem
 lubens
 .
+
 Nunc
 ergo
 te
@@ -3867,6 +4529,7 @@ nunc
 Deum
 sequor
 ,
+
 Eamus
 ,
 &
@@ -3875,6 +4538,7 @@ nulla
 munus
 hoc
 sacrum
+
 Nobis
 retardet
 .
@@ -3887,6 +4551,7 @@ nunc
 Coniunx
 mea
 ,
+
 Eamus
 ,
 ô
@@ -3895,6 +4560,7 @@ Consors
 ;
 vos
 quoque
+
 Venite
 Gnati
 ,
@@ -3902,6 +4568,7 @@ dulcis
 o
 Patris
 lavor
+
 Matrisque
 Gnati
 .
@@ -3911,7 +4578,9 @@ Quo
 parens
 nos
 hinc
+
 pedes
+
 Feremus
 ?
 TH
@@ -3922,6 +4591,7 @@ parens
 nemora
 petes
 ?
+
 PLA
 .
 Fortuna
@@ -3930,6 +4600,7 @@ sanctior
 reget
 dies
 ,
+
 Venite
 Gnati
 ,
@@ -3938,12 +4609,14 @@ in
 amplexus
 patris
 ,
+
 Et
 nunc
 in
 amplexus
 abite
 blandulos
+
 Matris
 .
 TR
@@ -3953,6 +4626,7 @@ paruulum
 germen
 domus
 ,
+
 Commune
 Matris
 &
@@ -3960,6 +4634,7 @@ Patris
 pignus
 ,
 cito
+
 Paruis
 lacertis
 colla
@@ -3967,12 +4642,14 @@ premite
 ,
 sic
 iuuat
+
 Laxare
 pectus
 quando
 nascitur
 salus
 .
+
 Hodie
 beati
 sunt
@@ -3980,6 +4657,7 @@ parentes
 ,
 sunt
 quoque
+
 Pueri
 beati
 ;
@@ -3988,6 +4666,7 @@ eamus
 ,
 vt
 sacris
+
 Lauemur
 vndis
 .
@@ -3998,6 +4677,7 @@ gressus
 huc
 mouet
 ,
+
 Vrbis
 sacerdos
 ,
@@ -4005,6 +4685,7 @@ legis
 Antistes
 nouae
 ,
+
 Hic
 nos
 repurget
@@ -4014,19 +4695,25 @@ suam
 doceat
 fidem
 .
+
 B5
 SCEDigitized
 
 
+
 by
 Google
+
 O6
 NICOLAI
 VERNVLAEI
+
 C
+
 SCENA
 V
 .
+
 loannes
 Presb
 .
@@ -4035,13 +4722,16 @@ Placidus
 Traiana
 
 
+
 ,
 Agap
 .
 Theop
 .
+
 IOANNES
 .
+
 ominum
 Redemptor
 Christe
@@ -4049,6 +4739,7 @@ tibi
 grates
 ago
 ,
+
 HTuaturba
 sumus
 ,
@@ -4056,6 +4747,7 @@ sumus
 luce
 donati
 tui
+
 Viam
 salutis
 currimus
@@ -4063,6 +4755,7 @@ currimus
 pauci
 tamen
 ,
+
 Quos
 Caesaris
 detrudit
@@ -4070,6 +4763,7 @@ in
 specus
 timor
 :
+
 Et
 en
 quis
@@ -4079,6 +4773,7 @@ huc
 Princeps
 gradum
 ?
+
 PLA
 .
 O
@@ -4087,6 +4782,7 @@ legis
 Antistes
 ,
 Dei
+
 Minister
 almi
 ,
@@ -4094,11 +4790,13 @@ supplices
 audi
 preces
 ,
+
 Animósque
 cerne
 ;
 Christianorum
 sequi
+
 Mens
 certa
 vitam
@@ -4107,6 +4805,7 @@ redde
 voti
 Compotes
 ,
+
 Et
 abluens
 nos
@@ -4114,8 +4813,10 @@ fonte
 sacro
 fac
 tui
+
 TRA
 .
+
 Simus
 clientes
 .
@@ -4124,8 +4825,10 @@ clientes
 Surge
 Princeps
 ,
+
 sed
 prius
+
 Votis
 benignus
 annuas
@@ -4134,6 +4837,7 @@ hic
 nulla
 fraus
 ,
+
 Petimus
 volentes
 ,
@@ -4141,6 +4845,7 @@ tu
 volentes
 fac
 Dei
+
 Seruos
 fideles
 .
@@ -4152,6 +4857,7 @@ haud
 fallor
 ,
 Deus
+
 Deus
 ille
 ,
@@ -4159,6 +4865,7 @@ Coeli
 cuius
 ingenti
 manu
+
 Rotatur
 axis
 ,
@@ -4166,6 +4873,7 @@ solus
 ille
 quem
 manus
+
 Nec
 artifex
 formauit
@@ -4173,6 +4881,7 @@ formauit
 aut
 finxit
 sibi
+
 Mens
 coeca
 ,
@@ -4181,6 +4890,7 @@ ille
 lucis
 hunc
 diem
+
 Indulsit
 ,
 O
@@ -4188,14 +4898,19 @@ nimium
 beati
 Coniuges
 !
+
 PLA
 .
+
 Digitized
 by
 Google
+
 EVSTACHIVS
 .
+
 27
+
 PLA
 .
 Sic
@@ -4206,12 +4921,14 @@ dum
 nemore
 feras
 sequor
+
 Misertus
 ille
 voce
 pacata
 .
 Monet
+
 Vt
 fonte
 sacro
@@ -4222,6 +4939,7 @@ TRA
 Idem
 me
 quoque
+
 Monuit
 per
 altum
@@ -4229,6 +4947,7 @@ forte
 cum
 nox
 Aethera
+
 Portaret
 vmbras
 ,
@@ -4236,6 +4955,7 @@ vmbras
 soporem
 redderet
 ,
+
 10
 .
 Ovos
@@ -4244,12 +4964,14 @@ beatos
 namque
 sub
 praecordijs
+
 Imago
 vestris
 nobilis
 fulget
 Dei
 .
+
 TRA
 .
 Sed
@@ -4259,8 +4981,10 @@ Ioue
 maior
 hic
 magnus
+
 Deus
 ?
+
 10
 .
 Quin
@@ -4271,6 +4995,7 @@ Deus
 ,
 coecus
 sibi
+
 Formauit
 error
 ,
@@ -4279,6 +5004,7 @@ minis
 coluit
 Iouem
 ,
+
 Et
 fictiles
 sunt
@@ -4290,6 +5016,7 @@ Mars
 ,
 Venus
 .
+
 PL
 .
 Aeternus
@@ -4300,6 +5027,7 @@ Deus
 1O
 semper
 fuit
+
 Eritque
 semper
 ,
@@ -4308,6 +5036,7 @@ ac
 solus
 Deus
 ;
+
 Certo
 carebit
 fine
@@ -4315,6 +5044,7 @@ fine
 principio
 carens
 .
+
 Sed
 attamen
 subsistit
@@ -4322,6 +5052,7 @@ vnus
 in
 tribus
 .
+
 Est
 omnium
 rerum
@@ -4329,6 +5060,7 @@ parens
 ,
 est
 filius
+
 Aequaeuus
 illi
 ,
@@ -4338,12 +5070,14 @@ Patris
 lex
 omnium
 .
+
 Vtrumque
 sancti
 Spiritus
 amor
 ligat
 .
+
 Tres
 sunt
 ,
@@ -4353,6 +5087,7 @@ attamen
 tantum
 Deus
 .
+
 Deus
 ipse
 mens
@@ -4364,6 +5099,7 @@ replens
 &
 regens
 .
+
 TR
 .
 O
@@ -4375,11 +5111,13 @@ sed
 dic
 precor
 ,
+
 Nunquid
 creator
 ille
 formauit
 suâ
+
 Hoc
 vniuersum
 dextera
@@ -4390,6 +5128,7 @@ Coelum
 ,
 Mare
 ,
+
 Terras
 ,
 &
@@ -4397,6 +5136,7 @@ amplo
 quicquid
 ambitu
 tenet
+
 Vterque
 Phoebus
 ,
@@ -4405,16 +5145,21 @@ ex
 nihilo
 Deus
 .
+
 PLA
 .
+
 -
 2
+
 Digitized
 by
 Google
+
 28
 MICOLAI
 VERNVLAEI
+
 PLA
 .
 Etiamnè
@@ -4425,8 +5170,10 @@ nihil
 10
 .
 Etias
+
 sed
 tonans
+
 Hunc
 cum
 crearet
@@ -4434,6 +5181,7 @@ imagine
 imbuit
 suam
 ,
+
 Vt
 omnium
 Rex
@@ -4442,6 +5190,7 @@ esset
 dominus
 Homo
 .
+
 TRA
 .
 Fuit
@@ -4452,6 +5201,7 @@ semper
 10
 oblitus
 sil
+
 Legem
 Tonantis
 fregit
@@ -4459,12 +5209,14 @@ fregit
 &
 mortem
 sibi
+
 Suisque
 meruit
 posteris
 ,
 factus
 stygis
+
 Haeres
 profundae
 .
@@ -4475,6 +5227,7 @@ perijt
 homo
 miser
 ?
+
 10
 .
 Perierat
@@ -4484,11 +5237,13 @@ mifertus
 est
 hominis
 Deus
+
 Homóque
 factus
 Matris
 intactae
 sibi
+
 De
 ventre
 corpus
@@ -4499,6 +5254,7 @@ TRA
 O
 Mater
 nimis
+
 Beata
 Mater
 !
@@ -4508,6 +5264,7 @@ tamen
 quae
 nam
 fuit
+
 Haec
 digna
 Mater
@@ -4518,6 +5275,7 @@ Virgo
 Mater
 haec
 fuit
+
 Maria
 .
 TV
@@ -4530,6 +5288,7 @@ mihi
 Maria
 mihi
 ?
+
 1O
 .
 Erat
@@ -4543,12 +5302,14 @@ simul
 sed
 vt
 si
+
 Lauaret
 vndâ
 sanguinis
 Terrae
 scelus
 ,
+
 Mori
 voluit
 ,
@@ -4556,11 +5317,13 @@ voluit
 tertio
 tandem
 die
+
 Victor
 resurgens
 legibus
 mundum
 suis
+
 Formauit
 ,
 haeres
@@ -4569,6 +5332,7 @@ foret
 coeli
 ,
 sacro
+
 usquis
 renatus
 fonte
@@ -4576,7 +5340,9 @@ caperet
 hanc
 fidem
 .
+
 94
+
 PL
 .
 Credimus
@@ -4586,6 +5352,7 @@ OAntistes
 sacris
 fac
 ablui
+
 Poßimus
 vndis
 .
@@ -4595,6 +5362,7 @@ Nostra
 semper
 erit
 fides
+
 Fidésque
 certa
 .
@@ -4605,6 +5373,7 @@ vt
 amplector
 lubens
 ,
+
 Vos
 in
 fidem
@@ -4615,6 +5384,7 @@ renatos
 ,
 &
 Dei
+
 Proles
 Tonantis
 ,
@@ -4623,6 +5393,7 @@ quoque
 decet
 vt
 nouum
+
 Nomen
 feratis
 .
@@ -4632,13 +5403,18 @@ Sit
 nouis
 nomen
 nouum
+
 Christi
+
 Digitized
 by
 Google
+
 EVTACHIVS
 .
+
 29
+
 Christi
 ministris
 .
@@ -4648,6 +5424,7 @@ Tu
 Placide
 Posthac
 eris
+
 EVSTACHIVS
 ,
 Traiana
@@ -4655,12 +5432,14 @@ Traiana
 Theophistes
 eris
 .
+
 Nunquid
 parentes
 hi
 sequentur
 paruuli
 ?
+
 TRA
 .
 Immo
@@ -4670,10 +5449,12 @@ sequentur
 .
 Hic
 Agapitus
+
 erit
 ,
 at
 hic
+
 Theophistus
 .
 THM
@@ -4684,6 +5465,7 @@ proles
 ,
 O
 mihi
+
 Amica
 proles
 ?
@@ -4693,8 +5475,10 @@ Quod
 mihi
 est
 nomen
+
 parens
 ?
+
 THM
 .
 Agapitus
@@ -4705,11 +5489,13 @@ Et
 mihi
 parens
 ?
+
 THM
 .
 Theophistus
 est
 .
+
 AG
 .
 Sed
@@ -4721,8 +5507,10 @@ THM
 .
 Deus
 iam
+
 Christus
 est
+
 OG
 nate
 noster
@@ -4734,6 +5522,7 @@ est
 noster
 Deus
 ;
+
 Illius
 ergo
 nomen
@@ -4742,6 +5531,7 @@ nomen
 Numen
 colam
 :
+
 AG
 .
 Illi
@@ -4752,6 +5542,7 @@ vota
 cum
 cantu
 feram
+
 Sol
 cum
 renascetur
@@ -4760,6 +5551,7 @@ vel
 occidet
 solo
 ,
+
 10
 .
 Sed
@@ -4770,6 +5562,7 @@ eamus
 penates
 hinc
 meos
+
 Petamus
 ,
 illic
@@ -4778,8 +5571,10 @@ vos
 sacro
 abluam
 .
+
 CANTVS
 .
+
 Mitis
 ter
 o
@@ -4787,76 +5582,96 @@ Deus
 ,
 Deus
 !
+
 Felix
 terô
 EVSTACHIVS
 !
+
 Ablutus
 induit
 Deum
 ,
+
 Se
 tradit
 abluto
 Deus
 .
+
 Mitis
 ter
 ò
 Deus
 Deus
 ,
+
 Felix
 ter
 ô
 EVSTACHIVS
+
 Deum
+
 Digitized
 by
 Googl
+
 NICOLAI
 VERNVLAEI
+
 19
+
 Deum
 polus
 ,
 Tellus
 Deum
 ,
+
 Tellus
 polúsque
 EVSTACHIVM
 ,
+
 Iterum
 sonet
 ,
 sonet
 iterum
 .
+
 Mitis
 ter
 ὁ
 Deus
 Deus
 ,
+
 Felix
 ter
 ô
 EVSTACHIVS
 .
+
 Q
+
 SCENA
 VI
 .
+
 Eustachius
 ,
 Antiochus
 ,
+
 Vox
 Diuina
 .
+
 EVSTACHIVS
 .
+
 Volat
 animus
 ,
@@ -4864,6 +5679,7 @@ altumque
 per
 coelos
 iter
+
 Rimatur
 :
 ô
@@ -4872,6 +5688,7 @@ quanta
 iam
 mentem
 noue
+
 Iubare
 serenat
 ?
@@ -4881,6 +5698,7 @@ mens
 non
 capit
 .
+
 Hodie
 renascor
 ;
@@ -4889,6 +5707,7 @@ mortis
 &
 vitae
 dies
+
 Illuxit
 idem
 :
@@ -4897,6 +5716,7 @@ mors
 ,
 quando
 venit
+
 E
 morte
 vita
@@ -4909,6 +5729,7 @@ non
 sum
 amplius
 :
+
 Noua
 vita
 nomen
@@ -4916,18 +5737,21 @@ addidit
 fatis
 nouum
 .
+
 Natalis
 hic
 fulget
 dies
 ,
 EVSTACHIVS
+
 Parta
 beatum
 luce
 respiro
 diem
 .
+
 Sed
 ibo
 ,
@@ -4937,6 +5761,7 @@ hoc
 nuper
 Deus
 .
+
 Famuli
 per
 omnes
@@ -4945,6 +5770,7 @@ hinc
 atque
 hinc
 viat
+
 Abite
 .
 AN
@@ -4954,6 +5780,7 @@ ecce
 ceruus
 irruit
 ,
+
 Qui
 nuper
 idem
@@ -4961,6 +5788,7 @@ rupis
 obsedit
 iugum
 .
+
 EV
 .
 Seruate
@@ -4973,6 +5801,7 @@ est
 .
 Deus
 ,
+
 Oô
 Deus
 !
@@ -4981,12 +5810,17 @@ rursus
 illam
 quam
 petis
+
 Lucem
+
 Digitized
 by
 Google
+
 EVSTACHIVS
+
 50
+
 Lucem
 reduxit
 sol
@@ -4996,6 +5830,7 @@ adsum
 rursus
 hic
 .
+
 VO
 .
 Teröter
@@ -5006,6 +5841,7 @@ EV
 Quid
 Deus
 ,
+
 Quid
 .
 ò
@@ -5014,6 +5850,7 @@ nunciabis
 iam
 tuo
 ?
+
 VOX
 Felix
 es
@@ -5022,6 +5859,7 @@ Eustachi
 renatus
 qui
 sacro
+
 Sub
 fonte
 coelos
@@ -5029,6 +5867,7 @@ haeres
 aeternos
 petes
 .
+
 EV
 .
 Sed
@@ -5039,9 +5878,11 @@ agam
 ?
 Fides
 certa
+
 est
 mihi
 .
+
 VOX
 .
 Probanda
@@ -5053,6 +5894,7 @@ EV
 proba
 Deus
 ,
+
 Ero
 fidelis
 ,
@@ -5061,6 +5903,7 @@ cliens
 constans
 tibi
 .
+
 VOX
 .
 Sed
@@ -5069,12 +5912,14 @@ munus
 hoc
 tantum
 tibi
+
 Ratumque
 coelum
 Sathan
 ,
 ille
 patriae
+
 Coelestis
 exul
 ,
@@ -5082,11 +5927,13 @@ noctis
 aeternae
 parens
 :
+
 Cunctos
 mouebit
 sedis
 infernae
 dolos
+
 Vt
 te
 reducat
@@ -5094,18 +5941,21 @@ reducat
 Funeribus
 aedes
 prius
+
 Tuas
 replebit
 ,
 omnibus
 vacuas
 bonis
+
 Exin
 relinquet
 ,
 deserendos
 vt
 fugâ
+
 Credas
 penates
 ;
@@ -5114,6 +5964,7 @@ tamen
 ponet
 dolos
 .
+
 In
 te
 dolores
@@ -5122,6 +5973,7 @@ vertet
 &
 tuum
 ferox
+
 Tentabit
 animum
 :
@@ -5130,6 +5982,7 @@ tamen
 te
 deseram
 ,
+
 Constans
 sed
 illis
@@ -5137,12 +5990,14 @@ pectus
 opponas
 malis
 ;
+
 Assurge
 contra
 ,
 victor
 aeterno
 polos
+
 Petes
 triumpho
 ,
@@ -5151,6 +6006,7 @@ in
 malis
 decus
 .
+
 Tibi
 quicquid
 auferet
@@ -5159,6 +6015,7 @@ Sathan
 reddam
 tibi
 ,
+
 Vitam
 priorem
 ,
@@ -5166,6 +6023,7 @@ postmodum
 coelos
 nouos
 .
+
 EV
 .
 O
@@ -5177,19 +6035,27 @@ VOX
 .
 Eustachi
 .
+
 EV
 .
 Deus
 ,
+
 Aderii
+
 Digitized
 by
 Google
+
 C
+
 R
+
 NICOLAI
 VERNVLAEI
+
 32
+
 Aderis
 Deus
 .
@@ -5201,6 +6067,7 @@ resistas
 sed
 tamu
 .
+
 EV
 .
 Imò
@@ -5211,6 +6078,7 @@ ille
 trux
 potest
 .
+
 Fraenator
 Orci
 ,
@@ -5220,6 +6088,7 @@ mors
 ,
 aut
 dolus
+
 Tentabit
 ,
 ibo
@@ -5227,6 +6096,7 @@ fortis
 aduersus
 dolum
 .
+
 Volo
 ,
 volo
@@ -5236,6 +6106,7 @@ resistam
 .
 Sed
 labant
+
 Suffulta
 pigris
 membra
@@ -5243,6 +6114,7 @@ genibus
 dum
 feror
 ,
+
 Frigescit
 intus
 cormibi
@@ -5252,6 +6124,7 @@ Deus
 ô
 Deus
 !
+
 Non
 non
 reducet
@@ -5261,6 +6134,7 @@ fortis
 constans
 ero
 .
+
 Quid
 lachrymae
 timetis
@@ -5269,6 +6143,7 @@ O
 animus
 leuis
 !
+
 Euince
 quod
 nondum
@@ -5276,6 +6151,7 @@ pateris
 ,
 horres
 tamen
+
 Fauebit
 Aether
 ,
@@ -5283,6 +6159,7 @@ nunquid
 est
 Aetherpotens
 ?
+
 Quisquis
 resistit
 vincit
@@ -5290,6 +6167,7 @@ vincit
 &
 victor
 polo
+
 Tandem
 triumphat
 ;
@@ -5299,6 +6177,7 @@ est
 &
 pati
 .
+
 Ibo
 monebo
 coniugem
@@ -5307,35 +6186,42 @@ sic
 est
 opus
 .
+
 CHORVS
 VIRTVTVM
 .
+
 ION
 sol
 rutilo
 lumine
 semper
+
 NAera
 nitidum
 lustrat
 ,
 &
 aufet
+
 Nubila
 densis
 foeta
 pruinis
 .
+
 Nebulas
 coecus
 concipit
 aër
 ,
+
 Et
 sibi
 clarum
 claudit
 Olympum
+
 Pluuijs
 plenus
 ,
@@ -5343,6 +6229,7 @@ plenus
 &
 Austris
 .
+
 Sed
 tamen
 illas
@@ -5350,92 +6237,112 @@ pellit
 ,
 &
 istos
+
 Alio
 rediens
 lumine
 Phoebus
 :
+
 Aliquid
 semper
 nubila
 vincit
 .
+
 Non
 rosa
 semper
 textilis
 hortos
+
 Rab
 .
+
 Digitized
 by
 Google
+
 EVSTACHIVS
 .
+
 33
+
 Rubeo
 pictos
 flore
 serenat
 ;
+
 Induit
 hyemes
 mortua
 Tellus
 ,
+
 Et
 sibi
 virides
 denegat
 herbas
 .
+
 Sed
 tamen
 aucto
 lumine
 Phoebus
+
 Tempora
 terris
 verna
 reducit
 .
+
 Cedunt
 hyemes
 ,
 &
 redit
 aestas
+
 Redeunt
 picti
 floribus
 horti
 .
+
 Aliquid
 semper
 tempora
 vincit
 .
+
 Hominum
 semper
 non
 bona
 vitam
+
 Sors
 regit
 ;
 illam
 dubijs
 saepè
+
 Casibus
 implet
 tristis
 Erynnis
 .
+
 Sed
 tamen
 illam
 superat
 constans
+
 Vna
 voluntas
 ,
@@ -5443,17 +6350,20 @@ voluntas
 mala
 per
 se
+
 Omnia
 pereunt
 quando
 feruntur
 .
+
 Aliquid
 semper
 tot
 mala
 vincit
 .
+
 O
 EVSTACHI
 ,
@@ -5461,11 +6371,13 @@ iam
 tibi
 current
 ,
+
 Turbida
 dubij
 tempora
 casus
 .
+
 Mors
 fera
 ,
@@ -5473,65 +6385,82 @@ fures
 ,
 vacuos
 facient
+
 Gelida
 primum
 nocte
 penates
 .
+
 Tristis
 amatam
 perdes
 sponsam
 ,
+
 Tristis
 amatos
 perdes
 pueros
 .
+
 Sed
 tamen
 istos
 vincet
 casus
+
 Sola
 voluntas
 animi
 constans
 .
+
 Saeuiet
 audax
 Fortuna
 malis
+
 Ipse
 resurges
 fortior
 animo
 .
+
 Aliquid
 semper
 tristia
 vincit
 .
+
 ACTVS
+
 Digitized
 by
 Google
+
 M
 NICOLAI
 VERNVLAEI
+
 ACTVS
 SECVNDVS
 .
+
 SCENA
 PRIMA
 .
+
 Eustachius
 ,
 Theophistes
+
 Nuncius
 .
+
 EVSTACHIVS
 .
+
 ETerne
 mundi
 Conditor
@@ -5539,6 +6468,7 @@ Conditor
 quid
 est
 Hom
+
 Quem
 tot
 seuerae
@@ -5546,6 +6476,7 @@ fata
 sortis
 opprimunt
 ?
+
 Homo
 fumus
 est
@@ -5555,8 +6486,10 @@ bulla
 ,
 quam
 generant
+
 aquae
 ;
+
 Flos
 est
 virescens
@@ -5566,6 +6499,7 @@ simul
 cadens
 homo
 .
+
 O
 miser
 homo
@@ -5574,6 +6508,7 @@ quam
 multa
 viuendo
 diu
+
 Semper
 redibunt
 ?
@@ -5584,6 +6519,7 @@ Coniunx
 ,
 tamen
 ,
+
 Quid
 triste
 pectus
@@ -5591,6 +6527,7 @@ clausus
 excruciat
 dolor
 ?
+
 O
 dulcis
 vxor
@@ -5600,6 +6537,7 @@ lachrymis
 ,
 hanc
 Deus
+
 Praedixit
 horam
 ,
@@ -5608,6 +6546,7 @@ est
 praeuisa
 sors
 .
+
 TH
 .
 Praedixit
@@ -5618,6 +6557,7 @@ nostra
 semper
 est
 Deus
+
 Qui
 fata
 vincet
@@ -5625,6 +6565,7 @@ vincet
 sortis
 aduersae
 tamen
+
 Animus
 flagellum
 dum
@@ -5632,6 +6573,7 @@ stupet
 ,
 vultus
 grauat
+
 Imber
 ,
 fluuntque
@@ -5639,6 +6581,7 @@ turbidis
 lachrymae
 genis
 .
+
 Omnia
 timeo
 ,
@@ -5647,6 +6590,7 @@ rursus
 ,
 &
 nihil
+
 Timeo
 ,
 timere
@@ -5655,6 +6599,7 @@ sors
 quando
 facit
 .
+
 Ab
 ,
 ab
@@ -5666,6 +6611,7 @@ tuam
 cernas
 domum
 :
+
 Intus
 seuera
 pestis
@@ -5674,14 +6620,19 @@ inde
 nos
 fugant
 ,
+
 Fugiúntitized
+
 
 
 by
 Google
+
 EVSTACHIVS
 .
+
 35
+
 Fugiuntque
 cuncti
 .
@@ -5692,6 +6643,7 @@ fugabit
 nos
 Deus
 ,
+
 Oo
 Deus
 !
@@ -5700,6 +6652,7 @@ haud
 etiam
 Deum
 .
+
 TH
 .
 Cuncta
@@ -5710,9 +6663,11 @@ pestis
 orbam
 dum
 domum
+
 —
 —
 —
+
 Reddit
 ,
 rapaces
@@ -5720,6 +6675,7 @@ hanc
 simul
 fures
 nigrâ
+
 Sub
 nocte
 vacuant
@@ -5727,6 +6683,7 @@ vacuant
 pestis
 alterius
 mali
+
 Occasio
 est
 .
@@ -5739,6 +6696,7 @@ rursus
 quantus
 dolor
 !
+
 En
 hic
 recumbit
@@ -5746,6 +6704,7 @@ turba
 funestae
 domus
 .
+
 Pueri
 &
 puellae
@@ -5754,6 +6713,7 @@ vnum
 ,
 mors
 loco
+
 Discreta
 nullo
 est
@@ -5761,6 +6721,7 @@ vacua
 suspirat
 domus
 ,
+
 Et
 plena
 funus
@@ -5768,6 +6729,7 @@ ructat
 inuisum
 domus
 .
+
 Quid
 restat
 ?
@@ -5775,6 +6737,7 @@ ipsa
 funeri
 inuenit
 suo
+
 Pestis
 sepulchrum
 ;
@@ -5783,6 +6746,7 @@ sepulchrum
 nam
 domus
 .
+
 Cumulata
 mors
 est
@@ -5791,6 +6755,7 @@ quique
 vixerunt
 simul
 ,
+
 Simul
 recumbunt
 .
@@ -5799,6 +6764,7 @@ mors
 parcit
 mihi
 ,
+
 Tibique
 Coniunx
 ,
@@ -5808,15 +6774,18 @@ parcit
 fit
 grauis
 ?
+
 Plus
 hic
 dolere
 est
+
 quam
 semel
 tantum
 mori
 .
+
 Quo
 nunc
 ,
@@ -5830,8 +6799,10 @@ tamen
 TH
 .
 dum
+
 nos
 fugat
+
 Funesta
 pestis
 ,
@@ -5840,6 +6811,7 @@ premunt
 fures
 domum
 ,
+
 Nec
 mors
 rapaces
@@ -5847,6 +6819,7 @@ clade
 deterret
 manus
 ,
+
 Petamus
 agros
 ;
@@ -5855,12 +6828,14 @@ supersit
 vel
 parum
 ,
+
 Melius
 egestas
 forsan
 addiscet
 modum
 .
+
 Sed
 ecce
 turbatos
@@ -5869,6 +6844,7 @@ huc
 torquet
 gradus
 ?
+
 NVN
 .
 Quae
@@ -5879,9 +6855,11 @@ cui
 loquar
 ,
 triste
+
 est
 ,
 ferum
+
 Lugubre
 quicquid
 porto
@@ -5892,16 +6870,22 @@ Tolle
 omen
 Deus
 !
+
 EV
 .
+
 —
+
 —
+
 Digitized
 by
 Google
+
 36
 NICOLAI
 VERNVLAEI
+
 EV
 .
 Effare
@@ -5913,6 +6897,7 @@ ad
 metum
 mihi
 ;
+
 Horrenda
 ,
 dura
@@ -5920,6 +6905,7 @@ dura
 moesta
 vultu
 perferam
+
 Constans
 eodem
 .
@@ -5929,6 +6915,7 @@ cuncta
 iam
 verbo
 tibi
+
 Effabor
 vno
 :
@@ -5936,12 +6923,14 @@ perdidisti
 .
 Sit
 satis
+
 Superest
 dolore
 pectus
 oppleri
 tuum
 .
+
 T
 .
 Haeret
@@ -5952,6 +6941,7 @@ nectis
 ambages
 loquens
 ?
+
 Nihil
 timeo
 ,
@@ -5960,6 +6950,7 @@ omnia
 timeo
 tamen
 .
+
 NV
 .
 Stabant
@@ -5969,6 +6960,7 @@ stabula
 quadrupedes
 tui
 ,
+
 Bouésque
 torui
 ,
@@ -5976,18 +6968,21 @@ torui
 caeterum
 gregis
 pecus
+
 Incolume
 ,
 mox
 exorta
 pestis
 aëris
+
 Vitiauit
 auras
 ,
 aestibúsque
 agens
 suis
+
 Traxit
 iugales
 ,
@@ -5995,6 +6990,7 @@ omnéque
 stabuli
 pecus
 .
+
 Mors
 sola
 ,
@@ -6004,6 +7000,7 @@ in
 campis
 iacet
 ,
+
 Horror
 ,
 tremórque
@@ -6012,6 +7009,7 @@ cum
 colonis
 ipsamet
 ,
+
 Moriuntur
 arua
 :
@@ -6019,6 +7017,7 @@ dum
 loquor
 totos
 pauor
+
 Constringit
 artui
 ,
@@ -6026,11 +7025,15 @@ lingua
 verbis
 deficit
 .
+
 C
+
 5
+
 SCENA
 II
 .
+
 Eustachius
 ,
 Theophistes
@@ -6038,11 +7041,14 @@ Theophistes
 Agapitus
 
 
+
 ,
 Theophistus
 .
+
 EVSTACHIVS
 .
+
 TTin
 aequor
 vndae
@@ -6053,6 +7059,7 @@ in
 nos
 cadunt
 ;
+
 Succedit
 altera
 ,
@@ -6061,20 +7068,26 @@ prior
 nondum
 perit
 ,
+
 Et
 fortiorem
 sors
 resumit
 impetum
+
 CunDigitized
+
 
 
 by
 Google
+
 B
+
 
 EVSTACHIVS
 .
+
 Cum
 sauijt
 :
@@ -6085,6 +7098,7 @@ finis
 aut
 modus
 ?
+
 Tamen
 est
 ferendum
@@ -6095,6 +7109,7 @@ haec
 Dei
 est
 ,
+
 Et
 quia
 voluntas
@@ -6103,6 +7118,7 @@ quicquid
 obtingit
 placet
 .
+
 Non
 deficit
 animus
@@ -6111,12 +7127,14 @@ mihi
 tuae
 ,
 tuae
+
 Coniux
 dolorem
 lachrymae
 tristes
 mouent
 .
+
 T
 .
 Lachrymantur
@@ -6126,6 +7144,7 @@ sed
 tamen
 superest
 mihi
+
 Animus
 marite
 ;
@@ -6134,6 +7153,7 @@ oculos
 sors
 fera
 ,
+
 Non
 vincit
 animum
@@ -6141,6 +7161,7 @@ animum
 cuncta
 perdidimus
 suo
+
 Perirura
 fato
 ,
@@ -6148,6 +7169,7 @@ restat
 vt
 pereat
 dolor
+
 Quem
 cum
 voluntas
@@ -6156,6 +7178,7 @@ vincit
 ilicò
 perit
 .
+
 Gnati
 ,
 sed
@@ -6168,6 +7191,7 @@ ergo
 sors
 dabit
 ?
+
 EV
 .
 O
@@ -6181,6 +7205,7 @@ sed
 quo
 Parens
 ?
+
 EV
 .
 Quo
@@ -6191,6 +7216,7 @@ monstrabit
 ipsa
 nos
 mala
+
 Abire
 cogunt
 .
@@ -6200,6 +7226,7 @@ sed
 redibimus
 Parens
 .
+
 TH
 .
 Redire
@@ -6209,12 +7236,14 @@ quae
 sors
 abstulit
 ,
+
 Redire
 prohibet
 risibus
 qui
 nos
 suis
+
 Populus
 laceßit
 .
@@ -6224,6 +7253,7 @@ Marite
 quo
 tamen
 ?
+
 Quae
 terra
 profugos
@@ -6231,6 +7261,7 @@ mitis
 excipiet
 sinu
 ,
+
 Aut
 quae
 miserta
@@ -6239,6 +7270,7 @@ hoc
 mali
 scelus
 ?
+
 EV
 .
 Certum
@@ -6250,6 +7282,7 @@ nihil
 superest
 domi
 .
+
 Malè
 vestis
 vna
@@ -6258,6 +7291,7 @@ tegit
 :
 quicquid
 fuit
+
 Rapuere
 fures
 ,
@@ -6266,6 +7300,7 @@ aut
 letho
 dedit
 .
+
 TH
 .
 Oῥamici
@@ -6276,6 +7311,7 @@ nullus
 est
 miseris
 lubens
+
 Amicus
 ,
 omnes
@@ -6283,6 +7319,7 @@ terga
 si
 sors
 verterit
+
 Miseros
 relinquunt
 .
@@ -6291,6 +7328,7 @@ TH
 descremus
 te
 quoque
+
 Patria
 suauis
 ,
@@ -6300,16 +7338,21 @@ dulces
 o
 lares
 !
+
 EV
 .
+
 C
 3
+
 Digitized
 by
 Google
+
 38
 NICOLAI
 VERNVLAEI
+
 EV
 .
 Vbique
@@ -6319,6 +7362,7 @@ amanti
 :
 si
 Deum
+
 Non
 deseramus
 ,
@@ -6327,12 +7371,14 @@ patriam
 parum
 est
 .
+
 Oppone
 Coniunx
 pectus
 indomitum
 malis
 ,
+
 Mentemque
 firma
 ,
@@ -6340,6 +7386,7 @@ quo
 Deus
 nostram
 vocat
+
 Mutare
 sortem
 ,
@@ -6347,18 +7394,21 @@ dirigemus
 huc
 iter
 .
+
 Nili
 petemus
 regna
 si
 me
 coniugem
+
 Coniunx
 sequaris
 .
 Melius
 extremis
 latem
+
 Miseri
 sub
 oris
@@ -6366,6 +7416,7 @@ oris
 &
 minor
 calamitas
+
 Videtur
 illa
 ,
@@ -6373,6 +7424,7 @@ quando
 nescitur
 palam
 .
+
 TH
 .
 Sequar
@@ -6383,6 +7435,7 @@ seu
 per
 implacidos
 schyta
+
 Seu
 per
 furentes
@@ -6390,6 +7443,7 @@ aestibus
 Lybiae
 plagas
 .
+
 Miser
 inquilinus
 orbis
@@ -6399,6 +7453,7 @@ est
 Ciuis
 est
 ,
+
 Vbicunque
 degit
 .
@@ -6409,12 +7464,14 @@ Ibimus
 sed
 hic
 prius
+
 Suprema
 magnis
 vota
 soluamus
 polis
 .
+
 Redemptor
 orbis
 ,
@@ -6422,12 +7479,14 @@ sempiterni
 vox
 Patris
 ,
+
 Tonantis
 Incrementum
 ,
 &
 aeternum
 poli
+
 Sanctumque
 Numen
 :
@@ -6435,6 +7494,7 @@ ecce
 dum
 saeuo
 premit
+
 Fortuna
 casu
 ,
@@ -6442,6 +7502,7 @@ patrios
 fugimus
 lares
 .
+
 Si
 quae
 supersunt
@@ -6450,11 +7511,13 @@ non
 recusamus
 mala
 ,
+
 Parata
 semper
 adferemus
 pectora
 .
+
 Adsis
 Tonans
 ,
@@ -6464,6 +7527,7 @@ Tonans
 &
 quos
 tibi
+
 Famulos
 vocasti
 ,
@@ -6471,6 +7535,7 @@ quos
 probare
 iam
 cupis
+
 Effice
 potentes
 ;
@@ -6478,6 +7543,7 @@ omnis
 in
 praeceps
 ruit
+
 Sine
 te
 labor
@@ -6486,6 +7552,7 @@ virésque
 deficiunt
 malè
 ,
+
 Quas
 non
 Olympi
@@ -6493,6 +7560,7 @@ largus
 attollit
 fauor
 ,
+
 Audi
 Tonans
 ,
@@ -6503,13 +7571,18 @@ Nunc
 est
 satis
 ,
+
 Eamus
 ,
+
 Digitized
 by
 Google
+
 EVSTACHIVS
+
 39
+
 Eamus
 ,
 hanc
@@ -6518,6 +7591,7 @@ aequor
 ingreßi
 viam
 :
+
 Tacitis
 fauet
 nox
@@ -6526,6 +7600,7 @@ tenebris
 ,
 &
 fuga
+
 Latebit
 omnes
 ,
@@ -6534,6 +7609,7 @@ quam
 nox
 viderit
 .
+
 TH
 .
 Superba
@@ -6543,13 +7619,16 @@ gentis
 humanae
 caput
 ,
+
 Quae
 nos
 benigno
 conscia
 gremio
 parens
+
 6
+
 Nuper
 fouebas
 ;
@@ -6557,6 +7636,7 @@ tuque
 Tyberine
 ô
 Pater
+
 Nunquam
 vidende
 rursus
@@ -6564,6 +7644,7 @@ rursus
 aeternum
 vale
 .
+
 AG
 .
 Patrij
@@ -6575,6 +7656,7 @@ TH
 Valete
 vos
 quoque
+
 Paterna
 rura
 ,
@@ -6582,6 +7664,7 @@ quicquid
 &
 pueris
 potest
+
 Placere
 paruis
 ;
@@ -6589,6 +7672,7 @@ iam
 supremum
 cernimus
 .
+
 EV
 .
 Sed
@@ -6600,6 +7684,7 @@ syderum
 explorant
 vias
 ,
+
 Nautas
 opinor
 ,
@@ -6608,10 +7693,13 @@ nam
 ventos
 auent
 .
+
 –
+
 SCENA
 VI
 .
+
 Nautae
 ,
 Eustachius
@@ -6619,19 +7707,23 @@ Eustachius
 Theophistes
 
 
+
 ,
 Agapit
 .
 Theophistus
 .
+
 NAVTAE
 .
+
 Rridet
 aura
 ,
 ventus
 Eoo
 suas
+
 AVires
 ab
 oriu
@@ -6639,6 +7731,7 @@ sumit
 :
 immotis
 mare
+
 Intremus
 vndis
 Turba
@@ -6646,6 +7739,7 @@ sed
 quaenam
 huc
 gradus
+
 Contorquet
 ?
 Euge
@@ -6654,6 +7748,7 @@ quo
 gradus
 agis
 ?
+
 EV
 .
 Miseri
@@ -6665,10 +7760,13 @@ quo
 versus
 ergo
 ?
+
 EV
 .
+
 Trans
 mare
+
 uas
 sors
 in
@@ -6677,15 +7775,20 @@ nos
 Deúsque
 duxerit
 ;
+
 Pauci
+
 C
 4
+
 Digitized
 by
 Google
+
 40
 NICOLAI
 VERNVLAEI
+
 Pauci
 sumus
 ,
@@ -6694,6 +7797,7 @@ onus
 molestum
 nauibus
 .
+
 Per
 vos
 ,
@@ -6705,6 +7809,7 @@ per
 si
 quid
 est
+
 Commune
 hominibus
 ,
@@ -6712,6 +7817,7 @@ sinite
 vestras
 in
 rates
+
 Intremus
 .
 NAVbi
@@ -6721,6 +7827,7 @@ merces
 EV
 quae
 solet
+
 Miseris
 adesse
 .
@@ -6731,6 +7838,7 @@ cares
 naulo
 miser
 ,
+
 Formosa
 coniunx
 hoc
@@ -6738,6 +7846,7 @@ tibi
 naulum
 dabit
 .
+
 Sit
 ergo
 nostra
@@ -6746,6 +7855,7 @@ digna
 quae
 nostros
 petat
+
 Coniunx
 amores
 :
@@ -6754,6 +7864,7 @@ hic
 tali
 ,
 miser
+
 Vxore
 gaudet
 ?
@@ -6764,6 +7875,7 @@ Coniunx
 ,
 ὁ
 mihi
+
 Dilecte
 Coniunx
 !
@@ -6774,12 +7886,14 @@ Coniunx
 ,
 non
 mihi
+
 Rapieris
 ,
 istud
 potius
 inuoluat
 caput
+
 Fatum
 ruina
 :
@@ -6787,6 +7901,7 @@ tollite
 infestas
 manus
 ,
+
 Aut
 nullus
 ,
@@ -6796,6 +7911,7 @@ peribunt
 .
 NAvim
 paras
+
 Ignaue
 ?
 FIL
@@ -6808,6 +7924,7 @@ TH
 .
 Filij
 ,
+
 O
 Filij
 !
@@ -6821,6 +7938,7 @@ Coniunx
 non
 potest
 .
+
 N
 .
 Perimatur
@@ -6835,6 +7953,7 @@ perimar
 sat
 est
 .
+
 NA
 .
 Abscede
@@ -6846,6 +7965,7 @@ coniugem
 rursum
 peto
 .
+
 Vtrumque
 rapitis
 .
@@ -6856,6 +7976,7 @@ coniunx
 ,
 ô
 tuis
+
 Moriar
 in
 vlnis
@@ -6866,6 +7987,7 @@ Chara
 coniunx
 in
 tuo
+
 Moriaramore
 .
 FIL
@@ -6877,6 +7999,7 @@ mater
 TH
 .
 met
+
 O
 Filij
 mei
@@ -6887,6 +8010,7 @@ resistis
 ?
 iam
 tuos
+
 Pones
 peremptus
 Spiritus
@@ -6895,6 +8019,7 @@ peri
 ,
 miser
 ,
+
 Extorris
 ,
 effrons
@@ -6906,6 +8031,7 @@ Opater
 pater
 !
 pater
+
 TH
 .
 O
@@ -6919,6 +8045,7 @@ EV
 .
 sed
 mise
+
 Heu
 cogor
 !
@@ -6928,6 +8055,7 @@ fata
 distringunt
 manus
 :
+
 In
 amore
 cesso
@@ -6936,12 +8064,17 @@ mille
 cum
 mortes
 amor
+
 Requira
+
 Digitized
 by
 Google
+
 EVSTACHIVS
+
 41
+
 Requirit
 ;
 eheu
@@ -6951,6 +8084,7 @@ O
 Coniunx
 vale
 ,
+
 Dilecta
 Coniunx
 !
@@ -6961,6 +8095,7 @@ Mater
 mater
 vale
 .
+
 NA
 .
 Perge
@@ -6974,13 +8109,16 @@ supremum
 famihi
 
 
+
 ,
+
 Heumisera
 gnatos
 mater
 amplectar
 meos
 .
+
 NA
 .
 Haec
@@ -6994,6 +8132,7 @@ Dura
 sors
 nimis
 !
+
 Tamen
 hoc
 ,
@@ -7004,6 +8143,7 @@ queo
 ,
 tuos
 tibi
+
 Commendo
 gnatos
 &
@@ -7012,6 +8152,7 @@ meos
 Nunc
 nunc
 mei
+
 Valete
 Gnati
 !
@@ -7020,16 +8161,21 @@ Coniunx
 nunc
 vale
 .
+
 —
+
 SCENA
 IV
 .
+
 Eustachius
 ,
 Filij
 .
+
 EVSTACHIVS
 .
+
 Vid
 ergo
 ?
@@ -7039,8 +8185,10 @@ agam
 restat
 aliquid
 an
+
 nihil
 ?
+
 Coniunx
 ?
 O
@@ -7051,6 +8199,7 @@ vbi
 es
 coniunx
 mea
+
 Dilecta
 coniunx
 !
@@ -7062,6 +8211,7 @@ heu
 ,
 dies
 !
+
 Dies
 doloris
 ,
@@ -7069,6 +8219,7 @@ mortis
 extremae
 dies
 !
+
 Quid
 agam
 ?
@@ -7078,6 +8229,7 @@ dum
 coniunx
 abis
 .
+
 Abis
 ,
 sed
@@ -7088,6 +8240,7 @@ abrepta
 non
 quae
 coniugem
+
 Tuum
 relinquas
 .
@@ -7097,6 +8250,7 @@ te
 coniunx
 mea
 ,
+
 Coniunx
 relinquo
 ;
@@ -7104,6 +8258,7 @@ sed
 tamen
 tecum
 mori
+
 Optare
 vellem
 ,
@@ -7112,6 +8267,7 @@ mori
 liceat
 mihi
 .
+
 AG
 .
 Nunquam
@@ -7121,6 +8277,7 @@ mater
 ò
 Parens
 ?
+
 EV
 .
 Oo
@@ -7132,15 +8289,20 @@ barbarum
 saeuum
 genus
 ,
+
 Gens
+
 C
 5
+
 ed
 by
 Google
+
 42
 NICOLAI
 VERNVLAEI
+
 Gens
 efferata
 !
@@ -7148,6 +8310,7 @@ Nunquid
 hos
 Diuûm
 Parens
+
 Vides
 ,
 &
@@ -7156,6 +8319,7 @@ luce
 concedis
 frui
 ?
+
 Vbi
 fulmen
 haeret
@@ -7163,6 +8327,7 @@ haeret
 dissipa
 tonitru
 Deus
+
 Vel
 hoc
 mihi
@@ -7170,6 +8335,7 @@ largire
 ,
 nunquam
 coniugem
+
 Violent
 pudicam
 .
@@ -7181,6 +8347,7 @@ vos
 ,
 ὁ
 mihi
+
 Gnati
 suaues
 ,
@@ -7190,6 +8357,7 @@ meus
 est
 dolor
 .
+
 TH
 .
 Quo
@@ -7199,6 +8367,7 @@ abibimus
 ?
 nunquid
 tamen
+
 Matrem
 sequemur
 ?
@@ -7209,6 +8378,7 @@ Mater
 ô
 Mater
 mea
+
 Vbi
 es
 ?
@@ -7218,6 +8388,7 @@ tuos
 Gnatos
 vides
 ?
+
 EV
 .
 Nec
@@ -7227,24 +8398,28 @@ suum
 .
 Gnati
 mei
+
 Sanguis
 meus
 :
 quid
 immerentes
 lachrymis
+
 Siccatis
 oculos
 ?
 lachrymis
 nullis
 dolor
+
 Tolletur
 iste
 ;
 vestra
 lachrymis
 attamen
+
 Succumbit
 aetas
 .
@@ -7252,6 +8427,7 @@ Mater
 &
 pater
 simul
+
 Vobis
 ero
 ,
@@ -7263,6 +8439,7 @@ AG
 quo
 pater
 ?
+
 Defessa
 languent
 crura
@@ -7273,12 +8450,14 @@ imihi
 tremut
 pedes
 ,
+
 Lassosque
 reddit
 matris
 amissae
 dolor
 .
+
 O
 mater
 !
@@ -7291,6 +8470,7 @@ dura
 quantus
 heu
 mihi
+
 Vox
 ista
 dolor
@@ -7299,6 +8479,7 @@ est
 verberat
 corimitus
 .
+
 Tamen
 est
 eundum
@@ -7307,6 +8488,7 @@ transit
 ecce
 iam
 dies
+
 Iuuabit
 ille
 ,
@@ -7314,6 +8496,7 @@ fata
 qui
 fraenat
 manu
+
 Premitque
 sortem
 .
@@ -7324,6 +8507,7 @@ sequemur
 ò
 Parens
 ,
+
 Viam
 rigantes
 lachrymis
@@ -7331,6 +8515,7 @@ lachrymis
 vt
 sit
 simul
+
 Quae
 nos
 reliquit
@@ -7339,6 +8524,7 @@ in
 fletu
 comes
 .
+
 EV
 .
 Sic
@@ -7349,6 +8535,7 @@ ab
 alto
 nos
 Deus
+
 Viam
 secundans
 .
@@ -7356,12 +8543,17 @@ Ecce
 sed
 vado
 nemus
+
 Sed
+
 Digitized
 by
 Google
+
 EVSTACHIVS
+
 43
+
 Secat
 profundo
 flumen
@@ -7369,6 +8561,7 @@ flumen
 &
 latas
 negat
+
 Viam
 per
 vndas
@@ -7377,12 +8570,14 @@ hic
 sedete
 paululum
 ,
+
 Ingressus
 vndas
 singulos
 vltra
 feram
 .
+
 Theophiste
 primum
 te
@@ -7392,6 +8587,7 @@ AG
 .
 sedens
 ego
+
 Remanebo
 ,
 forsan
@@ -7399,6 +8595,7 @@ huc
 reuersa
 me
 suum
+
 Matervidebit
 filium
 .
@@ -7408,6 +8605,7 @@ Fili
 sat
 est
 ,
+
 Illic
 sedebis
 ,
@@ -7415,6 +8613,7 @@ adferam
 fratrem
 tuum
 .
+
 TH
 .
 Tremisco
@@ -7428,6 +8627,7 @@ Pater
 ô
 pater
 !
+
 EV
 .
 Fili
@@ -7443,6 +8643,7 @@ pater
 ,
 lupus
 ,
+
 Recurre
 ,
 me
@@ -7455,6 +8656,7 @@ Fili
 quid
 est
 ?
+
 AG
 .
 Accurre
@@ -7467,6 +8669,7 @@ Pater
 ,
 Pater
 !
+
 EV
 .
 Fili
@@ -7480,26 +8683,33 @@ Leo
 Pater
 ,
 leo
+
 me
 rapit
 .
+
 -
 p
 -
 -
+
 SCENA
 V
 .
+
 Eustachius
 ,
 Daemon
 ,
 Patientia
 ,
+
 Constantia
 .
+
 EVSTACHIVS
 .
+
 TBi
 sum
 ?
@@ -7512,6 +8722,7 @@ Deus
 nondum
 satis
 ?
+
 Quid
 sum
 ?
@@ -7521,8 +8732,10 @@ nihil
 amplius
 :
 coniunx
+
 abest
 ,
+
 Periere
 Gnati
 ,
@@ -7531,6 +8744,7 @@ sed
 restat
 tamen
 .
+
 O
 dura
 vita
@@ -7541,6 +8755,7 @@ quid
 fera
 mors
 mihi
+
 Ignoscis
 ?
 illa
@@ -7549,13 +8764,17 @@ mihi
 grauis
 est
 poli
+
 Micantis
+
 Digitized
 by
 Google
+
 44
 NICOLAI
 VERNVLAEI
+
 Micantis
 aura
 :
@@ -7566,6 +8785,7 @@ mihi
 hostis
 est
 ,
+
 Homines
 ,
 Feraeque
@@ -7576,6 +8796,7 @@ Pontus
 ,
 &
 suis
+
 Sors
 insolescens
 cladibus
@@ -7583,6 +8804,7 @@ cladibus
 Quo
 nunc
 pedes
+
 Gressum
 feretis
 ?
@@ -7590,6 +8812,7 @@ omnis
 in
 vestram
 via
+
 Patet
 ruinam
 .
@@ -7598,12 +8821,14 @@ sed
 oculi
 quas
 modo
+
 Fandetis
 vndas
 ?
 exsuperat
 omnes
 malum
+
 Crudele
 lachrymas
 .
@@ -7612,6 +8837,7 @@ mihi
 Tellus
 sinam
 .
+
 Melius
 latebo
 :
@@ -7620,6 +8846,7 @@ quoque
 Aether
 hoc
 caput
+
 Inuolue
 ,
 solum
@@ -7629,6 +8856,7 @@ restat
 restat
 malè
 .
+
 O
 lux
 accrba
@@ -7638,6 +8866,7 @@ luce
 mortiferâ
 dies
 ?
+
 Quid
 agam
 ?
@@ -7648,8 +8877,10 @@ gnatos
 tuos
 ,
 cupa
+
 mori
 .
+
 BV
 .
 Vtinam
@@ -7660,6 +8891,7 @@ malorum
 finis
 est
 .
+
 D
 .
 Licet
@@ -7671,6 +8903,7 @@ merge
 turbatum
 caput
 .
+
 EV
 .
 Demergerem
@@ -7682,6 +8915,7 @@ istud
 non
 ego
 .
+
 D
 .
 Semper
@@ -7691,6 +8925,7 @@ semper
 infelix
 eris
 .
+
 EV
 .
 O
@@ -7703,6 +8938,7 @@ sic
 vult
 Tonam
 .
+
 D
 .
 Sic
@@ -7714,6 +8950,7 @@ liberare
 te
 potes
 .
+
 EV
 .
 Vtinam
@@ -7722,12 +8959,14 @@ liceret
 lachrymae
 lachrymae
 mea
+
 Nunquid
 perennes
 dabitis
 vndas
 ?
 currite
+
 Lachrymae
 perennes
 ,
@@ -7737,6 +8976,7 @@ sola
 est
 nocent
 .
+
 Conspirat
 Orbis
 totus
@@ -7744,6 +8984,7 @@ in
 nostrum
 malum
 .
+
 PAT
 .
 Vinceris
@@ -7751,6 +8992,7 @@ Eustachi
 suóne
 se
 premet
+
 Animus
 labore
 ?
@@ -7759,6 +9001,7 @@ EV
 sortis
 opprimitur
 truò
+
 Animus
 labore
 .
@@ -7767,6 +9010,7 @@ CON
 sortis
 euincit
 truces
+
 Animus
 labores
 quando
@@ -7774,13 +9018,17 @@ constans
 est
 sibi
 .
+
 EV
 .
+
 Digitized
 by
 Google
+
 EVSTACHIVS
 .
+
 EV
 .
 Vndique
@@ -7790,6 +9038,7 @@ me
 sors
 suis
 .
+
 PA
 .
 Fe
@@ -7802,12 +9051,14 @@ pectus
 opponas
 malis
 ,
+
 Immota
 rupes
 temnit
 Oceanm
 minas
 .
+
 PAT
 .
 Memento
@@ -7818,6 +9069,7 @@ ille
 dum
 tulit
 ,
+
 Sortem
 fatigans
 ,
@@ -7825,6 +9077,7 @@ sertis
 euincens
 minas
 .
+
 EV
 .
 At
@@ -7836,6 +9089,7 @@ PAT
 ille
 nudatus
 fuit
+
 Bonis
 ,
 superstes
@@ -7844,6 +9098,7 @@ in
 fimo
 dies
 .
+
 EV
 .
 Nudatus
@@ -7854,6 +9109,7 @@ bonis
 vxorem
 &
 meos
+
 Gnatos
 requiro
 :
@@ -7861,6 +9117,7 @@ quantus
 ò
 quantus
 dolor
+
 CON
 .
 Iterúmne
@@ -7869,6 +9126,7 @@ lachrymis
 cedis
 tuis
 ?
+
 Attelle
 coelo
 pectis
@@ -7877,6 +9135,7 @@ pectis
 vinces
 malum
 .
+
 PAT
 .
 Puta
@@ -7886,6 +9145,7 @@ fortior
 vinces
 malum
 .
+
 EV
 .
 Fero
@@ -7899,6 +9159,7 @@ C
 .
 rursum
 polo
+
 Attelle
 pectus
 ,
@@ -7907,6 +9168,7 @@ vires
 dat
 Tonans
 .
+
 PAT
 .
 Toties
@@ -7915,6 +9177,7 @@ arma
 Martis
 aduersi
 minas
+
 Vctor
 tulisti
 ,
@@ -7924,6 +9187,7 @@ an
 mus
 cadet
 ?
+
 E
 .
 Nunquam
@@ -7936,6 +9200,7 @@ pectus
 &
 fortis
 preme
+
 Quicquid
 fatigat
 ;
@@ -7943,6 +9208,7 @@ ipse
 tibi
 laurum
 Tonans
+
 Promisit
 .
 EV
@@ -7952,6 +9218,7 @@ descram
 nunquam
 Deum
 ,
+
 Promisit
 ille
 ,
@@ -7959,6 +9226,7 @@ quicquid
 ergo
 nunc
 placet
+
 Patiar
 lubenter
 .
@@ -7967,12 +9235,14 @@ magne
 Tonans
 mihi
 :
+
 Paratus
 adsto
 ,
 quicquid
 aduersi
 Sathan
+
 Rursus
 laborat
 ,
@@ -7980,6 +9250,7 @@ rursus
 inuictus
 feram
 .
+
 Sed
 adde
 vires
@@ -7988,6 +9259,7 @@ gratiamque
 ,
 dum
 suam
+
 Natura
 sortem
 respicit
@@ -7995,6 +9267,7 @@ respicit
 Faue
 Tonans
 ,
+
 Nunc
 ibo
 ,
@@ -8005,15 +9278,20 @@ tui
 viuam
 memor
 .
+
 CHORVS
+
 Digitized
 by
 Google
+
 46
 NICOLAI
 VERNVLAEI
+
 CHORVS
 VIRTVTVM
+
 IC
 laeta
 cedunt
@@ -8021,6 +9299,7 @@ tristibus
 ,
 &
 vices
+
 Fortuna
 miscet
 :
@@ -8029,15 +9308,18 @@ honor
 ,
 atque
 opes
+
 Vno
 recedunt
 impetu
 cum
+
 Casus
 atrox
 peperit
 ruinas
 .
+
 Haec
 certa
 lex
@@ -8046,6 +9328,7 @@ est
 scilicet
 ,
 omnia
+
 Cam
 luce
 cedunt
@@ -8053,15 +9336,18 @@ cedunt
 Terráque
 quod
 dedit
+
 Rursum
 resumit
 ,
 nec
 fideli
+
 Continuant
 statione
 nata
 .
+
 Hic
 sortis
 vsus
@@ -8070,6 +9356,7 @@ cum
 fauet
 vtere
 ,
+
 At
 cum
 recedit
@@ -8077,11 +9364,13 @@ recedit
 despice
 fortior
 .
+
 Contempta
 nunquam
 fert
 dolorem
 ,
+
 Torquet
 ,
 amata
@@ -8089,48 +9378,57 @@ nimis
 ,
 recedens
 .
+
 His
 ille
 rebus
 conditor
 Aetheris
+
 Probat
 fideles
 ;
 quisquis
 &
 indole
+
 Contemnit
 altâ
 quicquid
 Orbis
+
 Exuuijs
 agitat
 superbis
 ,
+
 Victa
 triumphat
 sorte
 ,
 nec
 alteras
+
 Vices
 requirit
 :
 si
 rapiat
 furens
+
 Sors
 cuncta
 ,
 contentus
 quiescit
 ,
+
 Atque
 animo
 peritura
 temnit
 .
+
 At
 post
 procellas
@@ -8138,26 +9436,34 @@ procellas
 nubis
 &
 horridas
+
 Iunctae
 tenebras
 sol
 redit
 ,
 integro
+
 Fruêris
 orbe
 quisquis
 ante
+
 Despiciens
 tenebras
 tulisti
 .
+
 Munin
+
 Digitized
 by
 Google
+
 EVSTACHIVS
+
 F1111
+
 Munimen
 esto
 ,
@@ -8165,7 +9471,9 @@ mens
 bene
 conscia
 :
+
 O
+
 Spes
 certa
 ,
@@ -8174,23 +9482,30 @@ pectus
 in
 omnia
 :
+
 Videbis
 obtutu
 irretorio
+
 2
 5
+
 re
+
 Exitijs
 vacuas
 ruinas
 .
+
 13
+
 Aduersa
 purgant
 ,
 prospera
 molliunt
 ,
+
 Et
 saepe
 foedant
@@ -8199,27 +9514,35 @@ His
 Placidus
 caret
 ,
+
 51a
 .
+
 Vexatur
 illis
 ,
 vt
 triumpho
+
 41
+
 Dignior
 exsuperet
 labores
 .
 
+
 47
+
 
 ACTVS
 TERTIVS
 .
+
 SCENA
 PRIMA
 .
+
 Traianus
 ,
 Sosius
@@ -8229,13 +9552,16 @@ Celsus
 Nuncius
 
 
+
 ,
 Antiochus
 ,
 Acacius
 .
+
 TRAIANVS
 .
+
 Raenator
 orbis
 ,
@@ -8244,6 +9570,7 @@ Sceptra
 qui
 Regum
 potes
+
 A
 Donas
 &
@@ -8252,18 +9579,21 @@ aufers
 tu
 Quiritum
 gloriam
+
 Astris
 adaequans
 hoc
 mihi
 Sceptrum
 manu
+
 Fraenare
 donas
 ,
 dum
 superbum
 verticem
+
 Mihi
 Roma
 flectit
@@ -8272,11 +9602,13 @@ Mundus
 agnoscit
 Patrem
 ,
+
 Aquiláque
 medijs
 cincta
 bellis
 incutit
+
 Terrae
 pauorem
 .
@@ -8284,26 +9616,32 @@ Sed
 tamen
 languor
 meos
+
 Constringit
 artus
 ,
 ménsque
 turbato
 tremit
+
 Dolore
+
 Digitized
 by
 Google
+
 48
 .
 NICOLAI
 VERNVLAET
+
 Dolore
 plena
 .
 Nunquid
 Oceanus
 meas
+
 Reijcit
 habenas
 ,
@@ -8312,6 +9650,7 @@ iugum
 Parthus
 negat
 ?
+
 SOS
 .
 Inuicte
@@ -8323,6 +9662,7 @@ se
 non
 capit
 ,
+
 Cum
 te
 tuamque
@@ -8331,12 +9671,14 @@ dexteram
 cum
 tot
 plagas
+
 Orbis
 subacti
 cogitat
 ,
 tot
 insulas
+
 Portusque
 Ponti
 :
@@ -8344,6 +9686,7 @@ sic
 stupere
 dum
 solet
+
 Quae
 frenat
 ,
@@ -8352,6 +9695,7 @@ mens
 reformidat
 simul
 .
+
 CEL
 .
 Amat
@@ -8360,12 +9704,14 @@ Caesarem
 Mundus
 suum
 ;
+
 Bellúmne
 tentet
 ?
 dulce
 portatur
 iugum
+
 Cum
 Dux
 amatur
@@ -8376,6 +9722,7 @@ Prima
 libertas
 placet
 ,
+
 Nec
 inuidenda
 est
@@ -8386,6 +9733,7 @@ saepe
 melius
 sub
 iugo
+
 Viuitur
 ,
 &
@@ -8394,6 +9742,7 @@ lex
 incutit
 Regis
 metum
+
 Virtus
 resurgit
 .
@@ -8402,6 +9751,7 @@ CEL
 Subditus
 quando
 timet
+
 Non
 peccat
 ;
@@ -8410,6 +9760,7 @@ peccantium
 fraenum
 timor
 .
+
 TR
 .
 Sed
@@ -8420,6 +9771,7 @@ cum
 timere
 non
 volum
+
 Peccare
 cogitant
 ,
@@ -8427,18 +9779,21 @@ cogitant
 in
 Regem
 putant
+
 Peccare
 licitum
 quando
 libertas
 placet
 .
+
 Hoc
 Barbarorum
 turba
 consilium
 rapit
 .
+
 CEL
 .
 Sed
@@ -8447,6 +9802,7 @@ Caesar
 hoc
 solo
 potes
+
 Nomine
 tremendus
 .
@@ -8455,18 +9811,21 @@ SOS
 Fama
 Romanos
 canis
+
 Vbique
 dominos
 :
 Fama
 Traianum
 soli
+
 Patrem
 celebrat
 ,
 tenque
 Parthorum
 colunt
+
 Populi
 fugaces
 .
@@ -8476,6 +9835,7 @@ Hoc
 fuit
 quando
 meos
+
 Placidus
 maniplos
 rexit
@@ -8483,6 +9843,7 @@ rexit
 &
 latè
 metum
+
 Incußit
 orbi
 ,
@@ -8491,6 +9852,7 @@ Quantus
 ô
 quantus
 sua
+
 Torquebat
 arma
 ?
@@ -8498,13 +9860,18 @@ murus
 imperij
 fuit
 ;
+
 Pruden
+
 Digitized
 by
 Goagle
+
 BVSTACHIVS
 .
+
 45
+
 Prudens
 ,
 seuerus
@@ -8514,8 +9881,10 @@ optimus
 Sed
 iam
 mihi
+
 S
 .
+
 Gelantur
 artus
 ille
@@ -8523,6 +9892,7 @@ cum
 mentem
 subit
 .
+
 Et
 vbi
 est
@@ -8534,6 +9904,7 @@ Caesarem
 cur
 me
 suum
+
 .
 Placidus
 reliquit
@@ -8542,6 +9913,7 @@ SOs
 Cladibus
 magnis
 premit
+
 Quibus
 inuidere
 sors
@@ -8550,6 +9922,7 @@ nequit
 clarus
 prius
 ,
+
 Sed
 mox
 egenus
@@ -8557,6 +9930,7 @@ ferrè
 dum
 vulgi
 nequit
+
 Risum
 proteruum
 ,
@@ -8564,13 +9938,16 @@ Caesarem
 &
 patriam
 suam
+
 2
+
 Abiens
 reliquit
 :
 ferre
 contemptum
 nequit
+
 Probata
 virtus
 .
@@ -8578,6 +9955,7 @@ Concitos
 sed
 huc
 gradus
+
 Nuntius
 anhelans
 torquet
@@ -8586,6 +9964,7 @@ TRVnde
 quo
 quis
 es
+
 NVN
 .
 Ab
@@ -8595,6 +9974,7 @@ Nuncius
 Romam
 peto
 .
+
 TR
 .
 Faustume
@@ -8606,7 +9986,9 @@ Caesar
 ,
 infanda
 ,
+
 impia
+
 Facinora
 fugi
 .
@@ -8618,6 +10000,7 @@ quicquid
 sit
 tamen
 ,
+
 Nil
 esse
 maius
@@ -8625,6 +10008,7 @@ poßit
 excusso
 iugo
 :
+
 Nunquid
 rebellis
 Parthus
@@ -8634,6 +10018,7 @@ NV
 excußit
 iugum
 ,
+
 Rebellisest
 .
 TR
@@ -8644,6 +10029,7 @@ est
 Oo
 Tonans
 !
+
 O
 Roma
 desidebis
@@ -8651,6 +10037,7 @@ desidebis
 &
 Parthus
 tuam
+
 Spernet
 dolosus
 gloriam
@@ -8659,6 +10046,7 @@ quid
 ego
 ?
 sedens
+
 Seruare
 nunquid
 cogar
@@ -8666,6 +10054,7 @@ hanc
 vrbem
 meam
 ?
+
 Ad
 arma
 Caesar
@@ -8677,6 +10066,7 @@ rursus
 quid
 est
 ?
+
 NV
 .
 Vix
@@ -8685,6 +10075,7 @@ iugales
 tertia
 eduxit
 mari
+
 Reparata
 Luna
 ,
@@ -8692,6 +10083,7 @@ tota
 consurgens
 plaga
 ,
+
 Quicunque
 Hydaspenpotat
 ,
@@ -8699,12 +10091,14 @@ aut
 Gangem
 bibit
 ,
+
 Bellum
 resumpsit
 :
 pignus
 excußi
 iugi
+
 Vbique
 cades
 ,
@@ -8712,15 +10106,20 @@ vndique
 effusus
 cruor
 :
+
 CaedisD
+
+
 
 
 itized
 by
 Google
+
 JO
 NICOLAI
 VERNVLAEI
+
 Caedisque
 causa
 nomen
@@ -8729,6 +10128,7 @@ est
 Casar
 ,
 tuum
+
 Aut
 Roma
 victrix
@@ -8740,6 +10140,7 @@ Caesar
 ô
 Caesar
 tuum
+
 Sic
 nomen
 ibit
@@ -8748,6 +10149,7 @@ Roma
 sic
 sanguis
 tuus
+
 Petetur
 illis
 ?
@@ -8758,6 +10160,7 @@ non
 !
 Caesar
 cito
+
 Ad
 arma
 Caesar
@@ -8767,6 +10170,7 @@ iam
 litui
 tonent
 ,
+
 Fremat
 arma
 sonipes
@@ -8776,6 +10180,7 @@ arma
 .
 Sed
 tamen
+
 Quis
 hos
 domabit
@@ -8786,6 +10191,7 @@ Placide
 nam
 te
 tremit
+
 Parthus
 rebellis
 .
@@ -8794,6 +10200,7 @@ iugum
 per
 te
 capit
+
 Fraenata
 Tellus
 .
@@ -8802,6 +10209,7 @@ quis
 hunc
 Caesar
 tibi
+
 Reducat
 ?
 Astra
@@ -8811,6 +10219,7 @@ testor
 caput
 hoc
 meum
+
 Honore
 maior
 viuet
@@ -8819,6 +10228,7 @@ viuet
 maior
 bonis
 .
+
 ACA
 .
 Iniunge
@@ -8828,6 +10238,7 @@ ibo
 qua
 terras
 sua
+
 Face
 Phoebus
 omnes
@@ -8837,6 +10248,7 @@ lustrat
 spargit
 diem
 .
+
 Si
 fas
 reducam
@@ -8848,6 +10260,7 @@ tibi
 faueant
 poli
 ,
+
 Virtus
 laborem
 quaerit
@@ -8856,6 +10269,7 @@ vt
 decus
 ferat
 .
+
 AN
 .
 Comitabor
@@ -8865,6 +10279,7 @@ qua
 rigentes
 sol
 plagas
+
 Relinquit
 ,
 aut
@@ -8872,6 +10287,7 @@ qua
 feruida
 cremat
 facè
+
 Mundum
 calentem
 ;
@@ -8879,6 +10295,7 @@ certus
 adspirat
 Deus
 ,
+
 Placidum
 videbis
 .
@@ -8888,6 +10305,7 @@ Iupiter
 !
 nunquam
 latet
+
 Romana
 virtus
 ,
@@ -8896,6 +10314,7 @@ poscit
 res
 opus
 .
+
 Animósne
 tales
 fertis
@@ -8905,6 +10324,7 @@ AC
 Et
 tales
 tibi
+
 Debentur
 .
 TR
@@ -8916,6 +10336,7 @@ in
 votis
 erit
 ,
+
 A
 me
 feretis
@@ -8926,6 +10347,7 @@ Placide
 rursum
 veni
 ,
+
 Rursum
 reuise
 Caesarem
@@ -8933,29 +10355,36 @@ Caesarem
 per
 te
 suos
+
 Videbit
 agros
 clade
 funestâ
 tegi
+
 Parthus
 rebellis
 ;
 induet
 rursus
 iugum
+
 Digitized
 by
 Google
+
 EVSTACHTVS
 .
+
 12
+
 Cum
 saeuientis
 sentict
 robur
 manus
 .
+
 Abite
 celeres
 ;
@@ -8963,6 +10392,7 @@ interim
 sed
 vos
 nouum
+
 Parate
 bellum
 ,
@@ -8970,6 +10400,7 @@ Caesari
 &
 Romae
 suae
+
 Fauebit
 Aether
 ,
@@ -8977,23 +10408,29 @@ omen
 apporiat
 dies
 .
+
 —
+
 SCENA
 II
 .
+
 Eustachius
 ,
 Vox
 Diuina
 .
+
 EVSTACHIVS
 .
+
 RGO
 labores
 rursus
 &
 rursus
 dies
+
 Oriens
 reducit
 ,
@@ -9003,6 +10440,7 @@ vita
 est
 labor
 ,
+
 Nec
 hunc
 recuso
@@ -9012,6 +10450,7 @@ est
 vitae
 labor
 :
+
 Sed
 sola
 coniunx
@@ -9019,6 +10458,7 @@ coniunx
 liberi
 soli
 mei
+
 Faciunt
 dolorem
 .
@@ -9026,6 +10466,7 @@ Dulcis
 o
 Coniunx
 mea
+
 Vbi
 es
 ?
@@ -9034,6 +10475,7 @@ forsitan
 adhuc
 est
 tihi
+
 In
 orbe
 vita
@@ -9042,6 +10484,7 @@ liberos
 sed
 heu
 meos
+
 Ferae
 vorarunt
 .
@@ -9050,6 +10493,7 @@ mihi
 tristis
 dolor
 !
+
 O
 lachrymae
 !
@@ -9058,12 +10502,14 @@ profunda
 si
 rupes
 meos
+
 Caperet
 dolores
 testis
 aeternum
 mihi
 :
+
 Aut
 inter
 antra
@@ -9071,6 +10517,7 @@ nemoris
 à
 turba
 procui
+
 Lachrymas
 fouerem
 !
@@ -9078,6 +10525,7 @@ melius
 alitur
 tunc
 dolor
+
 Cum
 teste
 caret
@@ -9088,6 +10536,7 @@ in
 scipso
 iacet
 .
+
 Simulare
 cogor
 ,
@@ -9096,6 +10545,7 @@ est
 tamen
 dolor
 .
+
 O
 magne
 rerum
@@ -9104,6 +10554,7 @@ Genitor
 Oò
 qui
 potens
+
 Aduersa
 fraenas
 fata
@@ -9111,20 +10562,26 @@ fata
 qui
 casum
 premis
+
 Nun
+
 D
 2
+
 Digitized
 by
 Google
+
 2
 NICOLAI
 VERNVLAEI
+
 Nunquid
 labores
 respicis
 tandem
 meos
+
 Lachrymâsque
 longas
 ?
@@ -9133,6 +10590,7 @@ recuso
 ,
 sed
 tamen
+
 Effice
 potentem
 :
@@ -9140,6 +10598,7 @@ saepe
 vix
 sese
 cadens
+
 Natura
 nouit
 .
@@ -9147,11 +10606,13 @@ Mitis
 at
 si
 forsitan
+
 Has
 temperare
 gaudio
 lachrymas
 cupis
+
 Videre
 dona
 coniugem
@@ -9159,6 +10620,7 @@ coniugem
 liceat
 Deus
 .
+
 VOX
 .
 Generose
@@ -9168,6 +10630,7 @@ fortis
 Eustachi
 ,
 tuis
+
 Nunc
 parce
 lachrymis
@@ -9175,6 +10638,7 @@ lachrymis
 ecce
 deduxi
 diem
+
 Ab
 amne
 Phoebus
@@ -9183,6 +10647,7 @@ qui
 tibi
 foelix
 dies
+
 Et
 liberos
 &
@@ -9190,6 +10655,7 @@ coniugem
 reddet
 tuam
 .
+
 Beate
 miles
 ,
@@ -9198,12 +10664,14 @@ euge
 respira
 ,
 satis
+
 Fortuna
 vitam
 saeua
 turbauit
 tuam
 .
+
 Assurge
 ,
 gaude
@@ -9212,6 +10680,7 @@ coniugem
 cernes
 tuam
 .
+
 EV
 .
 Quid
@@ -9221,6 +10690,7 @@ num
 coniugem
 cernam
 meam
+
 Continget
 vnquam
 ?
@@ -9229,6 +10699,7 @@ quantus
 Coeli
 fauor
 !
+
 Beate
 rerum
 conditor
@@ -9236,12 +10707,14 @@ conditor
 nimium
 faues
 ,
+
 Meritoque
 nullo
 tantus
 exibit
 faaor
 .
+
 Ignosce
 ,
 non
@@ -9249,12 +10722,14 @@ recuso
 quos
 nondum
 dedit
+
 Fortuna
 luctus
 ,
 &
 videre
 coniugem
+
 Si
 das
 benignus
@@ -9263,6 +10738,7 @@ adde
 quicquid
 hanc
 potest
+
 Vexare
 vitam
 ,
@@ -9270,6 +10746,7 @@ pectus
 indomitum
 gero
 ;
+
 Vincam
 labores
 ,
@@ -9277,6 +10754,7 @@ labores
 mihi
 cedet
 dolor
+
 Iterum
 labores
 sumo
@@ -9284,18 +10762,26 @@ dum
 currit
 dies
 .
+
 BCI
+
 Digitized
 by
 Google
+
 BVSTACHIVS
 .
+
 B
+
 —
+
 —
+
 SCENA
 III
 .
+
 Acacius
 ,
 Antiochus
@@ -9303,11 +10789,14 @@ Antiochus
 Eustachius
 
 
+
 ,
 Rustici
 .
+
 ACACIVS
 .
+
 Vin
 mouit
 vmbras
@@ -9316,6 +10805,7 @@ Phoebus
 &
 mundus
 nouo
+
 Clarescit
 igne
 ,
@@ -9323,12 +10813,14 @@ nunquid
 huic
 voto
 Deus
+
 Nostro
 fauebit
 ,
 dirigensque
 iter
 dabit
+
 Placidum
 videre
 ?
@@ -9340,6 +10832,7 @@ mihi
 simul
 metus
 ,
+
 Sit
 omen
 oro
@@ -9348,6 +10841,7 @@ Barbarorum
 tot
 plagas
 ,
+
 Tot
 regna
 frustra
@@ -9358,13 +10852,16 @@ nunc
 ,
 reor
 ,
+
 Voti
 remittet
 compotes
 Nili
 plaga
 .
+
 2
+
 AC
 .
 Eamus
@@ -9375,6 +10872,7 @@ spes
 poscit
 viam
 .
+
 EV
 .
 Quos
@@ -9385,6 +10883,7 @@ fallor
 Quirites
 &
 meos
+
 Olim
 ministros
 ;
@@ -9392,6 +10891,7 @@ indicat
 vultus
 meos
 .
+
 AN
 .
 Quis
@@ -9403,6 +10903,7 @@ nunquid
 hunc
 nostro
 color
+
 Fatetur
 ?
 Age
@@ -9414,8 +10915,10 @@ vnde
 EV
 .
 Peregrinum
+
 vides
 .
+
 AC
 .
 Ignotus
@@ -9429,6 +10932,7 @@ sed
 nota
 est
 tamen
+
 Haec
 ora
 lustris
@@ -9437,6 +10941,7 @@ tribus
 premo
 miser
 .
+
 AN
 .
 Fateare
@@ -9447,6 +10952,7 @@ est
 hic
 vir
 tibi
+
 Ab
 orbe
 nostro
@@ -9455,6 +10961,7 @@ sola
 coniunx
 est
 comes
+
 Paruíque
 Gnati
 .
@@ -9465,6 +10972,7 @@ est
 visus
 mihi
 .
+
 Ac
 .
 Cur
@@ -9475,6 +10983,7 @@ ab
 oculis
 fluit
 ?
+
 BV
 .
 Orbis
@@ -9483,15 +10992,21 @@ mentio
 lachrymas
 trahit
 ,
+
 Et
+
 D
 3
+
 Digitized
 by
 Google
+
 NICOLAI
 VERNVLAEI
+
 54
+
 Et
 saepe
 quae
@@ -9500,6 +11015,7 @@ nostra
 sunt
 tamen
 mala
+
 Faciunt
 dolorem
 .
@@ -9509,6 +11025,7 @@ est
 Placidus
 vin
 .
+
 EV
 :
 Mutauit
@@ -9518,6 +11035,7 @@ fortè
 sub
 ficto
 latet
+
 Nam
 saepe
 miser
@@ -9530,6 +11048,7 @@ est
 famâ
 suâm
 ,
+
 Iudaea
 quem
 gens
@@ -9539,12 +11058,14 @@ horret
 Dacus
 tremit
 .
+
 Sed
 inuidens
 fortuna
 depreßit
 virum
 .
+
 EV
 .
 Su
@@ -9553,6 +11074,7 @@ magnas
 saepe
 perturbat
 domos
+
 Inimica
 virtuti
 .
@@ -9560,6 +11082,7 @@ Dolor
 rursum
 heu
 mihi
+
 Pectus
 penetrat
 :
@@ -9567,6 +11090,7 @@ casus
 alienus
 facit
 .
+
 Alias
 in
 oras
@@ -9574,6 +11098,7 @@ forsan
 instituit
 viam
 .
+
 AN
 .
 Tamen
@@ -9584,6 +11109,7 @@ ergo
 rupamus
 morat
 .
+
 EV
 .
 Aliquo
@@ -9591,6 +11117,7 @@ leuare
 forsitan
 potu
 sitim
+
 Iam
 iam
 licebit
@@ -9601,6 +11128,7 @@ fas
 sit
 moras
 :
+
 Ibo
 ,
 manete
@@ -9609,6 +11137,7 @@ sedulus
 potum
 dabo
 ,
+
 Et
 en
 Coloni
@@ -9617,6 +11146,7 @@ nutrit
 Aegyptus
 viros
 .
+
 AC
 .
 Vidisse
@@ -9624,6 +11154,7 @@ nunquid
 contigit
 vobis
 virum
+
 Ab
 orbe
 nostro
@@ -9633,12 +11164,14 @@ coniunx
 est
 comes
 ,
+
 Gnatique
 parui
 ,
 candidus
 vultus
 virum
+
 Sermoque
 prodit
 .
@@ -9648,6 +11181,7 @@ Solus
 hic
 nostras
 colit
+
 Externus
 oras
 .
@@ -9659,6 +11193,7 @@ aut
 vidi
 virum
 :
+
 Est
 vultus
 idem
@@ -9668,6 +11203,7 @@ est
 idem
 sonus
 .
+
 En
 rursus
 .
@@ -9678,6 +11214,7 @@ dum
 sitim
 tempus
 facit
+
 Leuate
 potu
 .
@@ -9688,6 +11225,7 @@ in
 gestu
 nitet
 ,
+
 O
 quanta
 maiestas
@@ -9696,6 +11234,7 @@ sed
 hinc
 rursum
 pedes
+
 Celer
 reducit
 .
@@ -9705,6 +11244,7 @@ lachrymas
 vultu
 premit
 ,
+
 Vocemque
 truncat
 ;
@@ -9716,18 +11256,24 @@ secum
 suSic
 
 
+
+
 Digitized
 by
 Google
+
 EVSTACHIVS
 .
+
 35
+
 Sic
 saepe
 nutrit
 lachrymas
 testis
 sui
+
 Solus
 doloris
 .
@@ -9737,6 +11283,7 @@ Nunquid
 has
 dudum
 plagas
+
 Incoluit
 hospes
 .
@@ -9745,6 +11292,7 @@ RVS
 Lustra
 forsitantria
 ,
+
 Et
 solus
 hospes
@@ -9754,12 +11302,14 @@ AC
 Coniugis
 nunquid
 memor
+
 Aut
 liberorum
 fata
 commemorat
 sua
 ?
+
 RV
 .
 Nunquam
@@ -9769,6 +11319,7 @@ altum
 saepe
 turbato
 premit
+
 Animo
 dolorem
 ;
@@ -9778,6 +11329,7 @@ sortem
 est
 malam
 .
+
 AN
 .
 Decurrit
@@ -9787,6 +11339,7 @@ rursus
 &
 lachrymis
 gena
+
 Madent
 rubentes
 ,
@@ -9794,6 +11347,7 @@ fata
 cognoscit
 sua
 .
+
 AC
 .
 Haeremus
@@ -9805,6 +11359,7 @@ sed
 tamen
 certum
 dabit
+
 Signum
 cicatrix
 ,
@@ -9813,6 +11368,7 @@ quae
 collum
 notat
 .
+
 Redit
 ecce
 .
@@ -9823,12 +11379,14 @@ gaudium
 curae
 premunt
 ,
+
 Et
 recreari
 sollicitus
 ardor
 nequit
 .
+
 AN
 .
 En
@@ -9839,6 +11397,7 @@ signa
 tollamus
 moras
 .
+
 Tu
 es
 ,
@@ -9851,6 +11410,7 @@ sit
 tandem
 satis
 ,
+
 Effare
 .
 AC
@@ -9861,6 +11421,7 @@ reducis
 ,
 &
 nouas
+
 Abire
 cogis
 lachrymas
@@ -9871,6 +11432,7 @@ sum
 sum
 viri
 ,
+
 Celare
 prohibent
 fata
@@ -9879,6 +11441,7 @@ Placidus
 sum
 viri
 .
+
 AN
 .
 O
@@ -9891,6 +11454,7 @@ vt
 tuos
 lubens
 pedes
+
 Amplector
 ?
 AN
@@ -9900,6 +11464,7 @@ te
 Principem
 lubens
 meum
+
 Conspicio
 ?
 vt
@@ -9908,6 +11473,7 @@ ad
 bella
 fortem
 dexteram
+
 Osculor
 alumnus
 :
@@ -9917,8 +11483,10 @@ vbi
 vbi
 liberi
 ?
+
 –
 -
+
 EV
 .
 Redeunt
@@ -9927,6 +11495,7 @@ dolores
 liberos
 medijs
 ferae
+
 Rapuêre
 campis
 ,
@@ -9936,6 +11505,7 @@ hou
 !
 vxor
 suum
+
 Abrepta
 liquit
 :
@@ -9943,6 +11513,7 @@ quicquid
 expertus
 tuli
 ,
+
 Fortuna
 solum
 potuit
@@ -9950,16 +11521,21 @@ potuit
 omnia
 pertuli
 .
+
 46
 .
+
 D
 4
+
 Digitized
 by
 Google
+
 56
 NICOLAI
 VERNVLAEI
+
 AC
 .
 Miser
@@ -9971,6 +11547,7 @@ Roma
 te
 poscit
 Ducean
+
 Quaeritque
 Caesar
 ?
@@ -9978,6 +11555,7 @@ Placide
 ,
 te
 Caesarpetit
+
 Vt
 arma
 sumas
@@ -9986,6 +11564,7 @@ rursus
 &
 Parthos
 domans
+
 Rursuatriumphes
 .
 AN
@@ -9994,6 +11573,7 @@ Roma
 te
 belli
 suum
+
 Videat
 magistrum
 .
@@ -10003,6 +11583,7 @@ Fata
 fortunet
 Tonant
 .
+
 Quod
 Caesar
 optat
@@ -10012,6 +11593,7 @@ exequar
 Nunc
 vos
 mei
+
 Valete
 Comites
 ,
@@ -10020,6 +11602,7 @@ est
 gratus
 fauor
 ,
+
 Memorque
 viuam
 ,
@@ -10027,6 +11610,7 @@ sortis
 in
 partem
 meae
+
 Venistis
 omnes
 .
@@ -10035,6 +11619,7 @@ RVST
 saepè
 lachrymae
 tuae
+
 Nostrae
 fuerunt
 lachrymae
@@ -10046,6 +11631,7 @@ nunc
 sat
 est
 ,
+
 Valete
 rursum
 .
@@ -10059,6 +11645,7 @@ EV
 fatu
 vocat
 ,
+
 Magnusque
 Caesar
 ,
@@ -10067,6 +11654,7 @@ AN
 Gaudeat
 Caesar
 licet
+
 Poténsque
 Roma
 ,
@@ -10076,6 +11664,7 @@ est
 ,
 adeum
 .
+
 Eamus
 ergo
 ;
@@ -10083,9 +11672,11 @@ Caesarem
 curant
 poli
 .
+
 SCENA
 IV
 .
+
 Traianus
 ,
 Sosius
@@ -10095,19 +11686,23 @@ Celsus
 Eustachius
 
 
+
 ,
 Acacius
 ,
 Antioch
 .
+
 TRAIANVS
 .
+
 Terum
 resurgit
 mentis
 exundans
 tumor
 .
+
 Et
 laeta
 spes
@@ -10116,6 +11711,7 @@ animum
 :
 quid
 dabis
+
 O
 Phoebe
 ?
@@ -10125,6 +11721,7 @@ hic
 reddet
 dies
 ?
+
 SOs
 .
 Quae
@@ -10134,6 +11731,7 @@ vrbis
 in
 portas
 moues
+
 CEL
 .
 Et
@@ -10146,14 +11744,20 @@ mutor
 fallor
 simul
 ,
+
 —
+
 4
+
 Placi
+
 Digitized
 by
 Google
+
 BVSTACHIVS
 .
+
 Placidumne
 cerno
 ?
@@ -10164,6 +11768,7 @@ Creduli
 parum
 metus
 ;
+
 En
 ipse
 ,
@@ -10172,6 +11777,7 @@ gaudium
 turbat
 pauor
 .
+
 EV
 .
 Tibi
@@ -10179,6 +11785,7 @@ sempiternum
 Numen
 aspiret
 Tonans
+
 Inuicte
 Caesar
 .
@@ -10188,6 +11795,7 @@ Nunquid
 huc
 Placidus
 redum
+
 Mihi
 apprecaris
 ?
@@ -10196,6 +11804,7 @@ EV
 Apprecor
 Placidus
 tibi
+
 Inuicte
 Caesar
 ,
@@ -10205,6 +11814,7 @@ faues
 parcas
 simul
 .
+
 TR
 .
 Assurge
@@ -10216,12 +11826,14 @@ sospitem
 sic
 te
 mihi
+
 Fortuna
 reddit
 ?
 Iupiter
 semper
 tui
+
 Memor
 Quirini
 es
@@ -10229,6 +11841,7 @@ es
 semper
 Augustae
 fauet
+
 Stirpi
 ,
 benignus
@@ -10237,6 +11850,7 @@ Totus
 in
 memet
 cado
+
 Perfusus
 alto
 gaudio
@@ -10244,6 +11858,7 @@ gaudio
 Sed
 quo
 tamen
+
 Et
 vnde
 tandem
@@ -10253,6 +11868,7 @@ AC
 Vidimus
 Nili
 plagan
+
 Votique
 fecit
 compotes
@@ -10261,8 +11877,10 @@ AN
 .
 Frustra
 labor
+
 2
 —
+
 Alias
 per
 oras
@@ -10272,6 +11890,7 @@ haec
 votum
 dedit
 .
+
 TR
 .
 Nunc
@@ -10282,6 +11901,7 @@ sortis
 in
 partem
 veni
+
 Placidúsque
 viuat
 Caesari
@@ -10291,6 +11911,7 @@ suo
 (
 tui
 :
+
 Vbi
 pulchra
 coniunx
@@ -10303,6 +11924,7 @@ TR
 .
 Et
 gnati
+
 ET
 .
 Periêre
@@ -10314,6 +11936,7 @@ Nunc
 mihi
 tristis
 dolor
+
 Inuadit
 artus
 .
@@ -10322,6 +11945,7 @@ o
 sortis
 iugum
 !
+
 CEL
 .
 Sors
@@ -10332,6 +11956,7 @@ cupit
 magnos
 premit
 .
+
 TR
 .
 Expone
@@ -10342,6 +11967,7 @@ tamen
 patitur
 dolor
 .
+
 EV
 .
 Dicam
@@ -10351,7 +11977,9 @@ sed
 tamen
 aliquid
 dabo
+
 55
+
 Reticendo
 multa
 ;
@@ -10360,6 +11988,7 @@ hoc
 faue
 mihi
 .
+
 Suprema
 tangam
 .
@@ -10367,6 +11996,7 @@ Pestis
 inuasit
 domum
 ,
+
 Exhausit
 eadem
 ,
@@ -10374,6 +12004,7 @@ coniugi
 parcens
 meae
 ,
+
 Natisque
 paruis
 &
@@ -10382,15 +12013,21 @@ mihi
 sic
 dum
 domus
+
 5
+
 Squa
+
 Digitized
 by
 Google
+
 E
+
 O
 NICOLAI
 VERNVLAEI
+
 Squalet
 relicta
 ,
@@ -10398,6 +12035,7 @@ furibus
 simul
 patet
 ;
+
 Rapuêre
 fures
 cuncta
@@ -10405,6 +12043,7 @@ cuncta
 Deserui
 lares
 ,
+
 Coniunx
 maritum
 sequitur
@@ -10413,6 +12052,7 @@ sequitur
 gnati
 patrem
 .
+
 TR
 .
 Cur
@@ -10425,6 +12065,7 @@ E
 vetuit
 pudor
 .
+
 Sed
 vix
 ad
@@ -10432,12 +12073,14 @@ aequor
 veneram
 nautae
 nouo
+
 Furore
 pleni
 coniugem
 rapiunt
 mihi
 .
+
 TR
 .
 O
@@ -10446,6 +12089,7 @@ semper
 infidum
 genus
 ,
+
 Crudele
 genus
 !
@@ -10456,6 +12100,7 @@ hinc
 relictos
 dum
 mi
+
 Deduco
 gnatos
 ,
@@ -10463,6 +12108,7 @@ forsan
 &
 fluuius
 viam
+
 Negaret
 altus
 ,
@@ -10470,6 +12116,7 @@ ipse
 in
 humeros
 sustuli
+
 Aeterna
 partitus
 onera
@@ -10479,6 +12126,7 @@ mox
 hinc
 Leo
 ,
+
 Lupus
 inde
 rapiunt
@@ -10488,6 +12136,7 @@ sic
 fiunt
 feris
 .
+
 TR
 .
 Solus
@@ -10498,6 +12147,7 @@ videbas
 &
 pater
 ?
+
 EV
 .
 Solus
@@ -10511,6 +12161,7 @@ quantus
 luctus
 fuit
 !
+
 Quo
 tunc
 abibas
@@ -10522,6 +12173,7 @@ vocat
 miscros
 dolor
 ,
+
 In
 lachrymas
 ,
@@ -10530,6 +12182,7 @@ vidit
 Aegyptus
 diu
 ,
+
 Mors
 sola
 tollet
@@ -10541,6 +12194,7 @@ quae
 tandem
 fuit
 ?
+
 EV
 .
 Exercui
@@ -10552,6 +12206,7 @@ TR
 pro
 pudor
 !
+
 Equitum
 Magister
 ?
@@ -10561,6 +12216,7 @@ quis
 fuit
 animus
 tibi
+
 EV
 ,
 Constans
@@ -10571,6 +12227,7 @@ sortis
 victor
 suae
 .
+
 TR
 .
 Satis
@@ -10582,6 +12239,7 @@ mihi
 volui
 Ducem
 :
+
 Nunc
 ergo
 gaude
@@ -10590,6 +12248,7 @@ dumque
 te
 magnum
 voli
+
 Mouere
 bellum
 redde
@@ -10597,6 +12256,7 @@ te
 patriae
 Ducem
 .
+
 Parthus
 rebellat
 ,
@@ -10604,6 +12264,7 @@ sed
 rebellem
 vincies
 .
+
 XV
 .
 Vt
@@ -10615,6 +12276,7 @@ arma
 rursus
 &
 tubat
+
 Abibo
 Caesar
 ,
@@ -10622,13 +12284,18 @@ rursus
 &
 patris
 manus
+
 Sudabit
+
 Digitized
 by
 Google
+
 EVSTACHIVS
 .
+
 52
+
 Sudabit
 ista
 .
@@ -10640,6 +12307,7 @@ ast
 hic
 dum
 dies
+
 Moritur
 O
 lympo
@@ -10648,8 +12316,10 @@ in
 festum
 cadat
 .
+
 CHORVS
 .
+
 IC
 erg
 )
@@ -10657,67 +12327,80 @@ vices
 omnia
 capiunt
 ,
+
 Cladibus
 atrox
 si
 sors
 saeuit
 ,
+
 Cladibus
 eadem
 pr
 ssa
 recumbit
 :
+
 Vincit
 patiens
 animus
 sortem
 .
+
 Numerosa
 cadens
 aethere
 grando
+
 Crebro
 campos
 vulnerat
 ictu
 ;
+
 Sed
 cum
 vacuo
 nubes
 gremio
+
 Languet
 calidis
 saucia
 radijs
+
 Sanat
 terrae
 vulnera
 Phoebus
 ,
+
 Pariunt
 gratos
 vulnera
 flores
 .
+
 Aduersa
 docent
 ,
 decorant
 clades
 ,
+
 Sola
 ruinas
 otia
 pariunt
+
 Foecunda
 malis
 :
 inspice
 pluuias
 ,
+
 Mergunt
 ,
 sed
@@ -10725,98 +12408,121 @@ enm
 sordida
 purgant
 ;
+
 Inspicè
 solem
 ,
 semper
 adurit
+
 Vultu
 quando
 semper
 eodem
+
 Respicit
 orbem
 .
+
 Scilicet
 altus
 cum
 fauet
 Aether
+
 Fortuna
 cadit
 :
 scilicet
 animus
+
 Nescit
 vinci
 cum
 Deus
 addit
+
 Animovir
 .
 s
 .
 OEVSTACHI
+
 Quam
 tibi
 faustè
 sydera
 rident
 ?
+
 Excuta
+
 Q
+
 Digitized
 by
 Google
+
 Q
+
 NICOLAI
 VERNVLAEI
+
 4
+
 Excute
 lachrymas
 ,
 gaudia
 redeunt
 ,
+
 Matora
 tuis
 gaudia
 lachrymis
 .
+
 Bellum
 repetes
 ,
 vinces
 hostes
 ,
+
 Addet
 Caesar
 iure
 triumphum
 .
+
 Maigra
 sed
 hinc
 gaudia
 surget
+
 Quod
 chara
 tuas
 ibit
 in
 vlnas
+
 Reddita
 coniunx
 ;
 quod
 tuus
 ille
+
 Sanguis
 amatus
 ,
 teneri
 Nati
 ,
+
 Patris
 in
 vlnas
@@ -10824,28 +12530,33 @@ vlnas
 matris
 in
 vlnar
+
 Gratâ
 tandem
 fraude
 redibunt
 .
+
 Sic
 sepe
 iuuat
 perdere
 quod
 ames
+
 Vt
 sit
 sensus
 maior
 amoris
 .
+
 Siquidem
 semper
 gratius
 hoc
 est
+
 Quo
 caret
 animus
@@ -10853,83 +12564,105 @@ animus
 Sic
 sape
 iuuat
+
 Aduersa
 pati
 ,
 quo
 sors
 veniat
+
 Prospera
 melior
 .
 Cur
 cadat
 animus
+
 Cum
 saeuit
 atrox
 fortuna
 malis
 ?
+
 Erigt
 Aether
 quem
 premit
 ictu
+
 Fortuna
 truci
 si
 pede
 semper
+
 Proterat
 alto
 vulnera
 sortis
 .
+
 ACTVS
+
 .
 .
 .
 .
+
 2
+
 5
 
+
 25
+
 Digitized
 by
 Google
+
 65
+
 EVSTACHIVS
 .
+
 
 
 ACTVS
 QVARTVS
 .
+
 SCENA
 PRIMA
 .
+
 Traianus
 ,
 Eustachius
 ,
 Sosius
 ,
+
 Celsus
 .
+
 TRAIANVS
 .
+
 Terúmne
 Phoebus
 Syderum
 auratas
 vias
+
 Temone
 calcat
 aureo
 &
 nouum
 iubar
+
 Affulget
 orbi
 ?
@@ -10937,6 +12670,7 @@ Phoebe
 Romanis
 faue
 ;
+
 Tecum
 per
 Eci
@@ -10944,16 +12678,19 @@ plagas
 ,
 qua
 fluctibus
+
 Turgens
 Hydaspes
 arua
 distinguit
 suis
+
 Lambens
 arenas
 Indiae
 miles
 meus
+
 Bellum
 resumet
 .
@@ -10961,6 +12698,7 @@ Ergo
 Placide
 dum
 licet
+
 In
 arma
 rursus
@@ -10969,6 +12707,7 @@ ibis
 &
 Parthos
 truces
+
 Rursus
 domabis
 .
@@ -10978,6 +12717,7 @@ Impera
 Caesar
 mihi
 ,
+
 Quemque
 cupis
 esse
@@ -10986,6 +12726,7 @@ voce
 constituas
 tua
 .
+
 TRA
 .
 Equitum
@@ -10994,6 +12735,7 @@ magister
 bella
 praefectus
 meo
+
 Milite
 resumes
 ,
@@ -11002,6 +12744,7 @@ sio
 faueant
 tibi
 .
+
 EV
 .
 Ita
@@ -11012,12 +12755,14 @@ verus
 hunc
 orbem
 Tonam
+
 Potente
 fraenat
 dextorâ
 Regum
 Deus
 ,
+
 Diuumque
 rector
 ,
@@ -11025,6 +12770,7 @@ iustus
 in
 Parthos
 truces
+
 Populum
 rebellem
 ,
@@ -11033,6 +12779,7 @@ Caesar
 hoc
 bellum
 tuum
+
 Resumo
 .
 Nunc
@@ -11042,13 +12789,17 @@ est
 dextrae
 labor
 ,
+
 Tili
+
 Digitized
 by
 Google
+
 62
 NICOLAI
 VERNVLAEI
+
 Tibi
 Caesar
 ,
@@ -11058,6 +12809,7 @@ Patria
 laborem
 sacro
 .
+
 80
 .
 Sit
@@ -11068,6 +12820,7 @@ namque
 iam
 sentit
 nouos
+
 Animus
 triumphos
 .
@@ -11077,6 +12830,7 @@ Omen
 hoc
 coelum
 dedit
+
 Cum
 te
 reduxit
@@ -11087,12 +12841,14 @@ sed
 moras
 agedum
 motas
+
 Euince
 ,
 nostrum
 discat
 imperium
 pati
+
 Quisquis
 recusat
 ,
@@ -11101,6 +12857,7 @@ suis
 fidit
 dolis
 ,
+
 Si
 fors
 requiris
@@ -11108,6 +12865,7 @@ militem
 ,
 scribas
 nouum
+
 Qua
 nostra
 latè
@@ -11116,6 +12874,7 @@ fraenant
 hoc
 solum
 .
+
 EV
 .
 Caesarvalebis
@@ -11126,6 +12885,7 @@ Bella
 fortunet
 Tonam
 ,
+
 Et
 tu
 triumpho
@@ -11134,19 +12894,24 @@ ingenti
 redi
 .
 
+
 SCENA
 II
 .
+
 Eustachius
 ,
 Milites
 ,
 Agapitus
 ,
+
 Theophistus
 .
+
 EVSTACHIVS
 .
+
 D
 arma
 ,
@@ -11157,6 +12922,7 @@ Caesar
 tempus
 vocant
 ,
+
 AVocat
 hostis
 ille
@@ -11164,11 +12930,13 @@ ille
 qui
 superbum
 verticem
+
 Tollens
 rebellis
 excutit
 magni
 iugum
+
 Caesaris
 ,
 &
@@ -11177,6 +12945,7 @@ pati
 nomen
 nequit
 .
+
 Iusta
 facit
 animos
@@ -11186,6 +12955,7 @@ cui
 fauet
 Tonans
 .
+
 Numerabo
 turmas
 :
@@ -11193,6 +12963,7 @@ ecce
 sed
 veniunt
 noui
+
 Qui
 vos
 ,
@@ -11207,6 +12978,7 @@ sivis
 ,
 sumus
 .
+
 EV
 .
 Bellare
@@ -11219,6 +12991,7 @@ bella
 si
 probes
 .
+
 EV
 .
 Probabo
@@ -11228,15 +13001,20 @@ si
 rebellis
 non
 manus
+
 D
 .
 treDigitized
 
 
+
 by
 Google
+
 BVSTACHIVS
+
 59
+
 Detrectat
 vnquam
 puluerem
@@ -11245,6 +13023,7 @@ TH
 .
 potius
 caput
+
 Inuoluat
 hoc
 coelum
@@ -11252,12 +13031,14 @@ cadens
 ,
 aut
 corpore
+
 Pascantur
 isto
 nemoris
 vmbrosi
 ferae
 .
+
 AG
 .
 Potius
@@ -11267,13 +13048,16 @@ hostibus
 solus
 cadam
 ;
+
 2
+
 Et
 haec
 suprema
 fulgeat
 vitae
 dies
+
 Quae
 prima
 belli
@@ -11285,7 +13069,9 @@ est
 ,
 Iunenes
 ,
+
 amor
+
 Animúsque
 vester
 ,
@@ -11293,6 +13079,7 @@ singuli
 nomen
 date
 .
+
 AG
 .
 Agapitus
@@ -11304,8 +13091,10 @@ Theophistus
 ego
 :
 sed
+
 nunc
 fidem
+
 Tibi
 iuro
 Princeps
@@ -11315,6 +13104,7 @@ in
 castris
 ero
 ,
+
 Vt
 esse
 poßim
@@ -11324,6 +13114,7 @@ semper
 semper
 velim
 .
+
 AG
 .
 Fidelis
@@ -11334,6 +13125,7 @@ pro
 te
 geram
 ,
+
 Tecúmque
 Princeps
 .
@@ -11342,6 +13134,7 @@ EV
 Eritis
 aeternum
 mihi
+
 Chari
 ,
 fideles
@@ -11350,6 +13143,7 @@ dum
 tempus
 sinet
 .
+
 Nunc
 ,
 Miles
@@ -11360,11 +13154,13 @@ domitor
 &
 victor
 simul
+
 Aliquando
 si
 sperare
 licuit
 hostibus
+
 Laurum
 fugatis
 ,
@@ -11372,6 +13168,7 @@ fugatis
 domare
 quos
 sua
+
 Iam
 causa
 damnat
@@ -11380,6 +13177,7 @@ nunc
 licet
 quando
 iugum
+
 Parthus
 rebellis
 ponit
@@ -11387,6 +13185,7 @@ ponit
 &
 bellum
 manu
+
 Ferox
 laceßit
 ;
@@ -11394,12 +13193,14 @@ iusta
 causa
 semper
 est
+
 Vbi
 populus
 rebellis
 excußit
 iugum
 .
+
 Europa
 vestris
 ceßit
@@ -11407,6 +13208,7 @@ armis
 ,
 &
 potens
+
 Nostris
 ,
 Asia
@@ -11415,26 +13217,32 @@ submisit
 aquilis
 verticem
 .
+
 Aemuláque
 Romae
 iura
 Carthago
 tulit
 .
+
 Parthúsne
 solus
 ,
 solus
 Imperio
 caput
+
 SubdiiDigitized
+
 
 
 by
 Google
+
 64
 NICOLAI
 VERNVLAEI
+
 Subducet
 ?
 O
@@ -11443,6 +13251,7 @@ Milites
 !
 potius
 mori
+
 Decernat
 animus
 ;
@@ -11451,6 +13260,7 @@ mors
 pro
 patria
 es
+
 Simulque
 dulcis
 :
@@ -11459,6 +13269,7 @@ cedere
 subdito
 est
 .
+
 Age
 Miles
 ,
@@ -11466,6 +13277,7 @@ hauri
 pectus
 indomitum
 tuis
+
 Primis
 ab
 ausis
@@ -11473,6 +13285,7 @@ ausis
 temne
 fluxarum
 vices
+
 Tempusque
 rerum
 ,
@@ -11481,6 +13294,7 @@ surget
 pugna
 decus
 .
+
 MI
 .
 Inflammat
@@ -11493,42 +13307,49 @@ iustus
 doleAlacres
 
 
+
 ad
 arma
 .
 Nunquid
 imperium
 suis
+
 Promittet
 oris
 Parthus
 ,
 &
 Quiritium
+
 Decus
 repellet
 ?
 Nescit
 alienum
 pati
+
 Romanus
 imperium
 ,
 suisque
 se
 sibi
+
 Conseruat
 armis
 .
 Fata
 Romanos
 volunt
+
 Fraenare
 mundum
 :
 certa
 spes
 victoriae
+
 Facit
 animos
 ,
@@ -11537,6 +13358,7 @@ prodigi
 vitae
 viri
 .
+
 Ruimus
 ad
 arma
@@ -11545,6 +13367,7 @@ Te
 Placide
 sequimur
 Ducem
+
 Martemque
 nostrum
 ,
@@ -11553,6 +13376,7 @@ tecum
 spes
 erit
 .
+
 EV
 .
 Eamus
@@ -11563,6 +13387,7 @@ per
 medium
 volent
 ,
+
 Spes
 certa
 ducit
@@ -11572,6 +13397,7 @@ MIL
 strepitus
 auditur
 procul
+
 Sonúsque
 belli
 .
@@ -11581,6 +13407,7 @@ Fraude
 ne
 Parthus
 sua
+
 Pugnam
 lacessat
 ,
@@ -11589,6 +13416,7 @@ cuncti
 ,
 stent
 manus
+
 Bello
 paratae
 .
@@ -11599,6 +13427,7 @@ Parthus
 hostis
 est
 ,
+
 Ad
 arma
 ,
@@ -11612,6 +13441,7 @@ date
 ferrum
 cii
 ,
+
 Proijcite
 tela
 ,
@@ -11623,6 +13453,7 @@ eia
 hostis
 est
 .
+
 EV
 .
 Ruite
@@ -11635,6 +13466,7 @@ rumpite
 ,
 fundite
 ,
+
 TH
 .
 Fugiunt
@@ -11647,16 +13479,21 @@ ferite
 AC
 fugiunt
 .
+
 EV
 .
 est
 dolus
 ,
+
 Dol
+
 Digitized
 by
 Google
+
 EVSTACHIVS
+
 Dolus
 est
 ,
@@ -11668,6 +13505,7 @@ ruite
 ,
 irrumpite
 .
+
 MIL
 .
 State
@@ -11679,17 +13517,22 @@ frontem
 vertite
 .
 
+
 —
+
 SCENA
 III
 .
+
 Theophistes
 .
+
 Voties
 cadentes
 Phoebus
 vmbras
 dissipat
+
 Surgens
 ab
 alto
@@ -11699,29 +13542,34 @@ author
 &
 parens
 ,
+
 Toties
 dolores
 luctibus
 nouis
 meos
+
 Consolor
 infelix
 ,
 &
 Oceani
 vadum
+
 Cum
 rursus
 intrat
 nocte
 compulsus
 nigram
+
 Rursus
 dolores
 auspicor
 luctu
 nouo
 .
+
 Lachrymas
 dies
 ,
@@ -11730,6 +13578,7 @@ lachrymas
 rursum
 facit
 ,
+
 Et
 tota
 vita
@@ -11737,6 +13586,7 @@ lachrymas
 poscit
 meas
 .
+
 Theophiste
 miscra
 ,
@@ -11746,9 +13596,12 @@ quid
 ò
 quid
 nunc
+
 –
+
 facis
 ?
+
 Cur
 ergo
 cessas
@@ -11757,6 +13610,7 @@ rursus
 ò
 miscra
 tuos
+
 Resume
 luctus
 ;
@@ -11765,6 +13619,7 @@ hos
 vnquam
 dies
 ,
+
 Nox
 nulla
 terminabit
@@ -11772,11 +13627,13 @@ terminabit
 O
 quantum
 mihi
+
 Sors
 inuidebat
 Barbarorum
 cum
 furor
+
 Me
 rapuit
 ,
@@ -11787,12 +13644,14 @@ tristis
 ò
 dolor
 !
+
 Liqui
 maritum
 ,
 paruulósque
 liberos
 .
+
 Vbi
 es
 Marite
@@ -11803,6 +13662,7 @@ estis
 Nati
 mei
 ?
+
 Num
 sola
 viuo
@@ -11811,6 +13671,7 @@ sola
 num
 tristi
 dies
+
 Deduco
 luctu
 ,
@@ -11818,14 +13679,19 @@ Barbarus
 dum
 vos
 furor
+
 E
+
 Forsas
+
 Digitized
 by
 Gogle
+
 66
 NICOLAI
 VERNVLAET
+
 Porsan
 permit
 ?
@@ -11834,6 +13700,7 @@ mihi
 si
 sors
 daret
+
 Vt
 nosse
 pessem
@@ -11841,6 +13708,7 @@ fata
 quae
 coniunx
 trahis
+
 Paruíque
 Nati
 :
@@ -11848,18 +13716,21 @@ Parca
 si
 vestros
 dies
+
 Auara
 rupit
 moesta
 tumulos
 hic
 parens
+
 Coniunxque
 vobis
 ponerem
 ,
 quos
 lachrymis
+
 Plorans
 rigarem
 :
@@ -11868,6 +13739,7 @@ sin
 vestros
 ad
 huc
+
 Animaret
 artus
 ,
@@ -11875,6 +13747,7 @@ sola
 vòs
 toto
 lubens
+
 In
 orbe
 quaercrem
@@ -11884,6 +13757,7 @@ heu
 fatum
 graue
 ?
+
 Quod
 nescio
 plorare
@@ -11891,6 +13765,7 @@ cogor
 ,
 &
 mihi
+
 Nunc
 gaudium
 spes
@@ -11900,6 +13775,7 @@ timorem
 sors
 facit
 .
+
 Heu
 sors
 acerba
@@ -11908,6 +13784,7 @@ lachrymae
 ,
 lachrymae
 meae
+
 Quosque
 tandem
 ?
@@ -11915,18 +13792,21 @@ Nunquid
 ò
 mitis
 Tonans
+
 Finem
 videbo
 ?
 tristis
 exegi
 tria
+
 Lachrymando
 lustra
 ,
 nauta
 postquam
 barbarus
+
 Conceßit
 Orco
 ,
@@ -11935,12 +13815,14 @@ meque
 sic
 nosti
 Tonans
+
 Liquit
 pudicam
 ,
 paruulum
 semper
 meis
+
 Colui
 manibus
 hortum
@@ -11949,6 +13831,7 @@ nec
 vndis
 semper
 hunm
+
 Verum
 rigaui
 lachrymis
@@ -11958,6 +13841,7 @@ haec
 mea
 est
 .
+
 Eritne
 semper
 ?
@@ -11966,6 +13850,7 @@ mihi
 liceat
 Tonans
 ,
+
 Si
 non
 videre
@@ -11975,6 +13860,7 @@ at
 patriam
 meam
 ,
+
 Vt
 illa
 lachrymas
@@ -11982,12 +13868,14 @@ testis
 excipiat
 meas
 .
+
 Et
 nunc
 Latinus
 rursus
 Ausoniam
 petit
+
 Hac
 castra
 ducens
@@ -11995,6 +13883,7 @@ victor
 .
 Oliceat
 sequil
+
 Sed
 audio
 ,
@@ -12004,45 +13893,60 @@ redibo
 ,
 subsequar
 .
+
 SCEDigitized
+
 
 
 by
 Google
+
 -
+
 25
 .
+
 EVSTACHIVS
 .
 
+
 —
+
 SCENA
 IV
+
 Eustachius
 ,
 Milites
 ,
 Agapitus
 ,
+
 Theophistus
 ,
 Theophist
 .
+
 —
+
 EVSTACHIVS
 .
+
 Rgo
 momordit
 turpe
 prostratus
 solum
+
 23
+
 Frustráque
 fraudes
 Parthus
 ostendit
 suas
 ,
+
 Et
 quisquis
 Ausonium
@@ -12050,6 +13954,7 @@ pati
 iugum
 nequit
 ,
+
 Nunc
 cogitur
 ,
@@ -12057,17 +13962,20 @@ qua
 latus
 Euphrates
 suas
+
 Extendit
 vndas
 ,
 aut
 Hydaspes
 Indiae
+
 Perfluit
 arenas
 sentiunt
 nostras
 manus
+
 Victique
 adorant
 .
@@ -12075,12 +13983,14 @@ Miles
 agedum
 nunc
 tuis
+
 Applaude
 telis
 ,
 dumque
 respirat
 dies
+
 Sub
 luce
 media
@@ -12089,6 +13999,7 @@ carpe
 respirans
 diem
 .
+
 MIL
 .
 Nunc
@@ -12096,69 +14007,86 @@ nunc
 laeto
 pocula
 cantu
+
 Reddite
 mensae
 ,
 cingite
 frontè
+
 Laurea
 textis
 serta
 coronis
 .
+
 CANTVS
 MILITARIS
 .
+
 Rgo
 qua
 lentè
 fluitans
 Hydaspes
+
 Pergit
 Eoos
 peragrare
 campos
 ,
+
 Barbari
 nostras
 tremuere
 dextras
+
 Io
 triumphe
 .
+
 Ille
 trux
 Parthus
 fugiendo
 fallax
 ,
+
 E
 2
+
 Ian
+
 Digitized
 by
 Google
+
 NICOLAI
 VERNVLAET
+
 Iam
 suis
 frustra
 iaculis
 fefellit
 ,
+
 Iuimus
 contra
 dedimúsque
 stragem
+
 Io
 triumphe
 .
+
 Viderat
 vlxdum
 catus
 hostis
 arma
 ,
+
 Terga
 mox
 vertit
@@ -12166,71 +14094,87 @@ fugiens
 per
 agros
 ,
+
 Et
 suos
 intra
 latuit
 penates
+
 :
 2
+
 Io
 triumphe
 .
+
 Arma
 festino
 tulimus
 labore
 ,
+
 Victus
 obiectis
 iacuit
 sub
 armis
 ,
+
 Porrigens
 herbam
 spolij
 sque
 cedens
+
 Io
 triumphe
 .
+
 Ergo
 iam
 victor
 Placidus
 triumphet
 ,
+
 Hostium
 fulmen
 domitorque
 magnus
 ,
+
 Roma
 victrices
 age
 necte
 lauros
+
 Io
 triumphe
 .
+
 Buccinae
 clangant
 resonae
 triumphum
 ,
+
 Laetus
 applaudat
 populus
 triumpho
 ;
+
 Milites
 cantent
 hedera
 reuincti
+
 Io
 triumphe
 .
+
 AG
 .
 Theophiste
@@ -12240,6 +14184,7 @@ semper
 in
 vultum
 ten
+
 Amore
 rapior
 ,
@@ -12247,6 +14192,7 @@ rapior
 mihi
 fidus
 comes
+
 Semper
 fuisti
 ,
@@ -12254,6 +14200,7 @@ nunquid
 hanc
 mecum
 cupis
+
 Celebrare
 lucem
 ?
@@ -12264,6 +14211,7 @@ optas
 ,
 hoc
 velt
+
 Volunt
 amici
 semper
@@ -12271,6 +14219,7 @@ semper
 faciunt
 idem
 .
+
 Quid
 habes
 ?
@@ -12283,17 +14232,24 @@ Dux
 victor
 
 
+
 facit
+
 -
+
 -
 -
 2
 3
+
 Prandebe
+
 Digitized
 by
 Google
+
 BVSTACHIVS
+
 Prandebo
 tecum
 .
@@ -12301,6 +14257,7 @@ TH
 Festus
 inuitat
 dies
+
 Victoriae
 .
 AG
@@ -12310,11 +14267,13 @@ hoc
 verax
 tibi
 ,
+
 Sperasse
 nunquam
 gloriam
 tantam
 mihi
+
 Licuit
 .
 TH
@@ -12327,6 +14286,7 @@ spes
 alit
 viros
 .
+
 AG
 .
 Sperémne
@@ -12336,6 +14296,7 @@ gloriam
 qui
 vix
 eram
+
 Paruis
 in
 agris
@@ -12348,18 +14309,21 @@ sors
 mea
 est
 ,
+
 Inter
 colonos
 hactenus
 vixi
 puer
 :
+
 Fatcor
 tamen
 ,
 generosus
 ardebat
 mihi
+
 Intus
 animus
 non
@@ -12367,6 +14331,7 @@ degener
 magni
 patris
 .
+
 A
 .
 Mihi
@@ -12376,6 +14341,7 @@ magna
 promittens
 fuit
 ,
+
 Opinor
 etiam
 addebat
@@ -12383,12 +14349,14 @@ hunc
 magnus
 pater
 ,
+
 Ignotus
 ille
 nunc
 mihi
 quanquam
 pater
+
 Bene
 notus
 olim
@@ -12401,6 +14369,7 @@ ergo
 parens
 tuus
 ?
+
 Ignotus
 est
 quoque
@@ -12409,6 +14378,7 @@ mihi
 parens
 meus
 .
+
 AG
 .
 Princeps
@@ -12419,12 +14389,14 @@ magnus
 fortis
 fuit
 ,
+
 Qui
 dum
 relinquit
 patriam
 factus
 nouas
+
 Exul
 per
 oras
@@ -12433,7 +14405,9 @@ coniugem
 matrem
 meam
 ,
+
 4
+
 Rapiente
 Nauta
 perdidit
@@ -12443,6 +14417,7 @@ TH
 Sunt
 haec
 mea
+
 Quae
 fata
 narras
@@ -12451,6 +14426,7 @@ coniuoem
 sed
 enim
 pater
+
 Rapiente
 Nauta
 perdidit
@@ -12459,6 +14435,7 @@ AC
 .
 iuncti
 patri
+
 Ibamus
 inde
 ;
@@ -12466,6 +14443,7 @@ flumen
 obstabat
 viae
 ,
+
 Fratrem
 tenellum
 fortis
@@ -12474,12 +14452,14 @@ humeros
 parenAttollit
 
 
+
 ,
 at
 mox
 horridus
 syluis
 leo
+
 Procedit
 altis
 ,
@@ -12487,6 +14467,7 @@ méque
 clamantem
 rapit
 .
+
 Theophiste
 quid
 fles
@@ -12496,6 +14477,7 @@ hac
 praeda
 leo
 ,
+
 Illum
 fugarunt
 rustici
@@ -12507,19 +14489,25 @@ hoc
 tuum
 est
 :
+
 –
 –
 -
 -
+
 Sed
+
 E
 3
+
 Digitized
 by
 Google
+
 70
 NICOLAI
 VERNVLAEI
+
 Sed
 alia
 nunquid
@@ -12527,6 +14515,7 @@ abstulit
 fratrem
 fera
 ?
+
 AG
 .
 Sic
@@ -12539,6 +14528,7 @@ est
 frater
 tibi
 ?
+
 TH
 .
 Tuus
@@ -12549,6 +14539,7 @@ nam
 memini
 probè
 ,
+
 Cum
 matre
 raptâ
@@ -12556,6 +14547,7 @@ flumen
 vltra
 me
 parens
+
 Portasset
 altus
 ,
@@ -12563,6 +14555,7 @@ praeda
 sum
 factus
 lupo
+
 Quem
 mox
 fugarunt
@@ -12574,6 +14567,7 @@ est
 bene
 est
 ,
+
 O
 frater
 !
@@ -12583,6 +14577,7 @@ in
 fratrem
 ruo
 .
+
 THM
 .
 Stupesco
@@ -12593,6 +14588,7 @@ Deus
 ?
 nunquid
 meus
+
 Hos
 cerno
 Natos
@@ -12604,6 +14600,7 @@ ad
 fletum
 redis
 :
+
 Quousque
 flebis
 ?
@@ -12614,12 +14611,14 @@ est
 fletus
 mihi
 ,
+
 Et
 ecce
 voto
 mentis
 ingenti
 meus
+
 Pulsatur
 animus
 ,
@@ -12628,6 +14627,7 @@ in
 votum
 veni
 ,
+
 Nos
 ecce
 sorte
@@ -12635,6 +14635,7 @@ Fata
 seruarunt
 pari
 ,
+
 Videre
 matrem
 nunquid
@@ -12642,6 +14643,7 @@ eadem
 nos
 sinent
 .
+
 Patrémque
 nostrum
 ?
@@ -12650,7 +14652,9 @@ AG
 Nauta
 sed
 forsas
+
 ferox
+
 Matrem
 peremit
 ,
@@ -12658,6 +14662,7 @@ sustulit
 patrem
 dolor
 ,
+
 Tunc
 solus
 illi
@@ -12665,6 +14670,7 @@ namque
 restabat
 dolor
 .
+
 TH
 .
 O
@@ -12674,6 +14680,7 @@ pectus
 inuadit
 meum
 ?
+
 O
 chara
 mater
@@ -12686,6 +14693,7 @@ dolor
 quid
 heu
 dolo
+
 AG
 .
 Iungamus
@@ -12697,6 +14705,7 @@ in
 votum
 pares
 :
+
 Totum
 per
 orbem
@@ -12704,6 +14713,7 @@ quaerere
 inctituam
 patrem
 ,
+
 Matrémque
 nostram
 .
@@ -12713,14 +14723,17 @@ Frate
 rero
 tibi
 &
+
 comes
 ;
+
 Celebrare
 sed
 nunc
 duplici
 titulo
 diem
+
 Pergamus
 ,
 est
@@ -12730,19 +14743,26 @@ victoriae
 fratrum
 dies
 .
+
 –
 4
 —
+
 THN
 .
+
 Digitized
 by
 Google
+
 —
 -
 5
+
 EVSTACHIVS
+
 71
+
 TH
 .
 M
@@ -12756,6 +14776,7 @@ si
 fas
 sit
 sequi
+
 Concedet
 hoc
 Dux
@@ -12765,10 +14786,13 @@ Ducem
 petam
 .
 
+
 —
+
 SCENA
 V
 .
+
 Eustachius
 ,
 Theophistes
@@ -12776,11 +14800,14 @@ Theophistes
 Agapitus
 
 
+
 ,
 Theophistus
 .
+
 EVSTACHIVS
 .
+
 Vo
 mulier
 ?
@@ -12792,10 +14819,12 @@ Hros
 magne
 ,
 per
+
 te
 ,
 per
 tuos
+
 Precor
 labores
 ,
@@ -12804,6 +14833,7 @@ tuae
 dextrae
 decus
 ,
+
 Sit
 fas
 redire
@@ -12811,6 +14841,7 @@ redire
 patrios
 exul
 lares
+
 Quondam
 reliqui
 ,
@@ -12818,6 +14849,7 @@ tot
 coacta
 nunc
 malis
+
 Quae
 sors
 mihi
@@ -12826,6 +14858,7 @@ exteras
 cumulat
 plagas
 ,
+
 Redire
 cogor
 ,
@@ -12833,6 +14866,7 @@ castra
 nunc
 miserae
 sequi
+
 Concede
 Princeps
 .
@@ -12843,6 +14877,7 @@ mulier
 ,
 quo
 tamen
+
 Redire
 gestis
 ?
@@ -12853,6 +14888,7 @@ tuus
 miles
 cupit
 .
+
 Videre
 Romam
 gestio
@@ -12863,6 +14899,7 @@ Sit
 fas
 sequi
 .
+
 Concedo
 mulier
 ,
@@ -12870,6 +14907,7 @@ patriam
 repetes
 tuam
 .
+
 TH
 .
 Quid
@@ -12881,6 +14919,7 @@ moror
 amplius
 ?
 lachrymae
+
 Laxate
 vocem
 .
@@ -12891,6 +14930,7 @@ Coniunx
 tua
 (
 mea
+
 O
 Magne
 Princeps
@@ -12899,6 +14939,7 @@ Nauta
 quam
 rapuit
 tibi
+
 Crudelis
 olim
 :
@@ -12906,12 +14947,14 @@ tu
 Placidus
 ,
 Eustachius
+
 Deinde
 factus
 cum
 tibi
 ceruus
 crucem
+
 Medijs
 reclusit
 cornibus
@@ -12919,25 +14962,32 @@ cornibus
 tu
 qui
 sacrâ
+
 Ablutus
 vnda
 Christianorum
 Fidem
+
 Amplex
+
 E
 4
+
 Digitized
 by
 Google
+
 72
 NICOLAI
 VERNVLAEI
+
 Amplexus
 es
 ,
 patriósque
 liquisti
 lares
+
 Cogante
 peste
 .
@@ -12946,12 +14996,14 @@ nunc
 si
 signa
 te
+
 Princeps
 fatentur
 couiugem
 noscas
 tuam
 ,
+
 Ne
 pauperem
 contemne
@@ -12959,6 +15011,7 @@ Princeps
 :
 sum
 tua
+
 Et
 casta
 Coniunx
@@ -12966,6 +15019,7 @@ Coniunx
 testor
 aeternum
 poli
+
 Terraeque
 Numen
 ,
@@ -12974,12 +15028,14 @@ te
 testor
 Deus
 ,
+
 Castum
 marito
 casta
 seruaui
 thorum
 .
+
 BV
 .
 Mulier
@@ -12989,6 +15045,7 @@ nomen
 est
 tandem
 tibt
+
 TH
 Traiana
 primu
@@ -12997,12 +15054,14 @@ deinde
 Theophistes
 vocer
 ,
+
 Christique
 tecum
 lota
 suscepi
 fidem
 .
+
 EV
 .
 Fidémne
@@ -13014,12 +15073,14 @@ testor
 hanc
 fidem
 tuam
+
 Sopore
 pressam
 monuit
 aeternus
 Deus
 .
+
 EV
 .
 Mene
@@ -13032,6 +15093,7 @@ coniugem
 noui
 meum
 ,
+
 Equitum
 magister
 prius
@@ -13039,6 +15101,7 @@ eras
 ,
 &
 nobilis
+
 Natis
 duobus
 ,
@@ -13046,6 +15109,7 @@ sorte
 sed
 tandem
 truci
+
 Exul
 misérque
 factus
@@ -13056,6 +15120,7 @@ O
 coniunx
 mea
 ,
+
 O
 chara
 Coniunx
@@ -13067,6 +15132,7 @@ nil
 nil
 moror
 ,
+
 Assurge
 Coniunx
 ,
@@ -13074,6 +15140,7 @@ surge
 Theophistes
 mea
 .
+
 TH
 .
 Dilect
@@ -13084,6 +15151,7 @@ nunc
 in
 amplexus
 tuor
+
 Inbrachia
 tua
 ;
@@ -13092,6 +15160,7 @@ mihi
 te
 te
 mihi
+
 Marite
 restitu
 ?
@@ -13101,6 +15170,7 @@ O
 Christe
 quantus
 est
+
 Fauor
 tuus
 ?
@@ -13109,6 +15179,7 @@ tolle
 Theophistes
 mea
 ,
+
 Tolle
 lachrymas
 ,
@@ -13118,6 +15189,7 @@ has
 rumpit
 mihi
 .
+
 TH
 .
 Vbi
@@ -13127,6 +15199,7 @@ nostri
 ?
 quid
 nouas
+
 Lachrymas
 requiris
 ?
@@ -13135,6 +15208,7 @@ dolor
 !
 forsan
 mei
+
 Periere
 Nati
 .
@@ -13144,16 +15218,24 @@ Parce
 Theophistes
 mea
 ,
+
 C
+
 14
+
 Fera
+
 –
+
 gitized
 by
 Google
+
 EVSTACHIVS
 .
+
 77
+
 Ferae
 vorarunt
 ,
@@ -13161,6 +15243,7 @@ ipse
 spectator
 fui
 .
+
 TH
 .
 Qui
@@ -13172,12 +15255,14 @@ hos
 Tonans
 potest
 .
+
 Marite
 spera
 ,
 milites
 vidi
 duos
+
 Haec
 inter
 arma
@@ -13187,18 +15272,21 @@ sibi
 ignoti
 prius
 ,
+
 Fratres
 fuere
 cogniti
 ;
 memorant
 suum
+
 Patrem
 fuisse
 nobilem
 ,
 matrem
 suam
+
 Nautis
 relictam
 ,
@@ -13207,6 +15295,7 @@ raptos
 à
 feris
 .
+
 EV
 .
 Vbi
@@ -13219,6 +15308,7 @@ filij
 Miles
 voca
 ,
+
 Vtrumque
 sistas
 .
@@ -13229,6 +15319,7 @@ veniunt
 ,
 iam
 mihi
+
 Sanguis
 mouetur
 .
@@ -13238,6 +15329,7 @@ totus
 immutor
 mihi
 .
+
 Qui
 vos
 &
@@ -13248,6 +15340,7 @@ fuit
 vobis
 parens
 ?
+
 AG
 .
 Romanus
@@ -13256,6 +15349,7 @@ nobilis
 vixit
 parens
 .
+
 EV
 .
 Quae
@@ -13266,7 +15360,9 @@ AG
 .
 Nauta
 matrem
+
 barbarus
+
 Abduxit
 .
 EV
@@ -13276,6 +15372,7 @@ vos
 cur
 reliquistis
 patrem
+
 TH
 .
 F
@@ -13287,6 +15384,7 @@ flumen
 abripuit
 lupus
 .
+
 AG
 .
 Ad
@@ -13298,6 +15396,7 @@ parens
 rapuit
 leo
 .
+
 EV
 .
 Venite
@@ -13308,6 +15407,7 @@ crede
 Coniunx
 hic
 tuos
+
 Meósque
 Natos
 cernis
@@ -13317,6 +15417,7 @@ TH
 O
 Nati
 mei
+
 Dilecta
 proles
 .
@@ -13327,6 +15428,7 @@ Quid
 paterne
 vos
 meos
+
 Amplectr
 &
 vos
@@ -13334,6 +15436,7 @@ osculor
 Natos
 pater
 ?
+
 TH
 .
 M
@@ -13345,6 +15448,7 @@ meos
 ,
 iterum
 meo
+
 Venite
 in
 amplexus
@@ -13352,12 +15456,14 @@ amplexus
 &
 iterum
 stringite
+
 Collum
 lacertis
 ,
 dulce
 gaudium
 meum
+
 Amatre
 currite
 ad
@@ -13367,6 +15473,7 @@ EV
 .
 Nati
 mei
+
 Haurite
 pectus
 hoc
@@ -13374,20 +15481,26 @@ meum
 ,
 liceat
 simul
+
 Suauia
+
 E
 5
+
 Digitized
 by
 Google
+
 HA
 NICOLAI
 VERNVLAER
+
 Suauiare
 ,
 suauiari
 ,
 stringere
+
 Stringique
 rursus
 .
@@ -13397,6 +15510,7 @@ Deus
 potens
 Deus
 ?
+
 Grates
 habemus
 ,
@@ -13404,6 +15518,7 @@ prima
 si
 grauis
 fuit
+
 Fortuna
 ,
 dulcis
@@ -13415,6 +15530,7 @@ TH
 Tu
 Deus
 ,
+
 Deusque
 solus
 ,
@@ -13423,6 +15539,7 @@ semper
 noster
 Deus
 .
+
 EV
 .
 Resume
@@ -13432,6 +15549,7 @@ Coniunx
 ,
 vos
 quoque
+
 Nati
 resumite
 ,
@@ -13440,12 +15558,14 @@ iam
 sors
 fauet
 .
+
 Tu
 Miles
 euge
 rursus
 instaura
 viam
+
 Eit
 Caesar
 ,
@@ -13455,9 +15575,11 @@ Roma
 victores
 vocat
 .
+
 SCENA
 VI
 .
+
 Adrianus
 Caesar
 ,
@@ -13465,17 +15587,21 @@ Iulius
 Seuerus
 
 
+
 ,
 Eustachius
 .
+
 ADRIANVS
 .
+
 Adiate
 Titan
 ,
 purpurati
 lux
 poli
+
 REt
 vita
 mundi
@@ -13484,12 +15610,14 @@ quam
 mihi
 faustum
 deo
+
 Ducis
 screnus
 ?
 ImperI
 vixdum
 manu
+
 Haec
 sceptra
 fraeno
@@ -13498,12 +15626,14 @@ iam
 tamen
 victos
 sciam
+
 Parthos
 rebelles
 .
 Nunquid
 Eois
 adest
+
 Nuncius
 ab
 oris
@@ -13515,6 +15645,7 @@ Amplius
 Caesar
 ,
 vigil
+
 Muris
 ab
 altis
@@ -13522,6 +15653,7 @@ nunciat
 ,
 nostros
 procul
+
 Intrare
 campos
 signa
@@ -13532,6 +15664,7 @@ Sic
 Caelum
 fauct
 ,
+
 Nec
 tarda
 nostros
@@ -13539,6 +15672,7 @@ gaudia
 accumulant
 dies
 .
+
 IV
 .
 En
@@ -13553,14 +15687,20 @@ Cerno
 ,
 &
 occuri
+
 simul
 .
+
 E1
+
 Digitized
 by
 Google
+
 EVSTACHIVS
+
 5
+
 RBV
 .
 Inuicte
@@ -13570,6 +15710,7 @@ Caesar
 hoc
 sceptrum
 tuum
+
 Fortunet
 Aether
 qui
@@ -13577,6 +15718,7 @@ tuis
 coeptis
 fauct
 .
+
 AD
 .
 Sic
@@ -13590,6 +15732,7 @@ hostis
 an
 iacet
 ?
+
 EV
 .
 Ceßit
@@ -13601,12 +15744,14 @@ ceßit
 hostis
 ?
 OTonans
+
 Quousque
 Romanis
 faues
 ?
 Quaenam
 fuit
+
 Sed
 pugna
 ?
@@ -13619,6 +15764,7 @@ hostis
 ,
 &
 suis
+
 Huc
 nunc
 &
@@ -13627,6 +15773,7 @@ vallibus
 texit
 fugam
 :
+
 Sed
 nos
 secuti
@@ -13635,6 +15782,7 @@ ruimus
 &
 paßim
 solo
+
 Exhausta
 dedimus
 corpora
@@ -13643,6 +15791,7 @@ armáque
 &
 viros
 .
+
 Qua
 regna
 Parthus
@@ -13651,6 +15800,7 @@ tenet
 Hydaspes
 qua
 suis
+
 Vagatur
 vndis
 ,
@@ -13659,6 +15809,7 @@ hostis
 ,
 &
 tuas
+
 Leges
 adorat
 .
@@ -13667,6 +15818,7 @@ AD
 Quanta
 pertentant
 meum
+
 Hinc
 inde
 gaudia
@@ -13676,12 +15828,14 @@ O
 Diuum
 parens
 !
+
 Percussus
 ergo
 Parthus
 accepit
 iugum
 ?
+
 Sic
 nos
 in
@@ -13690,6 +15844,7 @@ semper
 obstrictos
 tenes
 .
+
 Nunc
 parta
 laurus
@@ -13700,6 +15855,7 @@ partum
 est
 decus
 .
+
 Intrabis
 Vrbem
 sed
@@ -13707,6 +15863,7 @@ triumphans
 ,
 &
 tibi
+
 Applaudet
 Vrbis
 populus
@@ -13714,6 +15871,7 @@ populus
 Ast
 quaenam
 tibi
+
 Matrona
 iuncta
 est
@@ -13728,6 +15886,7 @@ AD
 Et
 hi
 tui
+
 Forsanne
 Nati
 ?
@@ -13739,6 +15898,7 @@ AD
 .
 Viuas
 tuâ
+
 Sic
 sorte
 felix
@@ -13747,12 +15907,14 @@ gratulor
 sorti
 tuae
 ,
+
 Cumulata
 Coelum
 gaudia
 indulget
 tibi
 ,
+
 Et
 mihi
 :
@@ -13762,6 +15924,7 @@ cum
 Natis
 parens
 ,
+
 Ornetque
 laurus
 terna
@@ -13769,6 +15932,7 @@ cum
 Natis
 patrem
 .
+
 Sit
 festa
 lux
@@ -13777,22 +15941,28 @@ triumphus
 incedat
 nouus
 .
+
 CHODigitized
+
 
 
 by
 Google
+
 56
 NICOLAI
 VERNVLAEI
+
 CHORVS
 MILITVM
 .
+
 Oma
 iam
 laetum
 generosa
 vultum
+
 RTalle
 ,
 net
@@ -13800,45 +15970,53 @@ mesti
 crucient
 timores
 :
+
 Roma
 iam
 septem
 quatien
 superbo
+
 Impetu
 colles
 ,
 Tiberisque
 fluctus
 ,
+
 Inuide
 coelis
 ,
 tibi
 solus
 Aether
+
 Gloriam
 fatis
 paribus
 laborat
 .
+
 Victus
 est
 Mundus
 ,
 Dominamque
 Tellus
+
 Suspicit
 Romam
 ,
 renouatus
 vndis
 ,
+
 Qua
 diem
 promit
 facibus
 propinquis
+
 Phoebus
 ,
 &
@@ -13847,20 +16025,24 @@ Nox
 tenebras
 laborat
 ;
+
 Quaque
 flagrantes
 timet
 Orbis
 horas
+
 Quaque
 constringit
 glaciale
 campos
+
 Frigus
 horrentes
 Scythicumque
 Pontum
 .
+
 Sub
 iuga
 iam
@@ -13870,6 +16052,7 @@ iam
 tardis
 iuit
 Hydasses
+
 Fluctibus
 ,
 &
@@ -13878,6 +16061,7 @@ gens
 nascentem
 conscia
 Phebum
+
 Aspicit
 ,
 Ausonium
@@ -13886,12 +16070,14 @@ iam
 conscia
 nomen
 ,
+
 Romanásque
 aquilas
 ;
 Placidi
 victoria
 Parthum
+
 Reddidit
 ,
 &
@@ -13900,48 +16086,59 @@ submisit
 legibus
 Orbem
 .
+
 Orbem
 Placidus
 reddidit
 Vrbi
 ,
+
 Pacem
 Placidus
 reddidit
 Orbi
 .
+
 Miles
 lituis
 Io
 triumphe
 ,
+
 Io
 Placidum
 concine
 Miles
+
 Illum
 Fama
 nouis
 prosp
 ra
 saeculis
+
 Addet
 non
 dubijs
 laudibus
 inclytum
 .
+
 Venturis
+
 Digitized
 by
 Google
+
 EVSTACHIVS
 .
+
 Venturis
 Placidum
 fama
 nepotibus
 ,
+
 Et
 lauros
 patrijs
@@ -13949,6 +16146,7 @@ dicet
 in
 omnibus
 .
+
 Nescit
 fama
 mori
@@ -13956,11 +16154,13 @@ mori
 bustáque
 post
 necem
+
 Virtus
 exsuperat
 nescia
 funeris
 .
+
 Vt
 nescit
 cineres
@@ -13969,6 +16169,7 @@ sic
 tenebras
 nequit
 .
+
 Virtus
 magna
 pati
@@ -13977,37 +16178,45 @@ tollitur
 ,
 &
 poli
+
 Tentat
 difficiles
 ardua
 tramites
 .
+
 Virtus
 Placidi
 tecta
 latebat
+
 Aegyptus
 quâ
 Nilum
 potat
 ;
+
 Fugit
 latebras
 cognita
 tandem
+
 Seseque
 librans
 per
 nouos
+
 Belli
 labores
 ,
 hanc
 tulit
+
 Partam
 labore
 gloriam
 .
+
 Applaude
 Roma
 tibi
@@ -14015,6 +16224,7 @@ tibi
 &
 Duci
 .
+
 Tibi
 fructus
 ,
@@ -14022,46 +16232,59 @@ illi
 gloria
 est
 .
+
 Miles
 lituis
 Io
 triumphe
 ,
+
 Io
 Placidum
 concine
 miles
 .
+
 ACTVS
+
 Digitized
 by
 Googl
+
 HE
 NICOLAI
 VERNVLAEI
+
 E
+
 ACTVS
 QVINTVS
 .
+
 SCENA
 PRIMA
 .
+
 Adrianus
 ,
 Eustachius
 ,
 Iulius
+
 Seuerus
 ,
 Pontifex
 .
+
 ADRIANVS
 .
+
 Rbem
 Monarchae
 Caesares
 totum
 regunt
+
 Dextraque
 fraenant
 ,
@@ -14069,6 +16292,7 @@ maximi
 sed
 sunt
 Iouu
+
 Simul
 clientes
 ;
@@ -14076,18 +16300,21 @@ Caesarum
 sed
 enim
 Tonans
+
 Moderatur
 aequâ
 sceptra
 dispensans
 manu
 .
+
 Frustra
 labores
 Martis
 &
 campi
 graues
+
 Bello
 mouebis
 ,
@@ -14095,23 +16322,27 @@ nisi
 tuis
 superum
 Pater
+
 Aspiret
 ausis
 .
 Ille
 prosternit
 solo
+
 Hostes
 rebelles
 quando
 lethifero
 manus
+
 Armata
 ferro
 puluerem
 campi
 mouet
 .
+
 Nunc
 ergo
 quandoquidem
@@ -14120,11 +16351,13 @@ Placide
 ,
 virtus
 tui
+
 Parthos
 rebelles
 rursus
 imperio
 dedit
+
 Subesse
 nostro
 ,
@@ -14133,6 +16366,7 @@ sine
 Ioue
 partus
 est
+
 Romae
 triumphus
 ,
@@ -14140,12 +16374,14 @@ danda
 merces
 est
 Deo
+
 Merces
 sauoris
 :
 ipse
 triumphator
 sacrum
+
 Ioui
 rependes
 .
@@ -14156,6 +16392,7 @@ est
 in
 me
 Iouis
+
 Fauor
 ?
 AD
@@ -14166,15 +16403,21 @@ ille
 nunquid
 hunc
 tantum
+
 tibi
+
 Dedit
+
 Digitized
 by
 Google
 
+
 EVSTACHIVS
 .
+
 15
+
 Dedit
 triumphum
 ?
@@ -14183,6 +16426,7 @@ IVL
 Nunquid
 illius
 fauor
+
 Tibi
 marito
 coniugem
@@ -14190,6 +16434,7 @@ coniugem
 Natos
 dedit
 ?
+
 EV
 .
 Fauor
@@ -14201,6 +16446,7 @@ nullus
 est
 Iouis
 fauor
+
 Parthósque
 per
 me
@@ -14209,6 +16455,7 @@ in
 fugam
 dedit
 .
+
 Sic
 crede
 Caesar
@@ -14223,12 +16470,14 @@ prò
 pro
 pudor
 ?
+
 Certam
 Tonantis
 vim
 negabis
 ?
 OTonans
+
 Audis
 ,
 &
@@ -14236,6 +16485,7 @@ arctas
 nube
 compressa
 manus
+
 Tenes
 benignus
 ?
@@ -14243,6 +16493,7 @@ PON
 .
 Christianorum
 Deum
+
 Fateris
 ergo
 ?
@@ -14256,6 +16507,7 @@ Et
 sequeris
 fidem
 ?
+
 EV
 .
 sequor
@@ -14269,6 +16521,7 @@ Solus
 an
 Coniunx
 simul
+
 Tuique
 Nati
 ?
@@ -14277,6 +16530,7 @@ EV
 Coniugem
 Coniunx
 suum
+
 Sequitur
 ,
 parentes
@@ -14289,6 +16543,7 @@ nunc
 ?
 quid
 è
+
 Dicam
 ?
 Tonantem
@@ -14297,6 +16552,7 @@ hic
 nouum
 sibi
 .
+
 Patieris
 ô
 Diuum
@@ -14304,12 +16560,14 @@ Parens
 ,
 &
 dexterâ
+
 Quaties
 coruscos
 fulminis
 rapidi
 globos
 ?
+
 Iupiter
 ,
 ô
@@ -14321,6 +16579,7 @@ tona
 ,
 tona
 .
+
 PON
 .
 Iouim
@@ -14330,6 +16589,7 @@ tibi
 tandem
 furor
 ?
+
 EV
 .
 Iouem
@@ -14339,6 +16599,7 @@ mihi
 semper
 fides
 ,
+
 Non
 mentis
 error
@@ -14349,6 +16610,7 @@ PO
 .
 Quem
 Caesares
+
 Quem
 Roma
 coluit
@@ -14359,6 +16621,7 @@ EV
 coluit
 malè
 .
+
 PO
 .
 Errare
@@ -14368,6 +16631,7 @@ vel
 Caesar
 potest
 ?
+
 EV
 .
 Errare
@@ -14381,6 +16645,7 @@ credis
 patiens
 furor
 !
+
 Sic
 Numen
 aeternum
@@ -14389,6 +16654,7 @@ Iouis
 su
 hoc
 meum
+
 Numen
 negabis
 ?
@@ -14398,6 +16664,7 @@ Caesarem
 agnosco
 meum
 ,
+
 Nego
 Tonantem
 ,
@@ -14406,6 +16673,7 @@ mihi
 Iouem
 canis
 .
+
 Coleremne
 quem
 manus
@@ -14413,19 +16681,24 @@ artifex
 format
 prius
 ,
+
 Error
+
 Digitized
 by
 Google
+
 8A
 NICOLAI
 VERNVLAEI
+
 Error
 deinde
 credit
 humanus
 Deum
 ?
+
 Si
 viuat
 ille
@@ -14433,6 +16706,7 @@ ille
 flammeos
 rutilo
 petat
+
 Ab
 axe
 currus
@@ -14441,6 +16715,7 @@ inque
 verticem
 hunc
 meum
+
 Iaculetur
 ignes
 ;
@@ -14449,6 +16724,7 @@ est
 solus
 Deus
 ?
+
 AD
 .
 Ah
@@ -14459,18 +16735,21 @@ Iupiter
 torque
 faces
 ,
+
 Totamque
 stringens
 dexteram
 ad
 stygias
 domei
+
 Effulmina
 sontis
 caput
 .
 Perit
 mihi
+
 Furor
 animi
 dum
@@ -14478,12 +16757,14 @@ quaero
 languentes
 moras
 .
+
 O
 ira
 deses
 Christianus
 hic
 sacra
+
 Romana
 tollet
 ,
@@ -14491,6 +16772,7 @@ tollet
 Aeternum
 Iouem
 ?
+
 Huc
 liberos
 ,
@@ -14501,12 +16783,14 @@ Miles
 ,
 trahe
 .
+
 Magni
 supremum
 Numen
 agnoscant
 Iouis
 ,
+
 Aut
 morte
 tetras
@@ -14514,6 +16798,7 @@ expuant
 animas
 truci
 .
+
 IV
 .
 Sollicita
@@ -14522,6 +16807,7 @@ anxium
 pro
 te
 mihi
+
 Iam
 cura
 torquet
@@ -14531,11 +16817,13 @@ quid
 tuae
 gentis
 Deos
+
 Spernes
 &
 errans
 Christianorum
 coles
+
 Numen
 nouatum
 ?
@@ -14545,6 +16833,7 @@ Numen
 ,
 aeternum
 colo
+
 Deúmque
 mundi
 ,
@@ -14552,6 +16841,7 @@ folus
 aethrae
 qui
 globos
+
 Formauit
 Omnipotens
 ,
@@ -14559,6 +16849,7 @@ Omnipotens
 Omnipotens
 agit
 .
+
 IV
 .
 Sed
@@ -14572,6 +16863,7 @@ Non
 est
 Deus
 .
+
 IV
 .
 Non
@@ -14583,6 +16875,7 @@ sed
 coluit
 Iouem
 .
+
 EV
 .
 Gens
@@ -14593,6 +16886,7 @@ coeca
 neglexit
 Deum
 .
+
 IV
 .
 Solüsne
@@ -14606,6 +16900,7 @@ licet
 sapio
 tamen
 ,
+
 IV
 .
 Nocebit
@@ -14616,11 +16911,13 @@ colis
 vanus
 Deum
 ;
+
 Tibi
 concitabit
 fulmen
 horrendum
 Iouis
+
 Irasque
 magni
 Caesaris
@@ -14630,14 +16927,20 @@ EV
 timeo
 nihil
 .
+
 IVL
 .
+
 Digitized
 by
 Google
+
 2
+
 EVSTACHIVS
+
 81
+
 YV
 .
 Non
@@ -14646,6 +16949,7 @@ fulmen
 &
 magnum
 Iouemi
+
 EV
 .
 Nunquam
@@ -14658,9 +16962,11 @@ Caesaris
 ?
 EV
 .
+
 nec
 Caesarem
 .
+
 AD
 .
 Audisne
@@ -14671,6 +16977,7 @@ nec
 attamen
 tonas
 ?
+
 Audio
 ,
 nec
@@ -14679,11 +16986,13 @@ sanguini
 immergo
 manus
 ,
+
 Manus
 Tonantem
 vindicabunt
 quae
 Iouem
+
 
 Spretamque
 Romam
@@ -14693,12 +17002,14 @@ nimis
 durans
 tumor
 !
+
 Scelerate
 coelos
 cernis
 &
 coeli
 negas
+
 Rabidus
 Tonantem
 ?
@@ -14707,6 +17018,7 @@ mitis
 nimium
 Tonans
 !
+
 Huc
 ad
 tribunal
@@ -14715,6 +17027,7 @@ certa
 mors
 sontis
 caput
+
 Inuoluat
 ,
 aequus
@@ -14723,10 +17036,13 @@ est
 &
 Iupiter
 .
+
 C
+
 SCENA
 II
 .
+
 Adrian
 .
 Eust
@@ -14738,20 +17054,25 @@ Pontif
 Theo–
 
 
+
+
 phist
 .
 Agap
 .
 Theophist
 .
+
 ADRIANVS
 .
+
 Vnire
 sontes
 ,
 Numinum
 cultus
 sacros
+
 Seruare
 Romae
 Caesari
@@ -14759,6 +17080,7 @@ munus
 datum
 est
 ,
+
 Munusque
 sacrum
 .
@@ -14766,6 +17088,7 @@ Nunc
 Placide
 quoniam
 Iouem
+
 Spernis
 rebellis
 ,
@@ -14773,6 +17096,7 @@ rebellis
 tibi
 fingis
 Deum
+
 Te
 Iupiter
 ,
@@ -14781,6 +17105,7 @@ Caesar
 addicit
 neci
 .
+
 Et
 dignitas
 &
@@ -14788,6 +17113,7 @@ nomen
 aufertur
 tibi
 .
+
 IVL
 .
 Seuerus
@@ -14797,6 +17123,7 @@ haud
 vnquam
 velis
 .
+
 AD
 .
 Patiar
@@ -14806,17 +17133,23 @@ Caesari
 magno
 Ioui
 ?
+
 IVL
 .
+
 —
 —
+
 Digitized
 by
 Google
+
 4
+
 Be
 NICOLAI
 VERNVLAEI
+
 EV
 .
 Huic
@@ -14827,6 +17160,7 @@ debet
 est
 heros
 mam
+
 Potente
 felix
 .
@@ -14838,6 +17172,7 @@ Tonans
 amo
 virum
 .
+
 Sed
 me
 meumque
@@ -14845,12 +17180,14 @@ pertinax
 odit
 Iouem
 .
+
 Pauârne
 Caesar
 ?
 telle
 Iupiter
 caput
+
 Rebelle
 coelo
 .
@@ -14861,6 +17198,7 @@ non
 hoctis
 est
 ,
+
 Ignosce
 Caesar
 .
@@ -14870,6 +17208,7 @@ Caesarem
 agnosco
 meum
 .
+
 AD
 .
 O
@@ -14880,6 +17219,7 @@ pectus
 inclinat
 fauor
 ?
+
 Sed
 rursus
 illud
@@ -14887,12 +17227,14 @@ quantus
 abducit
 rigor
 ;
+
 si
 fateri
 maximum
 velles
 Iouem
 !
+
 IV
 .
 Voletque
@@ -14903,6 +17245,7 @@ EV
 Caesaris
 semper
 mihi
+
 Nomen
 colendum
 ,
@@ -14910,6 +17253,7 @@ Numen
 at
 sequi
 tuum
+
 Vetat
 ille
 verus
@@ -14918,6 +17262,7 @@ polos
 torquet
 Tonans
 .
+
 Agnosco
 Christum
 .
@@ -14928,7 +17273,9 @@ hic
 mortem
 
 
+
 tibi
+
 Pariet
 rebelli
 .
@@ -14940,6 +17287,7 @@ talis
 mihi
 est
 .
+
 PON
 .
 Generis
@@ -14950,6 +17298,7 @@ patriaque
 sis
 memor
 .
+
 EV
 .
 Sic
@@ -14961,7 +17310,9 @@ IVL
 per
 tuam
 dextram
+
 precor
+
 Quem
 Parthus
 horret
@@ -14971,6 +17322,7 @@ tua
 fatum
 demeo
 ,
+
 Concede
 mentem
 Caesari
@@ -14978,6 +17330,7 @@ Caesari
 Casar
 rogat
 ,
+
 Animum
 resume
 prictinum
@@ -14986,6 +17339,7 @@ Roma
 hoc
 rogat
 .
+
 EV
 .
 Quid
@@ -14997,8 +17351,10 @@ queo
 ,
 Caeser
 ,
+
 roget
 :
+
 Vitam
 sacraho
 Caesari
@@ -15006,6 +17362,7 @@ Caesari
 vitam
 petat
 .
+
 Nunquam
 relinquam
 sed
@@ -15014,15 +17371,20 @@ Deum
 ADR
 .
 nun
+
 quam
 ?
 tamen
 .
+
 Tamen
+
 Digitized
 by
 Google
+
 EVSTACHIVS
+
 Tamen
 atra
 iuro
@@ -15030,6 +17392,7 @@ Noctis
 infernae
 loca
 ,
+
 Vel
 hunc
 ,
@@ -15042,6 +17405,7 @@ trahis
 linques
 diem
 ,
+
 PON
 .
 Natos
@@ -15050,6 +17414,7 @@ relinques
 Coniugem
 linques
 tuant
+
 Mens
 obctinata
 perdet
@@ -15057,6 +17422,7 @@ hos
 omnes
 simul
 .
+
 TH
 .
 Coniunx
@@ -15065,6 +17431,7 @@ coniugem
 fidum
 sequar
 ;
+
 Non
 ille
 perdet
@@ -15075,6 +17442,7 @@ AG
 Patrem
 sequi
 ,
+
 Sequique
 matrem
 certus
@@ -15082,6 +17450,7 @@ est
 animus
 mihi
 .
+
 TH
 .
 Nec
@@ -15090,6 +17459,7 @@ patrem
 superstes
 deseram
 .
+
 AD
 .
 O
@@ -15101,6 +17471,7 @@ nigri
 Barathri
 scelus
 !
+
 O
 improbum
 mundi
@@ -15108,6 +17479,7 @@ caput
 !
 Natos
 tuos
+
 Tuamque
 perdes
 Coniugem
@@ -15117,6 +17489,7 @@ furor
 ò
 furor
 !
+
 EV
 .
 Hos
@@ -15126,6 +17499,7 @@ desuper
 coelo
 trahit
 
+
 Qui
 sceptra
 mitis
@@ -15133,6 +17507,7 @@ Caesar
 indulget
 tibi
 .
+
 AD
 .
 Mihi
@@ -15145,6 +17520,7 @@ caput
 dirum
 caput
 !
+
 Mihi
 sceptra
 ?
@@ -15155,6 +17531,7 @@ dolor
 victum
 rapis
 !
+
 De
 hisce
 Terra
@@ -15163,7 +17540,9 @@ pande
 Tartareas
 domos
 ,
+
 4
+
 Vi
 hoc
 scelestum
@@ -15171,6 +17550,7 @@ flamma
 corripiat
 caput
 .
+
 Vincor
 furore
 :
@@ -15180,6 +17560,7 @@ moras
 traho
 moras
 ?
+
 Cito
 redde
 honores
@@ -15191,6 +17572,7 @@ nec
 est
 satis
 .
+
 EV
 .
 Age
@@ -15201,6 +17583,7 @@ dedisti
 :
 sed
 tamen
+
 Te
 Roma
 testor
@@ -15208,6 +17591,7 @@ testor
 Caesaris
 testor
 fidem
+
 Semper
 fidelis
 Caesari
@@ -15215,6 +17599,7 @@ Caesari
 patriae
 fui
 .
+
 Tot
 bella
 geßi
@@ -15223,6 +17608,7 @@ vulneribus
 hoc
 tot
 meum
+
 Corpus
 patuit
 ,
@@ -15230,6 +17616,7 @@ patuit
 morte
 venales
 tuli
+
 Tot
 iam
 triumphos
@@ -15240,6 +17627,7 @@ mori
 cogor
 mon
 .
+
 P
 .
 Agnosce
@@ -15252,18 +17640,26 @@ est
 solus
 Deus
 ;
+
 15
+
 ia
+
 F
 2
+
 Digitized
 by
 Google
+
 O
+
 C
+
 24
 NICOLAI
 VERNVLAEI
+
 Quid
 saxa
 mihi
@@ -15273,6 +17669,7 @@ fictiles
 narras
 Deos
 ?
+
 AD
 .
 Iterumne
@@ -15281,12 +17678,14 @@ promit
 insanus
 suam
 ?
+
 Aras
 adorent
 ,
 thura
 succendant
 Ioui
+
 Aut
 morte
 dura
@@ -15294,6 +17693,7 @@ sanguinem
 fundem
 suum
 .
+
 IV
 .
 Placide
@@ -15303,6 +17703,7 @@ pristinam
 inentem
 tuam
 .
+
 EV
 .
 Nunquam
@@ -15314,6 +17715,7 @@ Caesari
 credas
 tuo
 .
+
 EV
 .
 Potius
@@ -15327,6 +17729,7 @@ voles
 Caesar
 dabit
 .
+
 EV
 .
 Dabit
@@ -15340,11 +17743,15 @@ Huc
 lonem
 
 
+
 cole
 ,
+
 2
 -
+
 2
+
 Da
 thura
 flammis
@@ -15356,6 +17763,7 @@ colo
 Iouem
 tuum
 .
+
 AD
 .
 Huc
@@ -15367,6 +17775,7 @@ me
 vanus
 infestat
 labor
+
 A
 .
 Huc
@@ -15380,6 +17789,7 @@ tamen
 Casar
 facis
 .
+
 TH
 .
 Vrge
@@ -15389,6 +17799,7 @@ Caesar
 ,
 euincit
 suo
+
 Amore
 Christus
 .
@@ -15398,6 +17809,7 @@ Fictiles
 colerem
 Deos
 ,
+
 Ictudque
 Numen
 ?
@@ -15406,6 +17818,7 @@ quem
 colis
 Iouem
 ?
+
 AD
 .
 Quid
@@ -15418,6 +17831,7 @@ at
 laguet
 furor
 .
+
 Vbi
 fulmen
 haerct
@@ -15426,6 +17840,7 @@ Iupiter
 ,
 nunquid
 manus
+
 Coercet
 ignes
 ,
@@ -15433,6 +17848,7 @@ ignes
 tamen
 Numen
 tuum
+
 Rident
 scelest
 ?
@@ -15442,6 +17858,7 @@ potes
 tandem
 tona
 ,
+
 Impelle
 fulmen
 ,
@@ -15450,6 +17867,7 @@ languet
 cessat
 polus
 .
+
 Vlciscar
 ergo
 te
@@ -15458,6 +17876,7 @@ Iupiter
 Furiae
 quid
 heu
+
 Furiae
 ?
 sed
@@ -15465,6 +17884,7 @@ inueni
 modum
 Satellites
 ,
+
 Huc
 huc
 leonem
@@ -15472,6 +17892,7 @@ longa
 quem
 perimat
 fames
+
 Adducite
 ,
 morsu
@@ -15479,6 +17900,7 @@ perfidos
 artus
 voret
 ;
+
 Sic
 Iupiter
 te
@@ -15487,6 +17909,7 @@ vindicabo
 me
 quoque
 .
+
 EV
 .
 Resume
@@ -15495,21 +17918,30 @@ pectus
 &
 robur
 tuum
+
 o4
+
+
 
 
 –
 –
 -
+
 Digitized
 by
 Google
+
 5
 .
 5
+
 58
+
 EVSTACHIVS
+
 5
+
 Quod
 longa
 non
@@ -15517,7 +17949,9 @@ aduersitas
 fregit
 malis
 .
+
 6
+
 
 Audete
 fortes
@@ -15525,6 +17959,7 @@ Filij
 ,
 vobis
 ferae
+
 
 Olim
 pepercerunt
@@ -15534,6 +17969,7 @@ huc
 mundi
 Deus
 
+
 Hominum
 Redemptor
 cerne
@@ -15541,6 +17977,7 @@ cerne
 moriemur
 tibi
 .
+
 AD
 .
 Quid
@@ -15554,6 +17991,7 @@ fremat
 ,
 voret
 ,
+
 Impelle
 rursum
 :
@@ -15562,6 +18000,7 @@ hic
 tropidat
 Leo
 ?
+
 Impelle
 rursum
 ;
@@ -15570,6 +18009,7 @@ cessat
 agnescit
 viros
 .
+
 EV
 .
 Ergo
@@ -15577,6 +18017,7 @@ Redemptor
 Numen
 agnoscunt
 fera
+
 Humilésque
 adorant
 ?
@@ -15585,6 +18026,7 @@ parcis
 &
 tamen
 mori
+
 Pro
 te
 suaue
@@ -15597,6 +18039,7 @@ Mitis
 nimium
 Deus
 ?
+
 O
 quantus
 in
@@ -15606,6 +18049,7 @@ gratus
 est
 fauor
 !
+
 AG
 .
 Vt
@@ -15615,6 +18059,7 @@ dente
 concluso
 pedes
 ?
+
 Sabmittit
 vt
 se
@@ -15623,6 +18068,7 @@ totus
 &
 caudâ
 nouum
+
 Notat
 fauorem
 ?
@@ -15633,6 +18079,7 @@ potens
 &
 mitis
 est
+
 Creator
 Orbis
 ,
@@ -15641,6 +18088,7 @@ est
 clemens
 Deus
 ;
+
 Vt
 rursus
 ecce
@@ -15650,7 +18098,9 @@ lambit
 pronùs
 iacet
 ?
+
 7
+
 AD
 .
 Reduc
@@ -15663,6 +18113,7 @@ furor
 furor
 !
 
+
 Illusus
 ergo
 Caesar
@@ -15670,6 +18121,7 @@ Caesar
 &
 victus
 tibi
+
 Sceleste
 cedam
 ?
@@ -15678,6 +18130,7 @@ hoc
 nunquam
 potest
 .
+
 Dolus
 leonem
 vicerit
@@ -15685,6 +18138,7 @@ vicerit
 vincam
 dolum
 .
+
 Et
 adhuc
 quieto
@@ -15692,6 +18146,7 @@ Iupiter
 cessas
 polo
 ?
+
 Orcumne
 Pluto
 claudis
@@ -15700,6 +18155,7 @@ claudis
 Furias
 tuas
 ?
+
 Furiae
 ,
 quid
@@ -15711,6 +18167,7 @@ agitis
 ?
 quo
 stygis
+
 Crudelis
 ardor
 perijt
@@ -15718,6 +18175,7 @@ perijt
 hic
 vires
 date
+
 Vlciscar
 astra
 Caesar
@@ -15726,6 +18184,7 @@ Caesar
 Caesar
 stygem
 .
+
 Assume
 flammas
 ò
@@ -15733,15 +18192,20 @@ furor
 .
 temet
 dolor
+
 Vlcisco
+
 F
+
 Digitized
 by
 Googl
+
 86
 .
 NICOLAI
 VERNVLAEI
+
 Vlciscere
 ,
 nec
@@ -15750,6 +18214,7 @@ remitte
 dum
 cales
 ,
+
 Tu
 Iupiter
 ,
@@ -15757,18 +18222,21 @@ ves
 cuncta
 Coeli
 Numina
+
 Audite
 ,
 vobis
 vltor
 hodie
 Rexero
+
 Nuncergo
 Miles
 aeneum
 porta
 houem
 ;
+
 In
 hoc
 crementur
@@ -15776,6 +18244,7 @@ ignibus
 cuncti
 nouis
 .
+
 Sic
 euemant
 animas
@@ -15783,12 +18252,14 @@ animas
 cruorem
 sic
 hibant
+
 Flamma
 rebelles
 ;
 fraudibus
 nunquam
 suis
+
 Flammas
 domabunt
 .
@@ -15796,6 +18267,7 @@ Hoc
 merentur
 qui
 Ionem
+
 Temnunt
 rebelles
 .
@@ -15804,24 +18276,30 @@ mihi
 pereat
 dolor
 .
+
 -
 3
+
 
 SCENA
 III
 .
+
 Eustachius
 ,
 Theophistes
 ,
 Filij
 ,
+
 Patientia
 ,
 Constantia
 .
+
 EVSTACHIVS
 .
+
 Rgo
 per
 ignes
@@ -15829,6 +18307,7 @@ quaeret
 in
 Coelos
 viam
+
 CVirtus
 ,
 probata
@@ -15837,6 +18316,7 @@ rapit
 laurum
 fides
 .
+
 Nunc
 pande
 coelos
@@ -15845,6 +18325,7 @@ Christe
 iam
 vixi
 satu
+
 Si
 sat
 probacti
@@ -15852,6 +18333,7 @@ probacti
 nescit
 vlterius
 moras
+
 Generosus
 ardor
 ,
@@ -15859,6 +18341,7 @@ perque
 flammas
 in
 tuum
+
 Assurgit
 auum
 .
@@ -15866,12 +18349,14 @@ Iam
 mihi
 pectus
 tuo
+
 Liquescit
 igne
 ,
 mensque
 despiciens
 solum
+
 Elata
 coelos
 intrat
@@ -15879,6 +18364,7 @@ intrat
 quaerit
 Deum
 .
+
 Superba
 Roma
 surge
@@ -15886,6 +18372,7 @@ per
 colles
 tuos
 ,
+
 Caputque
 tolle
 ,
@@ -15894,12 +18381,17 @@ quoque
 ò
 Caesar
 tuâ
+
 Sublimis
+
 Digitized
 by
 Google
+
 17
+
 BVSTACHIVS
+
 Sublimis
 arce
 cerne
@@ -15907,6 +18399,7 @@ cerne
 qua
 monem
 farer
+
 Hac
 astra
 scandam
@@ -15916,6 +18409,7 @@ Romana
 est
 paut
 ,
+
 Superare
 mortem
 Christianum
@@ -15923,6 +18417,7 @@ est
 .
 Nunc
 vale
+
 Superba
 Roma
 ,
@@ -15930,6 +18425,7 @@ iam
 tuus
 scandam
 poli
+
 Alumnus
 astra
 .
@@ -15937,6 +18433,7 @@ Chara
 Coniunx
 nuns
 tuumo
+
 Sequere
 maritum
 ,
@@ -15946,11 +18443,13 @@ flamma
 doloAmorvbi
 
 
+
 Christi
 pectus
 inflammat
 .
 Mei
+
 O
 Filijmei
 ,
@@ -15958,6 +18457,7 @@ parentis
 si
 quis
 est
+
 In
 amore
 vestro
@@ -15966,6 +18466,7 @@ amor
 parentem
 iam
 sequi
+
 Audete
 .
 TR
@@ -15978,7 +18479,9 @@ AG
 .
 Et
 nos
+
 patrem
+
 Nati
 sequemur
 .
@@ -15987,12 +18490,14 @@ Christus
 &
 Parensvotant
 ,
+
 Amere
 Ghristus
 cogit
 ,
 exemploparens
 .
+
 PA
 .
 Gaudete
@@ -16001,6 +18506,7 @@ milites
 ,
 quanquam
 furor
+
 Acerbet
 iras
 ,
@@ -16009,6 +18515,7 @@ tamen
 vincet
 furor
 .
+
 EV
 .
 Frende
@@ -16020,6 +18527,7 @@ in
 mortem
 furor
 ,
+
 Obrue
 ,
 fatiga
@@ -16028,6 +18536,7 @@ destrai
 virtus
 nequit
 .
+
 CON
 .
 Tormenta
@@ -16037,7 +18546,9 @@ virtutem
 premunt
 
 
+
 .
+
 EV
 .
 Oò
@@ -16052,6 +18563,7 @@ Christo
 est
 mori
 .
+
 EV
 .
 Maritus
@@ -16063,6 +18575,7 @@ Pater
 pergam
 prior
 ,
+
 Coiunx
 maritum
 sequere
@@ -16071,6 +18584,7 @@ vos
 Nati
 patrem
 .
+
 Agedum
 Satelles
 nil
@@ -16082,11 +18596,13 @@ rumpo
 moraSequar
 
 
+
 maritum
 ,
 tota
 perfundor
 ncuArdore
+
 
 
 coeli
@@ -16098,6 +18614,7 @@ suauis
 mors
 erit
 .
+
 CON
 .
 Sis
@@ -16108,16 +18625,21 @@ robur
 vires
 suis
 .
+
 THF
 
 
+
 5
+
 Digitized
 by
 Google
+
 88
 NICOLAI
 VERNVLAEI
+
 TH
 .
 Praibo
@@ -16127,6 +18649,7 @@ patris
 &
 matris
 viàm
+
 Calcate
 Nati
 .
@@ -16137,6 +18660,7 @@ esse
 iam
 potest
 ,
+
 Dolor
 est
 Tyranni
@@ -16145,6 +18669,7 @@ consciae
 mentis
 dolor
 .
+
 AG
 .
 O
@@ -16155,6 +18680,7 @@ socius
 &
 nunc
 necis
+
 Sed
 pulchrioris
 socius
@@ -16163,6 +18689,7 @@ O
 quam
 nos
 bene
+
 Inuenimus
 ,
 cum
@@ -16170,6 +18697,7 @@ fratris
 in
 fratrem
 suas
+
 Latitia
 lachrymas
 funderet
@@ -16178,6 +18706,7 @@ TH
 .
 Melius
 tamen
+
 Nos
 rursus
 inueniemus
@@ -16185,12 +18714,14 @@ hanc
 cum
 post
 necem
+
 Visemus
 altas
 syderum
 laeti
 plagas
 .
+
 Praeibo
 Frater
 .
@@ -16200,6 +18731,7 @@ me
 decet
 fratrem
 meum
+
 Praeire
 .
 TH
@@ -16209,6 +18741,7 @@ ibimus
 Frater
 simul
 .
+
 AG
 .
 Vt
@@ -16220,6 +18753,7 @@ ne
 cesset
 furor
 .
+
 TH
 .
 Lacera
@@ -16229,24 +18763,30 @@ nullus
 euincet
 dolor
 .
+
 SCENA
 IV
 .
+
 Adrianus
 ,
 Satellites
 ,
 Chorus
+
 Catholicorum
 .
+
 ADRIANVS
 .
+
 Viescet
 ergo
 mentis
 iratae
 furor
 :
+
 Caelos
 &
 Orcum
@@ -16254,6 +18794,7 @@ vindicaui
 ,
 iam
 silem
+
 Flammis
 vorati
 ,
@@ -16261,6 +18802,7 @@ temnere
 ausi
 qui
 Iouem
+
 Nostrumque
 ,
 si
@@ -16271,12 +18813,14 @@ Numen
 O
 sero
 nimis
+
 Sapiunt
 rebelles
 ,
 serius
 discunt
 meas
+
 Irasque
 Coeli
 !
@@ -16285,24 +18829,31 @@ Orbis
 hoc
 tamen
 .
+
 -
 —
 -
 -
 5
+
 2
+
 Ergo
 ,
+
 -
 -
 5
 .
+
 Digitized
 by
 Google
+
 I
 EVSTACHIVS
 .
+
 Ergo
 ,
 Satelles
@@ -16311,6 +18862,7 @@ si
 quid
 exundans
 focus
+
 Adhuc
 reliquit
 extrahe
@@ -16319,6 +18871,7 @@ SAT
 .
 Extincti
 iacent
+
 Sed
 integri
 ;
@@ -16329,6 +18882,7 @@ ignis
 &
 tamen
 ?
+
 Peremit
 omnes
 ,
@@ -16337,6 +18891,7 @@ illos
 ,
 quem
 colunt
+
 Deus
 ille
 Christus
@@ -16350,6 +18905,7 @@ Miles
 ,
 stupor
 ?
+
 Sint
 praeda
 canibus
@@ -16358,6 +18914,7 @@ Quis
 mihi
 rursum
 furori
+
 Nondum
 peregi
 ?
@@ -16366,6 +18923,7 @@ turbor
 immutor
 mihi
 .
+
 Dum
 vindico
 te
@@ -16374,6 +18932,7 @@ Iupiter
 noceo
 mihi
 .
+
 SAT
 .
 Vix
@@ -16386,6 +18945,7 @@ vultu
 est
 color
 .
+
 CHORVS
 .
 Sudare
@@ -16395,8 +18955,10 @@ hic
 debet
 
 
+
 labor
 .
+
 Iacent
 perempti
 ,
@@ -16404,6 +18966,7 @@ sed
 beatos
 iam
 domus
+
 Aeterna
 Diuûm
 claudit
@@ -16412,95 +18975,119 @@ claudit
 Diuos
 facit
 .
+
 O
 vos
 beati
 Märtyres
 ,
+
 Quos
 nec
 furens
 mouit
 leo
+
 Nec
 flamma
 deuicit
 vorans
 .
+
 Generosa
 militum
 cohors
+
 Quos
 nulla
 Regum
 gloria
+
 Meritis
 adaequet
 laudibus
 ,
+
 Quorum
 decus
 crescit
 nece
+
 Quorum
 fides
 auget
 fidem
 ,
+
 Gaudete
 nunc
 ciues
 poli
 ,
+
 Gaudete
 nunc
 Numeu
 Soli
 .
+
 Coniunx
 coniuge
 felix
 ,
+
 Proles
 digna
 parente
 ,
+
 Digni
 laudibus
 omnes
 ,
+
 Nus
+
 F
+
 Digitized
 by
 Google
 
+
 83
+
 S
 NICOLAI
 VERNVLAEI
+
 Nunc
 nunc
 Io
 triumphe
+
 Magni
 dicite
 Coeli
 ,
+
 Nunc
 nunc
 Io
 triumpbe
+
 Tellus
 becine
 Diuis
 .
+
 Sed
 nos
 sepulchro
 sancta
 condamus
 caus
+
 Hec
 membra
 Ciues
@@ -16509,12 +19096,14 @@ forsan
 hoc
 templum
 loco
+
 Fidei
 trophaum
 construemus
 ,
 &
 nonas
+
 Diuis
 per
 aras
@@ -16522,12 +19111,14 @@ thura
 fundemus
 pij
 .
+
 Rotator
 axem
 quamdiu
 Phoebus
 teret
 ,
+
 Et
 brata
 Fontum
@@ -16535,70 +19126,92 @@ quamdiu
 Tellus
 feret
 .
+
 FINIS
 .
+
 
 Digitized
 by
 Google
+
 PRO
 EVSTACHIO
+
 DOMINI
+
 NICOLAI
 VERNVLAEI
+
 PRAECEPTORIS
 SVI
+
 Ad
 Re
 uerendum
 Dominum
 ,
+
 *
+
 D
 .
 NICOLAVM
+
 2
+
 DE
 FANSON
 ,
+
 D
 .
 HVBERTI
 IN
 ARDVENNA
+
 ABRATEM
 ,
+
 5
+
 Cognatum
 suum
+
 IOANNES
 DE
 BEAVRIEV
 .
+
 RGO
 iterum
 pulchris
 inclufit
 crura
+
 E
 cotharnis
+
 Pulpita
 sublimi
 quatiens
 plaudentia
 passu
+
 Aeternae
 virtutis
 Amor
 ,
 laudisque
 secutus
+
 Saecula
 perpetuae
 Vates
 .
 Fortuna
 recludit
+
 Hanc
 scenam
 ,
@@ -16606,13 +19219,16 @@ scenam
 longo
 ducens
 suspiria
+
 luctu
+
 Concutiénsque
 alas
 felices
 exuit
 annos
 ,
+
 Aduersos
 ingressa
 dies
@@ -16621,6 +19237,7 @@ sed
 rursus
 in
 auras
+
 Attollens
 caput
 ,
@@ -16628,12 +19245,14 @@ caput
 superis
 solatia
 coelis
+
 Deducens
 animo
 ,
 felices
 induit
 annos
+
 Moliturque
 viam
 coelis
@@ -16641,6 +19260,7 @@ coelis
 Sic
 scena
 triumphos
+
 Explicat
 alternos
 :
@@ -16648,11 +19268,14 @@ illum
 de
 sanguine
 laurus
+
 HostiDigitized
+
 
 
 by
 Google
+
 Hostili
 rapuit
 ,
@@ -16660,6 +19283,7 @@ proprio
 de
 sanguine
 laurus
+
 Hunc
 dedit
 egregior
@@ -16669,8 +19293,11 @@ succedit
 Olympus
 
 
+
 ,
+
 24
+
 Inque
 nouas
 Diuum
@@ -16678,6 +19305,7 @@ sedes
 à
 Caesare
 surgunt
+
 Victrices
 animę
 ,
@@ -16686,6 +19314,7 @@ optimus
 ,
 optima
 mater
+
 Degeneres
 nunquam
 Nati
@@ -16693,6 +19322,7 @@ Nati
 Date
 saecula
 ventos
+
 Surgenti
 da
 Fama
@@ -16703,6 +19333,7 @@ abit
 euolat
 ,
 intrat
+
 Aethera
 ,
 &
@@ -16710,6 +19341,7 @@ audaci
 cantatos
 tramite
 Diuos
+
 Insequitur
 sua
 signa
@@ -16717,6 +19349,7 @@ mouens
 .
 Proscenia
 Numen
+
 Accipiunt
 ,
 vatemque
@@ -16724,6 +19357,7 @@ colunt
 ,
 spectantque
 sereni
+
 Vsta
 quibus
 nunquam
@@ -16731,6 +19365,7 @@ torquet
 praecordia
 liuor
 ,
+
 Liuor
 &
 ipse
@@ -16740,8 +19375,10 @@ volucri
 dum
 Sydera
 cursu
+
 -
 a
+
 Ingreditur
 ;
 velat
@@ -16749,6 +19386,7 @@ turpati
 lumina
 vultus
 ,
+
 Sub
 pedibusque
 affigit
@@ -16757,17 +19395,23 @@ humo
 Cognate
 ,
 sed
+
 *
 7
 5
 .
+
 ad
 te
+
 5
 i
+
 AP
+
 5
 .
+
 Si
 radios
 cellumquę
@@ -16776,6 +19420,7 @@ deponis
 ,
 &
 ipsum
+
 Te
 tibi
 iam
@@ -16783,16 +19428,20 @@ praebes
 hotus
 vestigia
 Vates
+
 VERNVLAEVS
 agit
 .
 Nunquid
 iam
 Numen
+
 .
+
 
 adoras
 ,
+
 Victricésque
 animas
 &
@@ -16800,6 +19449,7 @@ habentes
 aethera
 Diuos
 ?
+
 Tu
 quoque
 ,
@@ -16808,6 +19458,7 @@ Coelum
 virtus
 aeterna
 recludit
+
 Ardentesque
 micant
 stellae
@@ -16816,6 +19467,7 @@ quas
 aethere
 in
 alto
+
 Fama
 locat
 ;
@@ -16825,6 +19477,7 @@ viam
 nouus
 alite
 currus
+
 En
 tibi
 felici
@@ -16832,6 +19485,7 @@ superis
 tua
 nomina
 coelis
+
 Inseret
 ,
 &
@@ -16840,6 +19494,7 @@ rapiet
 de
 funere
 vitam
+
 Hęc
 angusta
 nimis
@@ -16849,6 +19504,7 @@ est
 nec
 Numina
 tellus
+
 Accipit
 ,
 ast
@@ -16856,6 +19512,7 @@ audax
 inuadit
 saecula
 Virtus
+
 Auxilio
 vatum
 ;
@@ -16865,17 +19522,22 @@ viuere
 vita
 est
 .
+
 i
+
 
 Digitized
 by
 Google
+
 Approbatio
 .
+
 Drama
 hoc
 Tragicum
 NICOLAI
+
 VERNVLAEI
 dignum
 censeo
@@ -16883,11 +19545,14 @@ quod
 proferatur
 
 
+
 in
 lucem
 .
+
 GVILIELMVS
 FABRICIVS
+
 Nouiomagus
 ,
 Apostolicus
@@ -16895,13 +19560,16 @@ Apostolicus
 Archiducalis
 
 
+
 librorum
 Censor
 .
+
 Cum
 Priuilegio
 Serenissimorum
 Principum
+
 
 
 ad
@@ -16911,6 +19579,7 @@ vt
 latius
 patet
 in
+
 diplomate
 dato
 Bruxellis
@@ -16919,35 +19588,47 @@ Concilio
 Prinato
 
 
+
 23
 .
 Decemb
 .
 1611
 .
+
 Subsignat
 .
+
 De
 Berti
 .
+
 Digitized
 by
 Google
+
 -
+
 D
+
 6
 
+
 2
+
 -
 4a
 —
+
 
 *
 P
 e
 —
 a
+
 –
+
 
 Digitized
 by
@@ -16956,7 +19637,10 @@ Google
 
 
 
+
+
 4
+
 
 
 
@@ -16975,33 +19659,45 @@ Google
 
 
 
-2
-
 
 2
 
 
 
 2
+
+
+
+
+2
+
 a
 
 
+
 –
 –
 
+
 -
 -
 
 
+
 -
+
 
 4
 .
-2
 
 2
+
+
+2
+
 
 23
+
 
 
 
@@ -17014,23 +19710,32 @@ l
 
 
 
+
 1
 
+
 j
+
 (
 4
+
 
 
 deized
 
 
 
+
 by
 Google
+
 )
 1
+
 b
 
+
 Q
+
 
 

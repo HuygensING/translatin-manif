@@ -5,9 +5,9 @@
 @project=TransLatin
 @valueType=int
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:34:43Z
+@dateWritten=2023-12-13T13:02:48Z
 
-12253	211
+14219	211
 68
 62
 51

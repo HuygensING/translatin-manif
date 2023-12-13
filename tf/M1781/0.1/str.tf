@@ -5,45 +5,69 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:35:14Z
+@dateWritten=2023-12-13T13:03:16Z
 
 5
+
 CENAM
 DABITUR
+
 MEDIAE
 CLASSIS
 GRAMMATICES
+
 OSIS
+
 GVLANASIO
+
 SOCIETATIS
+
 omuaci
 22
 .
+
 Junii
+
 1745
 .
+
 IXC
+
 ERTIAM
 .
 
+
 Pecueus
 euros
+
 58
+
 210
+
 CVε
 .
+
 Q
+
 c
+
 S
+
 467
 50κα
 .
 
+
 Q
+
 88
+
 13
+
 aa
+
 2
+
 
 Su
 anio
@@ -58,11 +82,17 @@ ceabe
 ,
 edte
 eacA
+
 Q
+
 240
+
 4
+
 3I
+
 2
+
 IN
 Chrifianos
 saviens
@@ -70,6 +100,7 @@ Michacl
 Arimè
 RexPhoms
 piLcipem
+
 
 
 de
@@ -83,10 +114,12 @@ Mracidat
 puanP
 
 
+
 .
 Trigault
 Societatis
 Jesu
+
 in
 Historia
 Martyrum
@@ -96,9 +129,13 @@ Lib
 .
 2
 .
+
 14
+
 A
+
 nne
+
 ata
 seta
 sasal
@@ -107,102 +144,140 @@ sasal
 a
 caaea
 acas
+
 ANGELUS
 ,
+
 Jacobus
 Samyn
 .
+
 E
 MICHAEL
 Arimae
 Rex
 .
+
 aes
 .
 THOMAS
 .
+
 Josephus
 de
 Clerck
 .
+
 qvo
 le
 Maire
 .
+
 28
+
 CHARIDONUS
 ,
+
 JUSTA
 Thomae
 uxor
 ,
+
 16
+
 Carolus
 de
 Block
 .
+
 Josephus
 Ghesquiere
 .
+
 MISSUMA
 ,
+
 STUS
+
 Joes
 Bapt
 .
 Baeckelandi
 .
+
 Thomae
+
 Ministri
+
 2
+
 Augustinus
 Rebs
 .
+
 S
 &
 Justae
+
 E
 FIEZO
 ,
+
 Megs
+
 JACOBUS
 ,
+
 Josephus
 van
 Roosebeke
+
 Filii
 .
+
 56
+
 Joes
 Bapt
 .
 Baeckelandi
+
 SIMANDA
 ,
+
 PAULUS
 Thomae
 amicus
+
 Joannes
 van
 Dries
 .
 )
 .
+
 218
+
 Jacobus
 .
 Samyn
 .
+
 a
+
 Scena
 est
 Arimae
 .
+
 uo
 agnco
+
 Piris
 cγc
+
 243
+
 Pictucas
 icacicus
 tcatitas
@@ -210,40 +285,68 @@ icquuoom
 euvos
 .
 
+
 a074
 
 
+
+
 anc
+
 v
+
 N
+
 S
+
 38
+
 &
 
+
 E
+
 48
+
 g40
+
 Q
+
 60
+
 bmia
+
 3
 
+
 M
+
 Q
+
 S
+
 &
+
 b
+
 E
+
 4
+
 C
+
 Q
+
 &
+
 N
 CNes
 ettte
 atto
 es
+
 Q
+
 lia
 ddc
 .
@@ -254,9 +357,13 @@ coitem
 eehut
 ceba
 al
+
 x6
+
 4
+
 F
+
 ctael
 Pattis
 Regnum
@@ -267,6 +374,7 @@ Aula
 IdoloMrum
 
 
+
 Cultum
 restaurat
 ,
@@ -275,6 +383,7 @@ restaurat
 Imperatoris
 mandato
 de
+
 exterminandis
 Christianis
 accepto
@@ -284,6 +393,7 @@ illos
 acrius
 invehitur
 :
+
 hinc
 Regis
 Ministris
@@ -292,17 +402,22 @@ necem
 suadentibus
 ,
 Principem
+
 è
 medio
 tollere
 statuit
 .
+
 tur
 .
+
 eracI
 
 
+
 .
+
 Homas
 exhibitim
 in
@@ -310,6 +425,7 @@ somnis
 submi
 Hhorumque
 martyrium
+
 
 
 Conjugi
@@ -322,6 +438,7 @@ atque
 à
 Charidono
 ad
+
 Convivium
 in
 aulam
@@ -333,13 +450,16 @@ spe
 ,
 se
 ,
+
 suosque
 ad
 Constantiam
 animat
 .
+
 III
 .
+
 Vstam
 ,
 se
@@ -350,6 +470,7 @@ iri
 dolentem
 solatur
 cum
+
 Filiis
 Thomas
 ;
@@ -360,6 +481,7 @@ fugam
 nequicquam
 suadente
 ,
+
 inter
 mutuos
 amplexus
@@ -368,7 +490,9 @@ Conjugi
 Liberis
 valedicit
 .
+
 F
+
 Ichael
 furorem
 tantisper
@@ -376,6 +500,7 @@ Dissimulans
 hospiti
 suo
 ficti
+
 Mamotis
 significatione
 spem
@@ -384,6 +509,7 @@ eximit
 .
 Hinc
 Thomas
+
 
 
 variè
@@ -396,6 +522,7 @@ aperta
 inter
 epulas
 fidei
+
 professione
 Palmam
 promereri
@@ -407,6 +534,7 @@ Paulus
 quiplurimis
 
 
+
 insidiarum
 indiciis
 relatis
@@ -416,16 +544,20 @@ Thomae
 gaudium
 
 
+
 accendit
 .
+
 Homas
 ad
 extremam
 luctam
 se
+
 adhortatus
 ad
 Regium
+
 Convivium
 arcessitur
 ;
@@ -436,6 +568,7 @@ amoris
 complexus
 
 
+
 Rex
 hospitem
 suum
@@ -443,14 +576,20 @@ confodi
 jubet
 .
 
+
 Sttsaisaiassaecascas
 satcatsaicas
 casta
 etca
 caccatcaa
 cali
+
 M
+
 OREM
+
 DEI
+
 M
 .
+

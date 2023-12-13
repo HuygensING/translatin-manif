@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:35:04Z
+@dateWritten=2023-12-13T13:03:07Z
 
-43079	Mvsæ lacrymantes sive pleias tragica id
+50732	Mvsæ lacrymantes sive pleias tragica id

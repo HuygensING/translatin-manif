@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:34:42Z
+@dateWritten=2023-12-13T13:02:47Z
 
-9499	https://books.google.nl/books?id=r9RJmlyPBVkC&printsec=frontcover&hl=nl&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
+11180	https://books.google.nl/books?id=r9RJmlyPBVkC&printsec=frontcover&hl=nl&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false

@@ -5,9 +5,9 @@
 @project=TransLatin
 @valueType=int
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:34:46Z
+@dateWritten=2023-12-13T13:02:51Z
 
-38267	211
+44502	211
 68
 62
 51

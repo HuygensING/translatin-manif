@@ -5,7205 +5,17001 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:34:57Z
+@dateWritten=2023-12-13T13:03:02Z
 
-175	u
+4	
+31	
+45	
+75	
+102	
+130	
+144	
+167	
+183	u
 ¬
+
 Richtlijnen
-333	hoeveelhe
+189	
+212	
+241	
+263	
+267	
+275	
+296	
+315	
+334	
+351	hoeveelhe
 ¬
+
 den
-610	
-619	
-621	Ve
-¬
-4
+381	
+387	
+410	
+435	
+467	
+493	
+523	
+550	
+569	
+577	
+602	
 628	
+633	
+635	
+637	
+641	
+643	
+646	
 
+651	
+653	
+655	
+659	
+
+662	
+Ve
+¬
+
+4
+
+671	
+673	
+
+
+677	
+681	
+683	
+685	
+687	
 689	
-697	
-702	
-712	
-738	
-747	
-749	
-760	flu
+691	
+693	
+696	
+700	
+703	
+705	
+709	
+711	
+717	
+725	
+729	
+741	
+744	
+748	
+752	
+756	
+
+765	
+
+768	
+770	
+773	
+
+776	
+778	
+780	
+787	
+
+790	
+792	
+798	
+806	
+810	
+812	
+814	
+816	
+818	
+821	
+824	
+
+828	
+832	
+834	
+836	
+838	
+
+841	
+
+844	
+847	
+850	
+856	flu
 ¬
+
 ctuantes
-764	mer
+861	mer
 ¬
+
 ces
-778	sal
+868	
+877	sal
 ¬
+
 tem
-791	huma
+886	
+892	huma
 ¬
+
 nis
-797	fu
+899	fu
 ¬
+
 tura
-829	tran
+909	
+916	
+923	
+930	
+936	tran
 ¬
+
 quillitatis
-837	eue
+945	eue
 ¬
+
 cto
-845	vtili
+954	vtili
 ¬
+
 tati
-864	litte
+963	
+970	
+976	litte
 ¬
+
 rarum
-875	con
+983	
+989	con
 ¬
+
 summata
-882	potissi
+997	potissi
 ¬
+
 mè
-891	au
+1007	au
 ¬
+
 ctor
-920	su
+1019	
+1027	
+1029	
+1031	
+1035	
+1042	su
 ¬
+
 mus
-939	do
+1051	
+1058	
+1064	do
 ¬
+
 tem
-946	ma
+1072	ma
 ¬
+
 num
-971	cona
+1081	
+1087	
+1096	
+1101	cona
 ¬
+
 tibus
-979	in
+1110	in
 ¬
+
 terim
-988	potui
+1120	potui
 ¬
+
 mus
-997	pre
+1130	pre
 ¬
+
 care
-1006	desi
+1140	desi
 ¬
+
 deratum
-1018	sapo
+1149	
+1154	sapo
 ¬
+
 ris
-1032	publice
+1164	
+1170	publice
 ¬
+
 mus
-1042	SYL
+1177	
+1182	
+SYL
 ¬
+
 Digitized
-1108	pu
+1189	
+1192	
+1196	
+1199	
+1202	
+1205	
+1214	
+1223	
+1232	
+1239	
+1252	
+1255	
+1262	pu
 ¬
+
 bescere
-1190	admit
+1271	
+1274	
+1279	
+1282	
+1291	
+1294	
+1305	
+1308	
+1316	
+1319	
+1327	
+1330	
+1336	
+1339	
+1347	
+1351	
+1361	admit
 ¬
+
 tunt
-1443	sectan
+1368	
+1375	
+1384	
+1394	
+1397	
+1401	
+1404	
+1408	
+1410	
+1418	
+1421	
+1427	
+1436	
+1442	
+1449	
+1452	
+1455	
+1462	
+1466	
+1472	
+1475	
+1485	
+1487	
+1494	
+1501	
+1511	
+1523	
+1534	
+1536	
+1542	
+1548	
+1554	
+1562	
+1569	
+1578	
+1587	
+1596	
+1603	
+1612	
+1615	
+1619	
+1621	
+1626	
+1636	
+1639	
+1645	
+1648	
+1656	
+1663	sectan
 ¬
+
 dum
-1534	FA
+1670	
+1677	
+1682	
+1688	
+1699	
+1702	
+1713	
+1721	
+1726	
+1730	
+1736	
+1741	
+1746	
+1751	
+1755	
+1760	
+1764	
+1767	
+1770	
+1774	
+FA
 ¬
+
 FACVLTAS
-1557	jo
+1785	
+1787	
+1793	
+1802	jo
 ¬
+
 testate
-1570	ie
+1816	ie
 ¬
+
 nerali
-1618	
-1630	
-1632	
+1826	
+1835	
+1841	
+1850	
+1858	
+1860	
+1870	
+1872	
+
+1876	
+1880	
+1884	
+1888	
+
+1891	
 
 
-1645	Thao
+
+1897	
+1899	
+1907	Thao
 ¬
+
 egica
-1655	Socio
+1918	Socio
 ¬
+
 tate
-1666	te
+1930	te
 ¬
+
 vantur
-1676	hono
+1941	hono
 ¬
+
 vata
-1735	ora
+1951	
+1961	
+1963	
+1965	
+1969	
+1976	
+1980	
+1982	
+1985	
+1987	
+1989	
+1993	
+1996	
+2000	
+2003	
+2007	
+2014	
+2018	ora
 ¬
+
 tor
-1746	co
+2027	
+2031	co
 ¬
+
 natus
-1753	Roma
+2039	Roma
 ¬
+
 E
-1778	pas
+2047	
+2054	
+2061	
+2068	pas
 ¬
+
 sim
-1805	Qui
+2080	
+2089	
+2098	Qui
 ¬
+
 ritium
-1876	cudi
+2110	
+2118	
+2126	
+2130	
+2140	
+2148	
+2157	
+2163	
+2168	
+2179	cudi
 ¬
+
 A
-1887	Marty
+
+2186	
+2190	
+2193	
+2195	
+Marty
 ¬
+
 re
-1908	Grac
+2201	
+2204	
+2207	
+2212	
+2217	
+2220	
+2224	
+Grac
 ¬
+
 chis
-1935	tempo
+2230	
+2233	
+2238	
+2241	
+2243	
+2254	
+2259	tempo
 ¬
+
 ribus
-1944	nutri
+2269	nutri
 ¬
+
 ces
-1956	qua
+2282	qua
 ¬
+
 rum
-1972	scripse
+2291	
+2300	scripse
 ¬
+
 runt
-1981	fu
+2310	fu
 ¬
+
 isse
-2000	defor
+2323	
+2331	defor
 ¬
+
 marunt
-2009	Isido
+2341	Isido
 ¬
+
 rum
-2020	are
+2347	
+2354	are
 ¬
+
 mus
-2030	coëge
+2360	
+2366	coëge
 ¬
+
 runt
-2078	arca
+2378	
+2389	
+2403	
+2412	
+2419	arca
 ¬
+
 na
-2095	de
+2430	
+2438	de
 ¬
+
 bebant
-2102	conscribil
+2446	conscribil
 ¬
+
 labant
-2125	Apolli
+2456	
+2466	
+2472	Apolli
 ¬
+
 nis
-2158	propu
+2484	
+2492	
+2503	
+2509	propu
 ¬
+
 gnare
-2168	adse
+2520	adse
 ¬
+
 rit
-2202	respe
+2525	
+2529	
+2532	
+2541	
+2549	
+2560	respe
 ¬
+
 xit
-2225	re
+2572	
+2585	re
 ¬
+
 gem
-2250	so
+2600	
+2612	so
 ¬
+
 lùm
-2308	e
+2624	
+2633	
+2641	
+2651	
+2660	
+2667	
+2677	e
 ¬
+
 bore
-2317	trucidan
+2687	trucidan
 ¬
+
 dum
-2325	mi
+2696	mi
 ¬
+
 nistros
-2362	in
+2704	
+2712	
+2722	
+2730	
+2738	in
 ¬
+
 terpretabor
-2377	Mate
+2747	
+2755	Mate
 ¬
+
 riam
-2412	mo
+2765	
+2776	
+2780	
+2786	
+2795	mo
 ¬
+
 rosi
-2421	rhe
+2805	rhe
 ¬
+
 toris
-2431	pueri
+2816	
+pueri
 ¬
+
 Digitized
-2488	Aa
+2823	
+2825	
+2830	
+2832	
+2835	
+2844	
+2846	
+2849	
+2852	
+2857	
+2860	
+2862	
+2869	
+2872	
+2881	
+2883	
+2888	
+2892	
+Aa
 ¬
+
 puerilibus
-2494	in
+2900	in
 ¬
+
 dustriam
-2536	vtrum
+2908	
+2919	
+2929	
+2940	
+2947	vtrum
 ¬
+
 que
-2561	ma
+2957	
+2968	
+2975	ma
 ¬
+
 num
-2579	as
+2986	
+2995	as
 ¬
+
 sumptus
-2587	prae
+3004	prae
 ¬
+
 ceptis
-2615	im
+3013	
+3021	
+3029	
+3036	im
 ¬
+
 belles
-2622	du
+3044	du
 ¬
+
 ctus
-2702	de
+3055	
+3064	
+3067	
+3076	
+3082	
+3088	
+3097	
+3100	
+3108	
+3117	
+3128	
+3136	de
 ¬
+
 riuauit
-2744	in
+3148	
+3151	
+3155	
+3159	
+3161	
+3171	
+3178	
+3186	in
 ¬
+
 quit
-2763	al
+3198	
+3207	al
 ¬
+
 tera
-2776	scri
+3221	scri
 ¬
+
 ptis
-2785	censo
+3231	censo
 ¬
+
 rium
-2804	vtili
+3243	
+3252	vtili
 ¬
+
 tas
-2812	scribendigene
+3261	scribendigene
 ¬
+
 re
-2865	no
+3272	
+3280	
+3289	
+3299	
+3303	
+3309	
+3315	
+3322	no
 ¬
+
 stris
-2907	nu
+3333	
+3343	
+3352	
+3361	
+3369	nu
 ¬
+
 meros
-2917	car
+3380	car
 ¬
+
 punt
-2926	sua
+3390	sua
 ¬
+
 dam
-2943	Quae
+3400	
+3404	
+3410	
+Quae
 ¬
+
 Digitized
-2954	o
+3417	
+3420	
+3423	
+3426	o
 ¬
+
 rat
-2977	canti
+3431	
+3434	
+3441	
+3445	
+3447	
+3450	
+3456	canti
 ¬
+
 lena
-3022	de
+3467	
+3475	
+3480	
+3489	
+3499	
+3507	de
 ¬
+
 dicant
-3050	ex
+3518	
+3528	
+3538	ex
 ¬
+
 cutiam
-3075	Cice
+3549	
+3557	
+3566	Cice
 ¬
+
 ronis
-3122	vel
+3576	
+3587	
+3596	
+3603	
+3611	
+3619	vel
 ¬
+
 ut
-3146	Cu
+3628	
+3638	
+3646	Cu
 ¬
+
 pio
-3168	stu
+3655	
+3664	
+3671	stu
 ¬
+
 diosè
-3192	bo
+3682	
+3690	
+3698	bo
 ¬
+
 norum
-3235	habea
+3712	
+3720	
+3722	
+3726	
+3730	
+3732	
+3740	
+3749	habea
 ¬
+
 tur
-3244	cal
+3759	cal
 ¬
+
 culos
-3267	Cicero
+3768	
+3778	
+3785	Cicero
 ¬
+
 nem
-3278	pul
+3797	pul
 ¬
+
 crè
-3298	vi
+3808	
+3819	vi
 ¬
+
 deatur
-3305	ho
+3827	ho
 ¬
+
 minum
-3314	sę
+3837	sę
 ¬
+
 piùs
-3320	adolescen
+3844	adolescen
 ¬
+
 tes
-3346	cen
+3856	
+3868	
+3873	cen
 ¬
+
 suram
-3354	le
+3882	le
 ¬
+
 ge
-3388	omni
+3893	
+3899	
+3910	
+3920	omni
 ¬
+
 bus
-3410	mi
+3933	
+3944	mi
 ¬
+
 rantur
-3420	orato
+3955	orato
 ¬
+
 res
-3430	flo
+3966	flo
 ¬
+
 rentissimus
-3436	ridicula
+3973	ridicula
 ¬
+
 tum
-3476	vir
+3984	
+3995	
+4003	
+4010	
+4018	vir
 ¬
+
 tutis
-3494	adscri
+
+4026	
+4029	
+4034	
+4039	
+4042	
+adscri
 ¬
+
 bitur
 o
 ¬
+
 bus
-3502	vindi
+4053	
+vindi
 ¬
+
 cias
+
 Quin
 ¬
+
 tiliano
-3521	
-3546	corpori
+4064	
+4067	
+4072	
+4077	
+4080	
+
+4083	
+4086	
+4100	
+4109	corpori
 ¬
+
 bus
-3556	colo
+4120	colo
 ¬
+
 res
-3585	acerri
+4132	
+4139	
+4146	
+4153	acerri
 ¬
+
 mè
-3592	insolen
+4161	insolen
 ¬
+
 tiam
-3609	frugali
+4173	
+4180	frugali
 ¬
+
 tatem
-3619	A
+4191	A
 ¬
+
 siatica
-3627	por
+4200	por
 ¬
+
 tentum
-3634	indignatio
+4208	indignatio
 ¬
+
 nem
-3646	spe
+4221	spe
 ¬
+
 ctatissimum
-3737	elo
+4231	
+4237	
+4248	
+4256	
+4264	
+4273	
+4286	
+4298	
+4305	
+4315	
+4323	elo
 ¬
+
 quentiae
-3745	profli
+4332	profli
 ¬
+
 gare
-3768	fa
+4343	
+4349	
+4358	fa
 ¬
+
 ciliùs
-3774	impe
+4365	impe
 ¬
+
 rator
-3790	in
+
+4373	
+4377	
+4379	
+4386	in
 ¬
+
 struere
-3834	fi
+4398	
+4409	
+4417	
+4426	
+4435	fi
 ¬
+
 gurarum
-3868	neg
+4444	
+4453	
+4464	
+4473	neg
 ¬
+
 ligat
-3885	indu
+4485	
+4492	indu
 ¬
+
 cere
-3928	cor
+4504	
+4512	
+4520	
+4529	
+4540	cor
 ¬
+
 pore
-3936	pronun
+4549	pronun
 ¬
+
 tiatum
-3943	calumnie
+4557	calumnie
 ¬
+
 tur
-3986	a
+4570	
+4581	
+4592	
+4604	a
 ¬
+
 nimaduertissent
-4000	ver
+4612	
+4620	ver
 ¬
+
 bis
-4008	nume
+4629	nume
 ¬
+
 ris
-4027	spe
+4642	
+4650	spe
 ¬
+
 ctetur
-4047	pra
+4662	
+4672	pra
 ¬
+
 B
-4089	asse
+
+4678	
+4682	
+4685	
+4687	
+4690	
+4693	
+4698	
+4703	
+4706	
+4709	
+4711	
+4720	
+4728	asse
 ¬
+
 cutus
-4101	agnoue
+4735	
+4738	
+4743	agnoue
 ¬
+
 rint
-4122	peni
+4754	
+4760	
+4767	peni
 ¬
+
 cillo
-4138	a
+4776	
+4785	a
 ¬
+
 liorum
-4151	So
+4794	
+4800	So
 ¬
+
 lonis
-4160	ep
+4810	ep
 ¬
+
 γων
-4176	roga
+4822	
+4828	roga
 ¬
+
 retur
-4189	vi
+4842	vi
 ¬
+
 deam
-4196	angu
+4850	angu
 ¬
+
 stijs
-4232	om
+4860	
+4869	
+4876	
+4884	
+4891	om
 ¬
+
 nibus
-4246	vome
+4906	vome
 ¬
+
 re
-4287	A
+4923	
+4934	
+4943	
+4951	A
 ¬
+
 polline
-4301	Inora
+
+4959	
+4963	
+4965	
+4970	Inora
 ¬
+
 Quint
-4329	vtv
+4975	
+4980	
+4990	
+4995	
+5003	vtv
 ¬
+
 nus
-4336	reperia
+5011	reperia
 ¬
+
 tur
-4353	gen
+5024	
+5030	gen
 ¬
+
 tium
-4360	cor
+5038	cor
 ¬
+
 poris
-4379	Hi
+5050	
+5059	Hi
 ¬
+
 spanus
-4399	repe
+5069	
+5081	repe
 ¬
+
 rias
-4424	v
+5092	
+5099	
+5109	v
 ¬
+
 num
-4432	Asiati
+5118	Asiati
 ¬
+
 cis
-4448	di
+5128	
+5136	di
 ¬
+
 uersitatem
-4456	per
+5145	per
 ¬
+
 spicietis
-4464	du
+5154	du
 ¬
+
 Cicere
-4480	mi
+
+5172	mi
 ¬
+
 inOrat
-4524	fundi
+5177	
+5185	
+5194	
+5205	
+5214	
+5222	fundi
 ¬
+
 tus
-4533	sin
+5232	sin
 ¬
+
 cerumque
-4571	opi
+5243	
+5256	
+5267	
+5274	opi
 ¬
+
 B
-4575	na
-¬
-Digitized
-4596	in
-¬
-ter
-4654	pe
-¬
-riti
-4672	enuntia
-¬
-re
-4684	ora
-¬
-tionis
-4692	audien
-¬
-tium
-4711	A
-¬
-siana
-4737	vel
-¬
-at
-4757	abun
-¬
-dantes
-4794	At
-¬
-ticum
-4809	inurba
-¬
+5279	
 na
-4839	pro
 ¬
+
+Digitized
+5286	
+5289	
+5291	
+5298	
+5306	in
+¬
+
+ter
+5321	
+5332	
+5341	
+5353	
+5362	
+5370	pe
+¬
+
+riti
+5383	
+5390	enuntia
+¬
+
+re
+5403	ora
+¬
+
+tionis
+5412	audien
+¬
+
+tium
+5423	
+5433	A
+¬
+
+siana
+5443	
+5454	
+5462	vel
+¬
+
+at
+5475	
+5484	abun
+¬
+
+dantes
+5496	
+5506	
+5517	
+5525	At
+¬
+
+ticum
+5535	
+5542	inurba
+¬
+
+na
+5553	
+5561	
+5568	
+5576	pro
+¬
+
 fluens
-4867	suf
+5588	
+5590	
+5593	
+5597	
+5601	
+5603	
+5611	suf
 ¬
+
 ficere
-4901	Ita
+5623	
+5632	
+5641	
+5649	Ita
 ¬
+
 que
-4908	gene
+5657	gene
 ¬
+
 ribus
-4916	incul
+5666	incul
 ¬
+
 patissima
-4923	Athe
+5674	Athe
 ¬
+
 nis
-4930	vi
+5682	vi
 ¬
+
 detur
-4954	pro
+5694	
+5701	
+5709	pro
 ¬
+
 ferretur
-4974	in
+5723	
+5731	in
 ¬
+
 tegra
-4985	dictio
+5743	dictio
 ¬
+
 ne
-5005	So
+5754	
+5765	So
 ¬
+
 loecismus
-5029	tor
+5776	
+5783	
+5792	tor
 ¬
+
 tuosa
-5055	proscri
+5804	
+5813	
+5821	proscri
 ¬
+
 bebatur
-5066	mo
+5833	mo
 ¬
+
 do
-5078	hau
+5846	hau
 ¬
+
 riat
-5116	amoli
+5858	
+5866	
+5875	
+5881	
+5889	amoli
 ¬
+
 C
-5129	Ora
+
+5896	
+5899	
+5903	
+5906	
+5908	Ora
 ¬
+
 tore
-5136	deopti
+5913	
+5916	
+5918	
+deopti
 ¬
+
 mo
 ge
 ¬
+
 nere
-5150	Aristar
+5928	
+5931	
+5933	
+5938	Aristar
 ¬
+
 chus
-5158	qua
+5947	qua
 ¬
+
 si
-5196	reprehen
+5959	
+5968	
+5974	
+5984	
+5990	reprehen
 ¬
+
 dit
-5237	Demo
+6004	
+6014	
+6025	
+6035	Demo
 ¬
+
 sthenes
-5247	e
+6046	e
 ¬
+
 nim
-5283	intelli
+6060	
+6069	
+6078	
+6086	intelli
 ¬
+
 gere
-5292	au
+6096	au
 ¬
+
 res
-5302	A
+6107	A
 ¬
+
 thenis
-5311	subinsul
+6117	subinsul
 ¬
+
 sum
-5327	ve
+6128	
+6135	ve
 ¬
+
 rò
-5338	dis
+6147	dis
 ¬
+
 cincti
-5366	Rhe
+6158	
+6168	
+6178	Rhe
 ¬
+
 torum
-5377	signifi
+6190	signifi
 ¬
+
 cat
-5387	ob
+6201	ob
 ¬
+
 ticit
-5414	tan
+6213	
+6223	
+6231	tan
 ¬
+
 tam
-5453	di
+
+6239	
+6243	
+6245	
+6255	
+6263	
+6277	di
 ¬
+
 cunt
-5510	caele
+6293	
+6301	
+6309	
+6318	
+6326	
+6333	
+6341	caele
 ¬
+
 stem
-5527	stri
+6352	
+6360	stri
 ¬
+
 gosam
-5552	du
+6371	
+6379	
+6388	du
 ¬
+
 rum
-5559	relique
+6396	relique
 ¬
+
 runt
-5567	mi
+6405	mi
 ¬
+
 grare
-5597	pruden
+6417	
+6423	
+6432	
+6439	pruden
 ¬
+
 tissimè
-5620	ex
+6449	
+6456	
+6465	ex
 ¬
+
 sultans
-5650	Cicero
+6475	
+6485	
+6493	
+6499	Cicero
 ¬
+
 ni
-5659	au
+6509	au
 ¬
+
 tem
-5667	Ci
+6518	
+Ci
 ¬
+
 B
-5675	Bru
+6524	
+6528	
+6530	Bru
 ¬
+
 to
-5680	Bru
+6535	
+6537	Bru
 ¬
+
 to
-5697	ge
+6542	
+6545	
+6548	
+6551	
+6554	
+6558	
+6561	ge
 ¬
+
 nere
-5719	au
+
+6568	
+6570	
+6573	
+6581	
+6589	au
 ¬
+
 tem
-5746	iu
+6601	
+6611	
+6619	iu
 ¬
+
 dicem
-5756	Li
+6630	Li
 ¬
+
 berè
-5763	Dialogi
+6638	Dialogi
 ¬
+
 sta
-5778	Pha
+6648	
+6655	Pha
 ¬
+
 lereum
-5784	exultan
+6662	exultan
 ¬
+
 tem
-5802	re
+6674	
+6682	re
 ¬
+
 dolere
-5810	au
+6691	au
 ¬
+
 tem
-5833	margarita
+6702	
+6710	
+6717	margarita
 ¬
+
 rum
-5843	ve
+6728	ve
 ¬
+
 rò
-5851	repel
+6737	repel
 ¬
+
 luntur
-5859	rema
+6746	rema
 ¬
+
 neat
-5879	thy
+6758	
+6768	thy
 ¬
+
 mum
-5897	An
+6781	
+6788	An
 ¬
+
 μοδ
-5907	Ατliκo
+6799	Ατliκo
 ¬
+
 τατα
-5943	am
+6812	
+6823	
+6838	am
 ¬
+
 plè
-5964	no
+6852	
+6861	no
 ¬
+
 stram
-6019	no
+6870	
+6872	
+6876	
+6878	
+6882	
+6884	
+6895	
+6903	
+6911	
+6920	
+6927	no
 ¬
+
 ster
-6028	Rhe
+6937	Rhe
 ¬
+
 toricorum
-6052	par
+6945	
+6951	
+6959	
+6965	par
 ¬
+
 tem
-6072	Ci
+6978	
+6987	Ci
 ¬
+
 ceronis
-6119	subin
+6996	
+7005	
+7017	
+7028	
+7039	subin
 ¬
+
 sulsum
-6144	vitaue
+7055	
+7066	vitaue
 ¬
+
 runt
-6156	di
+7079	di
 ¬
+
 cunt
-6175	spa
+7092	
+7100	spa
 ¬
+
 tiari
-6186	pe
+7112	pe
 ¬
+
 tant
-6198	con
+7125	con
 ¬
+
 tenti
-6215	suauita
+7138	
+7144	suauita
 ¬
+
 tem
-6227	mi
+7157	mi
 ¬
+
 nùs
-6302	negotio
+7169	
+7175	
+7179	
+7187	
+7189	
+7192	
+7196	
+7199	
+7201	
+7204	
+7208	
+7211	
+7214	
+7216	
+7226	
+7235	
+7243	
+7250	negotio
 ¬
+
 rum
-6315	ratio
+7264	ratio
 ¬
+
 ne
-6324	descripsi
+7274	descripsi
 ¬
+
 mus
-6333	nume
+7284	nume
 ¬
+
 rorum
-6346	adiunxe
+7293	
+7299	adiunxe
 ¬
+
 ro
-6370	pro
+7310	
+7319	
+7326	pro
 ¬
+
 nuntiationis
-6419	cane
+7334	
+7344	
+7351	
+7357	
+7364	
+7374	
+7382	cane
 ¬
+
 re
-6431	po
+7395	po
 ¬
+
 tiùs
-6452	ge
+7407	
+7418	ge
 ¬
+
 stum
-6491	Iu
+7432	
+7442	
+7449	
+7461	Iu
 ¬
+
 lius
-6510	loque
+7474	
+7482	loque
 ¬
+
 retur
-6532	si
+7497	
+7506	si
 ¬
+
 mile
-6572	dolo
+
+7514	
+7518	
+7520	
+7528	
+7536	
+7546	
+7554	dolo
 ¬
+
 rem
-6593	ta
+7567	
+7577	ta
 ¬
+
 ctauisset
-6632	fuis
+7589	
+7597	
+7606	
+7614	
+7621	fuis
 ¬
+
 se
-6640	ambi
+7630	ambi
 ¬
+
 gua
-6648	consu
+7639	consu
 ¬
+
 luit
-6681	con
+7655	
+7666	
+7675	con
 ¬
+
 positeque
-6700	ma
+7687	
+7696	ma
 ¬
+
 ledictis
-6708	mul
+7705	mul
 ¬
+
 taque
-6729	subagre
+7718	
+7728	subagre
 ¬
+
 sti
-6755	gesticula
+7740	
+7748	
+7757	gesticula
 ¬
+
 toriam
-6789	αγροδμίαι
+7765	
+7774	
+7784	
+7795	αγροδμίαι
 ¬
+
 Τος
-6798	ipsissi
+7805	ipsissi
 ¬
+
 mam
-6805	effemina
+7813	effemina
 ¬
+
 tam
-6836	ratio
+
+7821	
+7826	
+7832	
+7836	
+7839	
+7844	
+7846	
+7853	ratio
 ¬
+
 nem
-6880	in
+7867	
+7877	
+7886	
+7895	
+7902	in
 ¬
+
 dignante
-6888	Hor
+7911	Hor
 ¬
+
 tensium
-6924	A
+7919	
+7927	
+7935	
+7943	
+7952	A
 ¬
+
 siaticae
-6952	Ti
+7963	
+7974	
+7983	Ti
 ¬
+
 maus
-6962	Ala
+7994	Ala
 ¬
+
 bandaeus
-6981	A
+8007	
+8015	A
 ¬
+
 siatico
-7026	Gni
+8027	
+8036	
+8047	
+8057	
+8065	Gni
 ¬
+
 dius
-7059	quo
+8079	
+8086	
+8095	
+8102	quo
 ¬
+
 rum
-7076	Rho
+8113	
+8121	Rho
 ¬
+
 dio
-7084	di
+8130	di
 ¬
+
 cendum
-7100	fuis
+
+8138	
+8142	
+8144	
+8151	fuis
 ¬
+
 se
-7129	Vo
+8164	
+8172	
+8178	
+8184	Vo
 ¬
+
 luissem
-7136	are
+8192	are
 ¬
+
 nam
-7154	la
+8203	
+8212	la
 ¬
+
 tiùs
-7191	al
+8223	
+8232	
+8240	
+8246	
+8254	al
 ¬
+
 lucinari
-7201	At
+8265	At
 ¬
+
 ticum
-7209	inter
+8274	inter
 ¬
+
 pretatus
-7251	no
+8283	
+8293	
+8301	
+8308	
+8315	
+8322	no
 ¬
+
 uit
-7324	dissimu
+8331	
+8340	
+8349	
+8358	
+8368	
+8377	
+8387	
+8396	
+8404	dissimu
 ¬
+
 labimus
-7341	Bru
+8409	
+8413	
+8416	
+8418	
+8421	
+8426	
+8428	Bru
 ¬
+
 to
-7346	in
+8433	
+8435	in
 ¬
+
 ter
 Atti
 ¬
+
 eor
-7360	Ro
+8445	
+8447	
+8449	
+8453	
+8455	Ro
 ¬
+
 manos
-7384	perin
+8460	
+8463	
+8467	
+8472	
+8476	
+8478	
+8486	perin
 ¬
+
 eptum
-7416	λό
+8496	
+8504	
+8513	
+8522	λό
 ¬
+
 γο
-7427	maie
+8534	maie
 ¬
+
 state
-7436	sor
+8544	sor
 ¬
+
 didum
-7443	Me
+8552	Me
 ¬
+
 liùs
-7450	Cicero
+8560	Cicero
 ¬
+
 nem
-7466	quan
+8572	
+8578	quan
 ¬
+
 tum
-7499	non
+8591	
+8600	
+8609	
+8615	non
 ¬
+
 nullorum
-7508	Iuue
+8625	Iuue
 ¬
+
 nalis
-7559	tan
+8630	
+8639	
+8648	
+8658	
+8672	
+8682	tan
 ¬
+
 tùm
-7592	de
+8698	
+8708	
+8718	de
 ¬
+
 liscique
-7604	no
+8731	no
 ¬
+
 strorum
-7613	vr
+8741	vr
 ¬
+
 banius
-7634	quen
+8750	
+8758	
+8765	quen
 ¬
+
 dam
-7650	II
+
+8773	
+8777	
+8779	
+8786	II
 ¬
+
 Iud
-7666	omni
+8796	
+8804	omni
 ¬
+
 bus
-7690	A
+8814	
+8822	
+8831	A
 ¬
+
 fris
-7712	disci
+8842	
+8849	
+8856	disci
 ¬
+
 plinae
-7728	scientia
+8866	
+8874	scientia
 ¬
+
 rum
-7743	coniu
+8885	
+8891	coniu
 ¬
+
 ratus
-7751	quadru
+8900	quadru
 ¬
+
 plex
-7776	sanita
+8910	
+8920	
+8928	sanita
 ¬
+
 tis
-7786	Ci
+8939	Ci
 ¬
+
 ceronis
-7795	au
+8949	au
 ¬
+
 reo
-7803	pro
+8958	pro
 ¬
+
 manauit
-7826	elo
+8967	
+8976	
+8984	elo
 ¬
+
 quentiae
-7833	CA
+8992	
+CA
 ¬
+
 Digitized
-7868	o
+8999	
+9003	
+9006	
+9009	
+9013	
+9015	
+9019	
+9028	
+9031	
+9038	o
 ¬
+
 ratorum
-7876	
-7882	conti
+9047	
+
+9054	conti
 ¬
+
 net
-7894	in
+9067	in
 ¬
+
 ter
-7903	aeta
+9077	aeta
 ¬
+
 tem
-7928	accu
+9087	
+9099	
+9105	accu
 ¬
+
 rateque
-7964	eorum
+9116	
+9123	
+9131	
+9139	
+9146	eorum
 ¬
+
 dem
-7972	dis
+9155	dis
 ¬
+
 serendi
-8010	homi
+9169	
+9179	
+9189	
+9197	homi
 ¬
+
 nes
-8027	scri
+9208	
+9216	scri
 ¬
+
 ptaproferenda
-8092	pe
+9225	
+9234	
+9242	
+9253	
+9262	
+9264	
+9268	
+9271	
+9273	
+9284	
+9292	pe
 ¬
+
 netrarunt
-8114	an
+9302	
+9309	
+9317	an
 ¬
+
 nulum
-8122	Ca
+9326	Ca
 ¬
+
 to
-8145	ta
+9337	
+9345	
+9352	ta
 ¬
+
 men
-8185	di
+9362	
+9368	
+9375	
+9381	
+9392	
+9398	di
 ¬
+
 ctionis
-8197	quaestio
+9406	
+9412	quaestio
 ¬
+
 nem
-8247	arti
+9423	
+9432	
+9441	
+9452	
+9460	
+9468	arti
 ¬
+
 sex
-8259	viri
+9481	viri
 ¬
+
 bus
-8266	ani
+9489	ani
 ¬
+
 mos
-8280	statua
+9497	
+9505	statua
 ¬
+
 rum
-8291	e
+9512	
+9518	e
 ¬
+
 tant
-8309	Dia
+9526	
+9528	
+9530	
+9534	
+9538	
+9541	
+9543	Dia
 ¬
+
 logo
-8327	selectissi
+9548	
+9555	
+9557	
+9560	
+9562	
+9567	selectissi
 ¬
+
 mo
-8351	faculta
+9580	
+9587	
+9594	faculta
 ¬
+
 tem
-8404	con
+9603	
+9613	
+9622	
+9634	
+9642	
+9653	con
 ¬
+
 trà
-8431	La
+9664	
+9674	
+9683	La
 ¬
+
 lium
-8440	studio
+9693	studio
 ¬
+
 sum
-8479	di
+9707	
+9718	
+9728	
+9736	di
 ¬
+
 lucidè
-8499	an
+9749	
+9758	an
 ¬
+
 norum
-8558	ela
+9767	
+9776	
+9785	
+9795	
+9804	
+9813	
+9824	ela
 ¬
+
 boratus
-8577	ta
+9836	
+9845	ta
 ¬
+
 men
-8616	san
+9859	
+9861	
+9865	
+9869	
+9871	
+9882	
+9891	san
 ¬
+
 guis
-8642	luxu
+9904	
+9914	
+9920	luxu
 ¬
+
 ries
-8662	sen
+9931	
+9942	sen
 ¬
+
 tentiis
-8671	mo
+9952	mo
 ¬
+
 dulataque
-8679	lasci
+9961	lasci
 ¬
+
 niret
-8687	singil
+9970	singil
 ¬
+
 latim
-8695	conge
+9979	conge
 ¬
+
 sta
-8743	pro
+9992	
+9997	
+10010	
+10023	
+10032	pro
 ¬
+
 fert
-8764	transta
+10048	
+10055	transta
 ¬
+
 tio
-8814	tentan
+10069	
+10079	
+10090	
+10101	
+10110	tentan
 ¬
+
 ti
-8855	men
+10123	
+10132	
+10141	
+10148	
+10156	men
 ¬
+
 tem
-8872	vir
+10167	
+10175	vir
 ¬
+
 tutis
-8880	disci
+10184	
+disci
 ¬
+
 G
-8902	Grae
+10190	
+10194	
+10197	
+10199	
+10206	
+10213	Grae
 ¬
+
 ciâ
-8912	impuden
+10224	impuden
 ¬
+
 tiae
-8925	tem
+10233	
+10239	tem
 ¬
+
 pore
-8933	mo
+10248	mo
 ¬
+
 rum
-8940	lu
+10256	lu
 ¬
+
 xus
-8948	nuperom
+10265	nuperom
 ¬
+
 nium
-8971	elo
+10277	
+10285	
+10291	elo
 ¬
+
 quentiam
-8996	im
+10301	
+10310	
+10319	im
 ¬
+
 mane
-9033	simpli
+10328	
+10336	
+10345	
+10353	
+10361	simpli
 ¬
+
 ci
-9064	contemnen
+10372	
+10379	
+10387	
+10396	contemnen
 ¬
+
 dos
-9089	conspe
+10406	
+10417	
+10424	conspe
 ¬
+
 xerunt
-9097	aemula
+10433	aemula
 ¬
+
 tione
-9121	lu
+10444	
+10452	
+10460	lu
 ¬
+
 xuriem
-9134	libe
+
+10468	
+10471	
+10477	libe
 ¬
+
 riùs
-9161	su
+10490	
+10498	
+10507	su
 ¬
+
 periores
-9169	quibus
+10516	quibus
 ¬
+
 dam
-9194	fron
+10525	
+10531	
+10538	
+10545	fron
 ¬
+
 tibus
-9203	corpo
+10555	corpo
 ¬
+
 ris
-9213	arbi
+10566	arbi
 ¬
+
 trantur
-9222	ex
+10576	ex
 ¬
+
 hibeant
-9240	flo
+10587	
+10596	flo
 ¬
+
 rida
-9257	v
+10607	
+10615	v
 ¬
+
 num
-9273	at
+10625	
+10633	at
 ¬
+
 que
-9287	Ali
+10642	
+10649	Ali
 ¬
+
 quorum
-9325	negligen
+10659	
+10667	
+10676	
+10686	
+10692	negligen
 ¬
+
 tes
-9335	ne
+10703	ne
 ¬
+
 quis
-9352	lau
+10713	
+10722	lau
 ¬
+
 dis
-9362	euri
+10733	euri
 ¬
+
 pum
-9414	studio
+10744	
+10746	
+10749	
+10753	
+10757	
+10759	
+10769	
+10772	
+10775	
+10781	
+10788	
+10794	
+10798	studio
 ¬
+
 sum
-9432	ex
+10810	
+10818	ex
 ¬
+
 perientiâ
-9440	prae
+10827	prae
 ¬
+
 textâ
-9451	ae
+10839	ae
 ¬
+
 tatis
-9465	pueriliterscintilla
+10852	
+10855	pueriliterscintilla
 ¬
+
 re
-9475	v
+10866	v
 ¬
+
 bera
-9491	qui
+10876	
+10884	qui
 ¬
+
 dem
-9514	ab
+10895	
+10904	
+10910	ab
 ¬
+
 olere
-9522	aeta
+10919	aeta
 ¬
+
 tem
-9551	Grammatico
+10930	
+10937	
+10945	
+10952	Grammatico
 ¬
+
 rum
-9588	matu
+10964	
+10973	
+10979	
+10981	
+10985	
+10989	
+10991	
+10997	matu
 ¬
+
 rescit
-9598	Cice
+11008	Cice
 ¬
+
 ro
-9606	da
+11017	da
 ¬
+
 bimus
-9615	lo
+11027	lo
 ¬
+
 cum
-9625	elo
+11038	elo
 ¬
+
 quentiae
-9633	fer
+11047	fer
 ¬
+
 ueret
-9643	cul
+11058	cul
 ¬
+
 turâ
-9651	impe
+11067	impe
 ¬
+
 tum
-9661	ora
+11078	ora
 ¬
+
 tionem
-9669	spe
+11087	spe
 ¬
+
 ctandam
-9698	dul
+11098	
+11108	
+11119	dul
 ¬
+
 tem
-9711	para
+11133	para
 ¬
+
 tus
-9796	lo
+11148	
+11161	
+11171	
+11181	
+11191	
+11202	
+11209	
+11219	
+11227	lo
 ¬
+
 quitur
-9807	Bru
+11239	Bru
 ¬
+
 me
-9830	et
+11256	
+11264	et
 ¬
+
 iam
-9840	Plutar
+11275	Plutar
 ¬
+
 eo
-9865	Cicero
+11290	
+11302	Cicero
 ¬
+
 ne
-9878	vitaepe
+11308	
+11317	vitaepe
 ¬
+
 riculo
-9899	contin
+11322	
+11325	
+11329	
+11332	
+11334	
+11344	contin
 ¬
+
 tio
-9912	como
+11358	como
 ¬
+
 nebat
-9931	lice
+11371	
+11379	lice
 ¬
+
 ham
-9949	iu
+11392	
+11399	iu
 ¬
+
 uenilis
-9975	ve
+11410	
+11421	
+11428	ve
 ¬
+
 nit
-9985	dicen
+11439	dicen
 ¬
+
 di
-10021	ani
+11452	
+11463	
+11472	
+11479	ani
 ¬
+
 maduertendisque
-10038	idconse
+11489	
+11498	idconse
 ¬
+
 qui
-10049	superef
+11510	superef
 ¬
+
 fluentes
-10057	li
+11519	li
 ¬
+
 centiâ
-10101	ac
+11530	
+11540	
+11550	
+11560	
+11568	ac
 ¬
+
 cesserat
-10109	v
+11577	v
 ¬
+
 surpauerit
-10134	Apol
+11588	
+11597	
+11605	Apol
 ¬
+
 line
-10144	peroran
+11616	peroran
 ¬
+
 do
-10152	Clean
+11625	Clean
 ¬
+
 this
-10184	anhelan
+11635	
+11637	
+11641	
+11645	
+11647	
+11657	
+11664	anhelan
 ¬
+
 ti
-10218	mu
+11678	
+11689	
+11701	mu
 ¬
+
 tasti
-10229	quem
+11713	quem
 ¬
+
 admodum
-10237	nu
+11722	nu
 ¬
+
 meros
-10281	vi
+11733	
+11744	
+11754	
+11763	
+11771	vi
 ¬
+
 deatur
-10291	da
+11782	da
 ¬
+
 ri
-10309	ef
+11794	
+11802	ef
 ¬
+
 figiem
-10348	au
+11812	
+11821	
+11830	
+11837	
+11846	au
 ¬
+
 tem
-10355	et
+11854	et
 ¬
+
 iam
-10370	naturae
+11863	
+11871	naturae
 ¬
+
 que
-10384	Quin
+11880	
+11887	Quin
 ¬
+
 tilianus
-10416	fra
+11897	
+11904	
+11913	
+11923	fra
 ¬
+
 ctis
-10464	inter
+11934	
+11937	
+11940	
+11944	
+11949	
+11953	
+11956	
+11959	
+11962	
+11966	
+11969	
+11972	
+11974	
+11985	inter
 ¬
+
 sistat
-10537	di
+11999	
+12010	
+12018	
+12027	
+12037	
+12046	
+12056	
+12066	di
 ¬
+
 cendi
-10585	de
+12080	
+12086	
+12094	
+12097	
+12105	
+12115	
+12121	de
 ¬
+
 beat
-10612	at
+12133	
+12142	
+12151	at
 ¬
+
 que
-10634	commisera
+12160	
+12168	
+12176	commisera
 ¬
+
 tioni
-10674	sene
+12187	
+12195	
+12205	
+12216	
+12221	sene
 ¬
+
 ctâ
-10682	com
+12230	com
 ¬
+
 probabit
-10716	flo
+12242	
+12250	
+12252	
+12256	
+12258	
+12261	
+12263	
+12272	flo
 ¬
+
 rens
-10769	accura
+12283	
+12289	
+12303	
+12311	
+12322	
+12331	accura
 ¬
+
 ta
-10781	vide
+12344	vide
 ¬
+
 bam
-10791	sto
+12355	sto
 ¬
+
 machantem
-10798	adolescen
+12363	adolescen
 ¬
+
 tes
-10825	ta
+12374	
+12385	
+12393	ta
 ¬
+
 men
-10838	in
+12407	in
 ¬
+
 genij
-10847	per
+12417	per
 ¬
+
 secta
-10855	sum
+12426	sum
 ¬
+
 mam
-10872	quid
+12436	
+12445	quid
 ¬
+
 dam
-10916	ti
+12458	
+12465	
+12474	
+12483	
+12494	ti
 ¬
+
 bi
-10928	placuis
+12507	placuis
 ¬
+
 set
-10950	verio
+12520	
+12531	verio
 ¬
+
 ra
-10958	adolescen
+12540	adolescen
 ¬
+
 tes
-10966	per
+12549	per
 ¬
+
 horrescere
-10974	sordi
+12558	sordi
 ¬
+
 dum
-10985	Cice
+12570	
+Cice
 ¬
+
 Digitized
-10990	DeAsia
+12577	
+DeAsia
 ¬
+
 tiois
-10995	generi
+12583	
+12585	
+generi
 ¬
+
 ius
-11038	sic
+12592	
+12594	
+12597	
+12600	
+12603	
+12608	
+12615	
+12618	
+12620	
+12631	
+12640	sic
 ¬
+
 ut
-11050	profu
+12653	profu
 ¬
+
 derunt
-11061	sarmen
+12665	sarmen
 ¬
+
 ta
-11082	suc
+12678	
+12688	suc
 ¬
+
 cus
-11092	maturita
+12699	maturita
 ¬
+
 rem
-11108	aspe
+12710	
+12717	aspe
 ¬
+
 rum
-11129	ve
+12731	
+12740	ve
 ¬
+
 hemens
-11144	Ta
+12750	
+12757	Ta
 ¬
+
 lis
-11185	le
+12769	
+12783	
+12791	
+12802	le
 ¬
+
 geret
-11207	du
+12815	
+12826	du
 ¬
+
 riora
-11229	fo
+12839	
+12850	fo
 ¬
+
 re
-11300	CA
+12864	
+12878	
+12889	
+12900	
+12911	
+12921	
+12928	
+CA
 ¬
+
 Digitized
-11321	Cae
+12935	
+12939	
+12941	
+12945	
+12950	
+12956	Cae
 ¬
+
 sarde
-11331	decerta
+12963	
+12968	decerta
 ¬
+
 runt
-11347	fi
+12980	
+12986	fi
 ¬
+
 nibus
-11355	calamo
+12995	calamo
 ¬
+
 que
-11368	insti
+13004	
+13010	insti
 ¬
+
 tuerunt
-11384	decre
+13019	
+13028	decre
 ¬
+
 ti
-11419	difficilli
+13037	
+13043	
+13050	
+13059	
+13068	difficilli
 ¬
+
 mum
-11484	ex
+13080	
+13089	
+13100	
+13109	
+13118	
+13128	
+13140	ex
 ¬
+
 plicatio
-11560	et
+13152	
+13163	
+13165	
+13169	
+13171	
+13175	
+13178	
+13180	
+13191	
+13199	
+13210	
+13221	
+13229	et
 ¬
+
 tamsi
-11578	eo
+13240	
+13249	eo
 ¬
+
 dem
-11602	inda
+13261	
+13269	
+13276	inda
 ¬
+
 gauero
-11616	mor
+13287	
+13292	mor
 ¬
+
 talium
-11634	fabri
+13303	
+13312	fabri
 ¬
+
 carent
-11643	cupe
+13322	cupe
 ¬
+
 rent
-11651	foecundi
+13331	foecundi
 ¬
+
 tate
-11676	vel
+13343	
+13352	
+13359	vel
 ¬
+
 lent
-11691	praestantissi
+13371	
+13376	praestantissi
 ¬
+
 mum
-11719	docen
+13387	
+13394	
+13402	
+13408	docen
 ¬
+
 do
-11735	re
+13418	
+13426	re
 ¬
+
 gnum
-11759	elo
+13438	
+13446	
+13453	elo
 ¬
+
 quentem
-11813	subsel
+
+13461	
+13465	
+13467	
+13478	
+13488	
+13498	
+13506	
+13516	subsel
 ¬
+
 liis
-11833	iu
+13527	
+13538	iu
 ¬
+
 dex
-11846	significe
+13552	significe
 ¬
+
 tur
-11868	fle
+13564	
+13576	fle
 ¬
+
 tus
-11908	delecte
+13591	
+13603	
+13613	
+13620	delecte
 ¬
+
 tur
-11917	ca
+13630	ca
 ¬
+
 dat
-11934	Cae
+13642	
+13649	Cae
 ¬
+
 sardum
-11941	pero
+13657	pero
 ¬
+
 rantem
-11952	dum
+13669	dum
 ¬
+
 modo
-12004	principa
+13680	
+13688	
+13697	
+13707	
+13715	
+13724	
+13728	principa
 ¬
+
 tum
-12012	bar
+13737	bar
 ¬
+
 barus
-12022	expone
+13748	expone
 ¬
+
 re
-12032	om
+13759	om
 ¬
+
 ninò
-12040	dum
+13768	dum
 ¬
+
 modo
-12047	Bris
+
+13776	
+13778	Bris
 ¬
+
 to
-12051	Quin
+13783	
+Quin
 ¬
+
 til
-12075	argu
+13793	
+13796	
+13798	
+13805	
+13813	argu
 ¬
+
 mentis
-12085	so
+13824	so
 ¬
+
 lertia
-12095	et
+13835	et
 ¬
+
 iam
-12155	re
+13844	
+13851	
+13859	
+13870	
+13879	
+13888	
+13896	
+13903	re
 ¬
+
 quiro
-12205	in
+13917	
+13925	
+13933	
+13941	
+13951	
+13959	in
 ¬
+
 struxerit
-12239	super
+13969	
+13978	
+13983	
+13992	
+13998	super
 ¬
+
 stitiosè
-12258	per
+14008	
+14019	per
 ¬
+
 suadeas
-12313	ji
+14031	
+14040	
+14048	
+14056	
+14066	
+14068	
+14072	
+14076	
+14083	ji
 ¬
+
 ceat
-12340	do
+14097	
+14106	
+14113	do
 ¬
+
 ctissimorum
-12346	habe
+14120	habe
 ¬
+
 mus
-12360	familia
+14130	
+14136	familia
 ¬
+
 riter
-12370	in
+14147	in
 ¬
+
 quam
-12386	hu
+14158	
+14165	hu
 ¬
+
 ius
-12412	idip
+14177	
+14188	
+14194	idip
 ¬
+
 sum
-12430	narra
+14207	
+14214	narra
 ¬
+
 tionis
-12448	quid
+14225	
+14234	quid
 ¬
+
 quid
-12506	hercu
+14243	
+14255	
+14264	
+14273	
+14284	
+14292	
+14299	hercu
 ¬
+
 le
-12535	exqui
+14311	
+14320	
+14331	exqui
 ¬
+
 sitis
-12566	cogno
+14344	
+14354	
+14365	cogno
 ¬
+
 scunt
-12574	Dia
+14370	
+14374	
+14376	Dia
 ¬
+
 logo
-12598	li
+14381	
+14385	
+14396	
+14404	li
 ¬
+
 beat
-12610	admo
+14417	admo
 ¬
+
 nent
-12620	fe
+14428	fe
 ¬
+
 stinare
-12631	in
+14440	in
 ¬
+
 firmitate
-12648	li
+14450	
+14459	li
 ¬
+
 bros
-12666	Tul
+14470	
+14479	Tul
 ¬
+
 lio
-12695	descri
+14493	
+14503	
+14511	descri
 ¬
+
 ptionum
-12704	di
+14521	di
 ¬
+
 centem
-12722	pul
+14533	
+14541	pul
 ¬
+
 chritudinem
-12731	iudi
+14551	iudi
 ¬
+
 cijs
-12770	se
+14564	
+14573	
+14585	
+14594	se
 ¬
+
 ctantur
-12790	Tra
+14607	
+14616	Tra
 ¬
+
 duntque
-12810	bre
+14628	
+14638	bre
 ¬
+
 ui
-12838	inqui
+14650	
+14660	
+14669	inqui
 ¬
+
 natus
-12859	obtem
+14684	
+14692	obtem
 ¬
+
 perans
-12867	orna
+14701	orna
 ¬
+
 tior
-12886	transfe
+
+14709	
+14713	
+14715	
+14725	transfe
 ¬
+
 rantur
-12896	tem
+14736	tem
 ¬
+
 plis
-12919	disse
+14747	
+14755	
+14762	disse
 ¬
+
 rentem
-12935	e
+14772	
+14780	e
 ¬
+
 nim
-12976	ad
+14791	
+14799	
+14806	
+14814	
+14822	
+14827	ad
 ¬
+
 hibere
-12999	e
+14838	
+14846	
+14853	e
 ¬
+
 quidem
-13046	spe
+14862	
+14869	
+14883	
+14895	
+14905	spe
 ¬
+
 tiosiora
-13070	sum
+14915	
+14926	
+14932	sum
 ¬
+
 mo
-13094	osten
+14942	
+14951	
+14959	osten
 ¬
+
 tet
-13117	ro
+14970	
+14978	
+14985	ro
 ¬
+
 D
-13134	Bru
+14990	
+14992	
+14996	
+14999	
+15002	
+15007	
+15009	Bru
 ¬
+
 ro
-13161	pastori
+15014	
+15018	
+15025	
+15032	
+15041	pastori
 ¬
+
 tiâ
-13187	ad
+15053	
+15061	
+15070	ad
 ¬
+
 uocatis
-13196	ora
+15080	ora
 ¬
+
 tores
-13213	nu
+15092	
+15099	nu
 ¬
+
 men
-13220	ve
+15107	ve
 ¬
+
 nerentur
-13228	di
+15116	di
 ¬
+
 ctionem
-13263	pro
+15125	
+15138	
+15147	
+15155	pro
 ¬
+
 nuncio
-13279	lau
+15164	
+15173	lau
 ¬
+
 dari
-13289	il
+15184	il
 ¬
+
 lud
-13296	Anto
+15192	Anto
 ¬
+
 nium
-13320	quon
+15205	
+15213	
+15219	quon
 ¬
+
 dam
-13327	coniunctissi
+15227	coniunctissi
 ¬
+
 mos
-13343	ali
+15236	
+15245	ali
 ¬
+
 quid
-13380	Demo
+15256	
+15265	
+15275	
+15286	Demo
 ¬
+
 sthenes
-13392	Cor
+15299	
+Cor
 ¬
+
 Digitized
-13415	Asia
+15306	
+15310	
+15319	
+15321	
+15328	Asia
 ¬
+
 ticum
-13431	pe
+15338	
+15346	pe
 ¬
+
 regrinus
-13441	Hor
+15357	Hor
 ¬
+
 tensium
-13465	emar
+15369	
+15376	
+15384	emar
 ¬
+
 cuit
-13478	fi
+15398	fi
 ¬
+
 nem
-13526	curan
+15409	
+15417	
+15424	
+15432	
+15439	
+15446	
+15453	curan
 ¬
+
 dum
-13579	thea
+15460	
+15469	
+15471	
+15482	
+15487	
+15494	
+15506	
+15514	thea
 ¬
+
 trum
-13655	om
+15526	
+15536	
+15549	
+15563	
+15573	
+15581	
+15589	
+15598	om
 ¬
+
 D
-13686	mul
+15603	
+15606	
+15610	
+15613	
+15617	
+15619	
+15628	
+15637	mul
 ¬
+
 torum
-13703	assen
+15650	
+15656	assen
 ¬
+
 sum
-13747	maxi
+15668	
+15676	
+15688	
+15698	
+15705	maxi
 ¬
+
 mè
-13757	orato
+15716	orato
 ¬
+
 rempopulo
-13765	dixe
+15725	dixe
 ¬
+
 rit
-13788	multi
+15738	
+15750	multi
 ¬
+
 tudinem
-13821	dispo
+15762	
+15771	
+15780	
+15787	dispo
 ¬
+
 sitionem
-13864	sty
+15797	
+15806	
+15810	
+15814	
+15825	
+15829	
+15837	sty
 ¬
+
 Hlum
-13879	pluri
+15846	
+15854	pluri
 ¬
+
 morum
-13903	ta
+
+15862	
+15866	
+15868	
+15876	
+15884	ta
 ¬
+
 men
-13921	no
+15897	
+15904	no
 ¬
+
 strae
-13937	ar
+15916	
+15922	ar
 ¬
+
 roganter
-13945	eo
+15931	eo
 ¬
+
 rum
-13955	de
+15942	de
 ¬
+
 generes
-13963	eloquen
+15951	eloquen
 ¬
+
 tiae
-13971	non
+15960	non
 ¬
+
 nullas
-13986	non
+15970	
+15977	non
 ¬
+
 nullorum
-13992	resplende
+15984	resplende
 ¬
+
 scat
-14004	lon
+15997	lon
 ¬
+
 gissimum
-14035	verbo
+16010	
+16019	
+16024	
+16032	verbo
 ¬
+
 rum
-14042	eloquen
+16040	eloquen
 ¬
+
 tiae
-14051	tan
+16050	tan
 ¬
+
 quam
-14072	inhospi
+16058	
+16066	
+16074	inhospi
 ¬
+
 tas
-14082	eii
+16085	eii
 ¬
+
 ciamur
-14092	ex
+16096	ex
 ¬
+
 succas
-14098	pedi
+16103	pedi
 ¬
+
 bus
-14108	exa
+16114	exa
 ¬
+
 nimes
-14125	seposi
+16127	
+16133	seposi
 ¬
+
 tas
-14134	au
+16143	
+au
 ¬
+
 D
-14182	Laby
+16149	
+16153	
+16156	
+16165	
+16168	
+16174	
+16176	
+16179	
+16182	
+16184	
+16197	
+16204	Laby
 ¬
+
 rinthus
-14198	re
+16216	
+16222	re
 ¬
+
 periuntur
-14216	deii
+16234	
+16242	deii
 ¬
+
 ciant
-14238	aspe
+16254	
+16266	aspe
 ¬
+
 ram
-14249	fal
+16278	fal
 ¬
+
 lor
-14260	con
+16290	con
 ¬
+
 stantissimè
-14266	Edmun
+16297	Edmun
 ¬
+
 dus
-14273	in
+16305	in
 ¬
+
 ter
-14281	elo
+16314	elo
 ¬
+
 quentiae
-14302	da
+16324	
+16332	
+16338	da
 ¬
+
 bimus
-14330	ve
+16350	
+16362	
+16369	ve
 ¬
+
 tustum
-14351	aeta
+16381	
+16392	aeta
 ¬
+
 te
-14384	plu
+16407	
+16417	
+16428	plu
 ¬
+
 rimi
-14393	florentißi
+16438	florentißi
 ¬
+
 ma
-14406	lau
+16452	lau
 ¬
+
 dati
-14426	me
+16467	
+16474	me
 ¬
+
 dicus
-14444	ha
+16486	
+16494	ha
 ¬
+
 bentur
-14494	Augu
+
+16502	
+16506	
+16508	
+16519	
+16533	
+16544	
+16552	Augu
 ¬
+
 sti
-14504	octuagin
+16563	octuagin
 ¬
+
 ta
-14516	ora
+16576	ora
 ¬
+
 tores
-14534	Corne
+16587	
+16596	Corne
 ¬
+
 lius
-14563	degene
+16610	
+16621	
+16628	degene
 ¬
+
 rauerunt
-14572	Di
+16638	Di
 ¬
+
 cendi
-14583	no
+16650	no
 ¬
+
 bis
-14606	aetati
+16662	
+16670	
+16676	aetati
 ¬
+
 bus
-14636	col
+16688	
+16695	
+16703	
+16710	col
 ¬
+
 locat
-14644	pro
+16719	pro
 ¬
+
 pè
-14655	ma
+16731	ma
 ¬
+
 uis
-14679	rece
+16742	
+16752	
+16758	rece
 ¬
+
 dit
-14686	vs
+16766	vs
 ¬
+
 que
-14716	Cicero
+16777	
+16784	
+16793	
+16800	Cicero
 ¬
+
 nem
-14725	plo
+16805	
+16807	
+16811	
+16813	plo
 ¬
+
 rosque
-14730	o
+
+16819	
+16821	o
 ¬
+
 cuagesi
 ¬
+
 mum
 an
 ¬
+
 rum
-14749	vl
+16833	
+16835	
+16838	
+16842	
+16844	
+16847	
+16849	vl
 ¬
+
 tra
-14756	Adria
+16855	
+16858	
+Adria
 ¬
+
 nus
-14786	con
+
+16866	
+16869	
+16872	
+16875	
+16877	
+16890	
+16897	con
 ¬
+
 feram
-14857	vetu
+16909	
+16918	
+16929	
+16938	
+16945	
+16955	
+16967	
+16976	vetu
 ¬
+
 stior
-14872	di
+16992	di
 ¬
+
 cendo
-14881	anti
+17002	anti
 ¬
+
 quitate
-14908	ve
+17014	
+17023	
+17032	ve
 ¬
+
 terator
-14919	vi
+17044	vi
 ¬
+
 tium
-14938	Ca
+17057	
+17065	Ca
 ¬
+
 tonem
-14970	dis
+17075	
+17083	
+17093	
+17101	dis
 ¬
+
 ceptandi
-14978	superci
+17110	superci
 ¬
+
 lium
-15013	ver
+17119	
+17126	
+17134	
+17143	
+17150	ver
 ¬
+
 sus
-15022	at
+17160	at
 ¬
+
 que
-15061	qui
+17166	
+17168	
+17172	
+17174	
+17177	
+17179	
+17187	
+17195	
+17201	
+17209	qui
 ¬
+
 dem
-15084	sum
+17223	
+17234	sum
 ¬
+
 psisti
-15131	En
+17251	
+17259	
+17269	
+17278	
+17286	En
 ¬
+
 nius
-15147	fer
+17297	
+17304	fer
 ¬
+
 reum
-15163	Virgi
+17314	
+17322	Virgi
 ¬
+
 lium
-15177	Quin
+17332	
+17338	Quin
 ¬
+
 tilianus
-15214	intelli
+17353	
+17363	
+17371	
+17379	intelli
 ¬
+
 gi
-15223	maie
+17389	maie
 ¬
+
 stas
-15250	duo
+17401	
+17409	
+17419	duo
 ¬
+
 decim
-15260	Cras
+17430	Cras
 ¬
+
 sus
-15289	in
+17443	
+17453	
+17462	in
 ¬
+
 tidunt
-15347	om
+17472	
+17474	
+17478	
+17481	
+17484	
+17489	
+17494	
+17501	
+17505	
+17508	
+17510	
+17517	
+17520	
+17525	
+17530	
+17535	
+17537	om
 ¬
+
 nino
 sev
 ¬
+
 uandum
-15361	potissi
+17546	
+17549	
+17553	
+17556	
+potissi
 ¬
+
 mis
 mo
 ¬
+
 dus
-15399	so
+17567	
+17569	
+17578	
+17587	
+17590	
+17592	
+17603	so
 ¬
+
 nantibus
-15411	vita
+17616	vita
 ¬
+
 re
-15450	om
+17632	
+17647	
+17658	om
 ¬
+
 nis
-15460	negli
+17669	negli
 ¬
+
 git
-15487	Quin
+17684	
+17692	
+17699	Quin
 ¬
+
 tilianus
-15510	af
+17715	
+17724	af
 ¬
+
 ferunt
-15519	dele
+17734	dele
 ¬
+
 ctatione
-15527	ha
+17743	ha
 ¬
+
 bent
-15538	si
+17755	si
 ¬
+
 milem
-15561	affe
+17769	
+17780	affe
 ¬
+
 ctatione
-15571	repe
+17791	repe
 ¬
+
 tita
-15581	ANTIGE
+17802	ANTIGE
 ¬
+
 RIO
-15592	Salio
+17814	Salio
 ¬
+
 rum
-15611	lo
+17826	
+17835	lo
 ¬
+
 cum
-15638	ad
+17846	
+17856	
+17865	ad
 ¬
+
 mirabilem
-15679	et
+17875	
+17885	
+17897	
+17910	et
 ¬
+
 iam
-15688	inimitabi
+17920	inimitabi
 ¬
+
 lemarti
-15744	signi
+17932	
+17934	
+17938	
+17942	
+17944	
+17955	
+17966	
+17976	
+17985	signi
 ¬
+
 ficatio
-15807	neces
+17998	
+18011	
+18022	
+18028	
+18039	
+18048	
+18055	neces
 ¬
+
 sariò
-15816	FA
+18065	FA
 ¬
+
 RI
-15887	Cice
+18077	
+18089	
+18095	
+18102	
+18111	
+18118	
+18127	
+18135	
+18145	Cice
 ¬
+
 ronis
-15896	occi
+18155	occi
 ¬
+
 dit
-15903	florentissi
+18163	florentissi
 ¬
+
 mus
-15938	fu
+18174	
+18183	
+18191	
+18202	fu
 ¬
+
 isse
-15948	ora
+18213	ora
 ¬
+
 tione
-15957	ae
+18223	ae
 ¬
+
 rumnas
-15966	exi
+18233	exi
 ¬
+
 miam
-15995	Vni
+18238	
+18242	
+18245	
+18252	
+18256	
+18259	
+18262	
+18267	
+18271	
+Vni
 ¬
+
 uerso
-16020	malo
+18277	
+18281	
+18283	
+18292	
+18302	malo
 ¬
+
 rum
-16054	tristißi
+18314	
+18322	
+18332	
+18340	tristißi
 ¬
+
 mo
-16064	nominaue
+18351	nominaue
 ¬
+
 runt
-16074	se
+18362	se
 ¬
+
 dulus
-16102	a
+18373	
+18386	
+18393	a
 ¬
+
 pud
-16122	VNIVER
+18402	
+18409	
+18416	VNIVER
 ¬
+
 SAM
-16140	no
+18427	
+18436	no
 ¬
+
 men
-16146	homi
+18443	homi
 ¬
+
 num
-16165	re
+18455	
+18464	re
 ¬
+
 cens
-16180	prosa
+18474	
+18481	prosa
 ¬
+
 piae
-16189	vo
+18491	vo
 ¬
+
 cem
-16225	Roma
+18501	
+18509	
+18515	
+18526	
+18532	Roma
 ¬
+
 nâ
-16233	pri
+18541	pri
 ¬
+
 scam
-16242	arro
+18551	arro
 ¬
+
 ganter
-16251	at
+18561	at
 ¬
+
 que
-16269	v
+
+18569	
+18571	
+18575	
+18584	v
 ¬
+
 surpare
-16280	vta
+18596	vta
 ¬
+
 mur
-16307	ag
+18609	
+18618	
+18626	ag
 ¬
+
 minatim
-16314	prae
+18634	prae
 ¬
+
 liantem
-16342	Nun
+18644	
+18655	
+18665	Nun
 ¬
+
 cupari
-16358	opi
+18682	opi
 ¬
+
 nabar
-16400	vide
+18695	
+18704	
+18713	
+18723	
+18729	vide
 ¬
+
 tur
-16410	ora
+18740	ora
 ¬
+
 tionem
-16418	proce
+18749	proce
 ¬
+
 dere
-16457	me
+18759	
+18766	
+18776	
+18784	
+18793	me
 ¬
+
 rtò
-16521	TVBVRCHINABVN
+18809	
+18818	
+18827	
+18837	
+18847	
+18858	
+18864	TVBVRCHINABVN
 ¬
+
 DVM
-16530	quis
+18874	quis
 ¬
+
 quam
-16568	Locipi
+
+18882	
+18885	
+18888	
+18892	
+18895	
+18900	
+18907	
+18910	
+18912	
+18923	Locipi
 ¬
+
 CES
-16579	o
+18935	o
 ¬
+
 LA
-16616	ridi
+18947	
+18957	
+18968	
+18976	ridi
 ¬
+
 culum
-16655	pu
+18989	
+19001	
+19011	
+19019	pu
 ¬
+
 tida
-16665	pro
+19030	pro
 ¬
+
 cul
-16700	versi
+19037	
+19043	
+19054	
+19062	
+19070	versi
 ¬
+
 bus
-16716	fu
+19079	
+19088	fu
 ¬
+
 riarum
-16723	Au
+19096	Au
 ¬
+
 gustus
-16741	iu
+19110	
+19116	iu
 ¬
+
 dicio
-16761	ple
+19131	
+19138	ple
 ¬
+
 rasque
-16772	quo
+19150	quo
 ¬
+
 tidianis
-16779	Cu
+19158	Cu
 ¬
+
 rius
-16790	antiquis
+19170	antiquis
 ¬
+
 simi
-16801	ter
+19182	ter
 ¬
+
 gemini
-16813	ne
+19195	ne
 ¬
+
 que
-16850	ma
+19207	
+19216	
+19218	
+19222	
+19226	
+19228	
+19239	ma
 ¬
+
 tre
-16869	intellige
+19251	
+19260	intellige
 ¬
+
 re
-16908	Demo
+19275	
+19285	
+19295	
+19303	Demo
 ¬
+
 nax
-16924	Corep
+19320	Corep
 ¬
+
 υττικώς
-16949	a
+19334	
+19347	a
 ¬
+
 ποκρAλνη
-16965	re
+19357	
+19365	re
 ¬
+
 spondisset
-16987	respon
+19381	
+19389	respon
 ¬
+
 disti
-17002	Lucia
+19400	
+19406	Lucia
 ¬
+
 nus
-17030	squale
+19416	
+19423	
+19431	
+19438	squale
 ¬
+
 scunt
-17087	ma
+19449	
+19455	
+19464	
+19472	
+19482	
+19493	
+19502	ma
 ¬
+
 gnus
-17096	Do
+19512	Do
 ¬
+
 ctrinam
-17111	nomina
+19522	
+19529	nomina
 ¬
+
 bis
-17118	Lucia
+19534	
+19538	
+Lucia
 ¬
+
 nus
-17217	sa
+19544	
+19547	
+19552	
+19554	
+19564	
+19576	
+19584	
+19593	
+19601	
+19608	
+19616	
+19628	
+19637	
+19645	
+19653	sa
 ¬
+
 cratior
-17229	decli
+19661	
+19667	decli
 ¬
+
 nat
-17281	tem
+19679	
+19689	
+19696	
+19704	
+19712	
+19719	
+19726	tem
 ¬
+
 plum
-17290	aspe
+19736	aspe
 ¬
+
 rè
-17304	ni
+19745	
+19752	ni
 ¬
+
 mius
-17325	CA
+19761	
+19769	
+19776	
+CA
 ¬
+
 itized
-17391	mode
+19783	
+19788	
+19790	
+19794	
+19802	
+19810	
+19819	
+19829	
+19837	
+19846	
+19854	mode
 ¬
+
 rationem
-17407	vetusta
+19865	
+19872	vetusta
 ¬
+
 tem
-17414	loquen
+19880	loquen
 ¬
+
 di
-17422	con
+19889	con
 ¬
+
 trouersum
-17430	ap
+19898	ap
 ¬
+
 pellari
-17470	vlte
+19909	
+19918	
+19928	
+19936	
+19943	vlte
 ¬
+
 riùs
-17480	Mi
+19954	Mi
 ¬
+
 hi
-17490	anti
+19965	anti
 ¬
+
 quioris
-17498	prosa
+19974	prosa
 ¬
+
 piae
-17515	temera
+19985	
+19993	temera
 ¬
+
 ria
-17527	pau
+20002	
+20007	pau
 ¬
+
 latim
-17537	A
+20018	A
 ¬
+
 fri
-17546	solun
+20028	solun
 ¬
+
 modo
-17592	Ro
+20039	
+20041	
+20044	
+20048	
+20051	
+20060	
+20064	
+20067	
+20071	
+20074	
+20076	
+20079	
+20087	Ro
 ¬
+
 mani
-17671	Messa
+20096	
+20103	
+20113	
+20123	
+20133	
+20142	
+20151	
+20158	
+20168	
+20176	Messa
 ¬
+
 la
-17679	Augu
+20185	Augu
 ¬
+
 stus
-17686	dubi
+20193	dubi
 ¬
+
 tarint
-17697	Fa
+20205	Fa
 ¬
+
 brica
-17715	de
+20217	
+20225	de
 ¬
+
 inceps
-17726	mu
+20237	mu
 ¬
+
 tare
-17797	Si
+20249	
+20262	
+20276	
+20287	
+20297	
+20307	
+20315	Si
 ¬
+
 sennam
-17887	deri
+20325	
+20333	
+20341	
+20353	
+20369	
+20381	
+20383	
+20387	
+20391	
+20393	
+20395	
+20407	
+20418	deri
 ¬
+
 uare
-17898	conces
+20430	conces
 ¬
+
 sum
-17911	fin
+20444	fin
 ¬
+
 gere
-17918	ni
+20452	ni
 ¬
+
 Licuit
-17968	la
+20459	
+20466	
+20477	
+20488	
+20497	
+20508	la
 ¬
+
 tinitate
-18019	ha
+20520	
+20529	
+20533	
+20538	
+20549	
+20557	
+20561	
+20567	ha
 ¬
+
 beo
-18039	obser
+20581	
+20589	obser
 ¬
+
 uandum
-18048	ex
+20599	ex
 ¬
+
 emplo
-18081	Vni
+20618	
+20634	Vni
 ¬
+
 uersitate
-18094	Hora
+20648	Hora
 ¬
+
 tium
-18178	Quinti
+20662	
+20673	
+20687	
+20698	
+20710	
+20712	
+20715	
+20719	
+20721	
+20724	
+20727	
+20729	
+20737	
+20746	Quinti
 ¬
+
 lianus
-18218	anti
+20756	
+20765	
+20774	
+20783	
+20791	anti
 ¬
+
 quis
-18261	oratio
+20801	
+20808	
+20816	
+20825	
+20835	
+20840	oratio
 ¬
+
 nem
-18269	per
+20849	per
 ¬
+
 dat
-18287	bar
+20859	
+20869	bar
 ¬
+
 barae
-18294	au
+20877	au
 ¬
+
 res
-18320	pon
+20889	
+20898	
+20906	pon
 ¬
+
 dus
-18339	petu
+20918	
+20927	petu
 ¬
+
 lanter
-18364	requi
+20939	
+20949	
+20955	requi
 ¬
+
 rant
-18374	Quotusquis
+20966	Quotusquis
 ¬
+
 que
-18384	mu
+20977	mu
 ¬
+
 lier
-18392	veteri
+20986	veteri
 ¬
+
 bus
-18414	s
+20998	
+21006	
+21008	
+21012	
+s
 ¬
+
 is
 ¬
+
 E
-18466	Eru
+
+21023	
+21027	
+21029	
+21040	
+21059	
+21062	
+21073	
+21075	Eru
 ¬
+
 nec
-18476	Commen
+21086	Commen
 ¬
+
 tabar
-18527	ma
+21100	
+21113	
+21124	
+21131	
+21142	ma
 ¬
+
 de
-18553	Ori
+21148	
+21160	
+21171	Ori
 ¬
+
 nepronuntiatum
-18562	occur
+21181	occur
 ¬
+
 rit
-18584	su
+21195	
+21205	su
 ¬
+
 muntur
-18595	argumen
+21217	argumen
 ¬
+
 tum
-18623	im
+21229	
+21240	
+21248	im
 ¬
+
 portuna
-18698	im
+21258	
+21267	
+21274	
+21281	
+21289	
+21293	
+21301	
+21308	
+21318	
+21325	
+21334	im
 ¬
+
 probo
-18716	grammati
+21346	
+21354	grammati
 ¬
+
 cam
-18730	incin
+21364	
+21370	incin
 ¬
+
 ctus
-18845	scientissi
+21375	
+21378	
+21382	
+21384	
+21387	
+21390	
+21393	
+21397	
+21399	
+21408	
+21420	
+21430	
+21438	
+21445	
+21455	
+21463	
+21475	
+21487	
+21499	
+21505	scientissi
 ¬
+
 mi
-18856	v
+21517	v
 ¬
+
 surpare
-18879	gen
+21529	
+21537	
+21543	gen
 ¬
+
 tes
-18905	Pla
+21554	
+21564	
+21572	Pla
 ¬
+
 cet
-18931	ora
+21582	
+21592	
+21601	ora
 ¬
+
 tioni
-18941	Auden
+21612	Auden
 ¬
+
 dum
-18962	Auden
+21626	
+21635	Auden
 ¬
+
 dum
-18971	orato
+21645	orato
 ¬
+
 ribus
-18990	ali
+21657	
+21666	ali
 ¬
+
 quid
-19007	car
+21677	
+21685	car
 ¬
+
 pant
-19051	Libiti
+21696	
+21698	
+21702	
+21706	
+21713	
+21719	
+21723	
+21731	
+21738	Libiti
 ¬
+
 nam
-19058	silen
+21746	silen
 ¬
+
 tij
-19069	na
+21758	na
 ¬
+
 scentia
-19077	educen
+21767	educen
 ¬
+
 tur
-19086	su
+21777	su
 ¬
+
 mus
-19096	di
+21788	di
 ¬
+
 cendo
-19148	me
+21800	
+21810	
+21818	
+21827	
+21836	
+21846	me
 ¬
+
 dio
-19176	domici
+21857	
+21865	
+21872	
+21878	domici
 ¬
+
 lium
-19208	ob
+21888	
+21900	
+21913	ob
 ¬
+
 16
-19223	v
+21922	
+21930	v
 ¬
+
 suponit
-19286	di
+21940	
+21950	
+21957	
+21960	
+21963	
+21967	
+21971	
+21973	
+21985	
+21991	
+21999	
+22005	di
 ¬
+
 cit
-19343	PI
+22014	
+22022	
+22027	
+22038	
+22045	
+22051	
+22061	
+22070	PI
 ¬
+
 CTACIVM
-19366	pu
+22081	
+22089	
+22096	pu
 ¬
+
 milione
-19374	syco
+22105	syco
 ¬
+
 phantâ
-19384	re
+22116	re
 ¬
+
 liquit
-19410	LEVEN
+22129	
+22138	
+22145	LEVEN
 ¬
+
 NAM
-19420	cocro
+22156	cocro
 ¬
+
 NEMperuulgatè
-19427	ARVLATO
+22164	ARVLATO
 ¬
+
 FEM
-19437	ex
+22175	ex
 ¬
+
 quibus
-19444	casti
+22183	casti
 ¬
+
 gat
-19463	Ci
+22196	
+22204	Ci
 ¬
+
 cero
-19492	ne
+22219	
+22227	
+22236	ne
 ¬
+
 queat
-19500	proscri
+22245	proscri
 ¬
+
 bantur
-19550	Quid
+22250	
+22254	
+22258	
+22267	
+22276	
+22283	
+22294	
+22303	Quid
 ¬
+
 nam
-19603	sub
+22319	
+22333	
+22341	
+22349	
+22361	sub
 ¬
+
 uenitis
-19636	fami
+22375	
+22387	
+22397	fami
 ¬
+
 liaris
-19656	sor
+22408	
+22419	sor
 ¬
+
 didum
-19672	in
+22429	
+22437	in
 ¬
+
 terolidas
-19680	parie
+22446	parie
 ¬
+
 tinas
-19688	pastori
+22455	pastori
 ¬
+
 cięgentis
-19696	mo
+22464	mo
 ¬
+
 uent
-19706	nar
+22475	nar
 ¬
+
 tat
-19758	vel
+22486	
+22494	
+22505	
+22515	
+22523	
+22533	vel
 ¬
+
 let
-19781	in
+22546	
+22558	in
 ¬
+
 quit
-19798	Bru
+22570	
+22573	
+22577	
+22579	Bru
 ¬
+
 to
-19836	quid
+22584	
+22589	
+22596	
+22599	
+22602	
+22605	
+22607	
+22618	
+22626	quid
 ¬
+
 nam
-19856	ri
+22639	
+22648	ri
 ¬
+
 serunt
-19883	inscri
+22658	
+22667	
+22678	inscri
 ¬
+
 pta
-19921	oratio
+22691	
+22700	
+22710	
+22720	oratio
 ¬
+
 num
-19929	ver
+22729	ver
 ¬
+
 ba
-19962	stan
+22741	
+22749	
+22758	
+22766	stan
 ¬
+
 tium
-19994	tergiuersato
+22778	
+22786	
+22793	
+22802	tergiuersato
 ¬
+
 rem
-20005	au
+22814	au
 ¬
+
 tem
-20030	san
+22824	
+22833	
+22842	san
 ¬
+
 nis
-20040	prio
+22853	prio
 ¬
+
 ri
-20048	vo
+22862	vo
 ¬
+
 cati
-20056	ver
+22871	ver
 ¬
+
 bum
-20078	Sca
+22880	
+22890	
+22896	Sca
 ¬
+
 lam
-20099	aper
+22901	
+22905	
+22909	
+22911	
+22922	aper
 ¬
+
 tè
-20119	ad
+22935	
+22944	ad
 ¬
+
 scita
-20130	quo
+22956	quo
 ¬
+
 que
-20141	ferrumi
+22968	ferrumi
 ¬
+
 natorem
-20162	v
+22981	
+22991	v
 ¬
+
 teretur
-20195	vti
+23002	
+23013	
+23021	
+23028	vti
 ¬
+
 nam
-20219	no
+23039	
+23047	
+23055	no
 ¬
+
 tum
-20229	a
+23066	a
 ¬
+
 liorum
-20244	elo
+23075	
+23083	elo
 ¬
+
 quentiae
-20260	ora
+23093	
+23101	ora
 ¬
+
 tionis
-20274	a
+23111	
+23117	a
 ¬
+
 matores
-20294	pro
+23130	
+23139	pro
 ¬
+
 trita
-20303	ve
+23149	ve
 ¬
+
 recundantia
-20353	Constituen
+23162	
+23170	
+23180	
+23191	
+23200	
+23205	Constituen
 ¬
+
 duni
 ¬
+
 Digitized
-20373	voce
+23214	
+23217	
+23221	
+23223	
+23231	voce
 ¬
+
 mus
-20387	acci
+23246	acci
 ¬
+
 piat
-20450	reprehen
+23257	
+23271	
+23286	
+23298	
+23307	
+23315	reprehen
 ¬
+
 sione
-20477	accipien
+23327	
+23338	
+23345	accipien
 ¬
+
 dum
-20505	con
+23358	
+23368	
+23376	con
 ¬
+
 suetudinem
-20511	erudito
+23383	erudito
 ¬
+
 rum
-20538	per
+23396	
+23404	
+23413	per
 ¬
+
 poliendâ
-20546	videa
+23422	videa
 ¬
+
 tur
-20554	Philoso
+23431	Philoso
 ¬
+
 phosque
-20560	stu
+23438	stu
 ¬
+
 diosos
-20589	vtram
+23449	
+23456	
+23464	
+23471	vtram
 ¬
+
 uis
-20622	dictioni
+23483	
+23494	
+23502	
+23508	dictioni
 ¬
+
 bus
-20632	de
+23519	de
 ¬
+
 dem
-20650	di
+23524	
+23528	
+23532	
+23534	
+23542	di
 ¬
+
 gnitas
-20659	oratio
+23552	oratio
 ¬
+
 nis
-20686	subtraxe
+23562	
+23573	
+23582	subtraxe
 ¬
+
 ris
-20698	ni
+23595	ni
 ¬
+
 mis
-20717	creber
+23609	
+23616	creber
 ¬
+
 rimis
-20734	in
+23626	
+23635	in
 ¬
+
 quam
-20754	di
+23641	
+23644	
+23651	
+23659	di
 ¬
+
 cam
-20777	quanta
+23670	
+23678	
+23685	quanta
 ¬
+
 cunque
-20785	scri
+23694	scri
 ¬
+
 ptores
-20795	ino
+23705	ino
 ¬
+
 piâ
-20818	difficil
+23715	
+23723	
+23731	difficil
 ¬
+
 limum
-20826	commentatio
+23740	commentatio
 ¬
+
 ne
-20835	age
+23750	age
 ¬
+
 re
-20908	es
+23762	
+23770	
+23772	
+23776	
+23782	
+23785	
+23790	
+23797	
+23801	
+23808	
+23811	
+23815	
+23817	
+23828	
+23838	es
 ¬
+
 se
-20919	Pri
+23850	Pri
 ¬
+
 mum
-20927	qui
+23859	qui
 ¬
+
 dem
-20994	perore
+23871	
+23878	
+23885	
+23893	
+23900	
+23909	
+23919	
+23928	
+23935	perore
 ¬
+
 mus
-21004	contro
+23946	contro
 ¬
+
 uersiarum
-21013	delite
+23956	delite
 ¬
+
 scunt
-21025	pro
+23969	pro
 ¬
+
 ditur
-21037	pe
+23982	pe
 ¬
+
 riculum
-21051	vocabu
+23997	vocabu
 ¬
+
 lum
-21095	Ne
+24009	
+24020	
+24030	
+24045	Ne
 ¬
+
 que
-21103	Graeco
+24054	Graeco
 ¬
+
 rum
-21112	βάρbα
+24064	βάρbα
 ¬
+
 ρoν
-21122	antiquio
+24075	antiquio
 ¬
+
 res
-21132	vn
+24086	vn
 ¬
+
 quam
-21144	Grae
+24099	Grae
 ¬
+
 co
-21153	dici
+24109	dici
 ¬
+
 tur
-21180	He
+24120	
+24129	
+24131	
+24135	
+24137	
+24141	
+24143	He
 ¬
+
 Agellio
-21202	volue
+24152	
+24159	
+24168	volue
 ¬
+
 runt
-21245	proditu
+24179	
+24188	
+24200	
+24209	
+24216	proditu
 ¬
+
 rus
-21256	a
+24228	a
 ¬
+
 lienam
-21265	mul
+24238	mul
 ¬
+
 ctae
-21317	man
+24254	
+24271	
+24285	
+24294	man
 ¬
+
 sisse
-21354	barba
+24307	
+24310	
+24320	
+24327	
+24336	barba
 ¬
+
 rismi
-21376	fer
+24353	
+24360	fer
 ¬
+
 rum
-21430	illu
+24372	
+24382	
+24391	
+24403	
+24410	
+24420	illu
 ¬
+
 Pro
-21467	genti
+
+24436	
+24438	
+24453	
+24456	
+24463	genti
 ¬
+
 prouin
 ¬
+
 bus
-21483	con
+24480	
+24482	con
 ¬
+
 Taceo
-21496	ulari
+24496	
+ulari
 ¬
+
 bus
-21509	inse
+24502	
+24511	
+24513	
+inse
 ¬
+
 Digitized
-21514	
-21532	Ro
+24520	
+
+24525	
+24527	
+24534	
+24542	Ro
 ¬
+
 manis
-21549	Ci
+24553	
+24561	Ci
 ¬
+
 cero
-21626	Cice
+24573	
+24582	
+24592	
+24601	
+24610	
+24621	
+24630	
+24640	
+24647	Cice
 ¬
+
 roniani
-21635	doctio
+24657	doctio
 ¬
+
 res
-21665	dis
+24667	
+24676	
+24684	
+24691	dis
 ¬
+
 ceptandum
-21674	di
+24701	di
 ¬
+
 ctum
-21720	op
+24713	
+24724	
+24736	
+24745	
+24752	op
 ¬
+
 portunè
-21733	con
+24760	
+24767	con
 ¬
+
 cesserit
-21742	vrbani
+24777	vrbani
 ¬
+
 tatis
-21773	Mi
+24788	
+24798	
+24807	
+24809	
+24813	
+Mi
 ¬
+
 ii
-21782	
-21792	si
+
+24820	
+24823	
+24825	
+24827	
+24829	
+
+24832	
+24834	
+24836	
+24838	
+24840	
+24842	
+24844	
+24846	
+24848	
+si
 ¬
+
 1
-21807	Quâ
+
+24855	
+24857	
+24861	
+24863	
+24870	Quâ
 ¬
+
 nam
-21822	adsigna
+24881	
+24887	adsigna
 ¬
+
 re
-21831	di
+24897	di
 ¬
+
 sciplinam
-21846	Profa
+24907	
+24914	Profa
 ¬
+
 nus
-21888	infi
+24925	
+24934	
+24941	
+24952	
+24961	infi
 ¬
+
 nita
-21907	Mar
+24972	
+24982	Mar
 ¬
+
 chio
-21919	Con
+24995	Con
 ¬
+
 filiarius
-21954	ad
+25006	
+25016	
+25025	
+25034	ad
 ¬
+
 mitti
-21964	ran
+25045	ran
 ¬
+
 cida
-21984	barba
+25057	
+25067	barba
 ¬
+
 ries
-21993	titulo
+25077	titulo
 ¬
+
 rum
-22000	ap
+25085	ap
 ¬
+
 pellatio
-22008	ne
+25094	ne
 ¬
+
 mo
-22030	ta
+25104	
+25112	
+25119	ta
 ¬
+
 men
-22052	re
+25129	
+25138	
+25144	re
 ¬
+
 ligionem
-22062	Cice
+
+25151	
+25155	
+25157	
+25159	Cice
 ¬
+
 ronia
 ¬
+
 no
-22068	Nitar
+25167	
+Nitar
 ¬
+
 dus
-22081	superstitio
+25173	
+25177	
+25179	
+25185	superstitio
 ¬
+
 nem
-22134	expe
+25198	
+25208	
+25220	
+25229	
+25238	
+25244	expe
 ¬
+
 diat
-22171	omni
+25256	
+25266	
+25277	
+25285	omni
 ¬
+
 bus
-22192	ni
+25294	
+25302	
+25309	ni
 ¬
+
 nil
-22244	Ro
+25320	
+25329	
+25340	
+25346	
+25354	
+25362	
+25368	Ro
 ¬
+
 manis
-22273	contem
+25377	
+25385	
+25395	
+25401	contem
 ¬
+
 pleris
-22289	a
+25411	
+25419	a
 ¬
+
 mur
-22323	fra
+25432	
+25445	
+25456	fra
 ¬
+
 dre
-22404	Grae
+
+25464	
+25468	
+25470	
+25481	
+25483	
+25494	
+25505	
+25516	
+25520	
+25524	
+25530	
+25537	
+25543	
+25552	Grae
 ¬
+
 ci
-22413	in
+25562	in
 ¬
+
 uadere
-22421	oppo
+25571	oppo
 ¬
+
 nemus
-22428	suo
+25579	suo
 ¬
+
 tum
-22437	at
+25589	at
 ¬
+
 que
-22444	in
+25597	in
 ¬
+
 terdum
-22460	eo
+25607	
+25615	eo
 ¬
+
 iundem
-22473	ador
+25624	
+25630	ador
 ¬
+
 net
-22501	inur
+25643	
+25651	
+25661	inur
 ¬
+
 banê
-22519	no
+25672	
+25681	no
 ¬
+
 men
-22556	Fini
+25694	
+25702	
+25704	
+25707	
+25711	
+25716	
+25719	
+25721	
+25726	
+25728	Fini
 ¬
+
 bus
-22592	quibus
+25733	
+25737	
+25742	
+25746	
+25748	
+25760	
+25771	quibus
 ¬
+
 cum
-22612	inconcin
+25783	
+25793	inconcin
 ¬
+
 nus
-22652	quae
+25808	
+25816	
+25828	
+25837	quae
 ¬
+
 ras
-22669	secun
+25849	
+25856	secun
 ¬
+
 do
-22686	verba
+25867	
+25875	verba
 ¬
+
 ruminops
-22707	labo
+25885	
+25898	labo
 ¬
+
 tare
-22731	Ro
+25908	
+25917	
+25925	Ro
 ¬
+
 manos
-22758	pro
+25933	
+25941	
+25947	
+25956	pro
 ¬
+
 fluunt
-22784	Philo
+25966	
+25976	
+25985	Philo
 ¬
+
 sophia
-22795	Geo
+25997	Geo
 ¬
+
 metria
-22843	pu
+26010	
+26020	
+26028	
+26040	
+26050	pu
 ¬
+
 ti
-22881	apo
+
+26058	
+26060	
+26064	
+26076	
+26086	
+26095	apo
 ¬
+
 proegmenis
-22911	con
+26104	
+26114	
+26122	
+26129	con
 ¬
+
 temnere
-22920	con
+26139	con
 ¬
+
 firmare
-22928	si
+26148	si
 ¬
+
 quando
-22988	absti
+26158	
+26166	
+26176	
+26186	
+26194	
+26205	
+26215	absti
 ¬
+
 nuitque
-22999	MONO
+26227	MONO
 ¬
+
 POLIVM
-23016	et
+26237	
+26246	et
 ¬
+
 iam
-23026	re
+26257	re
 ¬
+
 titaretur
-23036	pe
+26268	pe
 ¬
+
 regrinam
-23046	reperi
+26279	reperi
 ¬
+
 tetur
-23071	oratio
+26292	
+26300	
+26307	oratio
 ¬
+
 nem
-23094	toto
+26317	
+26326	
+26333	toto
 ¬
+
 ptimates
-23112	trucu
+26345	
+26353	trucu
 ¬
+
 lentis
 ¬
+
 F
-23137	nul
+26361	
+26365	
+26368	
+26373	
+26376	
+26379	
+26381	
+26387	nul
 ¬
+
 lo
-23164	Tibe
+26399	
+26409	
+26417	Tibe
 ¬
+
 rius
-23208	ob
+26428	
+26439	
+26451	
+26460	
+26466	ob
 ¬
+
 seruarant
-23219	dicen
+26478	dicen
 ¬
+
 te
-23230	fuis
+26490	fuis
 ¬
+
 set
-23240	an
+26501	an
 ¬
+
 tiqua
-23249	ho
+26511	ho
 ¬
+
 minibus
-23275	le
+26521	
+26532	
+26540	le
 ¬
+
 gibus
-23292	eo
+26551	
+26559	eo
 ¬
+
 rum
-23301	sapien
+26569	sapien
 ¬
+
 tiores
-23317	faculta
+26581	
+26587	faculta
 ¬
+
 tem
-23333	vti
+26599	
+26605	vti
 ¬
+
 litati
-23341	indul
+26614	indul
 ¬
+
 geant
-23349	no
+26623	no
 ¬
+
 stro
-23357	dome
+26632	dome
 ¬
+
 stica
-23366	seuerio
+26642	seuerio
 ¬
+
 ris
-23374	au
+26651	au
 ¬
+
 sim
-23382	gno
+26660	gno
 ¬
+
 mas
-23408	dum
+26673	
+26675	
+26679	
+26681	
+26685	
+26692	dum
 ¬
+
 modo
-23425	insul
+26704	
+26711	insul
 ¬
+
 sum
-23467	vo
+26723	
+26733	
+26741	
+26750	
+26758	vo
 ¬
+
 lumus
-23490	Lau
+26769	
+26778	
+26784	Lau
 ¬
+
 danda
-23498	prę
+26793	prę
 ¬
+
 sertim
-23504	fami
+26800	fami
 ¬
+
 liariter
-23513	Graeco
+26810	Graeco
 ¬
+
 rum
-23529	ser
+26819	
+26828	ser
 ¬
+
 monis
-23550	gym
+26837	
+26846	
+26852	gym
 ¬
+
 nasia
-23561	ae
+26864	ae
 ¬
+
 ternùm
-23569	ver
+26873	ver
 ¬
+
 sabatur
-23619	vulga
+26884	
+26892	
+26901	
+26910	
+26919	
+26929	vulga
 ¬
+
 rem
-23643	vehemen
+26939	
+26948	
+26956	vehemen
 ¬
+
 ter
-23685	tan
+
+26963	
+26967	
+26970	
+26975	
+26980	
+26984	
+26987	
+26990	
+26992	
+27001	
+27010	tan
 ¬
+
 tum
-23692	recordatio
+27018	recordatio
 ¬
+
 nem
-23716	magnilo
+27030	
+27038	
+27045	magnilo
 ¬
+
 quentia
-23735	e
+27056	
+27066	e
 ¬
+
 nim
-23751	Grę
+27077	
+27084	Grę
 ¬
+
 ca
-23762	es
+27096	es
 ¬
+
 set
-23772	ta
+27107	ta
 ¬
+
 men
-23790	litte
+27119	
+27127	litte
 ¬
+
 rarum
-23799	re
+27137	re
 ¬
+
 peries
-23811	Grae
+27150	Grae
 ¬
+
 ca
-23819	scri
+27159	scri
 ¬
+
 ptis
-23844	scri
+27169	
+27178	
+27187	scri
 ¬
+
 beret
-23855	studio
+27199	studio
 ¬
+
 rum
-23882	Atti
+27209	
+27221	
+27229	Atti
 ¬
+
 cum
-23910	oppor
+27241	
+27251	
+27260	oppor
 ¬
+
 tunè
-23920	in
+27271	in
 ¬
+
 stitueret
-23930	Grae
+27282	Grae
 ¬
+
 culi
-23952	Cicero
+27291	
+27293	
+27297	
+27301	
+27303	
+27310	Cicero
 ¬
+
 nem
-23967	Grae
+27320	
+27327	Grae
 ¬
+
 corum
-23983	bibe
+27338	
+27345	bibe
 ¬
+
 rent
-24020	produxi
+27356	
+27366	
+27373	
+27381	
+27387	produxi
 ¬
+
 mus
-24031	baceo
+27399	baceo
 ¬
+
 lum
-24066	vo
+27410	
+27418	
+27429	
+27438	vo
 ¬
+
 cem
-24077	Grae
+27450	Grae
 ¬
+
 cis
-24086	co
+27460	co
 ¬
+
 gitationum
-24113	a
+27471	
+27482	
+27490	a
 ¬
+
 gereproposuisset
-24140	ho
+27502	
+27511	
+27520	ho
 ¬
+
 mines
-24165	vir
+27530	
+27538	
+27548	vir
 ¬
+
 tute
-24193	didi
+27558	
+27567	
+27575	
+27580	didi
 ¬
+
 cerunt
-24230	repre
+27585	
+27589	
+27592	
+27595	
+27600	
+27602	
+27607	
+27610	
+27615	
+27618	
+27620	
+27629	repre
 ¬
+
 hendunt
-24298	sequi
+27634	
+27643	
+27647	
+27656	
+27667	
+27677	
+27685	
+27694	
+27701	
+27707	sequi
 ¬
+
 oris
-24345	de
+27723	
+27730	
+27738	
+27745	
+27751	
+27755	
+27761	de
 ¬
+
 lectu
-24355	o
+27768	
+27773	o
 ¬
+
 Qrationis
-24370	Sene
+27783	
+27790	Sene
 ¬
+
 ca
-24401	Sal
+27803	
+27813	
+27824	Sal
 ¬
+
 lustium
-24436	Fy
+27834	
+27844	
+27846	
+27850	
+27854	
+27856	
+27866	Fy
 ¬
+
 GAM
-24450	FA
+27877	
+27882	FA
 ¬
+
 CIT
-24460	PANORMI
+27893	PANORMI
 ¬
+
 TANOS
-24467	Gu
+27901	Gu
 ¬
+
 stum
-24487	cre
+27914	
+27923	cre
 ¬
+
 bra
-24528	Ar
+27938	
+27950	
+27961	
+27968	Ar
 ¬
+
 runtius
-24546	di
+27979	
+27988	di
 ¬
+
 cere
-24565	SEXA
+28000	
+28009	SEXA
 ¬
+
 GINTA
-24570	PRAETERMI
+28015	PRAETERMI
 ¬
+
 LITEM
-24597	CIVILIAAE
+28024	
+28031	
+28040	
+28046	CIVILIAAE
 ¬
+
 QVI
-24635	ex
+28056	
+28066	
+28072	
+28083	
+28089	ex
 ¬
+
 actor
-24644	eas
+28099	eas
 ¬
+
 dem
-24654	e
+28110	e
 ¬
+
 nim
-24714	anti
+28120	
+28127	
+28135	
+28139	
+28143	
+28147	
+28150	
+28155	
+28158	
+28163	
+28166	
+28168	
+28177	
+28184	anti
 ¬
+
 quos
-24739	quodan
+28195	
+28205	
+28212	quodan
 ¬
+
 modo
-24772	occul
+28224	
+28232	
+28241	
+28249	occul
 ¬
+
 tant
-24856	Ca
+28262	
+28270	
+28278	
+28289	
+28297	
+28307	
+28316	
+28323	
+28334	
+28343	Ca
 ¬
+
 uendum
-24872	hu
+28354	
+28361	hu
 ¬
+
 iusmodi
-24901	vo
+28370	
+28377	
+28387	
+28394	vo
 ¬
+
 eatur
-24911	pas
+28405	pas
 ¬
+
 sim
-24926	insinu
+28415	
+28422	insinu
 ¬
+
 are
-24975	nul
+28436	
+28449	
+28451	
+28455	
+28459	
+28461	
+28470	
+28479	nul
 ¬
+
 lo
-25002	quae
+28490	
+28500	
+28509	quae
 ¬
+
 dam
-25019	consti
+28521	
+28528	consti
 ¬
+
 tuo
-25034	sub
+28537	
+28545	sub
 ¬
+
 limiori
-25042	vul
+28554	vul
 ¬
+
 gus
-25064	persuade
+28566	
+28573	
+28579	persuade
 ¬
+
 ant
-25074	ora
+28590	ora
 ¬
+
 torem
-25081	reueren
+28598	reueren
 ¬
+
 dum
-25103	praescri
+28608	
+28616	
+28623	praescri
 ¬
+
 pserunt
-25113	con
+28634	con
 ¬
+
 trouersiae
-25122	o
+28644	o
 ¬
+
 ratori
-25141	ex
+28656	
+28665	ex
 ¬
+
 plorata
-25149	exami
+28674	exami
 ¬
+
 nandum
-25172	o
+28683	
+28692	
+28700	o
 ¬
+
 pus
-25183	conti
+28712	conti
 ¬
+
 cescant
-25193	con
+28723	con
 ¬
+
 clusiunculis
-25210	philosophica
+28735	
+28742	philosophica
 ¬
+
 rum
-25247	poëta
+
+28750	
+28752	
+28754	
+28759	
+28762	
+28764	
+28774	
+28783	
+28789	poëta
 ¬
+
 rum
-25257	le
+28800	le
 ¬
+
 ges
-25267	ge
+28811	ge
 ¬
+
 nere
-25276	e
+28821	e
 ¬
+
 pistolis
-25310	Na
+28830	
+28837	
+28844	
+28855	
+28860	Na
 ¬
+
 sonem
-25325	agre
+28870	
+28877	agre
 ¬
+
 stes
-25346	stu
+28886	
+28896	
+28901	stu
 ¬
+
 dia
-25362	cogni
+28912	
+28919	cogni
 ¬
+
 tio
-25377	di
+28928	
+28936	di
 ¬
+
 sciplinae
-25439	ad
+28946	
+28956	
+28964	
+28975	
+28987	
+28997	
+29005	ad
 ¬
+
 misceri
-25459	dele
+29016	
+29027	dele
 ¬
+
 ctu
-25492	post
+29040	
+29042	
+29046	
+29050	
+29052	
+29056	
+29058	
+29068	post
 ¬
+
 quam
-25520	orna
+29078	
+29088	
+29099	orna
 ¬
+
 mento
-25562	ag
+29109	
+29118	
+29126	
+29137	
+29146	ag
 ¬
+
 mine
-25571	viri
+29156	viri
 ¬
+
 des
-25579	de
+29165	de
 ¬
+
 bet
-25615	Anto
+29177	
+29185	
+29194	
+29205	Anto
 ¬
+
 nium
-25624	ta
+29215	ta
 ¬
+
 men
-25655	vi
+29225	
+29233	
+29242	
+29250	vi
 ¬
+
 tio
-25665	so
+29261	so
 ¬
+
 litum
-25697	pro
+29274	
+29285	
+29296	pro
 ¬
+
 latus
-25707	ni
+29307	ni
 ¬
+
 mis
-25716	ri
+29317	ri
 ¬
+
 diculos
-25735	r
+29328	
+29336	
+29339	
+r
 ¬
+
 CAC
-25758	ad
+
+29348	
+29351	
+29356	
+29360	
+29369	ad
 ¬
+
 mittunt
-25788	so
+29376	
+29381	
+29387	
+29395	
+29404	so
 ¬
+
 lis
-25817	scho
+29416	
+29423	
+29431	
+29437	scho
 ¬
+
 lis
-25839	sto
+29451	
+29461	sto
 ¬
+
 macho
-25850	re
+29473	re
 ¬
+
 prehenderent
-25908	ora
+29483	
+29491	
+29498	
+29505	
+29512	
+29521	
+29530	
+29539	ora
 ¬
+
 torem
-25923	or
+29548	
+29556	or
 ¬
+
 natè
-25932	Ta
+29566	Ta
 ¬
+
 lem
-25948	eruditis
+29578	
+29584	eruditis
 ¬
+
 simo
-25971	vi
+
+29590	
+29594	
+29598	
+29600	
+29606	
+29614	vi
 ¬
+
 rum
-25984	di
+29628	di
 ¬
+
 cendo
-25993	declama
+29638	declama
 ¬
+
 tores
-26009	vene
+29650	
+29656	vene
 ¬
+
 runt
-26034	Var
+29669	
+29676	
+29684	Var
 ¬
+
 rone
-26095	instru
+29695	
+29703	
+29713	
+29721	
+29732	
+29743	
+29752	instru
 ¬
+
 menta
-26151	sa
+29763	
+29776	
+29797	
+29806	
+29813	sa
 ¬
+
 pientissimusque
-26158	Cam
+29821	Cam
 ¬
+
 nullum
-26195	sa
+29836	
+29849	
+29861	sa
 ¬
+
 piens
-26242	oc
+29871	
+29883	
+29893	
+29903	
+29913	oc
 ¬
+
 G
-26263	ACI
+29918	
+29921	
+29925	
+29928	
+29930	
+29940	ACI
 ¬
+
 NVSVINACEVS
-26289	VIR
+29949	
+29958	
+29969	VIR
 ¬
+
 GETA
-26306	MVLIERO
+29981	
+29988	MVLIERO
 ¬
+
 SVM
-26314	MVLTIPLICABI
+29997	MVLTIPLICABI
 ¬
+
 LEM
-26326	epi
+30010	epi
 ¬
+
 stolis
-26335	se
+30020	se
 ¬
+
 mel
-26345	Vni
+30031	Vni
 ¬
+
 uersitate
-26355	DIVA
+30042	DIVA
 ¬
+
 RICARI
-26364	viTicy
+30052	viTicy
 ¬
+
 LAS
-26386	recu
+30066	
+30076	recu
 ¬
+
 perari
-26396	excide
+30087	excide
 ¬
+
 runt
-26407	ta
+30099	ta
 ¬
+
 men
-26465	Cicero
+30109	
+30121	
+30130	
+30136	
+30144	
+30154	
+30164	Cicero
 ¬
+
 nis
-26485	cen
+30177	
+30186	cen
 ¬
+
 sorem
-26497	lo
+30199	lo
 ¬
+
 quebatur
-26507	ad
+30210	ad
 ¬
+
 mirabile
-26548	flu
+30221	
+30229	
+30237	
+30240	
+30244	
+30248	
+30250	
+30259	flu
 ¬
+
 men
-26601	scri
+30270	
+30279	
+30290	
+30299	
+30306	
+30312	
+30319	scri
 ¬
+
 psisse
-26610	viua
+30329	viua
 ¬
+
 ciùs
-26622	orato
+30342	orato
 ¬
+
 rum
-26639	PER
+30352	
+30361	PER
 ¬
+
 PESSIO
-26652	CHRISTIPASSIO
+30372	
+30376	CHRISTIPASSIO
 ¬
+
 NEM
-26731	ne
+30388	
+30396	
+30404	
+30415	
+30426	
+30434	
+30442	
+30452	
+30464	ne
 ¬
+
 sciat
-26779	Cam
+30473	
+30483	
+30489	
+30498	
+30508	
+30518	Cam
 ¬
+
 piano
-26791	
-26799	Cam
+30531	
+
+30535	
+30538	
+30542	
+Cam
 ¬
+
 pianus
-26829	scri
+30548	
+30553	
+30556	
+30561	
+30566	
+30569	
+30572	
+30574	
+30582	scri
 ¬
+
 bit
-26838	lo
+30592	lo
 ¬
+
 cum
-26847	proter
+30602	proter
 ¬
+
 uiùs
-26866	v
+30614	
+30623	v
 ¬
+
 nius
-26881	qui
+30633	
+30640	qui
 ¬
+
 dem
-26899	be
+30651	
+30660	be
 ¬
+
 ne
-26910	Prae
+30672	Prae
 ¬
+
 tereamus
-26944	ve
+30684	
+30693	
+30701	
+30710	ve
 ¬
+
 terum
-26953	Ci
+30720	Ci
 ¬
+
 cero
-26964	au
+30732	au
 ¬
+
 dire
-26974	quan
+30743	quan
 ¬
+
 quam
-27002	om
+30753	
+30764	
+30774	om
 ¬
+
 nes
-27010	assuefa
+30783	assuefa
 ¬
+
 cti
-27030	lu
+30797	
+30805	lu
 ¬
+
 dos
-27046	sermo
+30816	
+30823	sermo
 ¬
+
 ne
-27056	pote
+30834	pote
 ¬
+
 runt
-27068	ad
+30847	ad
 ¬
+
 iungere
-27079	Ci
+30859	Ci
 ¬
+
 cero
-27139	stu
+30870	
+30882	
+30885	
+30889	
+30891	
+30896	
+30907	
+30918	
+30928	stu
 ¬
+
 diosiùs
-27154	pro
+30938	
+30945	pro
 ¬
+
 feram
-27170	le
+30956	
+30963	le
 ¬
+
 gendis
-27177	animaduer
+30971	animaduer
 ¬
+
 tit
-27189	a
+30984	a
 ¬
+
 lienè
-27206	quan
+30996	
+31003	quan
 ¬
+
 dam
-27221	gracilita
+31014	
+31020	gracilita
 ¬
+
 tem
-27229	no
+31029	no
 ¬
+
 bis
-27241	effe
+31042	effe
 ¬
+
 tendum
-27252	nun
+31054	nun
 ¬
+
 quam
-27270	plu
+31067	
+31074	plu
 ¬
+
 rimùm
-27302	Sci
+31087	
+31099	
+31109	Sci
 ¬
+
 pionis
-27327	Caesa
+31125	
+31136	Caesa
 ¬
+
 tis
-27337	arbi
+31147	arbi
 ¬
+
 tratus
-27371	Demosthe
+31160	
+31168	
+31178	
+31185	Demosthe
 ¬
+
 nem
-27383	Demo
+31198	Demo
 ¬
+
 sheni
-27393	a
+31209	a
 ¬
+
 liquid
-27403	Bru
+
+31215	
+31218	
+31222	
+31224	Bru
 ¬
+
 10
-27420	Ca
+31229	
+31234	
+31239	
+31243	
+31246	Ca
 ¬
+
 lio
-27434	Cice
+31251	
+31254	
+31256	
+31264	Cice
 ¬
+
 ronis
-27442	adsciscen
+31273	adsciscen
 ¬
+
 da
-27453	ge
+31285	ge
 ¬
+
 nerosa
-27466	de
+31294	
+31300	de
 ¬
+
 monstrasse
-27474	Cicero
+31309	Cicero
 ¬
+
 nis
-27490	Ci
+31319	
+31327	Ci
 ¬
+
 ceronis
-27505	prola
+31336	
+31344	prola
 ¬
+
 tum
-27539	vl
+31354	
+31365	
+31374	
+31382	vl
 ¬
+
 tra
-27548	su
+31392	su
 ¬
+
 perior
-27590	Interce
+31405	
+31412	
+31422	
+31432	
+31439	Interce
 ¬
+
 tera
-27601	scri
+31451	scri
 ¬
+
 psit
-27627	acer
+31464	
+31472	
+31480	acer
 ¬
+
 bè
-27647	propriov
+31494	
+31502	propriov
 ¬
+
 sum
-27688	cano
+31515	
+31526	
+31538	
+31547	cano
 ¬
+
 bi
-27705	no
+
+31555	
+31559	
+31561	
+31569	no
 ¬
+
 stram
-27751	in
+31581	
+31591	
+31601	
+31609	
+31620	in
 ¬
+
 gratis
-27771	volunta
+31632	
+31642	volunta
 ¬
+
 rium
-27803	Ci
+31657	
+31670	
+31677	Ci
 ¬
+
 ceronis
-27808	patro
+31683	patro
 ¬
+
 nus
-27815	po
+31691	po
 ¬
+
 tiùs
-27830	co
+31701	
+31708	co
 ¬
+
 natur
-27839	for
+31718	for
 ¬
+
 tissimus
-27861	Ci
+31726	
+31735	
+31743	Ci
 ¬
+
 ceronem
-27868	v
+31751	v
 ¬
+
 surpasse
-27886	suauilo
+31764	
+31771	suauilo
 ¬
+
 quens
-27895	in
+31781	in
 ¬
+
 tegrè
-27904	ita
+31791	ita
 ¬
+
 que
-27914	Cice
+31802	Cice
 ¬
+
 ronem
-27920	ge
+31809	ge
 ¬
+
 rere
-27930	tri
+31820	tri
 ¬
+
 pode
-27939	inter
+31830	inter
 ¬
+
 dum
-27948	dor
+31840	dor
 ¬
+
 mitare
-27970	A
+31850	
+31852	
+31855	
+31859	
+31861	
+31867	
+31869	A
 ¬
+
 gell
-28014	con
+31876	
+31882	
+31885	
+31889	
+31892	
+31897	
+31902	
+31906	
+31908	
+31917	
+31924	con
 ¬
+
 taminatum
-28058	dili
+31934	
+31941	
+31950	
+31959	
+31966	
+31974	dili
 ¬
+
 gentissimus
-28067	obluctan
+31984	obluctan
 ¬
+
 te
-28078	Fa
+31996	Fa
 ¬
+
 bio
-28098	ipse
+32009	
+32018	ipse
 ¬
+
 met
-28145	in
+32029	
+32044	
+32052	
+32062	
+32070	in
 ¬
+
 quam
-28154	INBI
+32080	INBI
 ¬
+
 BERE
-28165	vehi
+32092	vehi
 ¬
+
 menter
-28183	sus
+32104	
+32112	sus
 ¬
+
 tineri
-28204	no
+32125	
+32135	no
 ¬
+
 stram
-28282	po
+32147	
+32156	
+32169	
+32181	
+32190	
+32199	
+32206	
+32208	
+32212	
+32216	
+32218	
+32225	po
 ¬
+
 tiùs
-28290	ma
+32234	ma
 ¬
+
 ipti
-28316	despe
+32246	
+32255	
+32263	despe
 ¬
+
 tandum
-28323	conse
+32271	conse
 ¬
+
 quendâ
-28334	gra
+32283	gra
 ¬
+
 uissimorum
-28340	gna
+32290	gna
 ¬
+
 uiter
-28352	ani
+32303	ani
 ¬
+
 mi
-28369	dictiun
+32311	
+32318	
+32323	dictiun
 ¬
+
 culae
-28389	qui
+32331	
+32338	
+32346	qui
 ¬
+
 dem
-28412	condem
+32357	
+32366	
+32372	condem
 ¬
+
 nandos
-28443	controuer
+32385	
+32392	
+32401	
+32407	controuer
 ¬
+
 sia
-28459	princi
+32419	
+32425	princi
 ¬
+
 pes
-28469	pos
+32436	pos
 ¬
+
 set
-28490	Ty
+32450	
+32459	Ty
 ¬
+
 ro
-28499	e
+32469	e
 ¬
+
 narratiùs
-28509	Pom
+32480	Pom
 ¬
+
 petus
-28574	a
+32493	
+32495	
+32499	
+32502	
+32504	
+32506	
+32511	
+32513	
+32523	
+32532	
+32541	
+32548	
+32558	a
 ¬
+
 lij
-28592	vi
+32568	
+32578	vi
 ¬
+
 deretur
-28611	im
+32590	
+32599	im
 ¬
+
 probasset
-28620	igi
+32609	igi
 ¬
+
 tur
-28648	demon
+32621	
+32631	
+32640	demon
 ¬
+
 straretur
-28689	nu
+32653	
+32664	
+32674	
+32685	nu
 ¬
+
 merus
-28698	lit
+32695	lit
 ¬
+
 teris
-28710	si
+32708	si
 ¬
+
 gnificatus
-28719	sube
+32718	sube
 ¬
+
 gisse
-28728	aeternita
+32728	aeternita
 ¬
+
 tem
-28737	la
+32738	la
 ¬
+
 bore
-28746	tertio
+32748	tertio
 ¬
+
 ne
-28756	cau
+32759	cau
 ¬
+
 dici
-28764	in
+32768	in
 ¬
+
 sumpsisse
-28774	vo
+32779	vo
 ¬
+
 culâ
-28789	Ve
+32789	
+32796	Ve
 ¬
+
 rùm
-28799	qui
+32807	qui
 ¬
+
 dem
-28811	Lice
+32820	
+Lice
 ¬
+
 ¬
+
 Digitized
-28844	re
+32829	
+32833	
+32835	
+32843	
+32854	
+32861	re
 ¬
+
 citare
-28885	e
+32873	
+32884	
+32890	
+32898	
+32907	e
 ¬
+
 minentissimum
-28893	ho
+32916	ho
 ¬
+
 mines
-28901	tumi
+32925	tumi
 ¬
+
 diorem
-28911	re
+32936	re
 ¬
+
 petitionibus
-28927	exul
+32946	
+32954	exul
 ¬
+
 tantem
-28939	mol
+32967	mol
 ¬
+
 liorem
-28948	proscri
+32977	proscri
 ¬
+
 ptione
-28966	et
+32990	
+32997	et
 ¬
+
 iam
-28975	in
+33007	in
 ¬
+
 uaserunt
-29018	au
+33019	
+33029	
+33039	
+33048	
+33055	au
 ¬
+
 tem
-29027	imi
+33065	imi
 ¬
+
 tatores
-29035	qui
+33074	qui
 ¬
+
 busdam
-29045	vi
+33085	vi
 ¬
+
 rum
-29052	legi
+33093	legi
 ¬
+
 bus
-29073	im
+33104	
+33116	im
 ¬
+
 becillitati
-29081	ma
+33125	ma
 ¬
+
 a
-29109	vm
+
+33131	
+33135	
+33138	
+33141	
+33143	
+33152	
+33161	vm
 ¬
+
 bra
-29156	ver
+33171	
+33181	
+33190	
+33194	
+33199	
+33201	
+33209	
+33216	ver
 ¬
+
 bis
-29165	ora
+33226	ora
 ¬
+
 torem
-29194	Roma
+33239	
+33248	
+33258	Roma
 ¬
+
 nus
-29205	or
+33270	or
 ¬
+
 namenta
-29232	florue
+33281	
+33290	
+33300	florue
 ¬
+
 runt
-29247	elo
+33309	
+33317	elo
 ¬
+
 quentiae
-29293	ag
+33325	
+33335	
+33346	
+33355	
+33362	
+33369	ag
 ¬
+
 mine
-29313	T
+33380	
+33386	
+33388	
+33392	
+33394	
+T
 ¬
+
 i
-29352	quan
+
+33401	
+33404	
+33406	
+33415	
+33420	
+33432	
+33442	quan
 ¬
+
 quam
-29364	ve
+33455	ve
 ¬
+
 lim
-29375	admi
+33467	admi
 ¬
+
 ratio
-29385	reces
+33478	reces
 ¬
+
 sum
-29403	praesa
+33492	
+33498	praesa
 ¬
+
 gijsse
-29445	au
+33509	
+33518	
+33528	
+33537	
+33545	au
 ¬
+
 cupes
-29453	inue
+33554	inue
 ¬
+
 recundè
-29462	sae
+33564	sae
 ¬
+
 culi
-29474	pa
+33577	pa
 ¬
+
 rum
-29485	corru
+33589	corru
 ¬
+
 ptißimo
-29502	intelligen
+33599	
+33608	intelligen
 ¬
+
 dum
-29523	ca
+33622	
+33631	ca
 ¬
+
 piti
-29551	con
+33644	
+33654	
+33662	con
 ¬
+
 cit
-29560	insi
+
+33673	insi
 ¬
+
 jj
 ¬
+
 uil
-29573	negli
+
+33689	negli
 ¬
+
 gere
-29595	athleti
+33702	
+33705	
+33714	athleti
 ¬
+
 cè
-29606	lacer
+33726	lacer
 ¬
+
 tos
-29637	Desi
+33740	
+33742	
+33746	
+33748	
+33753	
+33760	
+33764	
+Desi
 ¬
+
 guris
 lo
 ¬
+
 quitur
-29646	di
+33775	
+33777	di
 ¬
+
 cit
-29655	mi
+33783	
+33787	
+33789	mi
 ¬
+
 nus
 pro
 ¬
+
 pris
 lo
 ¬
+
 quendi
-29666	o
+
+33803	
+33805	o
 ¬
+
 porter
-29734	ser
+33810	
+33813	
+33816	
+33819	
+33822	
+33824	
+33836	
+33844	
+33850	
+33860	
+33871	
+33876	
+33886	ser
 ¬
+
 monis
-29742	sem
+33895	sem
 ¬
+
 per
-29754	pon
+33908	pon
 ¬
+
 dere
-29812	vul
+33921	
+33930	
+33941	
+33950	
+33961	
+33972	vul
 ¬
+
 tus
-29849	fa
+33983	
+33996	
+34004	
+34013	fa
 ¬
+
 ciem
-29880	eloquen
+34027	
+34038	
+34047	eloquen
 ¬
+
 ter
-29891	Orato
+34059	Orato
 ¬
+
 re
-29914	spe
+34076	
+34084	spe
 ¬
+
 cie
-29924	fa
+34095	fa
 ¬
+
 stidio
-29990	falsaevo
+34105	
+34112	
+34123	
+34132	
+34134	
+34138	
+34142	
+34144	
+34155	
+34163	
+34172	falsaevo
 ¬
+
 tulae
-30002	mo
+34185	mo
 ¬
+
 do
-30015	re
+34199	re
 ¬
+
 clamat
-30026	vn
+34211	vn
 ¬
+
 guentis
-30035	acerri
+34221	acerri
 ¬
+
 ma
-30046	ma
+34233	ma
 ¬
+
 gis
-30056	vi
+34244	vi
 ¬
+
 deantur
-30111	vtro
+34256	
+34267	
+34274	
+34283	
+34294	
+34305	vtro
 ¬
+
 que
-30122	mo
+34317	mo
 ¬
+
 ueant
-30185	o
+34328	
+34335	
+34347	
+34358	
+34368	
+34377	
+34387	o
 ¬
+
 ratio
-30196	At
+34399	At
 ¬
+
 que
-30216	volu
+34412	
+34421	volu
 ¬
+
 ptate
-30256	de
+34435	
+34446	
+34456	
+34465	
+de
 ¬
+
 H
-30299	Quo
+
+34474	
+34476	
+34480	
+34489	
+34499	
+34509	
+34517	Quo
 ¬
+
 tus
-30308	alle
+34527	alle
 ¬
+
 goriàm
-30338	secundi
+34540	
+34551	
+34560	secundi
 ¬
+
 que
-30378	nauma
+34574	
+34583	
+34592	
+34604	nauma
 ¬
+
 chias
-30387	agricultu
+34614	agricultu
 ¬
+
 ram
-30398	de
+34626	de
 ¬
+
 nique
-30414	nul
+34638	
+34644	nul
 ¬
+
 lam
-30430	con
+34654	
+34662	con
 ¬
+
 tineret
-30482	fa
+34671	
+34680	
+34690	
+34697	
+34709	
+34720	fa
 ¬
+
 brilia
-30564	cur
+34734	
+34743	
+34749	
+34758	
+34771	
+34779	
+34781	
+34785	
+34788	
+34790	
+34793	
+34797	
+34799	
+34808	
+34817	cur
 ¬
+
 tus
-30575	ve
+34829	ve
 ¬
+
 lificatur
-30584	Necessa
+34839	Necessa
 ¬
+
 rium
-30611	prodigio
+34851	
+34860	
+34869	prodigio
 ¬
+
 sè
-30649	ambi
+34880	
+34888	
+34896	
+34903	
+34912	ambi
 ¬
+
 tiosa
-30680	oratio
+34923	
+34932	
+34939	
+34947	oratio
 ¬
+
 nis
-30695	pom
+34957	
+34964	pom
 ¬
+
 pam
-30705	illustrissi
+34975	illustrissi
 ¬
+
 ma
-30724	Cali
+34987	
+34996	Cali
 ¬
+
 gulâ
-30733	in
+35006	in
 ¬
+
 quam
-30743	dige
+35017	dige
 ¬
+
 tenda
-30758	et
+35028	
+35034	et
 ¬
+
 iamsi
-30766	ca
+35043	ca
 ¬
+
 piti
-30784	vehe
+35048	
+35050	
+35057	
+35065	vehe
 ¬
+
 menter
-30793	abru
+35075	abru
 ¬
+
 pta
-30810	lu
+
+35082	
+35086	
+35089	
+35092	
+35097	
+35099	lu
 ¬
+
 bet
-30818	domi
+35104	
+35106	
+35109	
+35111	
+domi
 ¬
+
 nantia
-30833	reuer
+35117	
+35120	
+35123	
+35125	
+35132	reuer
 ¬
+
 tor
-30844	Prae
+35144	Prae
 ¬
+
 clarè
-30872	boa
+35151	
+35159	
+35167	
+35176	boa
 ¬
+
 rio
-30892	om
+35190	
+35198	om
 ¬
+
 nibus
-30901	glo
+35208	glo
 ¬
+
 riantur
-30918	in
+35220	
+35227	in
 ¬
+
 cocti
-30945	ae
+35238	
+35247	
+35257	ae
 ¬
+
 rarios
-30991	Ornarioratio
+35267	
+35277	
+35286	
+35295	
+35303	
+35309	Ornarioratio
 ¬
+
 nem
-31000	v
+35319	v
 ¬
+
 tantur
-31010	ora
+35330	ora
 ¬
+
 tionisque
-31020	verosimi
+35341	verosimi
 ¬
+
 le
-31032	distin
+35354	distin
 ¬
+
 ctus
-31042	incom
+35365	incom
 ¬
+
 ptior
-31052	o
+35376	o
 ¬
+
 rationis
-31076	orna
+35385	
+35394	
+35403	orna
 ¬
+
 menta
-31084	expetie
+35412	expetie
 ¬
+
 rit
-31091	
-31123	o
+35417	
+35421	
+
+35424	
+35426	
+35428	
+35432	
+35443	
+35452	
+35460	o
 ¬
+
 rationis
-31140	lu
+35471	
+35479	lu
 ¬
+
 rida
-31151	poly
+35491	poly
 ¬
+
 pum
-31178	obtine
+35503	
+35513	
+35521	obtine
 ¬
+
 bis
-31211	tan
+35534	
+35540	
+35546	
+35552	
+35559	tan
 ¬
+
 tun
-31225	pos
+35569	
+35575	pos
 ¬
+
 sint
-31234	di
+35585	di
 ¬
+
 gressus
-31310	demis
+35595	
+35605	
+35613	
+35621	
+35630	
+35642	
+35655	
+35664	
+35670	demis
 ¬
+
 sior
-31319	frequentißi
+35680	frequentißi
 ¬
+
 mè
-31376	trans
+35694	
+35705	
+35717	
+35719	
+35722	
+35726	
+35729	
+35732	
+35735	
+35737	
+35748	trans
 ¬
+
 feras
-31397	orna
+35762	
+35771	orna
 ¬
+
 mento
-31408	sub
+35783	sub
 ¬
+
 missus
-31418	tro
+35794	tro
 ¬
+
 pos
-31464	instru
+35806	
+35816	
+35824	
+35837	
+35845	instru
 ¬
+
 ctior
-31474	meta
+35856	meta
 ¬
+
 phora
-31492	perele
+35867	
+35876	perele
 ¬
+
 ganter
-31517	ver
+35887	
+35897	
+35904	ver
 ¬
+
 bis
-31554	di
+35920	
+35932	
+35944	di
 ¬
+
 uortium
-31592	in
+35956	
+35965	
+35975	
+35986	in
 ¬
+
 genij
-31602	po
+35997	po
 ¬
+
 sita
-31625	aber
+36013	
+36022	aber
 ¬
+
 rat
-31699	Quintilia
+36035	
+36048	
+36059	
+36069	
+36072	
+36076	
+36078	
+36080	
+36082	
+36084	
+36086	
+36088	
+36090	
+36093	
+36101	
+36104	
+36113	Quintilia
 ¬
+
 Quint
-31738	ti
+36118	
+36127	
+36136	
+36138	
+36149	
+36158	
+ti
 ¬
+
 facere
-31769	iu
+36173	
+36175	
+36185	
+36194	iu
 ¬
+
 
 tunda
-31797	tropo
+36209	
+36211	
+36220	
+36226	tropo
 ¬
+
 8
-31816	digni
+
+36241	
+36248	digni
 ¬
+
 ie
-31832	subli
+
+36262	
+36267	subli
 ¬
+
 miùs
-31883	for
+36285	
+36287	
+36302	
+36313	
+36323	for
 ¬
+
 nati
-31894	di
+36335	di
 ¬
+
 cendi
-31903	dis
+36345	dis
 ¬
+
 sertationi
-31912	philoso
+36355	philoso
 ¬
+
 Seneca
-31979	tabu
+
+36370	
+36372	
+36383	
+36393	
+36403	
+36415	
+36424	
+36431	tabu
 ¬
+
 la
-32009	col
+36445	
+36448	
+36450	
+36454	
+36459	
+36466	
+36468	col
 ¬
+
 locan
-32013	for
+
+36474	for
 ¬
+
 tè
-32050	ab
+36479	
+36482	
+36487	
+36489	
+36494	
+36503	
+36511	
+36519	ab
 ¬
+
 usus
-32084	sua
+36533	
+36543	
+36556	sua
 ¬
+
 ue
-32098	blandia
+36567	
+36572	blandia
 ¬
+
 tur
-32109	vs
+36584	vs
 ¬
+
 que
-32163	Oμoιοτ
+36596	
+36604	
+36612	
+36620	
+36628	
+36637	
+36645	Oμoιοτ
 ¬
+
 λευτα
-32176	ὁμοιόπτω
+36659	ὁμοιόπτω
 ¬
+
 τα
-32186	àπeigο
+36670	àπeigο
 ¬
+
 καλον
-32290	.
+36683	
+36693	
+36704	
+36716	
+36728	
+36740	
+36752	
+36764	
+36775	
+36784	.
 ¬
+
 Χληρωδεςqu
-32310	CA
+36796	
+36806	
+CA
 ¬
+
 Digitized
-32344	mur
+36813	
+36816	
+36820	
+36824	
+36831	
+36840	
+36842	
+36849	mur
 ¬
+
 mur
-32354	lu
+36860	lu
 ¬
+
 cem
-32364	enun
+36871	enun
 ¬
+
 uient
-32389	e
+36882	
+36890	
+36899	e
 ¬
+
 molumenti
-32398	indi
+36909	indi
 ¬
+
 gestas
-32404	scien
+36916	scien
 ¬
+
 tijs
-32413	ante
+36926	ante
 ¬
+
 quam
-32420	pene
+36934	pene
 ¬
+
 trem
-32431	In
+36946	In
 ¬
+
 stitutionum
-32438	sen
+36954	sen
 ¬
+
 tentiarum
-32444	Senten
+36961	Senten
 ¬
+
 tiam
-32456	voca
+36974	voca
 ¬
+
 uerunt
-32474	ha
+36986	
+36994	ha
 ¬
+
 bet
-32486	gratu
+37007	gratu
 ¬
+
 lantes
-32535	a
+37020	
+37032	
+37042	
+37052	
+37061	a
 ¬
+
 pud
-32561	clau
+37073	
+37081	
+37090	
+clau
 ¬
+
 H
-32589	O
+37096	
+37100	
+37103	
+37112	
+37115	
+37118	
+37121	
+37124	
+37128	O
 ¬
+
 rat
-32594	O
+37133	
+37135	O
 ¬
+
 rat
-32611	prae
+37140	
+37143	
+37146	
+37149	
+37154	
+37157	
+37159	prae
 ¬
+
 ex
-32639	At
+37165	
+37167	
+37170	
+37182	
+37192	At
 ¬
+
 que
-32671	di
+37205	
+37218	
+37227	di
 ¬
+
 cere
-32680	dice
+37237	dice
 ¬
+
 re
-32740	com
+37250	
+37259	
+37269	
+37279	
+37291	
+37303	com
 ¬
+
 positè
-32752	sen
+37316	sen
 ¬
+
 tentiosè
-32794	suspi
+37328	
+37337	
+37342	
+37355	
+37363	suspi
 ¬
+
 ciosas
-32805	au
+37375	au
 ¬
+
 diendum
-32834	suspicio
+37387	
+37398	
+37407	suspicio
 ¬
+
 nem
-32890	estora
+37422	
+37430	
+37439	
+37447	
+37455	
+37464	
+37470	estora
 ¬
+
 tio
-33046	dele
+37480	
+37482	
+37486	
+37490	
+37492	
+37503	
+37511	
+37519	
+37530	
+37534	
+37548	
+37561	
+37570	
+37583	
+37596	
+37612	
+37621	
+37628	
+37637	
+37646	dele
 ¬
+
 cationem
-33098	a
+37657	
+37665	
+37675	
+37685	
+37695	
+37704	a
 ¬
+
 micitiam
-33137	du
+37717	
+37730	
+37738	
+37747	du
 ¬
+
 pliciter
-33157	pu
+37760	
+37769	pu
 ¬
+
 tant
-33167	se
+37780	se
 ¬
+
 cundis
-33183	pu
+37790	
+37798	pu
 ¬
+
 tant
-33205	Bru
+37811	
+37813	
+37817	
+37821	
+37824	
+37826	Bru
 ¬
+
 10
-33240	qui
+37831	
+37835	
+37838	
+37840	
+37845	
+37849	
+37851	
+37861	
+37870	qui
 ¬
+
 bus
-33300	prae
+37882	
+37891	
+37901	
+37908	
+37915	
+37924	
+37937	prae
 ¬
+
 teruehentibus
-33326	Horten
+37947	
+37958	
+37966	Horten
 ¬
+
 io
-33355	venu
+37979	
+37989	
+37998	venu
 ¬
+
 stis
-33365	gra
+38009	gra
 ¬
+
 ues
-33376	Ora
+38021	Ora
 ¬
+
 tore
-33384	Thucy
+38030	Thucy
 ¬
+
 dide
-33394	illaecon
+38041	illaecon
 ¬
+
 ciones
-33402	senten
+38050	senten
 ¬
+
 tias
-33432	maxi
+38064	
+38073	
+38083	maxi
 ¬
+
 mum
-33456	qua
+38095	
+38105	
+38110	qua
 ¬
+
 rum
-33531	vni
+38120	
+38130	
+38142	
+38156	
+38158	
+38162	
+38164	
+38168	
+38179	
+38188	
+38196	vni
 ¬
+
 Agell
-33603	ple
+38202	
+38218	
+38225	
+38236	
+38246	
+38255	
+38268	
+38276	ple
 ¬
+
 beta
-33613	gra
+38287	gra
 ¬
+
 tiae
-33639	senten
+38298	
+38301	
+38316	senten
 ¬
+
 l
-33658	inelo
+38327	
+38337	inelo
 ¬
+
 quendo
-33675	inge
+38347	
+38356	inge
 ¬
+
 niodixisse
-33685	contempsis
+38367	contempsis
 ¬
+
 set
-33705	fregis
+38383	
+38389	fregis
 ¬
+
 set
-33715	a
+38400	a
 ¬
+
 more
-33764	fu
+38411	
+38419	
+38427	
+38430	
+38444	
+38451	
+38456	fu
 ¬
+
 giendam
-33773	prouiden
+38466	prouiden
 ¬
+
 dum
-33789	An
+38477	
+38484	An
 ¬
+
 naeo
-33905	acer
+38498	
+38500	
+38519	
+38521	
+38525	
+38528	
+38536	
+38545	
+38548	
+38552	
+38554	
+38565	
+38577	
+38587	
+38598	
+38608	
+38617	acer
 ¬
+
 rimus
-33923	quo
+38628	
+38637	quo
 ¬
+
 rum
-33931	inuere
+38646	inuere
 ¬
+
 cundissimè
-33937	sententia
+38653	sententia
 ¬
+
 rum
-33947	v
+38664	v
 ¬
+
 tar
-33963	con
+38675	
+38682	con
 ¬
+
 traxisset
-34008	ia
+38691	
+38699	
+38710	
+38723	
+38732	ia
 ¬
+
 ctabat
-34026	anti
+38743	
+38752	anti
 ¬
+
 quos
-34066	Job
+38762	
+38771	
+38779	
+38789	
+38797	Job
 ¬
+
 stat
-34076	arbo
+38808	arbo
 ¬
+
 rum
-34084	po
+38817	po
 ¬
+
 test
-34118	contule
+38835	
+38846	
+38854	contule
 ¬
+
 runt
-34146	Sub
+38859	
+38863	
+38867	
+38869	
+38880	
+38888	Sub
 ¬
+
 sistit
-34185	inui
+38900	
+38912	
+38923	
+38931	inui
 ¬
+
 cem
-34205	ma
+38944	
+38953	ma
 ¬
+
 culis
-34224	in
+38964	
+38974	in
 ¬
+
 texta
-34261	lu
+38988	
+38996	
+39005	
+39015	lu
 ¬
+
 cet
-34282	inaequa
+39030	
+39038	inaequa
 ¬
+
 lia
-34318	in
+39050	
+39057	
+39067	
+39078	in
 ¬
+
 iptas
-34330	labo
+39091	labo
 ¬
+
 ratur
-34373	dixe
+39104	
+39109	
+39117	
+39126	
+39133	
+39140	dixe
 ¬
+
 rint
-34398	con
+39153	
+39162	
+39168	con
 ¬
+
 trarium
-34417	om
+
+39176	
+39179	
+39181	
+39185	
+39193	om
 ¬
+
 nem
-34439	ti
+39205	
+39217	ti
 ¬
+
 ment
-34451	e
+39230	e
 ¬
+
 nim
-34462	caus
+39242	caus
 ¬
+
 sae
-34473	com
+39254	com
 ¬
+
 mendat
-34485	vte
+39267	vte
 ¬
+
 bantur
-34511	pro
+39278	
+39287	
+39296	pro
 ¬
+
 bare
-34521	mutuan
+39307	mutuan
 ¬
+
 dum
-34538	opti
+39319	
+39326	opti
 ¬
+
 mus
-34560	om
+39341	
+39350	om
 ¬
+
 nes
-34580	es
+39363	
+39372	es
 ¬
+
 se
-34591	corpe
+39384	corpe
 ¬
+
 ve
-34612	ma
+39397	
+39407	ma
 ¬
+
 lim
-34633	ci
+39420	
+39430	ci
 ¬
+
 tra
-34644	adii
+39442	adii
 ¬
+
 ciamus
-34668	O
+39455	
+39464	
+39467	
+39470	
+O
 ¬
+
 129
-34709	per
+
+39479	
+39483	
+39491	
+39500	
+39506	
+39515	
+39520	per
 ¬
+
 secutum
-34718	loquun
+39530	loquun
 ¬
+
 tur
-34727	decer
+39540	decer
 ¬
+
 nunt
-34740	re
+39554	re
 ¬
+
 rum
-34754	igi
+39563	
+39570	igi
 ¬
+
 tur
-34793	ple
+39579	
+39588	
+39602	
+39613	ple
 ¬
+
 risque
-34824	ora
+39627	
+39641	
+39647	ora
 ¬
+
 tione
-34833	oratio
+39657	oratio
 ¬
+
 nis
-34856	con
+39672	
+39682	con
 ¬
+
 clusus
-34869	nihilef
+39696	nihilef
 ¬
+
 ficiens
-34921	o
+39711	
+39722	
+39730	
+39739	
+39753	o
 ¬
+
 com
-34946	circunm
+39760	
+39764	
+39767	
+39771	
+39774	
+39777	
+39779	
+39786	circunm
 ¬
+
 scriptionem
-34954	illade
+39795	illade
 ¬
+
 scriptio
-34964	orbein
+39806	orbein
 ¬
+
 clusa
-35008	com
+39818	
+39827	
+39836	
+39845	
+39855	com
 ¬
+
 prehensio
-35033	sa
+39868	
+39882	sa
 ¬
+
 tis
-35055	insisten
+39895	
+39906	insisten
 ¬
+
 dum
-35125	di
+39919	
+39928	
+39937	
+39948	
+39956	
+39967	
+39977	
+39984	di
 ¬
+
 cere
-35140	inui
+40000	inui
 ¬
+
 dioso
-35160	ap
+40013	
+40022	ap
 ¬
+
 paret
-35182	Nisiin
+40036	
+40046	Nisiin
 ¬
+
 teruallo
-35270	per
+40058	
+40067	
+40079	
+40089	
+40101	
+40103	
+40107	
+40111	
+40113	
+40123	
+40134	
+40146	per
 ¬
+
 fecta
-35283	Cras
+40160	Cras
 ¬
+
 sus
-35294	di
+40172	di
 ¬
+
 cendi
-35305	me
+40184	me
 ¬
+
 bratim
-35338	qua
+40197	
+40210	
+40220	qua
 ¬
+
 tuor
-35359	De
+40233	
+40243	De
 ¬
+
 inde
-35366	compre
+40251	compre
 ¬
+
 hensio
-35376	iacen
+40262	iacen
 ¬
+
 tem
-35397	ve
+40275	
+40285	ve
 ¬
+
 niat
-35407	con
+40296	con
 ¬
+
 stituendam
-35423	oratio
+40306	
+40314	oratio
 ¬
+
 nem
-35437	comprehen
+40324	
+40330	comprehen
 ¬
+
 sionem
-35461	am
+40346	
+40356	am
 ¬
+
 bitu
-35502	quando
+40367	
+40378	
+40386	
+40395	
+40402	quando
 ¬
+
 que
-35520	quan
+40414	
+40422	quan
 ¬
+
 doque
-35580	vi
+40433	
+40436	
+40439	
+40443	
+40448	
+40455	
+40462	
+40466	
+40471	
+40474	
+40476	
+40486	
+40495	vi
 ¬
+
 fendas
-35605	intelli
+40508	
+40515	
+40523	intelli
 ¬
+
 gatur
-35626	verbo
+40539	
+40546	verbo
 ¬
+
 rum
-35634	attu
+40555	attu
 ¬
+
 lerunt
-35649	infni
+40571	infni
 ¬
+
 tus
-35659	noli
+40582	noli
 ¬
+
 mus
-35690	ar
+40595	
+40604	
+40616	ar
 ¬
+
 tis
-35701	re
+40628	re
 ¬
+
 quirit
-35736	dean
+40641	
+40649	
+40658	
+40667	dean
 ¬
+
 tiquis
-35744	Hancdi
+40676	Hancdi
 ¬
+
 ligentiam
-35752	vo
+40685	vo
 ¬
+
 borum
-35762	videatures
+40696	videatures
 ¬
+
 se
-35853	e
+40708	
+40718	
+40726	
+40735	
+40742	
+40751	
+40761	
+40769	
+40776	
+40778	
+40782	
+40786	
+40788	
+40795	
+40802	e
 ¬
+
 pilogis
-35859	con
+40809	con
 ¬
+
 uenire
-35868	mem
+40819	mem
 ¬
+
 bratim
-35876	ma
+40828	ma
 ¬
+
 cimeque
-35899	me
+40844	
+40853	me
 ¬
+
 lus
-35926	con
+40866	
+40876	
+40883	con
 ¬
+
 orehensio
-35938	inter
+40896	inter
 ¬
+
 punctionum
-35962	e
+40906	
+40915	
+40923	e
 ¬
+
 nim
-35977	vel
+40931	
+40940	vel
 ¬
+
 lunt
-35988	O
+40952	O
 ¬
+
 tat
-36005	di
+40964	
+40971	di
 ¬
+
 stincta
-36014	respi
+40981	respi
 ¬
+
 rationesque
-36049	so
+40992	
+40999	
+41012	
+41020	so
 ¬
+
 lere
-36088	celeberri
+41031	
+41043	
+41056	
+41063	celeberri
 ¬
+
 mi
-36100	du
+41076	du
 ¬
+
 bitauit
-36110	desi
+41087	
+desi
 ¬
+
 I
-36138	ma
+41093	
+41097	
+41101	
+41104	
+41107	
+41112	
+41114	
+41117	
+41125	ma
 ¬
+
 gis
-36157	con
+41137	
+41146	con
 ¬
+
 sueuimus
-36168	elo
+41158	elo
 ¬
+
 quentia
-36197	pro
+41170	
+41180	
+41190	pro
 ¬
+
 perat
-36248	con
+41200	
+41209	
+41218	
+41225	
+41233	
+41238	
+41248	con
 ¬
+
 finia
-36264	il
+41260	
+41266	il
 ¬
+
 lum
-36278	dis
+41275	
+41282	dis
 ¬
+
 cinctior
-36305	red
+41293	
+41303	
+41312	red
 ¬
+
 duntur
-36328	so
+41326	
+41337	so
 ¬
+
 let
-36353	imma
+41350	
+41357	
+41365	imma
 ¬
+
 ne
-36359	reprehen
+41372	reprehen
 ¬
+
 sionem
-36373	liber
+41381	
+41388	liber
 ¬
+
 tetem
-36381	quibus
+41397	quibus
 ¬
+
 dam
-36390	ju
+
+41405	
+41407	
+41409	
+41411	
+ju
 ¬
+
 vi
-36401	le
+
+41418	
+41421	
+41423	
+41425	
+41427	
+41429	
+41431	
+le
 ¬
+
 ili
 ¬
+
 ui
 
-36416	incur
+
+41444	
+41446	
+41452	incur
 ¬
+
 rendi
-36425	Quo
+41462	Quo
 ¬
+
 rum
-36460	vi
+41473	
+41483	
+41491	
+41501	vi
 ¬
+
 tio
-36503	nun
+41513	
+41520	
+41529	
+41540	
+41549	nun
 ¬
+
 quam
-36545	cele
+41561	
+41568	
+41577	
+41588	
+41596	cele
 ¬
+
 btat
-36555	ver
+41607	ver
 ¬
+
 borum
-36567	il
+41620	il
 ¬
+
 lum
-36585	li
+41633	
+41640	li
 ¬
+
 bentiùs
-36595	com
+41651	com
 ¬
+
 prehensiones
-36620	misce
+41662	
+41670	
+41679	misce
 ¬
+
 antur
-36642	de
+41689	
+41697	
+41704	de
 ¬
+
 bet
-36660	in
+41717	
+41724	in
 ¬
+
 super
-36686	o
+41737	
+41739	
+41742	
+41746	
+41750	
+41753	
+41756	
+41758	o
 ¬
+
 rat
-36705	cona
+41763	
+41766	
+41771	
+41774	
+41777	
+41779	
+41784	cona
 ¬
+
 tur
-36715	salutaui
+41795	salutaui
 ¬
+
 mus
-36723	arbi
+41804	arbi
 ¬
+
 tror
-36764	ae
+41817	
+41829	
+41841	
+41849	ae
 ¬
+
 stuet
-36809	re
+41861	
+41872	
+41876	
+41883	
+41886	
+41896	
+41901	re
 ¬
+
 gnum
-36836	trans
+41912	
+41920	
+41927	
+41932	trans
 ¬
+
 miserit
-36844	perti
+41941	perti
 ¬
+
 mescendum
-36852	admira
+41950	admira
 ¬
+
 toribus
-36862	lo
+41961	lo
 ¬
+
 cuti
-36882	Va
+41974	
+41983	Va
 ¬
+
 tiniano
-36933	
-36954	con
+41992	
+42003	
+42012	
+42020	
+42023	
+42027	
+42031	
+42033	
+42043	
+
+42054	
+42056	
+42067	con
 ¬
+
 dini
-36964	concur
+
+42079	concur
 ¬
+
 it
-36975	co
+
+42092	co
 ¬
+
 n
-37001	qui
+42097	
+42102	
+42104	
+42107	
+42115	
+42118	
+42125	qui
 ¬
+
 ont
-37011	efflagi
+
+42137	efflagi
 ¬
+
 suhi
-37028	Ci
+
+42149	
+42157	Ci
 ¬
+
 ceroni
-37035	oratio
+42165	oratio
 ¬
+
 nes
-37054	distrahe
+42176	
+42178	
+42187	distrahe
 ¬
+
 re
-37071	Se
+42198	
+42206	Se
 ¬
+
 inqe
-37089	indu
+
+42218	
+42220	
+42228	indu
 ¬
+
 hus
 ¬
+
 tria
-37119	praeceptio
+42244	
+42246	
+42256	
+42258	
+42264	praeceptio
 ¬
+
 erijsum
-37141	re
+
+42278	
+42281	
+42290	re
 ¬
+
 5alo
-37211	sus
+
+42301	
+42303	
+42313	
+42315	
+42324	
+42326	
+42334	
+42344	
+42346	
+42358	
+42360	
+42373	
+sus
 ¬
+
 ha
 ¬
+
 I
-37217	iis
+42382	
+iis
 ¬
+
 dibzy
-37237	lon
+42389	
+42392	
+42395	
+42397	
+42401	
+42409	lon
 ¬
+
 garum
-37244	praeser
+42417	praeser
 ¬
+
 tim
-37255	fre
+42429	fre
 ¬
+
 quens
-37262	consonan
+42437	consonan
 ¬
+
 tes
-37274	praece
+42445	
+42451	praece
 ¬
+
 dentis
-37288	praeter
+42460	
+42467	praeter
 ¬
+
 itis
-37298	sen
+42478	sen
 ¬
+
 tentiam
-37307	quo
+42488	quo
 ¬
+
 dammodo
-37315	ve
+42497	ve
 ¬
+
 rùm
-37321	pro
+42504	pro
 ¬
+
 nunciari
-37331	no
+42515	no
 ¬
+
 lo
-37340	ani
+42525	ani
 ¬
+
 mata
-37351	gra
+42537	gra
 ¬
+
 uiùs
-37382	Ca
+42550	
+42560	
+42571	Ca
 ¬
+
 tule
-37393	graui
+42583	graui
 ¬
+
 tate
-37406	loqui
+42597	loqui
 ¬
+
 tur
-37485	No
+42612	
+42623	
+42635	
+42645	
+42654	
+42664	
+42674	
+42684	No
 ¬
+
 ui
-37492	cu
+42692	cu
 ¬
+
 riosos
-37502	cu
+42703	cu
 ¬
+
 pio
-37521	indi
+42708	
+42712	
+42716	
+42718	
+42727	indi
 ¬
+
 gnum
-37529	in
+42736	in
 ¬
+
 gratam
-37548	quorun
+42745	
+42753	
+42758	quorun
 ¬
+
 dam
-37557	po
+42768	po
 ¬
+
 tiùs
-37588	o
+42778	
+42786	
+42794	
+42802	
+42804	o
 ¬
+
 quiddam
-37654	circui
+42821	
+42831	
+42839	
+42848	
+42856	
+42866	
+42877	circui
 ¬
+
 tus
-37663	contra
+42887	contra
 ¬
+
 cta
-37690	ip
+42898	
+42907	
+42917	ip
 ¬
+
 sum
-37701	de
+42929	de
 ¬
+
 lectat
-37726	submis
+42944	
+42956	submis
 ¬
+
 sus
-37736	imi
+42967	imi
 ¬
+
 tans
-37754	Cice
+42978	
+42987	Cice
 ¬
+
 ronem
-37772	illesub
+42998	
+43007	illesub
 ¬
+
 limis
-37783	CA
+43019	
+CA
 ¬
+
 Digitized
-37861	molli
+43026	
+43029	
+43032	
+43034	
+43038	
+43042	
+43050	
+43060	
+43068	
+43076	
+43088	
+43101	
+43111	molli
 ¬
+
 ter
-37885	vo
+43123	
+43132	
+43138	vo
 ¬
+
 luptatem
-37897	in
+43151	in
 ¬
+
 hiberet
-37914	volu
+43163	
+43170	volu
 ¬
+
 ptatem
-37921	Numero
+43178	Numero
 ¬
+
 rum
-37939	fa
+43190	
+43198	fa
 ¬
+
 stidium
-37952	animo
+43208	
+43213	animo
 ¬
+
 rum
-38001	ver
+43227	
+43239	
+43247	
+43257	
+43267	ver
 ¬
+
 ba
-38011	argu
+43278	argu
 ¬
+
 mentis
-38034	Ci
+43287	
+43289	
+43293	
+43297	
+43299	
+43307	Ci
 ¬
+
 cero
-38069	exci
+43317	
+43328	
+43336	
+43346	exci
 ¬
+
 tare
-38081	som
+43359	som
 ¬
+
 num
-38100	compone
+43374	
+43380	compone
 ¬
+
 rent
-38120	in
+43393	
+43402	in
 ¬
+
 terest
-38137	iungan
+43413	
+43421	iungan
 ¬
+
 tur
-38158	Cice
+43435	
+43444	Cice
 ¬
+
 ro
-38166	vita
+43453	vita
 ¬
+
 uit
-38177	nu
+43465	nu
 ¬
+
 meros
-38187	tu
+43476	tu
 ¬
+
 multuetur
-38201	qui
+43486	
+43492	qui
 ¬
+
 dem
-38223	ta
+43505	
+43516	ta
 ¬
+
 tissimum
-38233	Ta
+43527	Ta
 ¬
+
 citus
-38244	ex
+43532	
+43540	ex
 ¬
+
 emplis
-38252	proble
+43549	proble
 ¬
+
 mate
-38261	sus
+43559	sus
 ¬
+
 pendit
-38271	insci
+43570	insci
 ¬
+
 tum
-38295	verna
+43582	
+43590	
+43597	verna
 ¬
+
 culus
-38304	simplici
+43607	simplici
 ¬
+
 tas
-38324	peregri
+43612	
+43616	
+43619	
+43622	
+43624	
+43633	peregri
 ¬
+
 narum
-38371	Theo
+43641	
+43647	
+43654	
+43664	
+43671	
+43679	
+43687	Theo
 ¬
+
 dorum
-38380	appel
+43697	appel
 ¬
+
 lat
-38390	qui
+43708	qui
 ¬
+
 dem
-38398	Thucy
+43717	Thucy
 ¬
+
 didem
-38427	man
+43730	
+43741	
+43749	man
 ¬
+
 suefacere
-38436	im
+43759	im
 ¬
+
 probo
-38447	or
+43771	or
 ¬
+
 chestrâ
-38467	mul
+43783	
+43793	mul
 ¬
+
 tis
-38484	numero
+43804	
+43812	numero
 ¬
+
 rum
-38493	prae
+43822	prae
 ¬
+
 ceptis
-38511	philoio
+43832	
+43842	philoio
 ¬
+
 phorum
-38567	Quid
+43852	
+43863	
+43871	
+43879	
+43886	
+43897	
+43905	
+Quid
 ¬
+
 Digitized
-38628	cu
+43912	
+43916	
+43918	
+43928	
+43935	
+43942	
+43951	
+43959	
+43963	
+43972	
+43978	cu
 ¬
+
 iusque
-38657	magnis
+43985	
+43995	
+44003	
+44011	magnis
 ¬
+
 que
-38668	capiti
+44023	capiti
 ¬
+
 bus
-38677	articu
+44033	articu
 ¬
+
 lis
-38686	Cor
+44043	Cor
 ¬
+
 pus
-38710	ta
+44055	
+44062	
+44070	ta
 ¬
+
 men
-38734	ad
+44081	
+44089	
+44097	ad
 ¬
+
 monendo
-38775	cor
+44110	
+44119	
+44132	
+44142	cor
 ¬
+
 poribus
-38796	adspe
+44156	
+44165	
+adspe
 ¬
+
 Dized
-38823	felicis
+44172	
+44175	
+44180	
+44185	
+44190	
+44192	
+44200	felicis
 ¬
+
 simè
-38847	decli
+44211	
+44220	
+44227	decli
 ¬
+
 nant
-38857	com
+44238	com
 ¬
+
 prehendunt
-38883	horri
+44249	
+44259	
+44267	horri
 ¬
+
 dè
-38892	in
+44277	in
 ¬
+
 ane
-38918	Thucydi
+44290	
+44300	
+44306	Thucydi
 ¬
+
 dem
-38927	aemulan
+44316	aemulan
 ¬
+
 tur
-38939	circumdu
+44329	circumdu
 ¬
+
 xerunt
-38949	Noue
+44340	Noue
 ¬
+
 ram
-38978	le
+44352	
+44363	
+44372	le
 ¬
+
 gerent
-38986	reuoca
+44381	reuoca
 ¬
+
 tent
-38995	anti
+44391	anti
 ¬
+
 quorum
-39013	for
+44400	
+44411	for
 ¬
+
 tè
-39031	ma
+44422	
+44431	ma
 ¬
+
 xima
-39062	me
+44445	
+44459	
+44465	me
 ¬
+
 tempsychosin
-39069	atta
+44473	atta
 ¬
+
 men
-39079	ve
+44484	ve
 ¬
+
 geto
-39090	deri
+44496	deri
 ¬
+
 uemus
-39138	Dio
+44501	
+44505	
+44509	
+44511	
+44522	
+44534	
+44543	
+44552	Dio
 ¬
+
 genes
-39147	fu
+44562	fu
 ¬
+
 rens
-39172	ci
+44573	
+44584	
+44590	ci
 ¬
+
 bum
-39181	v
+44600	v
 ¬
+
 surpamus
-39193	natu
+44613	natu
 ¬
+
 rà
-39204	de
+44625	de
 ¬
+
 sertâ
-39212	Ita
+44634	Ita
 ¬
+
 que
-39220	Quinti
+44643	Quinti
 ¬
+
 liani
-39237	elocu
+44653	
+44662	elocu
 ¬
+
 tione
-39340	pro
+44673	
+44686	
+44695	
+44709	
+44719	
+44728	
+44737	
+44748	
+44757	
+44767	
+44776	pro
 ¬
+
 prium
-39350	laudan
+44787	laudan
 ¬
+
 da
-39372	vi
+44801	
+44811	vi
 ¬
+
 rilis
-39382	vniuscu
+44822	vniuscu
 ¬
+
 iusque
-39415	circum
+
+44828	
+44832	
+44835	
+44839	
+44846	
+44851	
+44854	
+44859	
+44861	
+44866	circum
 ¬
+
 spiciet
-39444	Theo
+44879	
+44890	
+44898	Theo
 ¬
+
 pompi
-39455	alte
+44910	alte
 ¬
+
 ri
-39472	ob
+44923	
+44929	ob
 ¬
+
 seruata
-39505	eloquen
+44941	
+44953	
+44965	eloquen
 ¬
+
 tiae
-39526	dul
+44977	
+44988	dul
 ¬
+
 ci
-39549	emi
+45003	
+45013	emi
 ¬
+
 net
-39587	na
+45026	
+45040	
+45054	na
 ¬
+
 tus
-39605	Fa
+45067	
+45074	Fa
 ¬
+
 bius
-39614	Cice
+45084	Cice
 ¬
+
 roni
-39622	refra
+45093	refra
 ¬
+
 gari
-39635	studio
+45107	studio
 ¬
+
 siùs
-39643	ag
+45116	ag
 ¬
+
 gere
-39653	no
+45127	no
 ¬
+
 stro
-39670	in
+45138	
+45146	in
 ¬
+
 tersit
-39679	Suaui
+45156	Suaui
 ¬
+
 tatem
-39688	Hype
+45166	Hype
 ¬
+
 rides
-39731	ha
+45178	
+45188	
+45190	
+45194	
+45198	
+45200	
+45209	
+45217	ha
 ¬
+
 buit
-39751	inge
+45230	
+45239	inge
 ¬
+
 nereprinceps
-39843	existi
+45251	
+45262	
+45270	
+45279	
+45289	
+45302	
+45311	
+45321	
+45331	
+45341	existi
 ¬
+
 maui
-39862	quam
+45353	
+45362	quam
 ¬
+
 uis
-39908	dice
+45375	
+45385	
+45394	
+45403	
+45413	dice
 ¬
+
 bat
-39933	ter
+45425	
+45433	
+45441	ter
 ¬
+
 tijsque
-39944	consi
+45453	consi
 ¬
+
 stas
-39969	fa
+45465	
+45474	
+45481	fa
 ¬
+
 stigia
-39980	Dei
+45493	Dei
 ¬
+
 paraeque
-39988	ho
+45502	ho
 ¬
+
 die
-40017	imita
+
+45509	
+45513	
+45517	
+45520	
+45528	
+45538	imita
 ¬
+
 ri
-40028	man
+45550	man
 ¬
+
 cupio
-40037	vio
+45560	vio
 ¬
+
 lenta
-40041	DIS
+45565	
+DIS
 ¬
+
 Goog
-40058	dis
+
+45572	
+45574	
+45576	
+45578	
+45580	
+45586	
+45591	dis
 ¬
+
 cordia
-40068	comessatio
+45600	
+45603	comessatio
 ¬
+
 N
-40076	Philo
+45612	Philo
 ¬
+
 sophorum
-40114	exi
+45618	
+45626	
+45637	
+45648	
+45655	exi
 ¬
+
 tium
-40131	pul
+45666	
+45674	pul
 ¬
+
 critudinis
-40162	hi
+45684	
+45693	
+45701	
+45709	hi
 ¬
+
 storicorum
-40170	pro
+45718	pro
 ¬
+
 nuntiata
-40230	ca
+45727	
+45737	
+45748	
+45756	
+45758	
+45760	
+45763	
+45767	
+45771	
+45780	
+45789	ca
 ¬
+
 lumnias
-40242	ga
+45802	ga
 ¬
+
 neis
-40264	a
+45816	
+45826	a
 ¬
+
 nimosè
-40273	mi
+45836	mi
 ¬
+
 nùs
-40282	he
+45846	he
 ¬
+
 betare
-40291	candidis
+45856	candidis
 ¬
+
 simam
-40296	de
+45862	de
 ¬
+
 tergere
-40310	iu
+45872	
+45878	iu
 ¬
+
 dicaui
-40328	pugna
+45891	
+45898	pugna
 ¬
+
 uerit
-40336	incu
+45907	incu
 ¬
+
 buerit
-40363	lu
+45918	
+45929	
+45937	lu
 ¬
+
 dicra
-40372	Hip
+45947	Hip
 ¬
+
 podamiâ
-40399	terra
+45959	
+45970	
+45977	terra
 ¬
+
 rumque
-40413	adscri
+45987	
+45993	adscri
 ¬
+
 ptum
-40421	qui
+46002	qui
 ¬
+
 que
-40457	orna
+46013	
+46019	
+46027	
+46036	
+46043	orna
 ¬
+
 mentum
-40487	magis
+46055	
+46058	
+46062	
+46071	
+46073	
+46079	magis
 ¬
+
 que
-40495	homi
+46088	homi
 ¬
+
 num
-40504	grauissimo
+46098	grauissimo
 ¬
+
 rum
-40526	il
+46109	
+46117	
+46123	il
 ¬
+
 ludque
-40533	na
+46131	na
 ¬
+
 turae
-40541	numeran
+46140	numeran
 ¬
+
 dam
-40562	gratissi
+46152	
+46158	
+46164	gratissi
 ¬
+
 mum
-40579	exa
+46173	
+46183	exa
 ¬
+
 ctaque
-40588	fascea
+46193	fascea
 ¬
+
 tim
-40600	pul
+46206	pul
 ¬
+
 critudinem
-40607	ma
+46214	ma
 ¬
+
 gnae
-40615	digni
+46223	digni
 ¬
+
 tatis
-40623	infi
+46232	infi
 ¬
+
 cias
-40631	nume
+46241	nume
 ¬
+
 tandam
-40652	Theolo
+46251	
+46258	
+46265	Theolo
 ¬
+
 gi
-40663	qui
+46277	qui
 ¬
+
 cunque
-40670	Nul
+46285	Nul
 ¬
+
 sum
-40678	pulcritu
+46294	pulcritu
 ¬
+
 do
-40686	mo
+46303	mo
 ¬
+
 dulatio
-40740	accum
+46315	
+46322	
+46329	
+46338	
+46340	
+46343	
+46347	
+46351	
+46360	
+46367	accum
 ¬
+
 bent
-40749	fami
+46377	fami
 ¬
+
 lia
-40758	pal
+46387	pal
 ¬
+
 critudo
-40771	discessio
+46397	
+46402	discessio
 ¬
+
 nem
-40786	at
+46413	
+46419	at
 ¬
+
 que
-40794	postli
+46428	postli
 ¬
+
 minio
-40824	silo
+46437	
+46444	
+46453	
+46462	silo
 ¬
+
 nes
-40834	scae
+46473	scae
 ¬
+
 uas
-40866	pul
+46488	
+46496	
+46502	
+46509	pul
 ¬
+
 critudo
-40892	infer
+46520	
+46529	
+46538	infer
 ¬
+
 tur
-40922	me
+46549	
+46556	
+46563	
+46572	me
 ¬
+
 diam
-40937	auerrunca
+46582	
+46589	auerrunca
 ¬
+
 tos
-40954	a
+46601	
+46608	a
 ¬
+
 pud
-40964	ibi
+46619	ibi
 ¬
+
 dem
-40986	di
+
+46627	
+46637	
+46645	di
 ¬
+
 gnitatis
-41013	verecun
+46657	
+46668	
+46675	verecun
 ¬
+
 dè
-41021	laua
+46684	laua
 ¬
+
 re
-41039	Indo
+46695	
+46704	Indo
 ¬
+
 rum
-41057	numi
+46715	
+46724	numi
 ¬
+
 na
-41067	cor
+46735	cor
 ¬
+
 nibus
-41083	Ni
+46745	
+46753	Ni
 ¬
+
 hil
-41105	in
+46763	
+46771	
+46778	in
 ¬
+
 signem
-41131	Phi
+46791	
+46799	
+46807	Phi
 ¬
+
 losophi
-41139	candidissi
+46816	candidissi
 ¬
+
 mis
-41166	qui
+46825	
+46837	
+46846	qui
 ¬
+
 dem
-41175	Ange
+46856	Ange
 ¬
+
 lis
-41188	me
+46865	
+46871	me
 ¬
+
 tempsychosi
-41213	expe
+46882	
+46891	
+46899	expe
 ¬
+
 rientiam
-41229	quon
+46910	
+46917	
+quon
 ¬
+
 K
-41249	ocu
+46923	
+46927	
+46931	
+46936	
+46943	ocu
 ¬
+
 lis
-41257	eosdem
+46952	eosdem
 ¬
+
 que
-41268	ex
+46964	ex
 ¬
+
 plorare
-41277	cuicun
+46974	cuicun
 ¬
+
 que
-41307	Au
+46984	
+46991	
+46999	
+47008	Au
 ¬
+
 deat
-41317	quaestio
+47019	quaestio
 ¬
+
 nem
-41329	la
+47032	la
 ¬
+
 minas
-41337	compara
+47041	compara
 ¬
+
 tum
-41353	con
+47054	
+47059	con
 ¬
+
 stricti
-41363	equu
+47070	equu
 ¬
+
 leum
-41371	for
+47079	for
 ¬
+
 mâ
-41394	vel
+47090	
+47097	
+47105	vel
 ¬
+
 ut
-41420	ta
+47116	
+47125	
+47134	ta
 ¬
+
 men
-41438	po
+47145	
+47154	po
 ¬
+
 nit
-41451	di
+47168	di
 ¬
+
 cas
-41459	di
+47177	di
 ¬
+
 gno
-41468	Home
+47187	Home
 ¬
+
 rum
-41487	de
+47198	
+47208	de
 ¬
+
 formitatem
-41505	lu
+47214	
+47216	
+47220	
+47230	
+lu
 ¬
+
 Crine
-41579	lau
+47246	
+47250	
+47261	
+47272	
+47283	
+47293	
+47300	
+47306	
+47314	lau
 ¬
+
 dari
-41589	stre
+47325	stre
 ¬
+
 nuè
-41606	Fan
+47337	
+47344	Fan
 ¬
+
 nium
-41663	callidita
+47355	
+47364	
+47373	
+47383	
+47392	
+47401	
+47408	callidita
 ¬
+
 tem
-41672	vs
+47418	vs
 ¬
+
 que
-41681	conie
+47428	conie
 ¬
+
 cturam
-41688	fi
+47436	fi
 ¬
+
 gura
-41706	superci
+47448	
+47456	superci
 ¬
+
 liis
-41724	physiogno
+47469	
+47476	physiogno
 ¬
+
 monum
-41738	monumen
+47487	
+47492	monumen
 ¬
+
 tis
-41755	vi
+47502	
+47511	vi
 ¬
+
 rium
-41795	di
+47516	
+47520	
+47522	
+47524	
+47526	
+47528	
+47530	
+47532	
+47534	
+47536	
+47538	
+47540	
+47542	
+47544	
+47546	
+47550	
+47561	
+47569	di
 ¬
+
 gressu
-41833	contume
+47580	
+47587	
+47597	
+47606	
+47612	contume
 ¬
+
 liosiùs
-41846	haben
+47626	haben
 ¬
+
 da
-41865	nar
+47638	
+47647	nar
 ¬
+
 rentur
-41882	exi
+47658	
+47666	exi
 ¬
+
 tium
-41890	intem
+47675	intem
 ¬
+
 pestiue
-41905	sexa
+47684	
+47692	sexa
 ¬
+
 genarios
-41914	suf
+47702	suf
 ¬
+
 "
-41932	gene
+47716	
+47722	gene
 ¬
+
 „
-41941	de
+47732	de
 ¬
+
 „
-41950	mo
+47742	mo
 ¬
+
 „
-41959	firmi
+47752	firmi
 ¬
+
 „
-41969	la
+47763	la
 ¬
+
 "
-41987	sen
+47774	
+47783	sen
 ¬
+
 tentia
-41995	sta
+47792	sta
 ¬
+
 bilire
-42018	ho
+47806	
+47808	
+47818	ho
 ¬
+
 „
-42047	mul
+47831	
+47841	
+47850	mul
 ¬
+
 tosque
-42067	perfe
+
+47858	
+47868	
+47874	perfe
 ¬
+
 „
-42146	terra
+
+47888	
+47890	
+47901	
+47909	
+47911	
+47920	
+47922	
+47927	
+47929	
+47940	
+47950	
+47959	
+47961	
+47968	terra
 ¬
+
 rum
-42154	ra
+47977	ra
 ¬
+
 piam
-42171	contem
+47991	
+47996	contem
 ¬
+
 platio
-42195	spe
+48008	
+48016	
+48023	spe
 ¬
+
 cie
-42202	inenarra
+48031	inenarra
 ¬
+
 bilis
-42224	admi
+48042	
+48050	
+48056	admi
 ¬
+
 ratione
-42247	vsurpa
+48067	
+48076	
+48082	vsurpa
 ¬
+
 tum
-42256	pri
+48092	pri
 ¬
+
 mò
-42271	mul
+48104	
+48109	mul
 ¬
+
 ctarunt
-42280	pul
+48119	pul
 ¬
+
 cram
-42287	postposuis
+48127	postposuis
 ¬
+
 set
-42304	Ca
+48139	
+48146	Ca
 ¬
+
 theâ
-42341	mo
+48151	
+48155	
+48158	
+48160	
+48168	
+48176	
+48183	
+48191	mo
 ¬
+
 numentis
-42348	ma
+48199	ma
 ¬
+
 ximos
-42369	Achil
+48209	
+48215	
+48223	Achil
 ¬
+
 les
-42379	Caro
+48234	Caro
 ¬
+
 lus
-42396	in
+48245	
+48253	in
 ¬
+
 ter
-42404	prae
+48262	prae
 ¬
+
 stantiâ
-42413	te
+48272	te
 ¬
+
 nuit
-42421	Medico
+48281	Medico
 ¬
+
 rum
-42437	ante
+48292	
+48299	ante
 ¬
+
 uertere
-42445	reci
+48308	reci
 ¬
+
 tabo
-42460	commemora
+48318	
+48325	commemora
 ¬
+
 bo
-42473	emine
+48334	
+48340	emine
 ¬
+
 rent
-42488	ob
+48352	
+48357	ob
 ¬
+
 soleuisse
-42497	tace
+48367	tace
 ¬
+
 bo
-42507	digni
+48378	digni
 ¬
+
 tate
-42522	cor
+48387	
+48395	cor
 ¬
+
 poris
-42531	re
+48405	re
 ¬
+
 gem
-42547	spe
+48416	
+48423	spe
 ¬
+
 cie
-42603	homi
+
+48431	
+48441	
+48450	
+48458	
+48467	
+48478	
+48487	homi
 ¬
+
 nibus
-42612	plu
+48497	plu
 ¬
+
 timùm
-42624	li
+48510	li
 ¬
+
 lium
-42641	pro
+48521	
+48529	pro
 ¬
+
 perantem
-42664	Pulcritu
+48539	
+48548	
+48555	Pulcritu
 ¬
+
 do
-42680	peregrina
+48567	
+48573	peregrina
 ¬
+
 tur
-42691	cae
+48585	cae
 ¬
+
 lestem
-42703	di
+48598	di
 ¬
+
 uos
-42719	pul
+48609	
+48616	pul
 ¬
+
 critudine
-42733	obses
+48625	
+48632	obses
 ¬
+
 sus
-42751	fa
+48647	
+48652	fa
 ¬
+
 culas
-42761	de
+48663	de
 ¬
+
 ducam
-42769	san
+48672	san
 ¬
+
 ctorum
-42778	a
+48682	a
 ¬
+
 cies
-42794	Christia
+48693	
+48700	Christia
 ¬
+
 norum
-42802	dissimu
+48709	dissimu
 ¬
+
 lant
-42840	extrao
+48718	
+48726	
+48729	
+48733	
+48737	
+48746	
+48754	extrao
 ¬
+
 leam
-42849	an
+48764	an
 ¬
+
 te
-42890	dignuma
+48775	
+48783	
+48789	
+48796	
+48803	
+48811	dignuma
 ¬
+
 more
-42907	i
+48822	
+48830	i
 ¬
+
 sis
-42916	An
+48840	An
 ¬
+
 gelico
-42932	Heroi
+48851	
+48858	Heroi
 ¬
+
 nam
-42956	con
+48866	
+48872	
+48882	
+48886	con
 ¬
+
 cessum
-42982	prae
+48898	
+48907	
+48915	prae
 ¬
+
 lusimus
-43008	contra
+48927	
+48937	
+48944	contra
 ¬
+
 dicamus
-43016	reli
+48953	reli
 ¬
+
 gionis
-43024	om
+48962	om
 ¬
+
 nibus
-43033	ob
+48972	ob
 ¬
+
 torto
-43054	perti
+48982	
+48987	
+48996	
+perti
 ¬
+
 byGoogl
-43082	Vir
+
+49011	
+49018	
+49029	Vir
 ¬
+
 gini
-43113	ho
+49039	
+49049	
+49057	
+49064	ho
 ¬
+
 norem
-43122	lemni
+49074	lemni
 ¬
+
 scatam
-43131	pulcritudi
+49084	pulcritudi
 ¬
+
 nem
-43142	se
+49096	se
 ¬
+
 cundùm
-43166	concedi
+49108	
+49116	
+49123	concedi
 ¬
+
 tis
-43192	orche
+49135	
+49144	
+49152	orche
 ¬
+
 stram
-43218	Vir
+49165	
+49174	
+49181	Vir
 ¬
+
 gini
-43226	con
+49190	con
 ¬
+
 cedunt
-43237	al
+49202	al
 ¬
+
 tera
-43249	v
+49215	v
 ¬
+
 traque
-43266	here
+49227	
+49234	here
 ¬
+
 dem
-43277	ca
+49246	ca
 ¬
+
 pite
-43287	sen
+49257	sen
 ¬
+
 tentiam
-43295	ne
+49266	ne
 ¬
+
 gent
-43312	in
+49277	
+49285	in
 ¬
+
 ferti
-43341	pulcrio
+49297	
+49302	
+49304	
+49308	
+49312	
+49320	pulcrio
 ¬
+
 rem
-43350	in
+49330	in
 ¬
+
 auditâ
-43379	co
+49341	
+49350	
+49356	
+49363	co
 ¬
+
 natus
-43390	simula
+49375	simula
 ¬
+
 „
-43418	admi
+49388	
+49398	
+49406	admi
 ¬
+
 „
-43453	affa
+49416	
+49426	
+49436	
+49445	affa
 ¬
+
 „
-43471	im
+49456	
+49465	im
 ¬
+
 „
-43480	con
+49475	con
 ¬
+
 „
-43490	maie
+49486	maie
 ¬
+
 „
-43506	imagi
+49497	
+49504	imagi
 ¬
+
 „
-43514	pul
+49513	pul
 ¬
+
 „
-43531	quin
+49523	
+49532	quin
 ¬
+
 „
-43541	cun
+49543	cun
 ¬
+
 "
-43565	pul
+49552	
+49562	
+49570	pul
 ¬
+
 „
-43581	im
+49581	
+49588	im
 ¬
+
 „
-43626	opi
+49599	
+49601	
+49605	
+49616	
+49622	
+49631	
+49640	opi
 ¬
+
 nione
-43652	ve
+49650	
+49659	
+49669	ve
 ¬
+
 stram
-43686	articulorum
+49684	
+49692	
+49700	
+49707	articulorum
 ¬
+
 que
-43703	praeco
+49719	
+49726	praeco
 ¬
+
 niis
-43716	Co
+49740	Co
 ¬
+
 clitum
-43732	Naso
+49751	
+49758	Naso
 ¬
+
 num
-43751	vermino
+49770	
+49779	vermino
 ¬
+
 sa
-43762	bi
+49791	bi
 ¬
+
 cubitali
-43783	conan
+49801	
+49808	
+49815	conan
 ¬
+
 tur
-43822	mon
+49821	
+49830	
+49840	
+49852	
+49859	mon
 ¬
+
 strorum
-43845	in
+49869	
+49876	
+49885	in
 ¬
+
 terpretentur
-43896	colo
+49896	
+49898	
+49901	
+49905	
+49909	
+49919	
+49932	
+49944	colo
 ¬
+
 ribus
-43915	fa
+49955	
+49965	fa
 ¬
+
 ciam
-43935	et
+49980	
+49987	et
 ¬
+
 iam
-43961	denu
+49999	
+50007	
+50016	denu
 ¬
+
 dandus
-43970	reli
+50026	reli
 ¬
+
 gandum
-43996	argumentatio
+50039	
+50049	
+50055	argumentatio
 ¬
+
 num
-44004	nul
+50064	nul
 ¬
+
 lam
-44010	haben
+50071	haben
 ¬
+
 dam
-44033	mu
+50082	
+50089	
+50097	mu
 ¬
+
 tantur
-44042	fiu
+50107	fiu
 ¬
+
 stra
-44121	verbo
+50113	
+50122	
+50131	
+50141	
+50151	
+50160	
+50170	
+50178	
+50187	
+50196	verbo
 ¬
+
 rum
-44142	exascian
+
+50204	
+50214	
+50221	exascian
 ¬
+
 da
-44152	pig
+50232	pig
 ¬
+
 menta
-44169	con
+50242	
+50251	con
 ¬
+
 tra
-44205	ad
+50259	
+50266	
+50275	
+50283	
+50292	ad
 ¬
+
 damus
-44214	trismyria
+50302	trismyria
 ¬
+
 desque
-44222	Gor
+50311	Gor
 ¬
+
 gonum
-44237	augustis
+50321	
+50328	augustis
 ¬
+
 simam
-44243	Impera
+50335	Impera
 ¬
+
 tricem
-44250	pa
+50343	pa
 ¬
+
 lam
-44265	ni
+50353	
+50360	ni
 ¬
+
 tuntur
-44282	ex
+50373	
+50379	ex
 ¬
+
 ecrationi
-44290	ra
+50388	ra
 ¬
+
 tio
-44299	de
+50398	de
 ¬
+
 coris
-44309	pul
+50409	pul
 ¬
+
 cium
-44320	proba
+50421	proba
 ¬
+
 tunt
-44337	pulcer
+50432	
+50440	pulcer
 ¬
+
 rima
-44362	in
+50452	
+50462	
+50468	in
 ¬
+
 gentem
-44369	Genu
+50476	Genu
 ¬
+
 enses
-44376	re
+50484	re
 ¬
+
 centia
-44395	ni
+
+50490	
+50494	
+50498	
+50508	ni
 ¬
+
 hil
-44406	Au
+50520	Au
 ¬
+
 ditores
-44423	foe
+50530	
+50539	foe
 ¬
+
 dum
-44432	il
+50549	il
 ¬
+
 lam
-44459	horri
+50560	
+50571	
+50579	horri
 ¬
+
 da
-44478	puti
+50592	
+50600	puti
 ¬
+
 dus
-44498	ni
+50612	
+50622	ni
 ¬
+
 uem
-44508	Ci
+50633	Ci
 ¬
+
 ceronem
-44522	proba
+50644	
+50649	proba
 ¬
+
 runt
-44531	laudan
+50659	laudan
 ¬
+
 da
-44560	po
+50670	
+50679	
+50687	
+50692	po
 ¬
+
 test
-44572	sa
+50705	sa
 ¬
+
 cerrimae
-44581	Ean
+50715	Ean
 ¬
+
 dem
-44598	Rebec
+50725	
+50734	Rebec
 ¬
+
 cam
-44608	pau
+50745	pau
 ¬
+
 cas
-44634	Au
+50756	
+50765	
+50774	Au
 ¬
+
 dire
-44649	hu
+50785	
+50791	hu
 ¬
+
 ius
-44672	locu
+
+50799	
+50809	
+50818	locu
 ¬
+
 pletiorem
-44687	gra
+50828	
+50835	gra
 ¬
+
 tiam
-44708	Vir
+50847	
+50858	Vir
 ¬
+
 gine
-44729	acropo
+50874	
+50881	acropo
 ¬
+
 lim
-44748	opti
+50893	
+50902	opti
 ¬
+
 ma
-44758	pro
+50913	pro
 ¬
+
 meruit
-44766	me
+50922	me
 ¬
+
 rita
-44786	exstir
+50935	
+50944	exstir
 ¬
+
 pare
-44795	le
+50954	le
 ¬
+
 uiori
-44824	profer
+50967	
+50974	
+50986	profer
 ¬
+
 te
-44835	pro
+50998	pro
 ¬
+
 ferte
-44852	Ma
+51009	
+51017	Ma
 ¬
+
 gnus
-44862	perfectis
+51028	perfectis
 ¬
+
 imum
-44888	spe
+51040	
+51049	
+51057	spe
 ¬
+
 ciosus
-44897	Vir
+51067	Vir
 ¬
+
 go
-44913	corpo
+51078	
+51085	corpo
 ¬
+
 rali
-44922	dis
+51095	dis
 ¬
+
 positione
-44931	venu
+51105	venu
 ¬
+
 statesubsistit
-44941	reli
+51116	
+reli
 ¬
+
 L
-44950	Hiero
+51122	
+51126	
+51129	
+Hiero
 ¬
+
 solymit
-44955	As
+51135	
+51137	As
 ¬
+
 ump
-45021	se
+51142	
+51145	
+51148	
+51150	
+51154	
+51157	
+51161	
+51169	
+51177	
+51184	
+51198	
+51215	se
 ¬
+
 ipsum
-45049	or
+51225	
+51236	
+51246	or
 ¬
+
 dinatum
-45090	pul
+51256	
+51267	
+51274	
+51284	
+51292	pul
 ¬
+
 cerrimè
-45098	spar
+51301	spar
 ¬
+
 gere
-45114	pre
+51311	
+51319	pre
 ¬
+
 tium
-45128	venera
+51328	
+51335	venera
 ¬
+
 mur
-45147	lu
+51347	
+51356	lu
 ¬
+
 dith
-45158	cau
+51368	cau
 ¬
+
 dâ
-45194	expurga
+51380	
+51386	
+51395	
+51402	
+51409	expurga
 ¬
+
 rit
-45222	Sua
+51419	
+51430	
+51440	Sua
 ¬
+
 rez
-45233	Theo
+51452	Theo
 ¬
+
 logorum
-45258	colloca
+
+51460	
+51462	
+51465	
+51467	
+51477	
+51484	colloca
 ¬
+
 runt
-45279	in
+51495	
+51501	
+51508	in
 ¬
+
 uoluunt
-45350	fulgo
+51519	
+51528	
+51539	
+51546	
+51553	
+51564	
+51573	
+51583	
+51588	fulgo
 ¬
+
 rem
-45358	emi
+51597	emi
 ¬
+
 cantem
-45376	aequiuo
+51609	
+51617	aequiuo
 ¬
+
 ca
-45391	fa
+51627	
+51634	fa
 ¬
+
 bricandis
-45406	con
+51645	
+51651	con
 ¬
+
 tra
-45425	ae
+51662	
+51672	ae
 ¬
+
 quiuoca
-45492	in
+51680	
+51689	
+51698	
+51705	
+51717	
+51728	
+51739	
+51747	in
 ¬
+
 dece
 ¬
+
 L
-45511	cir
+51755	
+51759	
+51763	
+51771	cir
 ¬
+
 cino
-45518	ple
+51779	ple
 ¬
+
 nißime
-45537	na
+51789	
+51795	
+51801	na
 ¬
+
 turae
-45545	prae
+51810	prae
 ¬
+
 fulgere
-45567	hyposta
+51820	
+51828	
+51835	hyposta
 ¬
+
 ticam
-45586	Fi
+51846	
+51856	Fi
 ¬
+
 lio
-45606	spe
+51869	
+51878	spe
 ¬
+
 ciosißimè
-45627	inda
+51889	
+51896	
+51902	inda
 ¬
+
 gator
-45634	designas
+51910	designas
 ¬
+
 set
-45643	mulie
+51920	mulie
 ¬
+
 rum
-45672	o
+51934	
+51943	
+51952	o
 ¬
+
 loris
-45690	Mer
+51962	
+51972	Mer
 ¬
+
 curio
-45712	Theologo
+51983	
+51992	
+51997	Theologo
 ¬
+
 rum
-45723	mem
+52009	mem
 ¬
+
 brorum
-45768	me
+52018	
+52025	
+52033	
+52036	
+52040	
+52050	
+52061	me
 ¬
+
 ridie
-45777	ab
+52071	ab
 ¬
+
 nuat
-45787	cu
+52082	cu
 ¬
+
 ius
-45812	au
+52094	
+52103	
+52110	au
 ¬
+
 dere
-45833	inge
+52124	
+52133	inge
 ¬
+
 nij
-45841	peri
+52142	peri
 ¬
+
 culo
-45858	Chri
+52152	
+52161	Chri
 ¬
+
 stianae
-45868	de
+52172	de
 ¬
+
 cretum
-45878	osten
+52183	osten
 ¬
+
 tandi
-45901	a
+52193	
+52201	
+52209	a
 ¬
+
 ctum
-45909	con
+52218	con
 ¬
+
 tra
-45917	demon
+52227	demon
 ¬
+
 stratio
-45936	ve
+52240	
+52248	ve
 ¬
+
 lim
-45961	om
+52259	
+52267	
+52276	om
 ¬
+
 nium
-45971	vi
+52287	vi
 ¬
+
 cissim
-45986	nemi
+52296	
+52304	nemi
 ¬
+
 nem
-45995	qui
+52314	qui
 ¬
+
 dem
-46005	ve
+52325	ve
 ¬
+
 ritati
-46016	tan
+52337	tan
 ¬
+
 dem
-46042	penetra
+52350	
+52352	
+52356	
+52360	
+52368	penetra
 ¬
+
 libus
-46068	firmi
+52379	
+52388	
+52397	firmi
 ¬
+
 ter
-46091	doctrina
+52409	
+52416	
+52423	doctrina
 ¬
+
 rum
-46098	et
+52431	et
 ¬
+
 iam
-46116	fortu
+52441	
+52451	fortu
 ¬
+
 natumque
-46125	de
+52461	de
 ¬
+
 monstratio
-46141	colo
+52472	
+52479	colo
 ¬
+
 ris
-46170	sub
+52488	
+52494	
+52501	
+52505	
+52513	sub
 ¬
+
 fuscus
-46178	Epipha
+52522	Epipha
 ¬
+
 nius
-46226	iu
+52530	
+52537	
+52543	
+52547	
+52556	
+52563	
+52569	
+52578	iu
 ¬
+
 uat
-46234	ta
+52587	ta
 ¬
+
 men
-46270	triti
+52596	
+52605	
+52607	
+52611	
+52621	
+52629	triti
 ¬
+
 ceum
-46277	di
+52637	di
 ¬
+
 ceret
-46293	commi
+52647	
+52655	commi
 ¬
+
 grare
-46314	trans
+52668	
+52678	trans
 ¬
+
 acta
-46324	in
+52689	in
 ¬
+
 colere
-46332	Lycome
+52698	Lycome
 ¬
+
 dem
-46357	matro
+52708	
+52717	
+52726	matro
 ¬
+
 narum
-46373	nul
+52736	
+52744	nul
 ¬
+
 lo
-46399	confe
+52754	
+52766	
+52773	confe
 ¬
+
 rant
-46410	pu
+52785	pu
 ¬
+
 tidus
-46418	virgi
+52794	virgi
 ¬
+
 nes
-46441	princi
+52804	
+52814	
+52820	princi
 ¬
+
 pes
-46454	macel
+52834	macel
 ¬
+
 lo
-46464	mu
+52845	mu
 ¬
+
 lieres
-46474	fu
+52856	fu
 ¬
+
 sum
-46493	prae
+52868	
+52877	prae
 ¬
+
 posterumque
-46510	no
+52887	
+52896	no
 ¬
+
 minaui
-46519	Epipha
+52906	Epipha
 ¬
+
 nium
-46543	intel
+52918	
+52920	
+52924	
+52926	
+52935	intel
 ¬
+
 lexerint
-46574	o
+52946	
+52953	
+52961	
+52970	o
 ¬
+
 pus
-46582	vo
+52979	vo
 ¬
+
 care
-46591	Epipha
+52989	Epipha
 ¬
+
 nium
-46599	pro
+52998	pro
 ¬
+
 fectò
-46614	for
+53009	
+53015	for
 ¬
+
 mam
-46622	neca
+53024	neca
 ¬
+
 liud
-46632	foe
+53035	foe
 ¬
+
 dum
-46681	in
+53048	
+53057	
+53064	
+53071	
+53080	
+53090	in
 ¬
+
 quam
-46727	argu
+53100	
+53109	
+53118	
+53123	
+53134	
+53142	argu
 ¬
+
 mentationem
-46745	depraedi
+53151	
+53156	
+53163	depraedi
 ¬
+
 cant
-46754	intelligi
+53173	intelligi
 ¬
+
 tur
-46774	prae
+53186	
+53195	
+prae
 ¬
+
 Digitized
-46802	iden
+53202	
+53211	
+53219	
+53228	iden
 ¬
+
 que
-46868	in
+53238	
+53248	
+53256	
+53267	
+53276	
+53284	
+53293	
+53302	in
 ¬
+
 cumbit
-46885	diuor
+53311	
+53321	diuor
 ¬
+
 tium
-46902	admira
+53332	
+53340	admira
 ¬
+
 tionem
-46927	di
+53353	
+53360	
+53368	di
 ¬
+
 gnam
-46943	rubo
+53378	
+53386	rubo
 ¬
+
 re
-46953	matro
+53397	matro
 ¬
+
 nis
-46964	ab
+53409	ab
 ¬
+
 horret
-46987	adul
+53419	
+53427	
+53435	adul
 ¬
+
 tiori
-47002	po
+53445	
+53452	po
 ¬
+
 tuisse
-47033	Nicepho
+53463	
+53473	
+53481	
+53487	Nicepho
 ¬
+
 rum
-47054	tri
+
+53495	
+53499	
+53505	
+53513	tri
 ¬
+
 ticeum
-47062	ar
+53522	ar
 ¬
+
 bitrari
-47087	No
+53533	
+53540	
+53550	No
 ¬
+
 runt
-47104	no
+53561	
+53569	no
 ¬
+
 stros
-47114	di
+53580	di
 ¬
+
 cenda
-47123	ad
+53590	ad
 ¬
+
 uersariorum
-47143	vul
+53600	
+53612	vul
 ¬
+
 gophilosophi
-47167	foedis
+53621	
+53630	
+53639	foedis
 ¬
+
 simum
-47175	compare
+53648	compare
 ¬
+
 tis
-47185	pro
+53659	pro
 ¬
+
 iiciatis
-47194	e
+53669	e
 ¬
+
 nim
-47213	deuia
+53681	
+53690	deuia
 ¬
+
 re
-47238	foe
+53701	
+53710	
+53718	foe
 ¬
+
 ditas
-47262	Audito
+53728	
+53738	
+53745	Audito
 ¬
+
 res
-47273	ad
+53757	ad
 ¬
+
 instar
-47283	im
+53768	im
 ¬
+
 mortalem
-47303	vene
+53778	
+53790	
+vene
 ¬
+
 Digitized
-47326	in
+53797	
+53807	
+53817	in
 ¬
+
 tegrae
-47333	nu
+53825	nu
 ¬
+
 minis
-47361	vo
+53837	
+53847	
+53856	vo
 ¬
+
 caris
-47385	ni
+53865	
+53874	
+53883	ni
 ¬
+
 hil
-47393	quaeri
+53892	quaeri
 ¬
+
 tur
-47405	fru
+53905	fru
 ¬
+
 stra
-47412	me
+53913	me
 ¬
+
 moriam
-47445	Audito
+53926	
+53933	
+53941	
+53950	Audito
 ¬
+
 res
-47467	conti
+53963	
+53971	
+53975	conti
 ¬
+
 neant
-47481	beneuo
+53985	
+53991	beneuo
 ¬
+
 lentiâ
-47492	formagratio
+54003	formagratio
 ¬
+
 sum
-47504	ho
+54016	ho
 ¬
+
 minibus
-47512	quodam
+54025	quodam
 ¬
+
 modo
-47521	alta
+54035	alta
 ¬
+
 ribus
-47535	con
+54045	
+54051	con
 ¬
+
 formatio
-47550	do
+54061	
+54068	do
 ¬
+
 hum
-47559	argumen
+54078	argumen
 ¬
+
 tum
-47598	plu
+54089	
+54091	
+54093	
+54097	
+54101	
+54108	
+54119	
+54125	plu
 ¬
+
 rima
-47608	pos
+54136	pos
 ¬
+
 sidet
-47617	exaggeran
+54146	exaggeran
 ¬
+
 da
-47626	ne
+54156	ne
 ¬
+
 scio
-47644	obti
+54168	
+54176	obti
 ¬
+
 nebat
-47662	spo
+54188	
+54196	spo
 ¬
+
 liatamque
-47676	illi
+54206	
+54212	illi
 ¬
+
 batamque
-47684	Theo
+54221	Theo
 ¬
+
 logique
-47700	plau
+54231	
+54239	plau
 ¬
+
 su
-47708	ma
+54248	ma
 ¬
+
 gnos
-47726	produ
+54261	
+54268	produ
 ¬
+
 xerint
-47738	ar
+54281	ar
 ¬
+
 guit
-47748	aduer
+54292	aduer
 ¬
+
 sariorum
-47756	inuol
+54301	inuol
 ¬
+
 uitur
-47784	vi
+54314	
+54323	
+54332	vi
 ¬
+
 detur
-47794	fron
+54343	fron
 ¬
+
 tem
-47820	spectatissi
+54354	
+54364	
+54372	spectatissi
 ¬
+
 mâ
-47839	medi
+54382	
+54393	
+medi
 ¬
+
 Digitized
-47866	virulen
+54400	
+54410	
+54418	
+54425	virulen
 ¬
+
 to
-47896	molien
+54436	
+54443	
+54453	
+54459	molien
 ¬
+
 dum
-47935	vi
+54470	
+54478	
+54486	
+54495	
+54503	vi
 ¬
+
 deatur
-47943	osten
+54512	osten
 ¬
+
 tationem
-47950	at
+54520	at
 ¬
+
 que
-47956	adorne
+54527	adorne
 ¬
+
 tur
-47967	ne
+54539	ne
 ¬
+
 que
-47992	pugnaci
+54550	
+54561	
+54567	pugnaci
 ¬
+
 ter
-48036	diuer
+54577	
+54586	
+54598	
+54608	
+54616	diuer
 ¬
+
 sum
-48074	ELE
-¬
-Digitized
-48095	claudi
-¬
-mus
-48113	hincpu
-¬
-dor
-49130	ELE
-¬
-Digitized
-50836	At
-¬
-Digitized
-51046	Panxe
-¬
-N
-51926	ELE
-¬
-197
-52776	Texti
-¬
-Digitized
-53616	Hor
-¬
-ELEGIAE
-54289	ELE
-¬
-Digitized
-54314	se
-¬
-ctandum
-55560	mari
-¬
+54626	
+54636	
+54644	
+54651	
+54656	
+54658	
+54661	
 ELE
 ¬
+
 Digitized
-55988	Siche
+54668	
+54672	
+54674	
+54678	
+54684	
+54689	claudi
 ¬
+
+mus
+54695	
+54702	
+54705	
+54711	hincpu
+¬
+
+dor
+54718	
+54726	
+54736	
+54745	
+54753	
+54762	
+54772	
+54778	
+54787	
+54798	
+54808	
+54815	
+54825	
+54833	
+54843	
+54854	
+54863	
+54871	
+54883	
+54892	
+54894	
+54898	
+54902	
+54910	
+54919	
+54927	
+54933	
+54942	
+54951	
+54955	
+54959	
+54967	
+54978	
+54986	
+54994	
+55004	
+55013	
+55025	
+55035	
+55044	
+55052	
+55060	
+55068	
+55080	
+55087	
+55091	
+55096	
+55104	
+55111	
+55113	
+55115	
+55117	
+55122	
+55131	
+55139	
+55147	
+55157	
+55165	
+55174	
+55182	
+55191	
+55202	
+55211	
+55220	
+55229	
+55238	
+55247	
+55256	
+55266	
+55272	
+55281	
+55293	
+55302	
+55314	
+55321	
+55330	
+55341	
+55349	
+55357	
+55365	
+55375	
+55386	
+55394	
+55396	
+55400	
+55405	
+55407	
+55418	
+55426	
+55435	
+55446	
+55450	
+55455	
+55466	
+55468	
+55478	
+55489	
+55496	
+55505	
+55512	
+55520	
+55527	
+55535	
+55542	
+55552	
+55560	
+55568	
+55576	
+55584	
+55591	
+55601	
+55609	
+55611	
+55613	
+55617	
+55622	
+55624	
+55628	
+55636	
+55647	
+55655	
+55665	
+55673	
+55685	
+55694	
+55703	
+55712	
+55720	
+55727	
+55738	
+55747	
+55759	
+55767	
+55776	
+55787	
+55796	
+55805	
+55815	
+55824	
+55834	
+55843	
+55851	
+55857	
+55866	
+55873	
+ELE
+¬
+
 Digitized
-56808	ELE
+55880	
+55884	
+55886	
+55890	
+55900	
+55910	
+55918	
+55926	
+55936	
+55945	
+55953	
+55961	
+55969	
+55978	
+55986	
+55994	
+56002	
+56009	
+56016	
+56025	
+56033	
+56043	
+56051	
+56062	
+56071	
+56080	
+56086	
+56094	
+56101	
+56108	
+56118	
+56120	
+56122	
+56124	
+56128	
+56132	
+56134	
+56141	
+56150	
+56157	
+56165	
+56178	
+56188	
+56192	
+56201	
+56209	
+56218	
+56227	
+56235	
+56245	
+56253	
+56261	
+56270	
+56278	
+56287	
+56296	
+56303	
+56309	
+56315	
+56324	
+56334	
+56341	
+56350	
+56357	
+56364	
+56368	
+56370	
+56375	
+56382	
+56390	
+56399	
+56408	
+56416	
+56426	
+56435	
+56442	
+56450	
+56458	
+56467	
+56475	
+56484	
+56492	
+56496	
+56500	
+56508	
+56515	
+56522	
+56530	
+56536	
+56543	
+56553	
+56560	
+56566	
+56573	
+56580	
+56589	
+56593	
+56595	
+56599	
+56605	
+56613	
+56622	
+56629	
+56638	
+56645	
+56653	
+56660	
+56670	
+56677	
+56685	
+56691	
+56699	
+56708	
+56719	
+56729	
+56740	
+56747	
+56757	
+56765	
+56771	
+56781	
+56791	
+56798	
+56808	
+56816	
+56826	
+56834	
+56845	
+56852	
+56856	
+56858	
+56863	
+56865	
+56874	
+56883	
+56887	
+56891	
+56899	
+56906	
+56915	
+56923	
+56931	
+56942	
+56951	
+56961	
+56969	
+56978	
+56986	
+56994	
+57003	
+57010	
+57018	
+57025	
+57032	
+57039	
+57048	
+57055	
+57065	
+57072	
+57081	
+57089	
+57091	
+57095	
+57097	
+57101	
+57109	
+57116	
+57126	
+57133	
+57142	
+57151	
+57159	
+57166	
+57173	
+57181	
+57189	
+57197	
+57206	
+57214	
+57223	
+57230	
+57237	
+57245	
+57256	
+57265	
+57278	
+57286	
+57296	
+57306	
+57310	
+57314	
+57324	
+57334	
+57336	
+57340	
+57342	
+57344	
+57348	
+57356	
+57364	
+57371	
+57381	
+57389	
+57397	
+57407	
+57415	
+57424	
+57433	
+57441	
+57453	
+57460	
+57467	
+57477	
+57486	
+57496	
+57505	
+57515	
+57524	
+57528	
+57534	
+57541	
+57549	
+57551	
+57559	
+57567	
+57574	
+57583	
+57585	
+57589	
+57593	
+57595	
+57604	
+57612	
+57619	
+57628	
+57635	
+57642	
+57649	
+57657	
+57664	
+57671	
+57678	
+57685	
+57694	
+57701	
+57711	
+57718	
+57730	
+57740	
+57749	
+57759	
+57767	
+57775	
+57784	
+57792	
+57802	
+57810	
+57817	
+57823	
+57833	
+57841	
+At
 ¬
+
+Digitized
+57848	
+57852	
+57861	
+57868	
+57875	
+57885	
+57895	
+57904	
+57910	
+57917	
+57925	
+57932	
+57940	
+57948	
+57955	
+57963	
+57970	
+57977	
+57985	
+57991	
+58001	
+58008	
+58016	
+58023	
+58031	
+58039	
+58047	
+58055	
+58063	
+58070	
+58077	
+58084	
+Panxe
+¬
+
+N
+
+58093	
+58095	
+58099	
+58101	
+58109	
+58116	
+58125	
+58133	
+58141	
+58148	
+58156	
+58163	
+58170	
+58179	
+58190	
+58196	
+58204	
+58214	
+58224	
+58233	
+58241	
+58245	
+58257	
+58264	
+58274	
+58283	
+58292	
+58302	
+58306	
+58311	
+58319	
+58326	
+58328	
+58332	
+58337	
+58339	
+58349	
+58355	
+58363	
+58371	
+58378	
+58387	
+58395	
+58403	
+58414	
+58420	
+58428	
+58439	
+58447	
+58457	
+58465	
+58472	
+58479	
+58487	
+58497	
+58505	
+58513	
+58521	
+58529	
+58536	
+58543	
+58551	
+58561	
+58572	
+58580	
+58588	
+58591	
+58593	
+58597	
+58601	
+58603	
+58611	
+58618	
+58626	
+58634	
+58642	
+58649	
+58656	
+58663	
+58670	
+58678	
+58687	
+58694	
+58702	
+58714	
+58722	
+58729	
+58739	
+58746	
+58750	
+58757	
+58768	
+58777	
+58779	
+58788	
+58797	
+58805	
+58813	
+58820	
+58828	
+58830	
+58834	
+58838	
+58846	
+58854	
+58861	
+58869	
+58878	
+58887	
+58895	
+58905	
+58915	
+58923	
+58931	
+58938	
+58947	
+58957	
+58967	
+58976	
+58985	
+58993	
+59004	
+59013	
+59020	
+59026	
+59035	
+59042	
+59050	
+59057	
+59066	
+59075	
+59086	
+59094	
+59097	
+59101	
+ELE
+¬
+
+197
+
+59108	
+59113	
+59117	
+59124	
+59134	
+59142	
+59150	
+59157	
+59163	
+59171	
+59183	
+59190	
+59198	
+59205	
+59215	
+59222	
+59232	
+59240	
+59250	
+59256	
+59265	
+59273	
+59283	
+59289	
+59298	
+59305	
+59314	
+59323	
+59332	
+59341	
+59343	
+59347	
+59352	
+59366	
+59375	
+59386	
+59393	
+59402	
+59410	
+59421	
+59428	
+59438	
+59446	
+59456	
+59464	
+59468	
+59475	
+59487	
+59493	
+59502	
+59510	
+59520	
+59528	
+59537	
+59546	
+59554	
+59564	
+59574	
+59581	
+59589	
+59597	
+59600	
+59604	
+59606	
+59608	
+59612	
+59614	
+59623	
+59632	
+59639	
+59646	
+59655	
+59662	
+59672	
+59682	
+59693	
+59703	
+59712	
+59722	
+59726	
+59731	
+59740	
+59747	
+59756	
+59764	
+59771	
+59777	
+59784	
+59793	
+59800	
+59808	
+59817	
+59826	
+59835	
+59844	
+59848	
+59850	
+59853	
+59856	
+59858	
+59866	
+59876	
+59883	
+59890	
+59896	
+59904	
+59911	
+59919	
+59928	
+59938	
+59947	
+59954	
+59958	
+59960	
+59967	
+59975	
+59982	
+59990	
+59996	
+60004	
+60012	
+60027	
+60035	
+60043	
+60050	
+60059	
+60066	
+60073	
+60080	
+60082	
+60084	
+Texti
+¬
+
+Digitized
+60091	
+60096	
+60098	
+60105	
+60112	
+60122	
+60129	
+60138	
+60148	
+60156	
+60165	
+60173	
+60181	
+60191	
+60193	
+60199	
+60207	
+60215	
+60219	
+60222	
+60231	
+60239	
+60246	
+60253	
+60261	
+60270	
+60278	
+60286	
+60296	
+60304	
+60313	
+60320	
+60322	
+60326	
+60328	
+60332	
+60339	
+60346	
+60355	
+60361	
+60371	
+60379	
+60389	
+60396	
+60403	
+60410	
+60418	
+60426	
+60434	
+60442	
+60453	
+60460	
+60467	
+60475	
+60482	
+60491	
+60499	
+60507	
+60515	
+60523	
+60530	
+60537	
+60546	
+60553	
+60561	
+60568	
+60570	
+60574	
+60578	
+60580	
+60588	
+60595	
+60603	
+60611	
+60618	
+60625	
+60632	
+60641	
+60649	
+60657	
+60664	
+60672	
+60680	
+60687	
+60698	
+60706	
+60714	
+60724	
+60733	
+60742	
+60751	
+60759	
+60769	
+60777	
+60785	
+60792	
+60799	
+60808	
+60815	
+60822	
+60824	
+60828	
+60832	
+60834	
+60844	
+60852	
+60860	
+60867	
+60876	
+60885	
+60889	
+60899	
+60907	
+60916	
+60925	
+60933	
+60941	
+60947	
+60955	
+60962	
+60969	
+60976	
+60983	
+60991	
+60999	
+61007	
+61015	
+61023	
+61032	
+61038	
+61046	
+61054	
+61058	
+Hor
+¬
+
+ELEGIAE
+61066	
+61068	
+61078	
+61084	
+61093	
+61101	
+61111	
+61118	
+61130	
+61138	
+61146	
+61155	
+61159	
+61163	
+61170	
+61179	
+61188	
+61197	
+61205	
+61212	
+61222	
+61229	
+61239	
+61247	
+61258	
+61266	
+61276	
+61284	
+61291	
+61299	
+61301	
+61305	
+61310	
+61312	
+61323	
+61330	
+61338	
+61348	
+61357	
+61365	
+61377	
+61384	
+61391	
+61398	
+61406	
+61415	
+61426	
+61433	
+61440	
+61448	
+61456	
+61462	
+61470	
+61480	
+61491	
+61499	
+61508	
+61519	
+61529	
+61539	
+61547	
+61555	
+61564	
+61573	
+61575	
+61579	
+61584	
+61586	
+61593	
+61601	
+61609	
+61616	
+61625	
+61633	
+61640	
+61647	
+61658	
+61666	
+61674	
+61683	
+61693	
+61704	
+61711	
+61720	
+61730	
+61738	
+61747	
+61756	
+61766	
+61773	
+61782	
+61790	
+61798	
+61807	
+61819	
+61828	
+ELE
+¬
+
+Digitized
+61835	
+61839	
+61841	
+61845	
+61852	
+61860	se
+¬
+
+ctandum
+61867	
+61875	
+61882	
+61888	
+61895	
+61905	
+61913	
+61921	
+61928	
+61937	
+61946	
+61957	
+61963	
+61970	
+61978	
+61986	
+61992	
+61999	
+62007	
+62015	
+62022	
+62029	
+62037	
+62047	
+62055	
+62057	
+62061	
+62063	
+62065	
+62070	
+62072	
+62080	
+62087	
+62093	
+62100	
+62112	
+62120	
+62129	
+62138	
+62146	
+62155	
+62162	
+62170	
+62178	
+62185	
+62193	
+62198	
+62205	
+62211	
+62220	
+62228	
+62235	
+62243	
+62251	
+62258	
+62264	
+62272	
+62280	
+62286	
+62295	
+62302	
+62306	
+62308	
+62312	
+62314	
+62321	
+62330	
+62339	
+62349	
+62356	
+62365	
+62373	
+62380	
+62388	
+62396	
+62403	
+62412	
+62419	
+62427	
+62439	
+62447	
+62456	
+62464	
+62472	
+62480	
+62486	
+62495	
+62504	
+62512	
+62520	
+62530	
+62537	
+62547	
+62555	
+62564	
+62566	
+62569	
+62573	
+62577	
+62579	
+62589	
+62597	
+62605	
+62613	
+62621	
+62627	
+62637	
+62641	
+62645	
+62651	
+62656	
+62665	
+62673	
+62682	
+62689	
+62698	
+62707	
+62715	
+62722	
+62729	
+62737	
+62745	
+62753	
+62762	
+62770	
+62779	
+62786	
+62788	
+62792	
+62797	
+62804	
+62812	
+62819	
+62826	
+62834	
+62842	
+62851	
+62860	
+62870	
+62878	
+62885	
+62892	
+62903	
+62910	
+62919	
+62926	
+62935	
+62943	
+62950	
+62958	
+62967	
+62976	
+62984	
+62991	
+62999	
+63006	
+63013	
+63020	
+63028	
+63037	
+63039	
+63042	
+63046	
+63048	
+63050	
+63054	
+63062	
+63069	
+63078	
+63085	
+63095	
+63103	
+63112	
+63120	
+63127	
+63136	
+63144	
+63151	
+63158	
+63166	
+63176	
+63183	
+63190	
+63198	
+63206	
+63213	
+63223	
+63232	
+63242	
+63251	
+63261	
+63270	
+63278	
+63286	
+63294	
+63302	mari
+¬
+
+ELE
+¬
+
+Digitized
+63311	
+63315	
+63317	
+63321	
+63328	
+63337	
+63344	
+63354	
+63361	
+63369	
+63375	
+63382	
+63392	
+63400	
+63407	
+63414	
+63421	
+63432	
+63438	
+63447	
+63454	
+63465	
+63476	
+63484	
+63491	
+63498	
+63508	
+63517	
+63525	
+63533	
+63541	
+63543	
+63547	
+63549	
+63554	
+63562	
+63569	
+63578	
+63585	
+63594	
+63601	
+63610	
+63619	
+63626	
+63634	
+63644	
+63646	
+63654	
+63661	
+63670	
+63678	
+63686	
+63694	
+63701	
+63709	
+63717	
+63724	
+63731	
+63740	
+63748	
+63757	
+63765	
+63773	
+63781	
+63788	
+63797	
+Siche
+¬
+
+Digitized
+63804	
+63808	
+63810	
+63817	
+63824	
+63832	
+63839	
+63847	
+63856	
+63859	
+63866	
+63869	
+63872	
+63880	
+63888	
+63897	
+63904	
+63912	
+63919	
+63927	
+63934	
+63945	
+63952	
+63960	
+63963	
+63971	
+63981	
+63989	
+63996	
+64003	
+64013	
+64022	
+64025	
+64027	
+64031	
+64036	
+64038	
+64047	
+64055	
+64063	
+64071	
+64082	
+64089	
+64096	
+64105	
+64112	
+64119	
+64128	
+64138	
+64148	
+64156	
+64163	
+64172	
+64180	
+64191	
+64200	
+64208	
+64216	
+64224	
+64233	
+64240	
+64244	
+64253	
+64261	
+64269	
+64273	
+64275	
+64280	
+64291	
+64301	
+64309	
+64317	
+64324	
+64331	
+64340	
+64347	
+64355	
+64363	
+64371	
+64377	
+64384	
+64392	
+64402	
+64410	
+64418	
+64425	
+64432	
+64439	
+64446	
+64454	
+64462	
+64470	
+64479	
+64487	
+64495	
+64501	
+64510	
+64518	
+64520	
+64524	
+64528	
+64530	
+64540	
+64548	
+64557	
+64564	
+64572	
+64580	
+64588	
+64595	
+64603	
+64611	
+64620	
+64627	
+64634	
+64641	
+64650	
+64657	
+64666	
+64673	
+64681	
+64689	
+64697	
+64705	
+64714	
+64721	
+64730	
+64737	
+64746	
+64748	
+ELE
+¬
+
 igitized
-57008	Cor
+64755	
+64757	
+64762	
+64766	
+64772	
+64782	
+64791	
+64799	
+64805	
+64812	
+64819	
+64826	
+64835	
+64843	
+64853	
+64855	
+64864	
+64872	
+64880	
+64888	
+64898	
+64901	
+64908	
+64916	
+64923	
+64931	
+64937	
+64945	
+64952	
+64958	
+64965	
+64973	
+64982	
+Cor
 ¬
+
 Digitized
-57154	peto
+64989	
+64993	
+64995	
+65004	
+65013	
+65022	
+65031	
+65041	
+65048	
+65052	
+65058	
+65067	
+65074	
+65083	
+65091	
+65100	
+65107	
+65115	
+65122	
+65130	
+65137	
+65146	
+65152	peto
 ¬
+
 Quque
-57668	ANA
+65165	
+65173	
+65181	
+65189	
+65197	
+65205	
+65214	
+65223	
+65227	
+65229	
+65234	
+65243	
+65251	
+65261	
+65269	
+65282	
+65291	
+65300	
+65309	
+65321	
+65329	
+65340	
+65352	
+65359	
+65366	
+65373	
+65381	
+65390	
+65397	
+65406	
+65413	
+65421	
+65429	
+65437	
+65445	
+65453	
+65460	
+65467	
+65475	
+65483	
+65490	
+65494	
+65496	
+65498	
+65502	
+65504	
+65512	
+65519	
+65528	
+65536	
+65546	
+65555	
+65562	
+65569	
+65579	
+65588	
+65599	
+65608	
+65616	
+65626	
+65632	
+65639	
+65649	
+65658	
+65665	
+65673	
+65680	
+65688	
+65696	
+65703	
+65714	
+65722	
+65732	
+65740	
+ANA
 ¬
+
 Digitized
-58168	diser
+65747	
+65752	
+65755	
+65761	
+65767	
+65772	
+65776	
+65781	
+65785	
+65790	
+65794	
+65798	
+65802	
+65808	
+65812	
+65818	
+65823	
+65827	
+65832	
+65837	
+65841	
+65845	
+65850	
+65855	
+65859	
+65864	
+65869	
+65874	
+65878	
+65880	
+65882	
+65884	
+65889	
+65894	
+65897	
+65902	
+65906	
+65909	
+65913	
+65917	
+65923	
+65929	
+65932	
+65937	
+65940	
+65944	
+65947	
+65950	
+65956	
+65962	
+65967	
+65972	
+65977	
+65982	
+65986	
+65991	
+65995	
+66000	
+66004	
+66008	
+66012	
+66018	
+66021	
+66023	
+66026	
+66030	
+66035	
+66042	
+66046	
+66051	
+66054	
+66059	
+66065	
+66070	
+66075	
+66078	
+66080	
+66085	
+66090	
+66094	
+66099	
+66103	
+66108	
+66114	
+66118	
+66123	
+66128	
+66132	
+66139	
+66145	
+66149	
+66154	
+66159	
+66164	
+66168	
+66173	
+66175	
+66179	
+66181	
+66186	
+66190	
+66194	
+66199	
+66204	
+66210	
+66215	
+66220	
+66225	
+66230	
+66234	
+66239	
+66244	
+66250	
+66255	
+66260	
+66265	
+66270	
+66274	
+66279	
+66283	
+66287	
+66292	
+66297	
+66302	
+66307	
+66311	
+66316	
+66322	
+66326	
+66329	
+66333	
+66338	
+66343	
+66347	
+66352	
+66358	
+66362	
+66367	
+66371	
+66376	
+66380	
+66383	diser
 ¬
+
 Pulset
-59083	dormi
+66389	
+66394	
+66399	
+66405	
+66410	
+66416	
+66420	
+66424	
+66431	
+66436	
+66442	
+66448	
+66454	
+66458	
+66463	
+66465	
+66469	
+66471	
+66473	
+66478	
+66482	
+66487	
+66492	
+66497	
+66504	
+66509	
+66513	
+66518	
+66523	
+66527	
+66532	
+66537	
+66542	
+66546	
+66550	
+66556	
+66562	
+66567	
+66572	
+66576	
+66581	
+66585	
+66590	
+66595	
+66599	
+66604	
+66608	
+66612	
+66616	
+66621	
+66626	
+66629	
+66633	
+66637	
+66643	
+66647	
+66650	
+66655	
+66660	
+66664	
+66669	
+66674	
+66679	
+66683	
+66688	
+66692	
+66696	
+66700	
+66705	
+66710	
+66715	
+66721	
+66725	
+66730	
+66735	
+66739	
+66744	
+66748	
+66752	
+66754	
+66759	
+66763	
+66768	
+66774	
+66780	
+66785	
+66789	
+66795	
+66799	
+66804	
+66808	
+66812	
+66817	
+66821	
+66826	
+66831	
+66835	
+66840	
+66845	
+66850	
+66853	
+66858	
+66862	
+66867	
+66873	
+66877	
+66882	
+66887	
+66891	
+66898	
+66900	
+66905	
+66910	
+66915	
+66921	
+66927	
+66931	
+66936	
+66941	
+66945	
+66949	
+66954	
+66959	
+66963	
+66967	
+66971	
+66975	
+66980	
+66985	
+66990	
+66996	
+67001	
+67007	
+67012	
+67017	
+67022	
+67027	
+67032	
+67037	
+67042	
+67047	
+67051	
+67053	
+67055	
+67058	
+67060	
+67065	
+67070	
+67076	
+67082	
+67087	
+67092	
+67096	
+67098	
+67102	
+67109	
+67114	
+67119	
+67123	
+67127	
+67131	
+67135	
+67140	
+67145	
+67149	
+67154	
+67158	
+67162	
+67168	
+67172	
+67178	
+67183	
+67187	
+67192	
+67197	
+67205	
+67211	
+67213	
+67215	
+67219	
+67224	
+67232	
+67237	
+67244	
+67250	
+67254	
+67257	
+67262	
+67265	
+67270	
+67276	
+67281	
+67286	
+67290	
+67295	
+67301	
+67305	
+67311	
+67316	
+67321	
+67326	
+67331	
+67337	
+67343	
+67348	
+67353	
+67357	
+67362	
+67365	
+67367	
+67369	
+67373	
+67375	
+67380	
+67384	
+67389	
+67394	
+67398	
+67402	
+67406	
+67411	
+67416	
+67420	
+67424	
+67429	
+67433	
+67438	
+67441	
+67446	
+67450	
+67455	
+67462	
+67467	
+67472	
+67476	
+67480	
+67484	
+67491	
+67497	
+67501	
+67506	
+67510	
+67516	
+67518	
+67522	
+67527	
+67533	
+67538	
+67543	
+67548	dormi
 ¬
+
 Dormis
-60101	e
+67556	
+67560	
+67567	
+67572	
+67576	
+67580	
+67587	
+67592	
+67596	
+67600	
+67605	
+67609	
+67613	
+67618	
+67623	
+67630	
+67635	
+67640	
+67645	
+67650	
+67655	
+67657	
+67659	
+67663	
+67668	
+67673	
+67679	
+67684	
+67690	
+67694	
+67698	
+67702	
+67707	
+67713	
+67717	
+67722	
+67725	
+67729	
+67733	
+67738	
+67741	
+67746	
+67751	
+67756	
+67761	
+67767	
+67771	
+67775	
+67780	
+67784	
+67788	
+67793	
+67798	
+67800	
+67803	
+67805	
+67808	
+67813	
+67817	
+67822	
+67826	
+67830	
+67833	
+67838	
+67842	
+67847	
+67851	
+67856	
+67860	
+67865	
+67870	
+67874	
+67879	
+67884	
+67889	
+67893	
+67898	
+67902	
+67906	
+67910	
+67914	
+67917	
+67922	
+67928	
+67933	
+67938	
+67943	
+67945	
+67947	
+67949	
+67953	
+67955	
+67961	
+67966	
+67971	
+67976	
+67981	
+67985	
+67989	
+67993	
+67996	
+68000	
+68006	
+68009	
+68012	
+68017	
+68021	
+68026	
+68030	
+68035	
+68039	
+68043	
+68047	
+68052	
+68056	
+68062	
+68064	
+68066	
+68070	
+68072	
+68074	
+68077	
+68080	
+68084	
+68088	
+68092	
+68096	
+68098	
+68100	
+68103	
+68105	
+68107	
+68111	
+68114	
+68118	
+68122	
+68124	
+68126	
+68129	
+68131	
+68134	
+68138	
+68140	
+68144	
+68148	
+68152	
+68161	
+68164	
+68175	
+68187	
+68197	
+68206	
+68215	
+68228	
+68234	
+68242	
+68253	
+68264	
+68273	
+68283	
+68291	
+68299	
+68308	
+68322	
+68329	
+68336	
+68344	
+68357	
+68359	
+68363	
+68366	
+68368	
+68378	
+68392	
+68400	
+68411	
+68420	
+68429	
+68441	
+68450	
+68457	
+68469	
+68481	
+68495	
+68504	
+68517	
+68526	
+68533	
+68548	
+68552	
+68565	
+68577	
+68588	
+68592	
+68596	
+68600	
+68610	
+68618	
+68627	
+68636	
+68639	
+68642	
+68646	
+68649	
+68651	
+68661	
+68668	
+68678	
+68686	
+68693	
+68703	
+68715	
+68725	
+68736	
+68744	
+68753	
+68763	
+68773	
+68776	
+68786	
+e
 ¬
+
 Hunc
-60218	cri
+68798	
+68811	
+68814	
+68827	
+68830	
+68843	
+68845	
+68854	
+68867	
+68879	
+68887	
+68898	
+68906	
+68918	cri
 ¬
+
 brumnam
-60263	catapul
+68925	
+68927	
+68931	
+68933	
+68936	
+68938	
+68949	
+68960	
+68963	
+68973	catapul
 ¬
+
 ta
-60288	sti
+68980	
+68991	
+69001	sti
 ¬
+
 pendium
-60334	occisis
+69006	
+69021	
+69027	
+69033	
+69038	
+69043	
+69054	occisis
 ¬
+
 4
-60351	pa
+
+69061	
+69074	pa
 ¬
+
 ter
-60415	
-60477	stulti
+69081	
+69097	
+69106	
+69113	
+69115	
+69119	
+69121	
+69125	
+69128	
+69131	
+69134	
+69137	
+69140	
+69152	
+
+69160	
+69171	
+69173	
+69175	
+69178	
+69182	
+69185	
+69187	
+69198	
+69208	
+69216	
+69226	stulti
 ¬
+
 tiam
-60508	Chari
+69232	
+69243	
+69250	
+69261	Chari
 ¬
+
 tum
-60581	Apa
+69267	
+69277	
+69291	
+69294	
+69306	
+69316	
+69327	
+69342	Apa
 ¬
+
 A
-60599	men
+69347	
+69350	
+69363	men
 ¬
+
 tem
-60684	vi
+69370	
+69386	
+69400	
+69403	
+69415	
+69419	
+69430	
+69443	
+69446	
+69458	vi
 ¬
+
 4
-60692	
+69464	
+69467	
+69469	
+
 SCE
 ¬
+
 Digitized
-61137	Ge
+69477	
+69479	
+69482	
+69484	
+69488	
+69491	
+69504	
+69512	
+69521	
+69530	
+69540	
+69543	
+69552	
+69563	
+69574	
+69584	
+69591	
+69601	
+69612	
+69625	
+69633	
+69642	
+69652	
+69661	
+69670	
+69674	
+69677	
+69680	
+69689	
+69699	
+69701	
+69705	
+69707	
+69710	
+69712	
+69719	
+69726	
+69728	
+69737	
+69744	
+69752	
+69760	
+69763	
+69772	
+69781	
+69792	
+69802	
+69811	
+69818	
+69826	
+69837	
+69844	
+69855	
+69862	
+69870	
+69879	
+69890	
+69900	
+69911	
+69923	
+69932	
+69936	
+69944	
+69952	
+69964	
+69972	
+69982	
+Ge
 ¬
+
 Digitized
-61142	
-61251	para
+69989	
+
+69993	
+69995	
+70006	
+70009	
+70022	
+70026	
+70033	
+70045	
+70056	
+70066	
+70075	
+70082	
+70092	
+70103	
+70113	para
 ¬
+
 tißimum
-61580	ma
+70119	
+70132	
+70134	
+70144	
+70156	
+70165	
+70174	
+70187	
+70197	
+70210	
+70213	
+70227	
+70236	
+70247	
+70254	
+70269	
+70277	
+70280	
+70283	
+70287	
+70290	
+70292	
+70302	
+70306	
+70315	
+70329	
+70333	
+70345	
+70356	
+70369	
+70383	
+70394	
+70409	
+70414	
+70428	
+70431	
+70448	
+70459	
+70468	
+70482	ma
 ¬
+
 lis
-61787	
-61799	
-62146	gan
+70488	
+70500	
+70512	
+70527	
+70538	
+70546	
+70556	
+70565	
+70572	
+70583	
+70594	
+70601	
+70603	
+70607	
+70610	
+70612	
+70620	
+70628	
+70636	
+70648	
+70659	
+70668	
+70670	
+70678	
+70680	
+70688	
+70697	
+70706	
+70708	
+70718	
+70720	
+
+70724	
+70728	
+70732	
+70736	
+
+70741	
+70745	
+70748	
+70760	
+70768	
+70779	
+70791	
+70794	
+70804	
+70811	
+70824	
+70831	
+70844	
+70846	
+70850	
+70853	
+70855	
+70865	
+70873	
+70885	
+70893	
+70906	
+70919	
+70931	
+70939	
+70949	
+70962	
+70976	
+70987	
+70996	
+71004	
+71016	
+71024	
+71037	
+71047	
+71055	
+71064	
+71072	
+71082	
+71098	
+71113	
+71116	
+71126	gan
 ¬
+
 niunt
-62194	vi
+71131	
+71140	
+71154	
+71156	
+71161	
+71164	
+71168	
+71170	
+71173	
+71184	vi
 ¬
+
 deat
-62229	
-62408	pa
+71190	
+71199	
+71212	
+71223	
+
+71234	
+71236	
+71243	
+71250	
+71258	
+71267	
+71278	
+71287	
+71289	
+71296	
+71306	
+71316	
+71323	
+71334	
+71343	
+71357	
+71370	
+71380	
+71389	
+71398	
+71414	
+71424	pa
 ¬
+
 ter
-62450	
-62662	re
+71430	
+71443	
+71446	
+71461	
+71466	
+71469	
+71473	
+
+71476	
+71479	
+71481	
+71492	
+71497	
+71506	
+71514	
+71526	
+71542	
+71554	
+71569	
+71579	
+71590	
+71593	
+71602	
+71612	
+71623	
+71636	
+71650	
+71663	
+71669	
+71681	
+71694	
+71709	re
 ¬
+
 uenero
-62808	con
+71714	
+71724	
+71733	
+71741	
+71748	
+71757	
+71759	
+71763	
+71766	
+71769	
+71773	
+71776	
+71779	
+71781	
+71784	
+71787	
+71790	
+71799	
+71808	
+71819	
+71828	
+71840	
+71852	
+71861	
+71871	
+71881	con
 ¬
+
 gredi
-62885	fi
+71886	
+71901	
+71914	
+71925	
+71931	
+71941	
+71954	
+71966	fi
 ¬
+
 ducia
-62957	Ly
+71971	
+71982	
+71989	
+71992	
+71996	
+71998	
+72001	
+72003	
+72013	
+72022	
+72032	
+72040	
+72051	Ly
 ¬
+
 dum
-63123	mi
+72057	
+72066	
+72068	
+72081	
+72083	
+72092	
+72105	
+72118	
+72133	
+72143	
+72150	
+72159	
+72169	
+72178	
+72182	
+72186	
+72190	
+72196	
+72207	
+72217	
+72229	
+72239	mi
 ¬
+
 hi
-63658	SCE
+72246	
+72255	
+72258	
+72260	
+72264	
+72267	
+72269	
+72277	
+72289	
+72294	
+72303	
+72309	
+72318	
+72325	
+72335	
+72347	
+72356	
+72365	
+72376	
+72384	
+72393	
+72407	
+72417	
+72428	
+72438	
+72447	
+72455	
+72465	
+72476	
+72490	
+72499	
+72511	
+72515	
+72526	
+72536	
+72546	
+72557	
+72559	
+72561	
+72565	
+72568	
+72570	
+72580	
+72586	
+72594	
+72604	
+72612	
+72622	
+72632	
+72643	
+72654	
+72661	
+72668	
+72680	
+72690	
+72700	
+72707	
+72716	
+72726	
+72736	
+72745	
+72754	
+72765	
+72774	
+72777	
+72789	
+72799	
+72809	
+72817	
+72827	
+72836	
+72846	
+SCE
 ¬
+
 Digitized
-63743	con
+72853	
+72856	
+72858	
+72862	
+72865	
+72868	
+72871	
+72874	
+72877	
+72880	
+72883	
+72896	
+72899	
+72907	
+72918	
+72922	
+72932	
+72943	
+72951	con
 ¬
+
 uoca
-63796	prouin
+
+72962	
+72971	
+72980	
+72992	
+72995	
+73004	
+73012	
+prouin
 ¬
+
 ciam
-63827	Li
+73018	
+73027	
+73037	
+73046	
+73049	
+Li
 ¬
+
 Digitized
-64067	bel
+73056	
+73059	
+73061	
+73073	
+73083	
+73091	
+73100	
+73109	
+73119	
+73128	
+73137	
+73148	
+73150	
+73160	
+73173	
+73182	
+73185	
+73200	
+73206	
+73217	
+73227	
+73239	
+73249	
+73260	
+73266	
+73274	
+73283	
+73292	
+73300	
+73310	
+73321	bel
 ¬
+
 licum
-64137	fa
+
+73333	
+73335	
+73339	
+73342	
+73344	
+73353	
+73366	
+73374	
+73382	
+73390	
+73393	
+73404	fa
 ¬
+
 cinus
-64179	re
+73409	
+73420	
+73424	
+73437	
+73440	
+73452	re
 ¬
+
 peri
-64219	sen
+73458	
+73472	
+73486	
+73489	
+73497	sen
 ¬
+
 tentiâ
-64258	som
+73502	
+73514	
+73517	
+73526	
+73529	
+73542	som
 ¬
+
 no
-64283	in
+73548	
+73558	
+73570	in
 ¬
+
 quam
-64381	ar
+73577	
+73591	
+73594	
+73597	
+73600	
+73604	
+73606	
+73609	
+73622	
+73632	
+73643	
+73650	
+73657	
+73665	
+73674	
+73684	ar
 ¬
+
 bitror
-64437	vmbra
+73689	
+73694	
+73701	
+73703	
+73713	
+73720	
+73727	
+73734	
+73741	
+73750	vmbra
 ¬
+
 tilis
-64576	insti
+73755	
+73766	
+73775	
+73782	
+73793	
+73803	
+73812	
+73822	
+73833	
+73838	
+73847	
+73850	
+73862	
+73865	
+73869	
+73871	
+73874	
+73883	
+73887	
+73898	
+73901	
+73911	insti
 ¬
+
 tuam
-64733	in
+73917	
+73926	
+73944	
+73956	
+73967	
+73974	
+73984	
+73993	
+74003	
+74013	
+74020	
+74033	
+74036	
+74045	
+74056	
+74059	
+74072	
+74076	
+74087	in
 ¬
+
 pectore
-64969	cessa
+74092	
+74103	
+74111	
+74119	
+74131	
+74140	
+74143	
+74146	
+74150	
+74153	
+74155	
+74166	
+74176	
+74188	
+74191	
+74201	
+74211	
+74220	
+74229	
+74236	
+74247	
+74255	
+74264	
+74271	
+74281	
+74291	
+74301	
+74311	
+74315	
+74318	
+74323	
+74326	
+74329	
+74339	
+74348	
+74359	cessa
 ¬
+
 mus
-65111	Mes
+74365	
+74373	
+74382	
+74384	
+74388	
+74390	
+74393	
+74395	
+74403	
+74414	
+74423	
+74436	
+74444	
+74458	
+74470	
+74481	
+74488	
+74496	
+74503	
+74511	
+74522	Mes
 ¬
+
 senio
-65200	vten
+74527	
+74538	
+74542	
+74555	
+74567	
+74575	
+74585	
+74593	
+74606	
+74612	
+74622	vten
 ¬
+
 dos
-65219	alicu
+74628	
+74643	alicu
 ¬
+
 bi
-65291	vo
+74650	
+74658	
+74670	
+74673	
+74676	
+74679	
+74683	
+74686	
+74688	
+74702	
+74711	
+74727	vo
 ¬
+
 mitum
-65306	incom
+74732	
+74744	
+incom
 ¬
+
 Nicob
-65794	cr
+74756	
+74759	
+74767	
+74781	
+74795	
+74806	
+74814	
+74824	
+74839	
+74850	
+74858	
+74865	
+74874	
+74882	
+74894	
+74906	
+74913	
+74924	
+74931	
+74939	
+74948	
+74951	
+74961	
+74973	
+74985	
+74987	
+74991	
+74994	
+74996	
+75006	
+75015	
+75023	
+75026	
+75038	
+75048	
+75051	
+75061	
+75073	
+75086	
+75100	
+75108	
+75121	
+75125	
+75135	
+75149	
+75160	
+75170	
+75173	
+75181	
+75187	
+75199	
+75206	
+75216	
+75223	
+75235	
+75244	
+75255	
+75264	
+75273	
+75276	
+75280	
+75283	
+75285	
+75297	cr
 ¬
+
 briùs
-65807	ex
+
+75312	ex
 ¬
+
 petis
-66159	ma
+75317	
+75329	
+75332	
+75343	
+75350	
+75361	
+75371	
+75378	
+75390	
+75401	
+75409	
+75418	
+75427	
+75433	
+75441	
+75455	
+75460	
+75471	
+75482	
+75488	
+75497	
+75508	
+75519	
+75529	
+75537	
+75548	
+75559	
+75561	
+75565	
+75568	
+75570	
+75583	
+75593	
+75604	
+75613	
+75624	
+75626	
+75635	
+75644	
+75652	
+75662	
+75675	
+75685	
+75697	
+75709	ma
 ¬
+
 ledicum
-66251	ar
+75714	
+75724	
+75734	
+75737	
+75747	
+75757	
+75772	
+75778	
+75786	
+75794	
+75802	
+75813	ar
 ¬
+
 bitrarium
-66350	va
+75818	
+75832	
+75835	
+75844	
+75846	
+75850	
+75852	
+75855	
+75857	
+75865	
+75877	
+75890	
+75900	
+75914	
+75927	va
 ¬
+
 pula
-66364	ex
+75932	
+75943	ex
 ¬
+
 pedit
-66454	se
+75948	
+75955	
+75966	
+75978	
+75987	
+75999	
+76009	
+76021	
+76024	
+76028	
+76033	
+76045	se
 ¬
+
 nex
-66513	
-66580	pro
+76050	
+76060	
+76069	
+76078	
+76089	
+76098	
+76107	
+76109	
+76113	
+
+76117	
+76119	
+76127	
+76136	
+76150	
+76158	
+76169	
+76176	
+76189	pro
 ¬
+
 feram
-66608	in
+
+76200	
+76210	
+76213	
+76222	in
 ¬
+
 tegram
-67192	sa
+
+76236	
+76240	
+76243	
+76248	
+76260	
+76267	
+76277	
+76288	
+76297	
+76300	
+76314	
+76318	
+76328	
+76334	
+76343	
+76345	
+76349	
+76352	
+76354	
+76369	
+76378	
+76392	
+76404	
+76418	
+76426	
+76437	
+76450	
+76460	
+76467	
+76471	
+76474	
+76477	
+76480	
+76489	
+76497	
+76509	
+76522	
+76526	
+76536	
+76541	
+76550	
+76561	
+76571	
+76584	
+76593	
+76605	
+76613	
+76616	
+76620	
+76623	
+76625	
+76635	
+76641	
+76652	
+76665	
+76676	
+76680	
+76690	
+76703	
+76715	
+76729	
+76732	
+76746	
+76749	
+76760	
+76774	
+76777	
+76789	
+76797	
+76809	
+76813	
+76818	
+76821	
+76824	
+76827	
+76837	
+76841	
+76857	
+76862	
+76865	
+76867	
+76871	
+76874	
+76876	
+76892	sa
 ¬
+
 uias
-67207	quid
+76897	
+76909	quid
 ¬
+
 quam
-67275	pru
+76917	
+76927	
+76930	
+76941	
+76945	
+76961	
+76971	
+76974	
+76986	pru
 ¬
+
 rit
-67425	
-67496	deli
+76993	
+77007	
+77011	
+77023	
+77030	
+77043	
+77047	
+77061	
+77067	
+77077	
+77080	
+77092	
+77101	
+77111	
+77124	
+77127	
+77139	
+77149	
+77152	
+77156	
+
+77160	
+77162	
+77174	
+77176	
+77186	
+77197	
+77203	
+77214	
+77216	
+77227	
+77238	deli
 ¬
+
 bero
-67575	vo
+77243	
+77251	
+77264	
+77272	
+77282	
+77285	
+77299	
+77306	
+77316	
+77327	vo
 ¬
+
 les
-67589	CLARAEV
+77334	
+77337	
+77341	
+77345	CLARAEV
 ¬
+
 AGENIA
-67604	SerenissimiBelga
+77354	
+77362	SerenissimiBelga
 ¬
+
 rum
-67630	volunta
+77373	
+77386	
+77391	volunta
 ¬
+
 tem
-67637	impri
+77399	impri
 ¬
+
 mat
-67647	Ger
+77410	Ger
 ¬
+
 maniae
-67669	la
+77420	
+77428	
+77435	la
 ¬
+
 tius
-67691	
-67699	
-67720	
-67723	
+77448	
+77453	
+77455	
+77460	
+77462	
+
+77465	
+77467	
+77471	
+77473	
+77475	
+
+77480	
+77482	
+77484	
+77486	
+77488	
+77491	
+77493	
+77497	
+77499	
+77501	
+77503	
+77505	
+77509	
+
+77513	
 
 
 
 
-67729	
-67733	r
+
+77520	
+
+77525	
+r
 ¬
+
 47
-67737	
+
+77532	
+

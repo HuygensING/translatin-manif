@@ -5,50 +5,74 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:35:14Z
+@dateWritten=2023-12-13T13:03:16Z
 
 XH
+
 NOBILISSIMIS
 AMI
+
 SUMM
+
 SE
+
 URBIS
 GANDAV
+
 MUNIFICIS
 MOE
+
 SocaerA
+
 
 
 Studiosa
 Juventute
 Gymnas
+
 RI
+
 VI
 9
+
 GANDA
+
 MNAI
+
 LUDISA
+
 00
+
 CiCA
 de
 VeSae„
 
 
+
 T
+
 ESII
+
 sub
 sign
+
 SENAT
 UI
 AC
 F0BULS
+
 CANDENSI
+
 PERPETUIS
 LITTERARUM
 FAUTORIAU
 .
+
 pegam
+
 butu514
+
+
 
 
 Pcacago
@@ -58,6 +82,8 @@ as
 gaseoo3
 
 
+
+
 ERAECLAROS
 GORDUNA
 VIROS
@@ -65,24 +91,33 @@ URBS
 SEMPER
 HABEBIT
 .
+
 NAMQUE
 JUVENTUTEM
 SEDULA
 VIRGO
 FOVET
 .
+
 A
+
 tet
+
 etC
+
 
 
 (
 45
 so
 t
+
 E
+
 F
+
 A
+
 Virgine
 Gandensi
 ad
@@ -92,12 +127,14 @@ D
 .
 Moecenates
 .
+
 Rriguos
 solus
 spatiabar
 fortè
 per
 agros
+
 Haud
 procul
 à
@@ -108,6 +145,7 @@ Ganda
 ,
 tuis
 .
+
 Lassus
 eram
 Studiis
@@ -118,6 +156,7 @@ mens
 semper
 in
 illis
+
 Versari
 ,
 assiduo
@@ -126,6 +165,7 @@ labore
 ,
 potest
 .
+
 Auguiti
 ad
 finem
@@ -133,12 +173,14 @@ mensis
 de
 Nomine
 dictus
+
 Venerat
 ,
 immodicus
 defieratque
 calor
 .
+
 Fulgebat
 sine
 nube
@@ -147,12 +189,14 @@ dies
 &
 turbidus
 alto
+
 Consuetas
 nondum
 fuderat
 Auster
 aquas
 .
+
 Ergo
 metu
 posito
@@ -162,12 +206,14 @@ ne
 veste
 redirem
 ,
+
 Errabam
 placido
 laeta
 per
 arva
 pedeHinc
+
 
 
 rapido
@@ -177,12 +223,14 @@ gurgite
 ,
 quas
 dein
+
 Amnibus
 Oceano
 redderet
 auctus
 ,
 aquas
+
 Illinc
 Lisa
 Pater
@@ -190,12 +238,14 @@ per
 prata
 virentia
 manans
+
 Tendebat
 leni
 murmure
 curvus
 iter
 .
+
 Plurimus
 haerebat
 liquidas
@@ -203,12 +253,14 @@ piscator
 ad
 undas
 ,
+
 Infidias
 variâ
 piscibus
 arte
 struens
 .
+
 Retia
 pars
 tendit
@@ -219,6 +271,7 @@ decipit
 hamoCircumdans
 
 
+
 ,
 avido
 quos
@@ -227,6 +280,7 @@ ore
 ,
 cibos
 .
+
 Nec
 magno
 quaerenda
@@ -235,12 +289,14 @@ venit
 esca
 labore
 ;
+
 Lumbricos
 tellus
 pinguis
 ubique
 tegit
 :
+
 Hanc
 ubi
 vel
@@ -251,6 +307,7 @@ furcâ
 commovet
 ,
 ingens
+
 Dum
 talpam
 metuit
@@ -259,30 +316,35 @@ copia
 prodit
 humo
 .
+
 Parte
 aliâ
 gratam
 praebet
 spatiantibus
 umbram
+
 Arbor
 ,
 pomiferis
 luxuriatque
 Comis
 .
+
 Ruraque
 condecorant
 redolentes
 floribus
 horti
 ,
+
 Laetaque
 foecundis
 gignitur
 herba
 locis
 .
+
 Nec
 minus
 in
@@ -291,11 +353,13 @@ errant
 animalia
 pratis
 ,
+
 Cornigerique
 boves
 ,
 lanigerumque
 pecus
+
 Haec
 ego
 dum
@@ -304,12 +368,14 @@ oculos
 ad
 singula
 verto
+
 Camporumque
 opibus
 ,
 deliciisque
 fruor
 :
+
 En
 nova
 se
@@ -320,12 +386,14 @@ mihi
 visa
 nec
 umquam
+
 Resque
 movet
 mentem
 prodigiosa
 meam
 .
+
 Collis
 erat
 ,
@@ -334,6 +402,7 @@ cingebant
 undique
 valli
 ,
+
 Sic
 ,
 qui
@@ -344,6 +413,7 @@ cingere
 castra
 solent
 :
+
 In
 medio
 è
@@ -352,6 +422,7 @@ vexillum
 prominet
 hasta
 ,
+
 Effigiem
 ,
 Patrio
@@ -360,12 +431,14 @@ more
 Leonis
 habens
 .
+
 Accedo
 ,
 propiusque
 locum
 spectare
 virentem
+
 Est
 animus
 ,
@@ -373,6 +446,7 @@ facili
 progrediorque
 viâ
 .
+
 Ast
 ubi
 jam
@@ -381,12 +455,14 @@ tenui
 fastigia
 collis
 ,
+
 Planitiesque
 oculis
 conspicienda
 datur
 ;
 4
+
 Horresco
 referens
 ,
@@ -396,6 +472,7 @@ erigit
 ore
 ,
 1
+
 Atque
 ad
 me
@@ -405,6 +482,7 @@ saeva
 .
 Leo
 .
+
 Quodque
 magis
 mirere
@@ -413,6 +491,7 @@ feram
 nil
 territa
 Virgo
+
 Continet
 in
 gremio
@@ -420,6 +499,7 @@ gremio
 blanditiisque
 fovet
 .
+
 Haud
 equidem
 inficiar
@@ -428,6 +508,7 @@ visu
 perterritus
 haesi
 ,
+
 Et
 fungi
 officio
@@ -435,6 +516,7 @@ vix
 potuêre
 pedes
 .
+
 Ut
 sensit
 nostrum
@@ -442,6 +524,7 @@ bellatrix
 Virgo
 timorem
 ,
+
 Risit
 ,
 &
@@ -451,6 +534,7 @@ blanda
 venire
 jubet
 .
+
 Vanos
 pone
 metus
@@ -460,6 +544,7 @@ inquit
 sit
 bellua
 quamvis
+
 Horrida
 ,
 quod
@@ -470,6 +555,7 @@ habet
 illa
 mali
 .
+
 Hostibus
 exitio
 est
@@ -478,6 +564,7 @@ charis
 blanditur
 amicis
 ,
+
 Atque
 his
 auxilio
@@ -485,6 +572,7 @@ saepius
 esse
 solet
 .
+
 Dixerat
 :
 abjecto
@@ -493,6 +581,7 @@ tandem
 accedo
 pavore
 ,
+
 Et
 propior
 factus
@@ -500,8 +589,11 @@ talia
 dicta
 dedi
 :
+
 A2
+
 L8
+
 Dic
 ,
 age
@@ -510,6 +602,7 @@ castrorum
 in
 morem
 circumdata
+
 Cur
 medio
 collis
@@ -519,7 +612,9 @@ Virgo
 ,
 sedes
 ?
+
 que
+
 Cur
 tibi
 ,
@@ -530,12 +625,14 @@ hominesque
 feAnte
 
 
+
 tuos
 recubat
 bellua
 saeva
 pedes
 ?
+
 Sic
 ego
 quaerebam
@@ -543,13 +640,16 @@ quaerebam
 quaerenti
 protinus
 illa
+
 Ore
 renidenti
 talia
 verba
 refert
 .
+
 intur
+
 Magna
 quidem
 poscis
@@ -560,6 +660,7 @@ enim
 quia
 mira
 vi
+
 Omnia
 ,
 mox
@@ -570,6 +671,7 @@ Hospes
 ,
 ait
 .
+
 Tu
 modo
 considens
@@ -578,6 +680,7 @@ hoc
 in
 cespite
 mecum
+
 Attentâ
 ,
 quidquid
@@ -586,6 +689,7 @@ proloquar
 aure
 cape
 :
+
 Forsitan
 haec
 aliis
@@ -593,6 +697,7 @@ etiam
 narrasse
 juvabit
 ,
+
 Civibus
 hinc
 venient
@@ -600,6 +705,7 @@ commoda
 fortè
 tuis
 .
+
 Dum
 loquitur
 ,
@@ -609,6 +715,7 @@ dat
 signa
 Leoni
 ,
+
 Ante
 pedes
 jacuit
@@ -616,6 +723,7 @@ protinus
 ille
 meos
 ;
+
 Et
 tamquam
 noto
@@ -623,6 +731,7 @@ caudâ
 blanditur
 amico
 .
+
 Oscula
 quin
 etiam
@@ -633,6 +742,7 @@ licet
 ore
 dedit
 .
+
 Sic
 canis
 adventu
@@ -643,10 +753,12 @@ laetatur
 illiDelicias
 
 
+
 caudâ
 luminibusque
 fucit
 .
+
 Tum
 Virgo
 ,
@@ -658,12 +770,14 @@ ait
 munimina
 valli
 ,
+
 Objiciunt
 nostris
 hostibus
 illa
 moras
 .
+
 Non
 bene
 Virginitas
@@ -672,6 +786,7 @@ se
 credit
 aperto
 ,
+
 Tutior
 est
 ,
@@ -681,6 +796,7 @@ manet
 ipsa
 loco
 .
+
 At
 si
 forte
@@ -690,6 +806,7 @@ haec
 perruperit
 audax
 ,
+
 Auxilio
 Dommae
 mox
@@ -697,6 +814,7 @@ capit
 arma
 Leo
 .
+
 Flandrigenas
 amat
 hic
@@ -706,12 +824,14 @@ hinc
 signa
 ,
 Leonum
+
 Effigies
 ,
 populi
 militiaeque
 ferunt
 .
+
 Sic
 ego
 permaneo
@@ -720,6 +840,7 @@ sub
 vindice
 tuta
 ,
+
 Nec
 timeo
 structos
@@ -728,6 +849,7 @@ mea
 damna
 dolos
 .
+
 Quod
 sedeam
 celso
@@ -737,10 +859,12 @@ proxima
 colleDespiciens
 
 
+
 campos
 despiciensque
 domos
 :
+
 Extera
 si
 quando
@@ -749,6 +873,7 @@ ingruat
 ,
 eminus
 inde
+
 Prospectans
 ,
 cives
@@ -757,12 +882,14 @@ mea
 signa
 voco
 ;
+
 Justaque
 ferre
 viros
 tutandis
 moenibus
 arma
+
 Hortor
 ,
 &
@@ -771,6 +898,7 @@ non
 trepidare
 minis
 .
+
 Ipse
 Leo
 fortes
@@ -778,12 +906,14 @@ animos
 pugnantibus
 addit
 ,
+
 Rugituque
 hostes
 vertere
 terga
 facit
 .
+
 Sed
 neque
 si
@@ -793,12 +923,14 @@ pax
 aurea
 bello
 ,
+
 Dilectis
 prosum
 civibus
 ipsa
 minus
 .
+
 Sunt
 etiam
 ,
@@ -809,12 +941,14 @@ pace
 ,
 timendi
 ,
+
 Criminibus
 Patriae
 qui
 nocuêre
 suis
 .
+
 Saepè
 graves
 poenas
@@ -823,12 +957,14 @@ offenso
 numine
 ,
 tellus
+
 Unius
 ob
 noxam
 flagitiumque
 dedit
 .
+
 Hanc
 ergo
 arcêri
@@ -836,12 +972,14 @@ pestem
 ,
 meritumque
 subire
+
 Exilium
 jubeo
 ,
 suppliciumque
 reos
 .
+
 Prima
 juventutis
 tamen
@@ -850,6 +988,7 @@ mihi
 cura
 regendae
 ,
+
 Dum
 faciunt
 anni
@@ -857,6 +996,7 @@ cuncta
 timere
 rudes
 .
+
 Hei
 mihi
 !
@@ -868,6 +1008,7 @@ casibus
 ,
 &
 quàm
+
 Quâ
 graditur
 juvenis
@@ -877,6 +1018,7 @@ solet
 ire
 viâ
 !
+
 Ingenuis
 puer
 imbuitur
@@ -884,12 +1026,14 @@ si
 moribus
 ,
 idem
+
 Ingenuos
 mores
 virque
 senexque
 tenet
 .
+
 Illecebris
 at
 si
@@ -898,6 +1042,7 @@ quem
 fortè
 fefellit
 .
+
 Aut
 exempla
 dedit
@@ -906,6 +1051,7 @@ bona
 fortè
 parens
 ;
+
 Aut
 stultus
 nimium
@@ -913,6 +1059,7 @@ indulsit
 puerilibus
 annis
 ,
+
 Debita
 nec
 crimen
@@ -920,6 +1067,7 @@ poena
 secuta
 fuit
 ;
+
 Infelix
 genitor
 !
@@ -928,6 +1076,7 @@ te
 deinde
 dolores
 ,
+
 Annis
 dum
 juvenis
@@ -937,17 +1086,20 @@ iste
 manentSerius
 
 
+
 insanum
 tunc
 deplorabis
 amorem
 ,
+
 Cum
 veniet
 tremulo
 spreta
 senecta
 graduAdde
+
 
 
 ,
@@ -959,21 +1111,27 @@ quae
 nunc
 subjecta
 juventus
+
 Imperio
 Patriam
 ,
 Consilioque
 reget
 .
+
 46
+
 35
+
 48
+
 Seu
 partem
 accipiet
 Venerabilis
 Ordo
 Senatus
+
 Seu
 quae
 militiam
@@ -981,6 +1139,7 @@ turba
 secuta
 sacram
 !
+
 His
 si
 nec
@@ -991,6 +1150,7 @@ sit
 Sapientia
 cordi
 .
+
 Quae
 tandem
 facies
@@ -1000,6 +1160,7 @@ Status
 Urbis
 erit
 ?
+
 Ergo
 ne
 gravibus
@@ -1007,6 +1168,7 @@ doleat
 respublica
 damnis
 ,
+
 Hic
 patet
 in
@@ -1015,6 +1177,7 @@ area
 lata
 meas
 .
+
 Crimina
 commoneo
 quae
@@ -1022,6 +1185,7 @@ sint
 fugienda
 juventae
 ,
+
 Mentibus
 &
 teneris
@@ -1029,6 +1193,7 @@ quidquid
 obesse
 potest
 .
+
 Virtutem
 jubeo
 docta
@@ -1036,6 +1201,7 @@ cum
 Pallade
 jungi
 ,
+
 Sola
 parum
 namque
@@ -1043,6 +1209,7 @@ haec
 utilitatis
 habet
 .
+
 Quid
 juvat
 humanae
@@ -1050,12 +1217,14 @@ nancisci
 laudis
 honores
 ,
+
 Exosus
 superis
 si
 pietate
 cares
 ?
+
 Hinc
 aptis
 juvenum
@@ -1063,6 +1232,7 @@ aetatem
 commendo
 Magistris
 ,
+
 Prima
 quibus
 virtus
@@ -1071,6 +1241,7 @@ cura
 timorque
 Dei
 :
+
 Qui
 doceant
 summi
@@ -1078,11 +1249,13 @@ leges
 servare
 tonantis
 ,
+
 Moribus
 attentos
 erudiantque
 probis
 .
+
 Otia
 dein
 fugiant
@@ -1092,6 +1265,7 @@ quae
 maxima
 pestis
 )
+
 Et
 studeant
 doctos
@@ -1099,12 +1273,14 @@ inter
 habere
 locum
 .
+
 Praemia
 quin
 etiam
 puerorum
 digna
 labore
+
 Annua
 distribui
 ,
@@ -1113,6 +1289,7 @@ stimulante
 ,
 solent
 .
+
 Scilicet
 his
 capitur
@@ -1120,12 +1297,14 @@ donis
 Studiosa
 juventus
 ,
+
 Illo
 proficiunt
 aemula
 corda
 modo
 .
+
 Ingenium
 haec
 acuunt
@@ -1135,6 +1314,7 @@ haud
 mollibus
 urgent
 ,
+
 Dum
 palmâ
 reliquis
@@ -1142,6 +1322,7 @@ quisque
 praeire
 studet
 .
+
 Hos
 tu
 si
@@ -1152,6 +1333,7 @@ Hospes
 spectare
 triumphos
 .
+
 Annua
 dum
 juvenes
@@ -1159,6 +1341,7 @@ munera
 ferre
 solent
 :
+
 Nona
 dies
 ubi
@@ -1167,6 +1350,7 @@ Septembri
 mense
 reluxit
 ,
+
 pete
 non
 dubio
@@ -1174,6 +1358,7 @@ structa
 Theatra
 gradu
 .
+
 Hic
 Tragicis
 deducta
@@ -1181,6 +1366,7 @@ modis
 exempla
 docebunt
 ,
+
 Quam
 sit
 sacrilegis
@@ -1188,6 +1374,7 @@ ira
 timenda
 Dei
 :
+
 Nam
 *
 contemptorem
@@ -1195,14 +1382,18 @@ superum
 cum
 prole
 revinctum
+
 Sedeciam
+
 Ante
 coronatos
 ire
 videbis
 equos
 .
+
 Regem
+
 Post
 haec
 de
@@ -1212,14 +1403,17 @@ tolluntur
 ,
 &
 adstat
+
 Juda
 .
+
 Spectator
 scenae
 flebilis
 ipse
 Pater
 ,
+
 Ipse
 etiam
 paulò
@@ -1227,6 +1421,7 @@ ante
 oculis
 hostilibus
 ardens
+
 Raptis
 ,
 damnatur
@@ -1234,12 +1429,14 @@ carcere
 ,
 luminibus
 .
+
 Hic
 quoque
 conspicies
 Gandensi
 dante
 Senatâ
+
 Digna
 suis
 Studiis
@@ -1247,6 +1444,7 @@ proemia
 cuique
 dari
 .
+
 Sic
 semper
 dilectae
@@ -1254,7 +1452,9 @@ urbi
 prodesse
 laboro
 ,
+
 grenbbae
+
 Quaque
 licet
 ,
@@ -1262,6 +1462,7 @@ foveo
 sedulitate
 meos
 .
+
 Finierat
 Virgo
 :
@@ -1270,6 +1471,7 @@ prope
 luce
 peractâ
 ,
+
 Phoebus
 ad
 Hesperias
@@ -1277,6 +1479,7 @@ jam
 properabat
 aquas
 .
+
 Tunc
 breviter
 :
@@ -1287,12 +1490,14 @@ fervabo
 ,
 nec
 umquam
+
 Exciderint
 animo
 tot
 benefacta
 meo
 .
+
 Civibus
 haec
 referam
@@ -1301,6 +1506,7 @@ meritas
 ut
 solvere
 grates
+
 Officiis
 possint
 ,
@@ -1309,7 +1515,9 @@ Virgo
 ,
 tuis
 .
+
 irv
+
 Haec
 ubi
 dicta
@@ -1319,6 +1527,7 @@ veneratus
 honore
 puellam
 ,
+
 Excedo
 ceptis
 ,
@@ -1326,6 +1535,7 @@ moeniaque
 alta
 peto
 .
+
 Prosequitur
 laeto
 me
@@ -1333,6 +1543,7 @@ vultu
 Virgo
 ,
 Leoque
+
 Parte
 aliquâ
 comitem
@@ -1341,6 +1552,7 @@ dedit
 ipse
 viae
 .
+
 Ad
 dominam
 ,
@@ -1349,6 +1561,7 @@ rugitu
 gaudia
 testans
 ,
+
 Dein
 redit
 ,
@@ -1358,6 +1571,7 @@ se
 statione
 locat
 .
+
 Ast
 ego
 tantarum
@@ -1365,6 +1579,7 @@ perculsus
 imagine
 rerum
 ,
+
 Dum
 refero
 haec
@@ -1374,6 +1589,7 @@ mea
 tecta
 gradum
 ,
+
 Ilicet
 exclamo
 :
@@ -1382,12 +1598,14 @@ hâc
 Virgine
 Ganda
 ,
+
 Primus
 cui
 juvenes
 instituisse
 labor
 !
+
 Auguror
 ,
 hinc
@@ -1397,18 +1615,26 @@ quoque
 gloria
 major
 ,
+
 Doctrinae
 reliquis
 praeripietque
 decus
 .
+
 U
+
 M
 .
+
 UMEN
+
 G
+
 R
+
 A
+
 Nno
 nono
 Sedeciae
@@ -1422,6 +1648,7 @@ Nabuchodonocos
 p
 .
 .
+
 bylonis
 ,
 &
@@ -1437,6 +1664,7 @@ eam
 .
 Una
 .
+
 autem
 anno
 Sedeciae
@@ -1452,6 +1680,7 @@ omnet
 Printpas
 u
 .
+
 gis
 Babylonis
 .
@@ -1469,6 +1698,7 @@ l
 .
 u
 .
+
 tores
 ,
 fugerunt
@@ -1484,6 +1714,7 @@ Chaldaeorum
 compsbenderunt
 
 
+
 Sedeciam
 in
 campo
@@ -1494,6 +1725,7 @@ captum
 adduxerunt
 ad
 Nabuepdonosor
+
 
 
 .
@@ -1514,6 +1746,7 @@ Babylonis
 fune
 s
 .
+
 deciae
 in
 Reblatha
@@ -1531,6 +1764,7 @@ oculos
 quoque
 Sedeciae
 emie
+
 &
 vinxit
 eum
@@ -1540,6 +1774,7 @@ ut
 duceretur
 Babylonem
 .
+
 Lib
 .
 4
@@ -1556,118 +1791,154 @@ cap
 .
 39
 .
+
 RAGICAE
 .
+
 AE
+
 PERSOP
+
 PROPHETA
 ,
+
 JEREMIAS
+
 Carolus
 van
 Eersel
 .
+
 NABUCHODONOSOR
 Rex
 Babyl
 .
+
 SEDECIAS
 Rer
 Judae
 .
+
 Joannes
 Brassari
 .
+
 Franciscus
 Hebbelinck
+
 NABUZARDAN
 Dux
 exercit
 .
 Babyl
 .
+
 AMITAL
 uxor
 Sedeciae
+
 Anselmus
 van
 Hulle
 .
+
 Joannes
 van
 Bochaute
 .
+
 ARIEL
 aulae
 Prafectus
 ,
+
 JOSIAS
+
 Judocus
 Goethals
 .
+
 Sedecia
+
 Carolus
 de
 Brauwer
 .
+
 SERESER
 Babyl
 .
 Praefectus
 ,
+
 filis
 .
+
 JOACHIM
 ,
+
 tosephus
 Stalins
 .
+
 Joannes
 Baptista
 van
 Tieghem
 .
+
 RABSARES
 Dux
 Babylonior
 .
+
 JOATHAS
 Judaeus
 captivus
 ,
+
 Ludovicus
 de
 Wul
 .
+
 Joannes
 Baptista
 Scholt
 .
+
 NEREGEL
 Dux
 Babylonior
 .
+
 ABIAD
 Judaeus
 captivus
+
 Petrus
 della
 Faille
 .
+
 Joammes
 Baptista
 de
 Bloeg
 .
+
 SARSACHIM
 Dux
 Babylonior
 .
+
 Paulus
 Huuge
 .
+
 TURBA
 CAPTLVORUM
+
 Scena
 est
 ante
@@ -1676,8 +1947,10 @@ Regiam
 in
 Reblatha
 .
+
 YNOPSIS
 COMOEDIAE
+
 Dp
 Harisaeus
 quidam
@@ -1692,6 +1965,7 @@ sanctitate
 multos
 seducens
 tandem
+
 T
 de
 fraudibus
@@ -1702,124 +1976,169 @@ suae
 poenas
 luit
 .
+
 PERSONAE
+
 COMICAE
+
 CHRYSUS
 Pharisaeus
 Hypoc
 .
+
 DEMEA
 Simonis
 Frater
 .
+
 Bernardus
 Beydens
 .
+
 Simon
 Bockstal
 .
+
 SIMO
 Chrysi
 Fautor
 .
+
 CHARINUS
 Amicus
 Demeae
 ,
+
 Gerardus
 Cortens
+
 Robertus
 de
 Weerat
 .
+
 DAVUS
 Chrysi
 servus
+
 PHAEDRIA
 Demeae
 filius
 ,
+
 Franciscus
 van
 den
 Spieghel
 .
+
 Josephus
 Bara
 .
+
 CRIT
+
 PHIDIPPUS
+
 Albertus
 de
 Cabillian
 .
+
 Ludovicus
 de
 Waele
 .
+
 DROMO
+
 GParaTILPHO
 
 
+
 ,
+
 Martinus
 Goeman
 .
+
 5
 siti
 .
+
 Joannes
 Niesaert
 .
+
 AESCHINU
+
 MILPHI
+
 Ludovicus
 Marico
 .
+
 Demes
+
 Augustinus
 Bogaert
 .
+
 RANIO
 Simo
 :
 vicinus
 ,
+
 ARGYRIPPUS
+
 Vicini
 .
+
 Ferdinandus
 Claus
 .
+
 Augustinus
 Valcke
 .
+
 tt
+
 MORILUS
 Chrysi
 vicinus
+
 LI
+
 Martinus
 van
 den
 Berghe
+
 Joannes
 Meganck
 .
+
 CHAEREA
 Simo
 :
 vicinus
 ,
+
 MALI
+
 Franciscus
 de
 Wulf
 .
+
 Paulus
 Huage
 .
+
 A
+
 Ediciae
 sibi
 ob
@@ -1830,6 +2149,7 @@ captiva
 sistitur
 Anital
 .
+
 t1ae
 de
 marito
@@ -1845,6 +2165,7 @@ invecto
 conneitur
 
 
+
 ;
 sed
 utrumque
@@ -1855,17 +2176,22 @@ ad
 sortis
 vices
 fortiter
+
 gteendita
 ellimlut
 .
 
+
 piba
+
 COMOEDIAE
 PARS
 I
 .
 
+
 1
+
 Edecias
 nequidquam
 reluctans
@@ -1873,6 +2199,7 @@ reluctans
 Nabuzardano
 currum
 triumphalem
+
 
 
 protrahere
@@ -1883,6 +2210,7 @@ interea
 Amital
 ,
 quae
+
 marito
 male
 metuens
@@ -1895,6 +2223,7 @@ victore
 impetrat
 ;
 ea
+
 mmen
 lege
 ,
@@ -1909,6 +2238,7 @@ offerat
 .
 Hinc
 Amital
+
 
 
 ,
@@ -1927,28 +2257,35 @@ pro
 Pa5
 
 
+
 -
 -
 -
 -
 -
+
 tre
 morituri
 ad
 Regem
 properant
 .
+
 COMOEDIAE
 .
 PARS
 .
 II
 .
+
 J
 .
+
 III
 .
+
 A
+
 Tatuit
 Nabuchodonosor
 .
@@ -1960,6 +2297,7 @@ Filios
 verò
 ,
 quo
+
 magis
 doleat
 Pater
@@ -1973,6 +2311,7 @@ capitis
 damnat
 
 
+
 ,
 atque
 illis
@@ -1983,6 +2322,7 @@ intercedentibus
 eam
 simulate
 concedit
+
 
 
 .
@@ -2002,6 +2342,7 @@ intelligens
 filiotum
 
 
+
 studet
 necem
 praevertere
@@ -2009,12 +2350,16 @@ praevertere
 Paternam
 filii
 .
+
 COMOEDIAE
 PARS
 III
 .
+
 V
+
 A
+
 Edecias
 aeriter
 in
@@ -2025,6 +2370,7 @@ supplcium
 rapitor
 .
 .
+
 viam
 sibi
 conjugem
@@ -2036,6 +2382,7 @@ sententiam
 celat
 ,
 gtusque
+
 
 
 moriendum
@@ -2050,6 +2397,7 @@ pro
 natis
 
 
+
 offert
 :
 repulsam
@@ -2060,6 +2408,7 @@ Sedeciam
 Filios
 mutuis
 indulgentes
+
 amoris
 affectibus
 incidit
@@ -2068,11 +2417,14 @@ eisque
 ultimum
 valedicit
 .
+
 COMOEDIAE
 PARS
 IV
 .
+
 A
+
 Uorum
 funera
 lugenti
@@ -2082,6 +2434,7 @@ Amital
 ,
 quos
 superveniens
+
 Nabuchodonosor
 vinctos
 Babylonem
@@ -2090,6 +2443,7 @@ jubet
 .
 Amitale
 abdueta
+
 
 
 ,
@@ -2104,6 +2458,7 @@ Ezechielis
 verba
 ,
 quae
+
 Babylonem
 visurum
 illum
@@ -2115,12 +2470,15 @@ ducendum
 praemonuerant
 
 
+
 ,
 interpretatur
 .
+
 Ad
 majotem
 Dei
 gloriam
 .
+
 

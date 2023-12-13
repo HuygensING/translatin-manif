@@ -5,12 +5,14 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:34:35Z
+@dateWritten=2023-12-13T13:02:41Z
 
 Goo
+
 Over
 dit
 hoek
+
 Dit
 is
 een
@@ -28,6 +30,7 @@ bibliotheekplanken
 heest
 gestaa
 .
+
 doen
 we
 omdat
@@ -41,6 +44,7 @@ beschikbaar
 willen
 maken
 .
+
 Dit
 boek
 is
@@ -60,6 +64,7 @@ nu
 deel
 uitmaakt
 va
+
 domein
 behoort
 ,
@@ -78,6 +83,7 @@ of
 waarvan
 de
 we
+
 verschillen
 of
 een
@@ -94,6 +100,7 @@ het
 publieke
 domein
 zi
+
 geschiedenis
 ,
 cultuur
@@ -107,6 +114,7 @@ verkrijgen
 zou
 zijn
 .
+
 Aantekeningen
 ,
 opmerkingen
@@ -120,6 +128,7 @@ origineel
 stonden
 ,
 wo
+
 lange
 reis
 die
@@ -137,9 +146,11 @@ uiteindelijk
 naar
 u
 .
+
 Richtlijnen
 voor
 gebruik
+
 Google
 werkt
 samen
@@ -153,6 +164,7 @@ publieke
 domein
 te
 digitalise
+
 uit
 het
 publieke
@@ -173,6 +185,7 @@ is
 echteleveren
 
 
+
 ,
 hebben
 we
@@ -185,9 +198,11 @@ commerciêle
 partijen
 te
 ve
+
 automatisch
 zoeken
 .
+
 Verder
 vragen
 we
@@ -195,6 +210,7 @@ u
 het
 volgende
 :
+
 Gebruik
 de
 bestanden
@@ -209,6 +225,7 @@ hebben
 Zoeken
 naar
 bo
+
 individuen
 .
 We
@@ -225,6 +242,7 @@ en
 niet
 -
 comm
+
 Voer
 geen
 geautomatiseerde
@@ -234,6 +252,7 @@ Stuur
 geen
 geautomatiseerde
 zoekopdrach
+
 doet
 naar
 computer
@@ -245,6 +264,7 @@ of
 andere
 wetenschapsgebieden
 wi
+
 den
 tekst
 ,
@@ -266,10 +286,12 @@ het
 pulhiermee
 
 
+
 van
 dienst
 zijn
 .
+
 Laat
 de
 eigendomsverklaring
@@ -283,6 +305,7 @@ u
 onder
 aan
 elk
+
 project
 te
 geven
@@ -301,6 +324,7 @@ naar
 boeken
 met
 G
+
 Houd
 u
 aan
@@ -319,6 +343,7 @@ u
 er
 zelf
 verantwoordelijl
+
 niet
 van
 uitgaan
@@ -335,6 +360,7 @@ het
 publieke
 domein
 in
+
 voor
 gebruikers
 in
@@ -353,6 +379,7 @@ rust
 verschilt
 per
 li
+
 met
 een
 bepaald
@@ -371,6 +398,7 @@ boek
 overal
 ter
 wer
+
 cenmaal
 in
 Zoeken
@@ -385,6 +413,7 @@ wetteliske
 aansprakelijkheid
 voor
 aute
+
 Informatie
 over
 Zoeken
@@ -392,6 +421,7 @@ naar
 boeken
 met
 Google
+
 Het
 doel
 van
@@ -409,6 +439,7 @@ maken
 .
 Z
 .
+
 allerlei
 landen
 te
@@ -425,6 +456,7 @@ nieuw
 leespubliek
 te
 bei
+
 op
 het
 web
@@ -441,97 +473,145 @@ qoogLe
 com36
 
 
+
+
 hu
+
 223
+
 25
 
 
+
 ev
+
 3
+
 4
+
 Digitized
 by
 Google
 
+
 67
+
 L-
 
 
+
 —
 -
 —
 -
 -
+
 —
+
 —
+
 SBLOTHECA
 .
+
 E
 BERIAR4
 
+
 —
 —
+
 
 7
 3
 –
+
 NK
 3735
-Digitized
-by
-Google
 
 Digitized
 by
 Google
+
+
+Digitized
+by
+Google
+
 e
+
 9
+
 guSx
+
+
 
 
 63
 
+
 E
+
 45
+
 44
+
 G
+
 Q
+
 45
+
 4
+
 44
+
 25965
 
+
 2
+
 SD
+
 D
+
 VA
+
 PER
 PLACENTIVM
 
 
+
 EVAN
+
 
 gelisten
 lusa
 .
+
 4
+
 EVSEBII
 CANDIDI
+
 Elegia
 ,
 in
 uanam
 breuemque
 humanae
+
 uitae
 gloriolam
 .
+
 AlitulllluilliITEM
+
 
 
 Ode
 Sapphica
 eiusdem
+
 Eusebij
 ,
 in
@@ -539,83 +619,128 @@ mortis
 recordationem
 
 
+
 .
+
 44
+
 isul
+
 ITEM
 plausus
 luctificae
 Mortis
 ,
 ad
+
 modum
 Dialogi
 ,
 extemporaliter
+
 ab
 eodem
 Eusebio
 lusus
 .
+
 (
 a
+
 16
+
 An
 .
 1534
 .
+
 C
+
 Ptil
 :
 aea
 
+
 —
+
 —
-Q
-Q
-S
-—
-Pα
+
 Q
 
 Q
+
+S
+
+—
+
+Pα
+
+Q
+
+
+Q
+
 υρ7
 
 
+
+
 7
+
 im
 
+
 54
+
 —
 
+
 n
+
 n
+
 E
 
 
 
+
 2
+
 -
+
 2
+
 
 5
 )
+
 7
+
 4ι
 4
+
 4
 –
+
 525
+
 S
+
 2
+
 5
 .
+
 4
+
 3
+
 *
 4γε
+
 *
 C
+
 *
 -
 -
@@ -625,35 +750,51 @@ C
 3
 -
 
+
 43
+
 6
+
 7
+
 4
 23
 
 
+
 775
 .
+
 5
+
 2
+
 27
+
 
 
 -—
 
 
+
 -
 9
+
 4
+
 GοOς
+
 tized
 by
 !
+
 —
 -
+
 Epigramma
 ad
 Lectorem
+
 Quid
 iuuat
 heus
@@ -661,6 +802,7 @@ iuuenes
 ueteris
 monumenta
 Terenti
+
 Aut
 Plauti
 ,
@@ -671,24 +813,28 @@ uoluere
 saepe
 manu
 ,
+
 Et
 spectatori
 uanas
 diuendere
 nugas
 ,
+
 In
 quibus
 instruitur
 desidiosus
 amor
 ?
+
 Quin
 potius
 placeant
 diuina
 poemata
 nostri
+
 Euangelistae
 ,
 qui
@@ -696,6 +842,7 @@ canit
 ore
 cato
 .
+
 Hic
 bene
 Susannam
@@ -703,17 +850,20 @@ festiuo
 carmine
 lusit
 ,
+
 Quàmque
 senes
 turpis
 commacularit
 amor
 .
+
 Annis
 subteneris
 diuinas
 discere
 praestat
+
 Historias
 ,
 ueterum
@@ -721,6 +871,7 @@ quàm
 recitare
 leues
 .
+
 Nam
 quod
 percipiunt
@@ -728,41 +879,51 @@ iuuenes
 aetate
 recenti
 ,
+
 Firmius
 inhaeret
 ,
 nec
 cito
 deficiet
+
 INTERLOCVTORES
 .
+
 Poeta
 orans
 argumentum
 ad
 populum
 .
+
 CRITO
 aduocatus
 .
+
 PETVLVS
 Critonis
 famulus
 .
+
 HISLIO
 pedellus
 Chrisali
 famulus
 .
+
 CHRISALVS
 iudex
 .
+
 IOACHIMVS
 Susannae
 maritus
 .
+
 SVSANNA
 .
+
 
 MAVRA
 ,
@@ -770,37 +931,47 @@ LIVIA
 ,
 pedissequae
 .
+
 CHARINVS
 Susannae
 famulus
 .
+
 HELCHIAS
 Susannae
 pater
 .
+
 -
 -
 4
 4
 -
+
 CARNIFICES
 DVO
 .
 
+
 DANIEL
 propheta
 .
+
 POPVLVS
 spectator
 .
+
 -
+
 5
+
 LORARII
 DVO
 ,
 personae
 mutae
 .
+
 Angelis
 perfona
 muta
@@ -808,27 +979,36 @@ muta
 stringens
 gladium
 .
+
 -
 -
 —
 -
+
 DedAipgl
 .
+
 ARGVTVM
 
 
+
+
 GVMN
+
 AR
+
 sub
 Iambis
 Hyponactijs
 .
+
 Enes
 duo
 multo
 omnium
 impijßimi
 ,
+
 ira
 ,
 libidine
@@ -838,6 +1018,7 @@ auaritia
 gula
 ,
 omnibus
+
 Breuiter
 malis
 foeti
@@ -845,14 +1026,18 @@ foeti
 uegeti
 ,
 impliciti
+
 A
+
 oppido
 .
+
 
 ACatae
 Susannae
 inurere
 cauterium
+
 
 
 Ausi
@@ -861,18 +1046,21 @@ dolos
 excogitant
 adulterij
 .
+
 Pomario
 abdunt
 ,
 Susanna
 dum
 lauet
+
 Corpusculum
 ,
 exque
 more
 smigmate
 abluat
+
 Oleoque
 ,
 puellis
@@ -880,12 +1068,14 @@ tunc
 abeuntibus
 procul
 ,
+
 Ab
 angulo
 emergunt
 ,
 rogantque
 improbum
+
 Factum
 :
 illa
@@ -893,6 +1083,7 @@ constanter
 negat
 ,
 minantibus
+
 Senibus
 quid
 acturi
@@ -900,6 +1091,7 @@ sient
 :
 ea
 inuocat
+
 seruos
 ,
 senes
@@ -907,6 +1099,7 @@ contra
 ,
 Susannam
 adulteram
+
 Aiunt
 ,
 iuueni
@@ -914,12 +1107,14 @@ paruisse
 nil
 pudet
 uiros
+
 Mentirier
 .
 Hortantur
 populum
 in
 necem
+
 Miserae
 Susannae
 :
@@ -928,6 +1123,7 @@ spem
 superis
 duit
 ,
+
 Parat
 lapides
 plebs
@@ -936,6 +1132,7 @@ flet
 maritus
 anxius
 ,
+
 Circum
 at
 Daniel
@@ -943,6 +1140,7 @@ propheta
 auocat
 manus
 .
+
 Declarat
 impiam
 rem
@@ -952,12 +1150,14 @@ in
 senes
 malum
 ,
+
 Quod
 innocenti
 foeminae
 paratum
 erat
 .
+
 Ita
 seruat
 integros
@@ -965,6 +1165,7 @@ deus
 optimus
 ,
 malos
+
 Perdit
 :
 docemur
@@ -972,6 +1173,7 @@ hoc
 argumento
 habere
 abditam
+
 Spem
 in
 coelicolas
@@ -979,18 +1181,24 @@ coelicolas
 fauete
 nutibus
 ,
+
 Exibit
 hic
 bis
 peßimus
 sene
+
 Crito
 ,
+
 —
 -
 -
+
 SOAC
+
 PRIMVS
+
 CRITO
 iureconsultus
 ,
@@ -998,8 +1206,10 @@ iureconsultus
 PETVLVS
 
 
+
 seruus
 .
+
 Excentae
 pestes
 ,
@@ -1008,14 +1218,18 @@ podagrae
 pleureses
 
 
+
 malae
+
 Has
 puellas
 obtineant
 diu
 ,
 quas
+
 senum
+
 Non
 miseret
 magis
@@ -1023,17 +1237,22 @@ magis
 quam
 si
 desißemus
+
 D
+
 S
+
 Viuere
 ,
 aut
 omnino
 non
 essemus
+
 amandi
 compotes
 .
+
 PET
 ,
 Sapiunt
@@ -1043,6 +1262,7 @@ CRI
 Quid
 ita
 ?
+
 P
 .
 Quia
@@ -1052,6 +1272,7 @@ non
 comparant
 ad
 onus
+
 Neque
 detritas
 uestes
@@ -1059,6 +1280,7 @@ festo
 die
 induunt
 ,
+
 Ea
 sunt
 omnium
@@ -1068,12 +1290,14 @@ CRI
 .
 Atqui
 ?
+
 Haud
 ita
 oderunt
 ueterem
 pecuniam
 .
+
 P
 .
 Scio
@@ -1084,6 +1308,7 @@ mane
 sibi
 similis
 ,
+
 Senes
 non
 itidem
@@ -1092,11 +1317,13 @@ uarij
 sunt
 ,
 momento
+
 Euanidi
 sapientia
 ,
 ingenio
 irritabiles
+
 Praecoces
 in
 rixam
@@ -1106,6 +1333,7 @@ CRI
 Carcer
 ,
 seruum
+
 Meum
 hostem
 alo
@@ -1114,6 +1342,7 @@ P
 .
 Here
 .
+
 SCR
 .
 Lorarij
@@ -1126,6 +1355,7 @@ CR
 .
 Hunc
 sicophantam
+
 Seruum
 meum
 Petulum
@@ -1134,17 +1364,21 @@ facite
 ,
 eum
 insimulationis
+
 Alij
 .
 gle
 TB
+
 SVSANNA
 PER
 .
+
 Tam
 calumniosae
 poeniteat
 .
+
 PE
 .
 Audi
@@ -1155,6 +1389,7 @@ CR
 Non
 audio
 .
+
 P
 .
 Etiam
@@ -1168,6 +1403,7 @@ Non
 unum
 quidem
 .
+
 P
 .
 Nec
@@ -1176,6 +1412,7 @@ rem
 tuam
 aliquid
 ?
+
 Cr
 .
 Auferte
@@ -1187,12 +1424,14 @@ Pet
 .
 Hoi
 hoi
+
 Scapha
 meretricula
 iam
 nunc
 aderit
 .
+
 Me
 hercle
 ,
@@ -1200,6 +1439,7 @@ non
 poterit
 ei
 persuaderi
+
 Vt
 maneat
 ,
@@ -1207,6 +1447,7 @@ nisi
 uerbis
 meis
 .
+
 CR
 .
 Scapham
@@ -1216,6 +1457,7 @@ euge
 mi
 Petule
 .
+
 PET
 .
 Protinus
@@ -1225,11 +1467,13 @@ est
 CR
 .
 Scapham
+
 Ne
 huius
 patriae
 ornamentum
 ?
+
 PET
 .
 Scapham
@@ -1239,6 +1483,7 @@ inquam
 quae
 palmam
 facile
+
 Praeripit
 omnibus
 .
@@ -1248,6 +1493,7 @@ Homo
 frugi
 es
 ,
+
 Pulchreque
 de
 me
@@ -1256,6 +1502,7 @@ meritus
 quo
 non
 optarem
+
 Conducibiliorem
 .
 At
@@ -1266,6 +1513,7 @@ intus
 ac
 cura
 ,
+
 Luculentus
 sit
 focus
@@ -1275,6 +1523,7 @@ eleganter
 ubique
 omnia
 .
+
 PE
 .
 Nihil
@@ -1288,13 +1537,16 @@ iuuenta
 mihi
 redijt
 .
+
 Hislio
 pedellus
 ,
 Crito
 ,
+
 Petulus
 .
+
 Gregium
 uero
 senem
@@ -1305,6 +1557,7 @@ audito
 hem
 Crito
 salue
+
 EC
 .
 Salue
@@ -1315,6 +1568,7 @@ hic
 aderaslepidum
 capitulum
 ?
+
 Ecquid
 obsecro
 nouarum
@@ -1324,6 +1578,7 @@ His
 .
 Forensium
 aliquidCr
+
 
 
 .
@@ -1336,13 +1591,17 @@ His
 Obambulabam
 cogitabundus
 ,
+
 Digitizedo
+
 Ac
 una
+
 P
 .
 EVANGELISTEN
 .
+
 Ac
 ungues
 rodens
@@ -1352,6 +1611,7 @@ Cr
 Saepe
 soles
 .
+
 P
 .
 Video
@@ -1361,6 +1621,7 @@ forte
 fortuna
 emergentem
 uirgunculam
+
 Cr
 .
 Hem
@@ -1370,6 +1631,7 @@ apud
 me
 licet
 .
+
 PE
 .
 Facie
@@ -1381,6 +1643,7 @@ qua
 est
 alia
 .
+
 Cr
 .
 Beate
@@ -1396,6 +1659,7 @@ quaerebat
 patroCr
 
 
+
 .
 Offendit
 te
@@ -1407,6 +1671,7 @@ neges
 ?
 (
 num
+
 His
 .
 Propere
@@ -1416,6 +1681,7 @@ anxie
 dicentem
 causam
 .
+
 Cr
 .
 At
@@ -1426,6 +1692,7 @@ scio
 His
 .
 Israëlitem
+
 Interea
 se
 aiebat
@@ -1434,6 +1701,7 @@ patre
 circunciso
 natam
 .
+
 Cr
 .
 Si
@@ -1445,6 +1713,7 @@ patre
 ,
 minimum
 .
+
 His
 .
 Tum
@@ -1454,6 +1723,7 @@ sobrie
 isthuc
 egi
 ,
+
 Vt
 temperaret
 lachrymas
@@ -1461,6 +1731,7 @@ lachrymas
 Cr
 .
 Verbis
+
 An
 rebus
 ?
@@ -1471,6 +1742,7 @@ Imò
 uirgo
 erat
 .
+
 Cr
 .
 Caeterum
@@ -1482,6 +1754,7 @@ posse
 eam
 audire
 ?
+
 PE
 .
 Quos
@@ -1494,6 +1767,7 @@ PET
 .
 Maxime
 ,
+
 Modo
 nihil
 cum
@@ -1502,6 +1776,7 @@ uestrae
 pugnaret
 sententiae
 .
+
 Cr
 .
 Nephas
@@ -1514,6 +1789,7 @@ iniquum
 ,
 lubens
 .
+
 PE
 .
 Capillus
@@ -1523,6 +1799,7 @@ oculus
 intime
 luxurians
 ,
+
 Tota
 cutis
 eburnea
@@ -1532,6 +1809,7 @@ Cr
 Vbi
 nam
 pergentum
+
 Ea
 est
 ?
@@ -1542,6 +1820,7 @@ alicunde
 consilium
 ut
 peteret
+
 Apud
 iudicem
 Chrisalum
@@ -1550,6 +1829,7 @@ Cr
 .
 Sterquilineum
 .
+
 His
 .
 Succenses
@@ -1560,6 +1840,7 @@ Quid
 enim
 ,
 num
+
 Aduxisti
 domi
 meae
@@ -1568,16 +1849,24 @@ His
 .
 Isthuc
 Petuli
+
 0
+
 du
+
 Officium
+
 Aiiij
 .
+
 Digitiz
+
 r
+
 SVSANNA
 PER
 .
+
 Officium
 est
 .
@@ -1587,6 +1876,7 @@ Vtrunque
 malis
 e
 xemplis
+
 Dij
 deaeque
 perdant
@@ -1595,6 +1885,7 @@ His
 .
 Mitius
 fulminator
+
 Cr
 .
 Scisti
@@ -1607,6 +1898,7 @@ Scio
 etiam
 num
 ,
+
 Sed
 praepediuit
 memoriam
@@ -1614,12 +1906,14 @@ uirginis
 improbus
 dolor
 .
+
 Pet
 .
 Imperator
 meus
 Hislio
 .
+
 His
 .
 Petule
@@ -1629,6 +1923,7 @@ optabam
 affines
 sumus
 ,
+
 Vtrunque
 eadem
 prece
@@ -1636,6 +1931,7 @@ male
 deuouit
 senex
 .
+
 Cr
 .
 Vtinam
@@ -1646,6 +1942,7 @@ teneam
 aeque
 perdere
 ,
+
 Ac
 uelle
 hoc
@@ -1656,6 +1953,7 @@ His
 Audin
 iracundiam
 ?
+
 Pet
 .
 Occidi
@@ -1664,6 +1962,7 @@ Cr
 .
 Melius
 Petule
+
 Ne
 cessa
 solicitus
@@ -1671,22 +1970,27 @@ esse
 in
 uesperum
 .
+
 Ego
 hinc
 abiens
 Chrisalum
 adoriar
 ,
+
 Vt
 ualuerit
 cum
 scitula
 uirgine
 .
+
 Hislio
 .
+
 Petulus
 ,
+
 cilicet
 amat
 Crito
@@ -1696,6 +2000,7 @@ His
 Octogenarius
 ne
 ?
+
 SPet
 .
 Et
@@ -1705,6 +2010,7 @@ procaciter
 ac
 perdite
 .
+
 His
 .
 Oseuerum
@@ -1715,18 +2021,21 @@ Pet
 Haud
 ita
 pisciculi
+
 In
 piscinis
 ludibundi
 solem
 anhelant
 ,
+
 Atque
 ipsus
 quotidie
 scorta
 recentiora
 .
+
 Virgines
 eum
 si
@@ -1735,18 +2044,21 @@ adeunt
 consilij
 causa
 ,
+
 Non
 abeunt
 integrae
 ,
 Aedepol
 hercle
+
 Scapham
 meritricem
 in
 coenam
 uocauit
 ,
+
 Huius
 hodie
 gratia
@@ -1754,15 +2066,19 @@ mihi
 bene
 fiet
 .
+
 —
 5
+
 Digitized
 by
 Google
+
 P
 .
 EVANGELISTEN
 .
+
 HIS
 .
 Ab
@@ -1773,6 +2089,7 @@ PET
 Quid
 est
 ?
+
 H
 .
 Eiusdem
@@ -1781,6 +2098,7 @@ farinae
 ausim
 dicere
 iudiem
+
 Herum
 meum
 Chrisalum
@@ -1790,6 +2108,7 @@ lippit
 ,
 titubat
 ,
+
 Marcet
 totus
 :
@@ -1798,6 +2117,7 @@ at
 metuo
 ,
 quorsum
+
 Euadat
 uirguncula
 .
@@ -1806,6 +2126,7 @@ P
 Eo
 conceßit
 .
+
 Nihil
 addubita
 ,
@@ -1814,6 +2135,7 @@ non
 remittet
 ouem
 .
+
 H
 .
 Me
@@ -1824,6 +2146,7 @@ iam
 dudum
 ex
 uultu
+
 Facere
 obstinatam
 libidinem
@@ -1831,11 +2154,13 @@ libidinem
 Atque
 adeo
 haec
+
 Non
 commemineram
 .
 PQuenquam
 esse
+
 Ingenio
 tam
 bruto
@@ -1843,6 +2168,7 @@ bruto
 ut
 citra
 uerecundiam
+
 In
 hunc
 sexum
@@ -1851,6 +2177,7 @@ peccet
 ?
 O
 mores
+
 Ad
 quos
 secula
@@ -1860,6 +2187,7 @@ H
 .
 Quin
 tu
+
 Tace
 Petule
 ,
@@ -1868,12 +2196,14 @@ hoc
 clamore
 ad
 restim
+
 Mihi
 rem
 redire
 desyderas
 .
 Caeterum
+
 Vt
 in
 aurem
@@ -1882,6 +2212,7 @@ tibi
 aliquid
 fabuler
 ,
+
 Reges
 nos
 esse
@@ -1892,6 +2223,7 @@ P
 At
 hodie
 nihil
+
 Minus
 sumus
 ,
@@ -1900,6 +2232,7 @@ tanti
 mali
 auspices
 .
+
 H
 .
 Tum
@@ -1907,6 +2240,7 @@ liceret
 tam
 manifestae
 insaniae
+
 Nobis
 obicem
 ponere
@@ -1916,6 +2250,7 @@ P
 Ah
 obicem
 ?
+
 Scitum
 est
 ,
@@ -1924,12 +2259,14 @@ ubique
 gentium
 cum
 autoritate
+
 Alium
 exurgere
 animum
 :
 uideas
 optimos
+
 peßimos
 fieri
 ,
@@ -1937,16 +2274,20 @@ certe
 bonis
 parum
 conuenit
+
 cum
 fucatis
 sublimibusque
 titulis
 .
+
 Digitized
 by
 Google
+
 SVSANNA
 PER
+
 H
 .
 Ita
@@ -1959,6 +2300,7 @@ opus
 est
 facto
 .
+
 P
 .
 Mihi
@@ -1970,6 +2312,7 @@ domi
 meae
 coaptem
 ,
+
 Quandoquidem
 tanta
 imperatrix
@@ -1977,10 +2320,12 @@ proximo
 uentura
 sit
 .
+
 CRITO
 &
 PETVLVS
 .
+
 On
 irascar
 isthic
@@ -1989,6 +2334,7 @@ Chrisalo
 solus
 potitus
 est
+
 VCupitis
 amplexibus
 ,
@@ -1996,6 +2342,7 @@ uirginem
 sine
 teste
 uitiauit
+
 Vbi
 obiurgaui
 hominem
@@ -2004,6 +2351,7 @@ ait
 ,
 multa
 quidem
+
 Multis
 argumentis
 me
@@ -2011,6 +2359,7 @@ idem
 ferè
 domi
 nuper
+
 patrasse
 ,
 idque
@@ -2019,6 +2368,7 @@ quàm
 quod
 inficiar
 .
+
 Quanquam
 dij
 boni
@@ -2028,6 +2378,7 @@ tulerim
 factum
 inhumanum
 ,
+
 Quod
 me
 domi
@@ -2036,6 +2387,7 @@ pellex
 maneat
 lepidissima
 .
+
 Sed
 eccum
 Petulum
@@ -2045,6 +2397,7 @@ affatim
 ,
 ut
 laetus
+
 Est
 nebulo
 ,
@@ -2053,12 +2406,14 @@ iam
 unà
 licebit
 nobiscum
+
 Obligurire
 ,
 saginari
 citra
 dispendium
 .
+
 P
 .
 Iubet
@@ -2069,6 +2424,7 @@ quantum
 potes
 properes
 .
+
 C
 .
 Viuo
@@ -2079,18 +2435,21 @@ scaphae
 quoties
 occurrit
 .
+
 Obliuiscor
 modo
 omnium
 iniuriarum
 ,
 ita
+
 Sum
 gaudio
 factus
 uelut
 ebrius
 .
+
 Chrisalus
 iudex
 ,
@@ -2098,8 +2457,10 @@ Crito
 ,
 Ioachimus
 ,
+
 Susanna
 .
+
 Go
 non
 illum
@@ -2108,6 +2469,7 @@ obiurgem
 qui
 infami
 scelere
+
 ENomen
 ,
 gloriam
@@ -2116,6 +2478,7 @@ maiestatem
 ,
 ordinem
 denique
+
 Iure
 consultorum
 inuertit
@@ -2124,12 +2487,16 @@ quid
 dicant
 ciues
 ,
+
 Ino
 quid
+
 Digitized
 by
 Google
+
 PEVANGELISTENImo
+
 
 
 quid
@@ -2142,6 +2509,7 @@ eße
 senem
 eße
 ,
+
 Iudicem
 eße
 ,
@@ -2150,6 +2518,7 @@ aedes
 pateant
 meretrici
 .
+
 Gestio
 illum
 in
@@ -2159,6 +2528,7 @@ dari
 ut
 sciat
 .
+
 CR
 .
 Atque
@@ -2170,6 +2540,7 @@ CH
 .
 Ehem
 Crito
+
 Tu
 hic
 eras
@@ -2178,6 +2549,7 @@ oratum
 te
 aduenio
 .
+
 CR
 .
 Scilicet
@@ -2188,6 +2560,7 @@ sol
 uidet
 deploratis
 .
+
 An
 te
 putas
@@ -2197,6 +2570,7 @@ facta
 ignorare
 omnes
 ?
+
 Inuidus
 es
 .
@@ -2210,6 +2584,7 @@ Cr
 Auarus
 es
 .
+
 Ch
 .
 Sape
@@ -2220,6 +2595,7 @@ Cr
 Luxu
 perditus
 .
+
 Chr
 .
 Tempera
@@ -2229,6 +2605,7 @@ Cr
 .
 Incestuosus
 .
+
 Chr
 .
 Satis
@@ -2241,6 +2618,7 @@ ne
 quid
 addam
 .
+
 Chr
 .
 Malum
@@ -2251,6 +2629,7 @@ taceas
 uicißim
 audies
 male
+
 Dixi
 Crito
 .
@@ -2261,6 +2640,7 @@ tu
 perges
 uno
 uerbulo
+
 Contra
 hoc
 stre
@@ -2270,6 +2650,7 @@ iniuriarum
 teneo
 inexplebilem
 dicam
+
 Dixi
 Chrisale
 .
@@ -2283,6 +2664,7 @@ redeamus
 in
 gratiam
 .
+
 Cr
 .
 In
@@ -2294,6 +2676,7 @@ Ch
 Aedepol
 non
 uidi
+
 Magis
 immodestam
 audaciam
@@ -2302,6 +2685,7 @@ Cr
 .
 Consultius
 multo
+
 Cacodaemonem
 irritasses
 ,
@@ -2309,6 +2693,7 @@ quam
 huic
 meo
 stomacho
+
 Negocium
 faceßis
 .
@@ -2318,6 +2703,7 @@ At
 ignosce
 obsecro
 .
+
 Cr
 .
 Ni
@@ -2331,6 +2717,7 @@ magis
 quam
 metus
 ,
+
 Facile
 doceant
 te
@@ -2338,6 +2725,7 @@ non
 frustra
 absentis
 calumniatum
+
 Iri
 opera
 .
@@ -2347,6 +2735,7 @@ Quin
 tandem
 memento
 nos
+
 Esse
 presbyteros
 ,
@@ -2354,13 +2743,18 @@ quorum
 nutu
 ac
 renutu
+
 Diostized
 by
 Google
+
 Ocu
+
 12
+
 SVSANNA
 PER
+
 Oculi
 omnium
 pendeant
@@ -2371,6 +2765,7 @@ Scelus
 ,
 omnim
 oculos
+
 Narras
 ,
 quum
@@ -2379,6 +2774,7 @@ sit
 qui
 te
 impijßimum
+
 Non
 norit
 ?
@@ -2388,6 +2784,7 @@ Ingenue
 ,
 haud
 admodum
+
 Enim
 dißidemus
 ab
@@ -2396,11 +2793,13 @@ auditorio
 caue
 ne
 imprudentes
+
 Nos
 Ioachimus
 claßicus
 opprimat
 .
+
 Siquidem
 ut
 uir
@@ -2410,6 +2809,7 @@ sancta
 apud
 uulgum
 eius
+
 Est
 authoritas
 ,
@@ -2417,11 +2817,13 @@ possumus
 uno
 strepitu
 grandem
+
 Opinioni
 nostrae
 facere
 iacturam
 .
+
 Ioach
 .
 Ita
@@ -2432,6 +2834,7 @@ dixti
 ,
 Susanna
 .
+
 Sus
 .
 Debemus
@@ -2440,6 +2843,7 @@ isthuc
 aetati
 tardae
 ,
+
 Vt
 uenerandae
 caniciei
@@ -2447,6 +2851,7 @@ caniciei
 ut
 meliuscule
 undique
+
 Sentiant
 nos
 affectos
@@ -2454,6 +2859,7 @@ senes
 ,
 etiam
 si
+
 Desit
 authoritas
 .
@@ -2464,6 +2870,7 @@ utrumque
 ad
 prandium
 .
+
 Chr
 .
 Sed
@@ -2475,6 +2882,7 @@ Ioach
 .
 Saluete
 oppido
+
 Multum
 magistri
 nostri
@@ -2483,6 +2891,7 @@ Chr
 .
 Tu
 uero
+
 Tantundem
 Ioachime
 suauißime
@@ -2490,29 +2899,34 @@ suauißime
 Cr
 .
 Nos
+
 Equidem
 laboriosa
 hic
 contentione
 didiceramus
 ,
+
 Anteaquam
 aduenißes
 :
 ut
 sicubi
 commodioribus
+
 Paulo
 argumentis
 ,
 argutioribusque
 possemus
 causas
+
 Pro
 republica
 posthac
 dicere
 .
+
 Ioach
 .
 Profecto
@@ -2522,6 +2936,7 @@ ubique
 ita
 hic
 exercitatio
+
 Plurimum
 ponderis
 adfert
@@ -2529,6 +2944,7 @@ adfert
 caeterum
 in
 prandium
+
 Vtrunque
 gestio
 domi
@@ -2538,14 +2954,17 @@ conuiuam
 ,
 ne
 quid
+
 poed
 Google
 CaußemiP
 
 
+
 .
 EVANGELISTEN
 .
+
 Causemini
 :
 ita
@@ -2554,6 +2973,7 @@ perauit
 Susanna
 nostra
 .
+
 Cr
 .
 Foemina
@@ -2566,6 +2986,7 @@ bene
 ament
 ,
 digna
+
 Cui
 nunquam
 aliquid
@@ -2574,15 +2995,20 @@ negetur
 Itaque
 eamus
 .
+
 ACTVS
 SECVN
+
 DVS
 .
+
 Chrisalus
 senes
 .
+
 Crito
 ,
+
 Nnos
 computo
 ,
@@ -2591,26 +3017,35 @@ me
 hodie
 
 
+
 primum
 uixisse
+
 ε
+
 14
+
 Misere
 .
 CHRISAL
 .
 O
 Susanna
+
 Susauna
 ,
 quàm
+
 Magnifice
 experior
 oculos
 tuos
+
 3
+
 uere
 eße
+
 Magnetes
 .
 CR
@@ -2619,6 +3054,7 @@ Eia
 mellitißime
 Chrisale
 .
+
 Chr
 .
 O
@@ -2631,6 +3067,7 @@ C
 Rogas
 ?
 quod
+
 Me
 eloqui
 indignum
@@ -2641,11 +3078,13 @@ Chr
 Quid
 enim
 ?
+
 Hactenus
 non
 constamus
 inuicem
 .
+
 Cr
 .
 Potis
@@ -2659,6 +3098,7 @@ Maxime
 Cr
 .
 Amo
+
 Chr
 .
 Susannam
@@ -2669,6 +3109,7 @@ Cr
 Eam
 ipsam
 .
+
 Ab
 quam
 pertinaciter
@@ -2678,6 +3119,7 @@ Chr
 .
 Hau
 obsecrum
+
 Eadem
 mihi
 .
@@ -2687,12 +3129,14 @@ uertiginem
 attulit
 ,
 adeò
+
 Me
 indomitus
 decoquit
 ignis
 ,
 abdita
+
 penetralia
 furor
 (
@@ -2702,6 +3146,7 @@ insolens
 )
 obtinet
 .
+
 Quid
 est
 consilij
@@ -2711,6 +3156,7 @@ te
 audire
 percupio
 .
+
 uid
 ?
 nisi
@@ -2719,17 +3165,24 @@ demus
 operam
 mutuam
 ,
+
 Cr
 .
 C
 .
+
 –
+
 Siqize
+
 5aC
+
 ConSVSANNA
 
 
+
 PER
+
 Connitemur
 in
 hoc
@@ -2737,6 +3190,7 @@ summis
 uiribus
 astuque
 .
+
 Ch
 .
 Atquis
@@ -2745,6 +3199,7 @@ est
 ,
 non
 exaudiet
+
 Illecebrosos
 :
 adolescentul
@@ -2754,6 +3209,7 @@ est
 auersabitur
 senes
 ,
+
 Cum
 in
 properio
@@ -2764,6 +3220,7 @@ Cr
 Miserum
 me
 ,
+
 Nisi
 potiar
 ,
@@ -2777,6 +3234,7 @@ Ipsum
 id
 ego
 .
+
 Cr
 .
 Quin
@@ -2784,6 +3242,7 @@ igitur
 aperte
 pereamus
 .
+
 Ch
 .
 Respira
@@ -2793,6 +3252,7 @@ satis
 est
 amare
 ,
+
 Si
 non
 etiam
@@ -2801,6 +3261,7 @@ C
 .
 An
 tu
+
 Verò
 nihil
 iam
@@ -2809,6 +3270,7 @@ potes
 qui
 sepe
 spingem
+
 Euicisti
 dolis
 ?
@@ -2818,6 +3280,7 @@ Caeterum
 tua
 refert
 hic
+
 Altius
 insistere
 ,
@@ -2826,6 +3289,7 @@ ubi
 uis
 uniuersos
 sutelis
+
 Anteis
 .
 Redige
@@ -2834,16 +3298,19 @@ memooriam
 ,
 ut
 ut
+
 Millies
 instructas
 uirginum
 acies
 consilio
+
 Expugnaueris
 inglorium
 est
 omne
 uetus
+
 Modo
 hic
 defictant
@@ -2851,7 +3318,9 @@ artes
 tuae
 .
 
+
 4
+
 Cr
 .
 Pape
@@ -2863,6 +3332,7 @@ Ch
 .
 Habundat
 .
+
 Enarra
 .
 Cr
@@ -2871,6 +3341,7 @@ Scin
 pomarium
 eße
 loachimos
+
 Ch
 .
 Scio
@@ -2879,12 +3350,14 @@ nempe
 quo
 contemplari
 solemus
+
 Euntem
 eam
 ac
 redeuntem
 bellißime
 .
+
 Cr
 .
 ibi
@@ -2896,6 +3369,7 @@ prandio
 ,
 ut
 lauet
+
 Augusto
 pedißequarum
 sodalitio
@@ -2904,6 +3378,7 @@ Ch
 .
 Perge
 .
+
 Cr
 .
 In
@@ -2913,6 +3388,7 @@ crastino
 nos
 abdemus
 .
+
 Erumpemus
 dum
 planè
@@ -2923,15 +3399,19 @@ Ch
 .
 Recte
 .
+
 Digitized
 by
 Google
+
 Tu
 in
+
 P
 .
 EVANGELISTEN
 .
+
 Cr
 .
 Tu
@@ -2940,6 +3420,7 @@ heus
 pulcherrima
 Susanna
 ,
+
 Eoquid
 nos
 enecas
@@ -2947,6 +3428,7 @@ eleganti
 specie
 ?
 Equidem
+
 Foeminarum
 id
 genus
@@ -2956,6 +3438,7 @@ quàm
 bene
 audiat
 ,
+
 Sicubi
 telum
 ordiaris
@@ -2963,6 +3446,7 @@ ab
 honesta
 forma
 .
+
 Ch
 .
 Dij
@@ -2973,6 +3457,7 @@ audiui
 sapientius
 consilium
 .
+
 Vt
 ut
 ex
@@ -2982,12 +3467,14 @@ factus
 sum
 Mercurius
 ?
+
 Caeterum
 accingere
 quanta
 potes
 fiducia
 .
+
 Susanna
 ,
 Maura
@@ -2996,6 +3483,7 @@ pedißequa
 ac
 Liuia
 ,
+
 Aud
 semel
 mihi
@@ -3005,15 +3493,18 @@ nescire
 uos
 quam
 penitus
+
 Haitinutile
 :
 uirgines
 secum
 congerere
 supen
+
 biae
 flatum
 ,
+
 Spem
 facere
 obtinendarum
@@ -3021,6 +3512,7 @@ anxie
 rerum
 ,
 iugiter
+
 Nuptias
 expetere
 ,
@@ -3029,6 +3521,7 @@ quoquo
 gestu
 ambire
 .
+
 O
 si
 noueritis
@@ -3040,17 +3533,20 @@ res
 est
 atque
 existimatio
+
 Connubi
 ,
 certe
 studio
 uehementiori
 contenderetis
+
 In
 innocentiam
 illam
 sempiternam
 .
+
 Mau
 .
 Audimus
@@ -3059,6 +3555,7 @@ mater
 Sus
 .
 Maturas
+
 Decet
 matrimonium
 ,
@@ -3068,12 +3565,14 @@ libet
 ,
 quarum
 sit
+
 Pulchre
 educata
 adolescentia
 ,
 quarum
 sublimiter
+
 Arbitria
 rem
 domesticam
@@ -3081,11 +3580,13 @@ ab
 interitu
 uindicant
 ,
+
 Quarum
 manus
 augeant
 supellectilem
 .
+
 Liu
 .
 Vicisti
@@ -3095,6 +3596,7 @@ mellitis
 istis
 eloquijs
 .
+
 Gaudemus
 te
 nobis
@@ -3102,16 +3604,21 @@ contigiße
 foeliciter
 heram
 .
+
 –
 -
+
 Digitized
 by
 Goo
+
 S
 .
 Caete
+
 SVSANNA
 PER
+
 Sus
 .
 Caeterum
@@ -3120,12 +3627,16 @@ hodie
 sat
 est
 .
+
 Eamus
 intrò
 .
+
 TERTIVS
+
 ACTVS
 .
+
 Crito
 ,
 Chrisalus
@@ -3134,28 +3645,34 @@ senes
 ,
 Susanna
 ,
+
 Maura
 ,
 &
 Charinus
 seruus
 .
+
 Bfirmata
 sunt
 mihi
 corde
 omnia
 .
+
 Interea
 .
+
 Vtrinque
 plurima
 ,
 uictoriam
 audio
+
 uisam
 dicere
 ,
+
 Sponte
 consentit
 ,
@@ -3164,8 +3681,11 @@ benefactum
 tar3
 
 
+
+
 diuscule
 relinquitur
+
 Precibus
 locus
 .
@@ -3173,6 +3693,7 @@ Sin
 omnino
 peruicax
 refugit
+
 Adulterium
 illi
 facile
@@ -3183,6 +3704,7 @@ uero
 ,
 quid
 enim
+
 Non
 adulatione
 ,
@@ -3192,6 +3714,7 @@ insperatae
 insaniae
 non
 angore
+
 Peruincatur
 ?
 At
@@ -3200,6 +3723,7 @@ uero
 abscondere
 Chrisale
 .
+
 Chr
 .
 Actum
@@ -3210,6 +3734,7 @@ Quis
 nos
 hic
 suspicetur
+
 Delitescere
 curiosus
 .
@@ -3217,6 +3742,7 @@ Caeterum
 ipsa
 aduenit
 .
+
 Dij
 immortales
 ,
@@ -3228,6 +3754,7 @@ scitula
 ,
 quam
 purpurascens
+
 Chr
 .
 Deam
@@ -3235,6 +3762,7 @@ uidere
 mihi
 uideor
 .
+
 Sus
 .
 Heus
@@ -3246,6 +3774,7 @@ Quid
 iubes
 hera
 ?
+
 Sus
 .
 Nempe
@@ -3255,6 +3784,7 @@ oleum
 ac
 smigmata
 ,
+
 Vt
 hoc
 aestu
@@ -3265,7 +3795,9 @@ Mau
 .
 Curatumas
 .
+
 20
+
 Nunquid
 nos
 uis
@@ -3276,23 +3808,32 @@ Tantum
 sedulo
 ocelu
 .
+
 -
 —
+
 b
 -
 —
+
 P
+
 –
 e
+
 Digitized
 by
 Google
+
 carij
+
 54
+
 P
 .
 EVANGELISTEN
 .
+
 Pomarij
 ostia
 .
@@ -3300,6 +3841,7 @@ MAV
 .
 Auolamus
 .
+
 CR
 .
 Impune
@@ -3310,6 +3852,7 @@ Chr
 .
 Imo
 uero
+
 Totus
 uigilo
 .
@@ -3320,6 +3863,7 @@ quae
 data
 est
 .
+
 CR
 .
 Ades
@@ -3329,11 +3873,13 @@ Venus
 ,
 faue
 furtiuae
+
 Voluptatis
 pater
 magne
 Iuppiter
 .
+
 SVS
 .
 Me
@@ -3342,6 +3888,7 @@ miseram
 quid
 turbae
 ?
+
 CR
 .
 Ingere
@@ -3354,6 +3901,7 @@ Sus
 Ah
 perij
 .
+
 CR
 .
 Ecquid
@@ -3364,12 +3912,14 @@ per
 superos
 )
 qui
+
 Non
 exonero
 humeros
 pensili
 hoc
 ?
+
 Chr
 .
 Satis
@@ -3380,6 +3930,7 @@ est
 excute
 ocium
 isthuc
+
 Ignobile
 ,
 quid
@@ -3390,12 +3941,14 @@ CR
 Au
 au
 omnium
+
 Quae
 uiuunt
 foeminarum
 pulcherrima
 Susanna
 .
+
 Sus
 .
 (
@@ -3409,6 +3962,7 @@ ubi
 non
 conuenit
 ?
+
 CR
 .
 Atqui
@@ -3417,6 +3971,7 @@ nos
 sola
 protraxisti
 ,
+
 Vt
 fateamur
 .
@@ -3425,6 +3980,7 @@ Sus
 Ego
 ne
 ?
+
 Chri
 .
 Ha
@@ -3436,6 +3992,7 @@ scimus
 raram
 aut
 penitus
+
 Nullam
 mulierem
 esse
@@ -3444,6 +4001,7 @@ cui
 non
 peculiare
 est
+
 Cum
 cicadis
 expedite
@@ -3452,6 +4010,7 @@ uociferari
 Sus
 .
 Bona
+
 Verba
 .
 Chr
@@ -3460,6 +4019,7 @@ Euge
 bellißima
 soemina
 :
+
 Nihil
 te
 pudeat
@@ -3468,6 +4028,7 @@ nos
 seorsum
 cupiditate
 omni
+
 Excipere
 .
 Suf
@@ -3479,6 +4040,7 @@ CR
 .
 Haud
 admodum
+
 Pensa
 inutile
 nostrum
@@ -3486,31 +4048,41 @@ senium
 .
 Nam
 delicatiusculis
+
 ;
 uegeti
 sumus
 :
 strenue
+
 Ample
+
 s
 ,
 hucuso
+
 izen
 by
 GO
+
 igle
+
 Lita—
 
 
+
 7
+
 SVSANNA
 PER
+
 Litauimus
 hactenus
 in
 palaestra
 Veneris
 :
+
 Dicas
 nos
 plura
@@ -3520,6 +4092,7 @@ naturam
 etiam
 iuuenilem
 posse
+
 Quid
 inaniter
 dura
@@ -3528,6 +4101,7 @@ es
 Chr
 .
 Huiusmodi
+
 Est
 formae
 tuae
@@ -3537,6 +4111,7 @@ ea
 facilitas
 morum
 ,
+
 Is
 animi
 lepor
@@ -3547,6 +4122,7 @@ non
 posse
 fieri
 ,
+
 Quae
 diu
 obaudias
@@ -3556,6 +4132,7 @@ denique
 neceßitas
 nostra
 ,
+
 Vt
 si
 quid
@@ -3567,6 +4144,7 @@ utroque
 sit
 factum
 ,
+
 Quid
 angeris
 frustra
@@ -3576,6 +4154,7 @@ su
 perstitiose
 metuis
 ?
+
 Quasi
 non
 soli
@@ -3586,6 +4165,7 @@ spes
 certa
 sit
 neminem
+
 Aduenturum
 .
 SVS
@@ -3593,6 +4173,7 @@ SVS
 Hic
 nunc
 domi
+
 Meae
 abditos
 hostes
@@ -3602,6 +4183,7 @@ CR
 Amici
 sumus
 ,
+
 Tace
 .
 SVS
@@ -3611,6 +4193,7 @@ cruentos
 latrones
 ?
 O
+
 Impudentia
 .
 Egoqua
@@ -3618,6 +4201,7 @@ uia
 ,
 ordineue
 ,
+
 Praesidioque
 fulta
 ,
@@ -3628,6 +4212,7 @@ CR
 .
 Au
 obsecro
+
 Susanna
 .
 SVS
@@ -3638,6 +4223,7 @@ uero
 Chr
 .
 Ita
+
 Facto
 opus
 est
@@ -3649,6 +4235,7 @@ ne
 uos
 pudet
 ?
+
 Senes
 ?
 arbitros
@@ -3659,6 +4246,7 @@ institutos
 quos
 alui
 ,
+
 Quos
 obrui
 benefactis
@@ -3666,6 +4254,7 @@ benefactis
 at
 tantopere
 exaltaui
+
 Semper
 ?
 CR
@@ -3676,6 +4265,7 @@ ni
 protinus
 audias
 .
+
 SVS
 .
 Nunquam
@@ -3685,6 +4275,7 @@ Chr
 Occupa
 ergo
 eam
+
 SVSANNA
 .
 Nihil
@@ -3693,8 +4284,10 @@ me
 profeceritis
 ,
 etam
+
 importunitate
 .
+
 CR
 .
 Quid
@@ -3705,26 +4298,32 @@ igitur
 ?
 age
 perfice
+
 Digitized
 by
 Google
+
 —
+
 P
 .
 EVANGELISTEN
 .
+
 Quod
 extremo
 nolentem
 uolentem
 oporteat
 .
+
 SVS
 .
 Oporteat
 ?
 obtunditis
 .
+
 Chr
 .
 Lupa
@@ -3736,12 +4335,14 @@ foemina
 SVS
 .
 Isthuc
+
 Praestaret
 quidem
 ,
 quam
 natiuitatis
 originem
+
 Flagitijs
 uoluptatum
 obscurare
@@ -3751,7 +4352,9 @@ confundere
 extinguere
 
 
+
 .
+
 Cr
 .
 In
@@ -3762,6 +4365,7 @@ aliud
 proferas
 ,
 definiemus
+
 Te
 moechatam
 .
@@ -3769,6 +4373,7 @@ Sus
 .
 Sapite
 .
+
 Cr
 .
 Cum
@@ -3779,6 +4384,7 @@ Sus
 Dij
 uostrum
 auxilium
+
 Cr
 .
 Vidisse
@@ -3786,6 +4392,7 @@ nos
 facinus
 indignum
 .
+
 Sus
 .
 Miseram
@@ -3796,6 +4403,7 @@ mihi
 sunt
 undique
 .
+
 Quippe
 isthuc
 si
@@ -3804,8 +4412,10 @@ egero
 mortem
 operor
 .
+
 .
 .
+
 Sin
 illabefacta
 refutem
@@ -3813,6 +4423,7 @@ refutem
 non
 effugio
 manus
+
 Vestras
 ,
 quanquam
@@ -3821,6 +4432,7 @@ esse
 putem
 ,
 incidere
+
 In
 manus
 uestras
@@ -3829,6 +4441,7 @@ quam
 deum
 inimicum
 habere
+
 Ch
 .
 Ita
@@ -3839,6 +4452,7 @@ uide
 quid
 incipias
 ?
+
 Sus
 .
 Quid
@@ -3848,6 +4462,7 @@ nisi
 ut
 ignominias
 hasce
+
 Me
 meoque
 genere
@@ -3856,6 +4471,7 @@ indignas
 fortiter
 excutiam
 .
+
 Multo
 ,
 ut
@@ -3867,6 +4483,7 @@ est
 ,
 omnem
 impetum
+
 Quemcunque
 tandem
 malèuoli
@@ -3874,12 +4491,14 @@ excogitabitis
 ,
 ut
 feram
+
 Quàm
 irritem
 aeternum
 contagio
 uindicem
 .
+
 Ferte
 opem
 imbelli
@@ -3888,6 +4507,7 @@ foeminae
 pereo
 Susanna
 .
+
 h
 .
 Perimus
@@ -3898,15 +4518,21 @@ Cr
 .
 Festinate
 .
+
+—
+
 —
 —
-—
+
 Digitized
 by
+
 31j
 .
+
 SVSANNA
 PER
+
 Adesse
 uicini
 .
@@ -3915,6 +4541,7 @@ Char
 Quid
 id
 est
+
 CR
 .
 Haec
@@ -3928,8 +4555,10 @@ audio
 CR
 .
 Cum
+
 adolescente
 .
+
 Char
 .
 inauditum
@@ -3940,6 +4569,7 @@ Cr
 Modo
 hic
 .
+
 Char
 .
 Oh
@@ -3952,6 +4582,7 @@ Ita
 pudet
 me
 .
+
 Cr
 .
 Libidinem
@@ -3961,6 +4592,7 @@ Char
 .
 Occidi
 .
+
 Cr
 .
 Adprime
@@ -3974,6 +4606,7 @@ apud
 meSus
 
 
+
 .
 Mortua
 sum
@@ -3982,6 +4615,7 @@ calumniam
 non
 sustinens
 .
+
 Ch
 .
 Am
@@ -3991,12 +4625,14 @@ defeßi
 sumus
 enisi
 comprehendere
+
 Illam
 ,
 ut
 uix
 respirare
 detur
+
 CR
 .
 Miseret
@@ -4006,7 +4642,9 @@ patitij
 Ioachimi
 iuxta
 ac
+
 integerrimi
+
 Pontificis
 Helchiae
 ,
@@ -4016,6 +4654,7 @@ una
 claritatem
 hodie
 ,
+
 Familiamque
 prostituit
 ,
@@ -4023,6 +4662,7 @@ quamquam
 per
 genium
 docebimus
+
 Eam
 crastino
 ,
@@ -4031,14 +4671,17 @@ sit
 multo
 impijßimum
 ,
+
 Boni
 coniugis
 abuti
 simplicitate
 .
+
 SVSANNA
 ORANS
 .
+
 JOsti
 me
 quàm
@@ -4047,8 +4690,10 @@ abesse
 ab
 his
 innocent
+
 tiae
 deus
+
 Sceleribus
 ,
 quae
@@ -4056,11 +4701,13 @@ mihi
 petinaciter
 presbyteri
 impingunt
+
 Quandoquidem
 &
 mecum
 periculum
 exhorruerim
+
 Et
 una
 eademque
@@ -4068,6 +4715,7 @@ constantia
 obstiterim
 uiolentijs
 ,
+
 Neque
 ob
 id
@@ -4076,18 +4724,23 @@ aliquid
 modestiores
 sut
 :
+
 qittzed
 b
+
 E
+
 P
 .
 EVANGELISTEN
+
 Excogitant
 noua
 ,
 inusitata
 prouulgant
 .
+
 Adeò
 ut
 rumoribus
@@ -4095,6 +4748,7 @@ adulterij
 mei
 ,
 domus
+
 Cognatio
 iugiter
 intabęscet
@@ -4102,6 +4756,7 @@ tota
 .
 In
 te
+
 Mihi
 spes
 est
@@ -4109,21 +4764,27 @@ omnis
 ,
 excute
 potenter
+
 —
 -
 3
+
 Bolum
 hunc
 è
 faucibus
 beluarum
 .
+
 QVART
+
 ACTVS
+
 IOACHIMVS
 ET
 HELCHIAS
 .
+
 Iunt
 ?
 quid
@@ -4132,8 +4793,10 @@ aiunt
 perijsse
 animam
 ?
+
 Susannam
 ?
+
 Meam
 ne
 ?
@@ -4142,8 +4805,10 @@ meam
 ?
 credam
 ?
+
 persuadebunt
 ?
+
 Illam
 ?
 talem
@@ -4153,7 +4818,9 @@ exquisite
 continentem
 
 
+
 ?
+
 
 HEL
 .
@@ -4162,6 +4829,7 @@ mihi
 uidetur
 uerisimile
 .
+
 Neque
 poßum
 inducere
@@ -4171,6 +4839,7 @@ animum
 ut
 aliquando
 credam
+
 IOA
 .
 Totam
@@ -4179,6 +4848,7 @@ insumpsi
 circum
 gemitu
 ,
+
 Suspirijs
 ,
 lachrymis
@@ -4192,6 +4862,7 @@ redij
 ,
 eadem
 plus
+
 Millies
 .
 Quid
@@ -4200,6 +4871,7 @@ cordis
 nobilißima
 particula
 :
+
 Decretum
 est
 me
@@ -4209,6 +4881,7 @@ commori
 contra
 ,
 haec
+
 Luctu
 abundauit
 ,
@@ -4217,6 +4890,7 @@ fleuit
 tentauit
 dicere
 ,
+
 Ecce
 autem
 in
@@ -4226,12 +4900,17 @@ uox
 ,
 gnauiter
 ,
+
 Digitized
 by
+
 iu
+
 Tumque
+
 SVSANNA
 PER
+
 Tumque
 alia
 atque
@@ -4241,6 +4920,7 @@ haud
 quaquam
 potis
 est
+
 Linguam
 instituere
 ,
@@ -4248,6 +4928,7 @@ ut
 cogitata
 proloquatur
 .
+
 HEL
 .
 Haeccine
@@ -4256,6 +4937,7 @@ manebant
 aetatem
 meam
 ?
+
 Ioach
 .
 Vae
@@ -4267,17 +4949,20 @@ ea
 coepta
 est
 ,
+
 Quae
 mihi
 proxime
 mortem
 deriuet
 .
+
 CRITO
 ,
 CHRISALVS
 ,
 CARNIHICES
+
 
 
 ,
@@ -4286,12 +4971,15 @@ SVSANNA
 IOACHIMVS
 
 
+
 ,
 DANIEL
 ,
+
 &
 Populus
 ,
+
 Arnifices
 ?
 CAR
@@ -4304,6 +4992,7 @@ Chr
 Lorarij
 omnes
 
+
 OCAR
 .
 Quid
@@ -4311,6 +5000,7 @@ est
 ?
 CRQuotquot
 praeestis
+
 Vsquam
 lumbifragijs
 ,
@@ -4319,6 +5009,7 @@ adsitis
 .
 CAR
 Furiae
+
 Chr
 .
 Carnifices
@@ -4330,6 +5021,7 @@ Quid
 est
 inquam
 ?
+
 CR
 .
 Expedite
@@ -4337,6 +5029,7 @@ Expedite
 producite
 Susannam
 siliam
+
 Helchiae
 ,
 nuptam
@@ -4345,6 +5038,7 @@ Ioachimo
 CAR
 .
 Quid
+
 Hoc
 monstri
 est
@@ -4355,6 +5049,7 @@ commune
 est
 ,
 cum
+
 Tam
 ingenua
 .
@@ -4364,6 +5059,7 @@ Ceßatis
 ire
 funesti
 ?
+
 Abite
 iam
 nunc
@@ -4371,6 +5067,7 @@ nunc
 dictum
 satis
 .
+
 Sus
 .
 Obuelate
@@ -4382,6 +5079,7 @@ quid
 fletis
 ubertim
 ?
+
 In
 coelis
 est
@@ -4389,6 +5087,7 @@ est
 quisortem
 meam
 oportune
+
 In
 melius
 commutabit
@@ -4398,6 +5097,7 @@ Ioach
 Certum
 est
 me
+
 Pariter
 cum
 illa
@@ -4406,6 +5106,7 @@ perire
 adobrui
 saxis
 .
+
 SVS
 .
 Nunc
@@ -4415,9 +5116,11 @@ de
 ploratae
 foeminae
 ,
+
 —
 Sigtizecoy
 V
+
 -
 —
 -
@@ -4427,12 +5130,16 @@ V
 
 
 
+
 6
 2
+
 Sec
+
 P
 .
 EVANGELISTEN
+
 Sed
 speranti
 in
@@ -4442,12 +5149,14 @@ optimus
 maximus
 ,
 rugentium
+
 Horum
 leonuum
 saeuitiam
 male
 uerte
 .
+
 Chr
 .
 Malum
@@ -4455,7 +5164,9 @@ Ecquid
 perditißimi
 ,
 bisque
+
 43
+
 Peß
 .
 mi
@@ -4466,6 +5177,7 @@ huic
 faciem
 obduxtis
 ?
+
 Facite
 plana
 sit
@@ -4474,6 +5186,7 @@ si
 officijs
 consulitis
 .
+
 CR
 .
 Heri
@@ -4482,6 +5195,7 @@ deambularemus
 in
 pomario
 ,
+
 Paulo
 post
 ingressa
@@ -4491,6 +5205,7 @@ haec
 duabus
 subsequis
 ,
+
 Quas
 dum
 cauta
@@ -4498,6 +5213,7 @@ dimisißet
 ,
 ccce
 adolescens
+
 Exilijt
 ,
 alacer
@@ -4507,17 +5223,20 @@ pinguiculus
 elegans
 totus
 .
+
 Suspensique
 animo
 atque
 consternati
 protinus
+
 Tacito
 contemplamur
 indignum
 facinus
 .
 Itaque
+
 Accurrimus
 Sed
 ille
@@ -4526,6 +5245,7 @@ fugit
 .
 Tum
 autem
+
 Nequimus
 ab
 hac
@@ -4534,6 +5254,7 @@ extorquere
 ecquis
 fuerit
 .
+
 Iccirco
 factum
 est
@@ -4543,6 +5264,7 @@ isthic
 iniecerimus
 manus
 .
+
 Horum
 nos
 deus
@@ -4550,6 +5272,7 @@ testes
 esse
 uoluit
 .
+
 Sus
 .
 Ah
@@ -4561,6 +5284,7 @@ Mortem
 merita
 est
 .
+
 CR
 .
 Ita
@@ -4575,12 +5299,14 @@ est
 id
 fieri
 .
+
 Vobis
 licet
 ,
 auferte
 morituram
 .
+
 Sus
 .
 Deus
@@ -4588,7 +5314,9 @@ aeterne
 abstrusorum
 perscrutator
 ,
+
 14
+
 Vide
 precor
 ,
@@ -4598,6 +5326,7 @@ audacia
 .
 Iamdudum
 morior
+
 Omnium
 expers
 ,
@@ -4608,6 +5337,7 @@ congesserunt
 in
 me
 .
+
 Ioach
 .
 Innocuam
@@ -4616,21 +5346,27 @@ unanimem
 me
 turbis
 proruam
+
 Pariter
 in
 interitum
 .
+
 o
 (
 Biiij
 .
+
 DAN
 .
+
 SVSANNA
 PER
+
 DANIEL
 PROHHETA
 .
+
 Ah
 quàm
 facile
@@ -4640,22 +5376,26 @@ uel
 ubique
 ,
 authoritate
+
 Insignes
 hoccine
 persuadere
 esse
 ausos
 ?
+
 Siccine
 peßimorum
 peßima
 machinamenta
+
 Praeualent
 aduersus
 bonos
 ?
 ite
 impudentes
+
 Properate
 populi
 ,
@@ -4663,11 +5403,13 @@ sanguinolentas
 immergite
 petras
 ,
+
 In
 sancta
 uiscera
 candorem
 splendidum
+
 Immiti
 uulnere
 conspergite
@@ -4675,6 +5417,7 @@ conspergite
 Tuber
 fiat
 lene
+
 Corpusculum
 ,
 in
@@ -4682,6 +5425,7 @@ planiciem
 redigantur
 lactea
 ubera
+
 Libeat
 ,
 liceat
@@ -4691,12 +5435,14 @@ uos
 quantum
 uultis
 .
+
 Eme
 prorsus
 cupio
 remotam
 innocentis
 foeminae
+
 Necem
 .
 POPVLVS
@@ -4705,6 +5451,7 @@ Quid
 au
 prohibet
 nos
+
 Propheta
 ?
 DAN
@@ -4714,6 +5461,7 @@ insulsi
 filij
 Ifrael
 ,
+
 Neque
 quod
 aequum
@@ -4721,6 +5469,7 @@ erat
 penficulantes
 ,
 damnastis
+
 Impie
 sororem
 uestram
@@ -4729,6 +5478,7 @@ Redite
 ,
 sapite
 ,
+
 Discite
 ,
 quàm
@@ -4738,6 +5488,7 @@ sit
 ,
 quod
 ij
+
 Religiosi
 adeò
 ementiti
@@ -4746,6 +5497,7 @@ sunt
 Chr
 .
 Ohe
+
 Bonam
 rem
 occoeptas
@@ -4753,12 +5505,14 @@ occoeptas
 nobis
 senium
 praeripis
+
 Vt
 elabatur
 adultera
 :
 uide
 temeritas
+
 Quid
 facit
 ,
@@ -4767,6 +5521,7 @@ anxius
 liuor
 DAN
 Proscindite
+
 Inquam
 ,
 ac
@@ -4775,6 +5530,7 @@ ambos
 uincite
 ,
 stringite
+
 Loris
 .
 Cr
@@ -4788,6 +5544,7 @@ Chr
 .
 Astute
 .
+
 DAN
 .
 Quod
@@ -4797,14 +5554,18 @@ male
 aequißimus
 deus
 .
+
 Digitized
 by
 Google
+
 Cr
 .
 Sec
+
 PEVANGELISTEN
 .
+
 CR
 .
 Sed
@@ -4813,6 +5574,7 @@ Scientia
 est
 aduersum
 senes
+
 Sapere
 iuuenem
 ?
@@ -4824,6 +5586,7 @@ DAN
 .
 Ego
 ego
+
 Qualis
 qualis
 sum
@@ -4833,6 +5596,7 @@ docuero
 ,
 quam
 praepostere
+
 vobis
 cum
 aequitate
@@ -4841,39 +5605,51 @@ conueniat
 Ioach
 .
 Dij
+
 Nos
 saluos
 uelint
 .
+
 VINTVS
+
 Q
+
 ACTVS
 .
+
 DANIEL
 ,
 SVSANNA
 ,
 CRITO
 .
+
 CHRISALVS
 ,
 CARNIFICES
 ,
+
 POPVLVS
 ,
 IOACHIMVS
 ,
+
 HELCHIAS
 .
+
 
 Pagesis
 dierum
 malorum
 inuetera
+
 e
+
 te
 ,
 huc
+
 pectata
 est
 uecordia
@@ -4881,9 +5657,11 @@ tua
 ,
 ut
 qua
+
 iure
 ,
 quaque
+
 Iniuria
 traduceres
 optime
@@ -4891,10 +5669,14 @@ de
 omQ
 
 
+
+
 5
+
 nibus
 meritam
 ?
+
 Vetante
 domino
 ,
@@ -4902,12 +5684,14 @@ innocentem
 ne
 occideres
 .
+
 Quaeso
 quid
 habeat
 mundialis
 haec
 machina
+
 Ac
 seculum
 prius
@@ -4916,6 +5700,7 @@ posteriusque
 te
 monstrosius
 ?
+
 Nimirum
 ad
 posite
@@ -4924,6 +5709,7 @@ apicem
 usque
 quadrat
 ,
+
 Quod
 Hieremias
 iam
@@ -4931,13 +5717,17 @@ antea
 uaticinatus
 est
 ,
+
 EmerDigitized
+
 
 
 by
 Google
+
 SVSANNA
 PER
+
 Emersiße
 in
 Babylonem
@@ -4946,6 +5736,7 @@ scelera
 à
 senibus
 .
+
 Hodie
 in
 aedito
@@ -4956,12 +5747,14 @@ sitis
 portenta
 peßima
 .
+
 Ita
 plerunque
 soletis
 inuertere
 conscientias
 filiarum
+
 Hierusalem
 ,
 tantisper
@@ -4969,6 +5762,7 @@ dum
 metu
 ac
 auctoritate
+
 Vestra
 deuicte
 :
@@ -4977,6 +5771,7 @@ in
 rem
 uestram
 ,
+
 Verum
 ,
 dijs
@@ -4986,6 +5781,7 @@ superis
 unam
 unice
 licuit
+
 Comperire
 ,
 quae
@@ -4994,6 +5790,7 @@ quae
 uestrum
 imperium
 refelleret
+
 Vt
 ut
 prospectat
@@ -5002,6 +5799,7 @@ scelus
 Cedo
 inquam
 ,
+
 Quando
 hic
 temet
@@ -5010,6 +5808,7 @@ impuleris
 sub
 qua
 arbore
+
 Vidisti
 ?
 CR
@@ -5020,6 +5819,7 @@ miser
 utinam
 eadem
 mecum
+
 Definiat
 complex
 .
@@ -5030,6 +5830,7 @@ Taces
 Quae
 sint
 .
+
 Hic
 ueri
 uestigia
@@ -5039,6 +5840,7 @@ CR
 Indignum
 reputo
 te
+
 Cui
 respondeam
 .
@@ -5049,6 +5851,7 @@ quid
 ,
 quando
 aleorsum
+
 Nequeas
 euadere
 .
@@ -5057,6 +5860,7 @@ CR
 Illa
 sub
 cino
+
 DA
 .
 Nihil
@@ -5068,6 +5872,7 @@ pudet
 At
 uero
 alterum
+
 Proferte
 in
 medium
@@ -5077,6 +5882,7 @@ CAR
 Ades
 uicißim
 tu
+
 Orsi
 fastidium
 .
@@ -5086,6 +5892,7 @@ Ita
 ne
 tremulo
 sene
+
 Iuuat
 abuti
 ?
@@ -5096,6 +5903,7 @@ dic
 sodes
 ,
 semen
+
 Canaan
 &
 non
@@ -5106,12 +5914,14 @@ enim
 excaecauit
 te
 ,
+
 Et
 concupiscentia
 subuertit
 sensus
 tuos
 ,
+
 Sub
 qua
 arbore
@@ -5119,6 +5929,7 @@ patrata
 est
 iniquitas
 ?
+
 Chr
 .
 Quasi
@@ -5129,7 +5940,9 @@ nesciam
 sub
 ea
 nimirum
+
 3
+
 Quam
 designauit
 Crito
@@ -5139,13 +5952,17 @@ DA
 Obtundis
 ?
 designa
+
 Digitized
 by
 Google
+
 Man
+
 P
 .
 EVANGELISTEN
+
 Manifestius
 .
 Chr
@@ -5155,6 +5972,7 @@ me
 ,
 sub
 pino
+
 DA
 .
 Proh
@@ -5166,6 +5984,7 @@ fidem
 ita
 ne
 putastis
+
 Defore
 impunitatem
 ?
@@ -5174,6 +5993,7 @@ angelus
 dei
 adest
 ,
+
 Qui
 te
 desecet
@@ -5181,6 +6001,7 @@ medium
 .
 Comperta
 est
+
 Coniuratio
 ,
 perdite
@@ -5193,6 +6014,7 @@ ut
 unque
 carnifices
 .
+
 CR
 .
 Au
@@ -5204,6 +6026,7 @@ CAR
 Extremum
 dixtis
 ,
+
 Nihil
 audimus
 .
@@ -5217,8 +6040,10 @@ Hoc
 illud
 est
 .
+
 SVSANNA
 .
+
 Tibi
 gratiae
 deus
@@ -5228,6 +6053,7 @@ qui
 me
 uindi
 casti
+
 Ab
 improperio
 .
@@ -5235,6 +6061,7 @@ Ioach
 .
 Multipliciter
 .
+
 HEL
 .
 Redi
@@ -5245,6 +6072,7 @@ decus
 Snsanna
 ,
 ac
+
 Rigidos
 a
 nobis
@@ -5252,8 +6080,10 @@ metus
 deterge
 .
 
+
 CARNIFICES
 .
+
 Extra
 castella
 suis
@@ -5261,6 +6091,7 @@ locis
 plectentur
 mali
 .
+
 Spectatores
 boni
 ,
@@ -5269,6 +6100,7 @@ est
 quod
 expectetis
 .
+
 Bene
 uobis
 sit
@@ -5276,6 +6108,7 @@ cum
 Susanna
 :
 congratulemini
+
 Innocentiae
 ,
 Valete
@@ -5284,51 +6117,71 @@ Valete
 plaudite
 .
 
+
 SVSANNAE
+
 FINIS
 .
+
 *
 .
 .
 o
+
 -
 4
+
 e
 a
 e
+
 Digitized
 by
 Google
+
 ELEGIAE
+
 SEBII
 CANDIDI
+
 in
 vanam
 breuemque
+
 humanae
 vitae
 glo
+
 riolam
 .
+
 R
+
 VRhomo
 nutrificas
 corpus
 ,
 quod
+
 X
+
 uermibus
 esca
+
 Putidulum
 dabitur
 post
 tua
 fata
 ,
+
 g
+
 rogo
 ?
+
 2
+
 Stemmata
 quid
 numeras
@@ -5338,6 +6191,7 @@ genus
 à
 Ioue
 summo
+
 Et
 genus
 &
@@ -5347,12 +6201,14 @@ uermibus
 esca
 cades
 .
+
 Diuitias
 Croesi
 quid
 speras
 mille
 periclis
+
 Corporis
 &
 uitae
@@ -5361,12 +6217,14 @@ uermibus
 esca
 cades
 .
+
 Aesopi
 patinas
 quid
 sperat
 mollior
 aetas
+
 Per
 uitia
 &
@@ -5376,6 +6234,7 @@ uermibus
 esca
 cadet
 .
+
 Vermibus
 esca
 cadet
@@ -5384,6 +6243,7 @@ quicquid
 modo
 nascitur
 orbe
+
 Et
 Venus
 &
@@ -5392,6 +6252,7 @@ uermibus
 esca
 cadet
 .
+
 Et
 Solomon
 sapiens
@@ -5401,12 +6262,14 @@ quoque
 Troius
 heros
 ,
+
 Rhomuleusque
 Cato
 uermibus
 esca
 fuit
 .
+
 Caesarei
 fasces
 ,
@@ -5414,6 +6277,7 @@ fasces
 honores
 pontificales
 ,
+
 Quicquid
 id
 est
@@ -5423,12 +6287,16 @@ uermibus
 esca
 cadet
 .
+
 Digitized
 by
 Google
+
 EVSEBII
 .
+
 CARMEN
+
 Rex
 fuat
 ,
@@ -5439,6 +6307,7 @@ aut
 diademate
 fulgens
 ,
+
 Irus
 uel
 Codrus
@@ -5447,6 +6316,7 @@ uermibus
 esca
 cadet
 .
+
 Quid
 uanis
 inhias
@@ -5454,6 +6324,7 @@ igitur
 ?
 mortalia
 cuncta
+
 Mors
 abolet
 ,
@@ -5462,6 +6333,7 @@ uermibus
 esca
 cades
 .
+
 Omnia
 longa
 dies
@@ -5471,6 +6343,7 @@ quum
 uiuere
 cessas
 .
+
 Omnibus
 hic
 positis
@@ -5479,6 +6352,7 @@ uermibus
 esca
 cades
 .
+
 Nil
 igitur
 prodest
@@ -5486,6 +6360,7 @@ titulis
 tumuisse
 superbis
 .
+
 Et
 uanis
 opibus
@@ -5494,12 +6369,14 @@ uermibus
 esca
 cades
 .
+
 Vermibus
 esca
 cadetquicquid
 modo
 uescitur
 aura
+
 Quod
 pulchrum
 est
@@ -5508,6 +6385,7 @@ uermibus
 esca
 cadet
 .
+
 Sola
 manet
 uirtus
@@ -5516,6 +6394,7 @@ post
 candida
 ,
 coelos
+
 Quae
 subit
 ,
@@ -5525,6 +6404,7 @@ uermibus
 esca
 cadet
 .
+
 Sola
 manent
 benefacta
@@ -5534,6 +6414,7 @@ post
 quae
 aethera
 scandunt
+
 Et
 nunquam
 putris
@@ -5541,12 +6422,14 @@ uermibus
 esca
 cadent
 .
+
 Fac
 igiturmoneo
 uirtutem
 amplectitor
 ,
 ecce
+
 Ante
 oculos
 positus
@@ -5554,6 +6437,7 @@ uermbus
 esca
 cadens
 .
+
 Qualis
 enim
 iaceo
@@ -5565,6 +6449,7 @@ aspice
 quaeso
 uiator
 ,
+
 Sic
 tua
 transibit
@@ -5574,6 +6459,7 @@ uita
 ,
 decus
 .
+
 Hoc
 igitur
 specimen
@@ -5582,6 +6468,7 @@ bene
 cerne
 uiator
 ,
+
 Atque
 omni
 uitae
@@ -5589,57 +6476,74 @@ tempore
 disce
 mori
 .
+
 ELEGIAE
 FINIS
 .
+
 Digitized
 by
 Google
+
 D
 (
+
 DD
+
 ESAI
+
 PHICA
 EVSEBII
+
 CANDIDI
+
 in
 mortis
 recordatio
 
 
+
+
 nem
 .
+
 COrtis
 hanc
 quisquis
 speciem
 tuetur
 ,
+
 MHorrca
 luxum
 ninmtum
 ,
 &
 cauebit
+
 Perdere
 istius
 preciosa
 nimis
+
 Temepora
 uitae
 .
+
 Quid
 iuuat
 mundi
 tumui
 ße
 uana
+
 Gloria
 ,
 &
 tandem
 tumulo
 reponi
+
 Putido
 ,
 aut
@@ -5647,40 +6551,51 @@ coeli
 sine
 honore
 nigris
+
 Tradier
 umbris
 .
+
 Ergo
 fac
 dignum
 moneo
 perenni
+
 Gloria
 fructum
 ,
 uegetante
 uita
 ,
+
 Vt
 poli
 tandem
 ualeas
 potiri
+
 Sedibus
 altis
 .
+
 FINIS
 .
+
 Digitized
 by
 Google
+
 SLA
+
 LVCTIFICAE
 MORTIS
+
 AD
 MODVM
 DIALOGI
 EXTEMporaliter
+
 
 
 ab
@@ -5690,31 +6605,39 @@ lusus
 .
 Ad
 quem
+
 quique
 mortales
 inuitantur
 omnes
 ,
 cuius
+
 cuius
 sint
 conditionis
 :
 quibusque
+
 singulis
 Mors
 ipsa
+
 respondet
 .
+
 Vctificae
 mortis
 plausum
 bene
 cernite
 
+
 S
+
 cuncti
 .
+
 Dum
 res
 laeta
@@ -5725,31 +6648,41 @@ uiuentes
 discite
 
 
+
 ,
 nanque
+
 4
+
 C
+
 Omnes
 ex
 aequo
 tandem
 huc
 propera
+
 —
+
 re
 necessum
 .
+
 Hic
 inducitur
 adolescens
 quaerens
 ,
+
 &
 mors
 vel
 philosophus
+
 respondens
 .
+
 Vitaquid
 est
 hominis
@@ -5759,6 +6692,7 @@ super
 aëra
 missus
 .
+
 Vita
 quid
 est
@@ -5769,6 +6703,7 @@ mortis
 ,
 dura
 laborum
+
 Colluuies
 ,
 uita
@@ -5777,6 +6712,7 @@ hominis
 uia
 longa
 doloris
+
 Perpetui
 .
 Vita
@@ -5789,6 +6725,7 @@ cruciatus
 errorVitaquid
 
 
+
 est
 hominis
 ?
@@ -5796,6 +6733,7 @@ uestitus
 gramine
 multo
 ,
+
 Floribus
 &
 uarijs
@@ -5804,6 +6742,7 @@ campus
 quem
 parua
 pruina
+
 Expoliat
 ,
 sic
@@ -5813,6 +6752,7 @@ mors
 impia
 tollit
 .
+
 Qualibet
 illa
 alacris
@@ -5823,13 +6763,17 @@ aut
 opulentaue
 felix
 ,
+
 Icta
+
 Digitized
 by
 Google
+
 CARMEN
 EVSEBII
 .
+
 Icta
 eadet
 modica
@@ -5837,6 +6781,7 @@ crede
 aegritudine
 mottis
 .
+
 Et
 quamuis
 su
@@ -5846,6 +6791,7 @@ uel
 murice
 Croesum
 ,
+
 Longaeuum
 aut
 annis
@@ -5853,6 +6799,7 @@ uiuendo
 Nestora
 uincas
 ,
+
 Omnia
 mors
 aequat
@@ -5863,8 +6810,10 @@ ultima
 mors
 est
 .
+
 Imperator
 .
+
 Quid
 fers
 ?
@@ -5874,6 +6823,7 @@ ego
 &
 moderamina
 rerum
+
 Gesto
 manu
 .
@@ -5882,9 +6832,11 @@ mors
 impia
 sceptra
 potentum
+
 Rex
 Rhomanus
 .
+
 Quid
 fers
 ?
@@ -5896,7 +6848,9 @@ rex
 Mors
 manet
 omnes
+
 PAPA
+
 En
 ego
 pontificum
@@ -5905,6 +6859,7 @@ primus
 signansque
 refiguans
 .
+
 Et
 coelos
 orcique
@@ -5915,8 +6870,10 @@ te
 manet
 ergo
 .
+
 Cardinalis
 .
+
 Cardineo
 fulgens
 ego
@@ -5925,6 +6882,7 @@ honcre
 &
 episcopus
 ecce
+
 Mors
 manet
 ecce
@@ -5935,7 +6893,9 @@ quos
 pilleus
 ornat
 .
+
 Episcopus
+
 Insula
 splendidior
 uestit
@@ -5944,6 +6904,7 @@ tem
 pora
 ,
 latum
+
 poßideo
 imperium
 ,
@@ -5952,6 +6913,7 @@ mea
 iura
 tremiscunt
 .
+
 Me
 ditant
 fraudis
@@ -5960,6 +6922,7 @@ docti
 producere
 lites
 .
+
 Experti
 ,
 aucupium
@@ -5968,6 +6931,7 @@ nummorum
 ,
 &
 auerni
+
 Causidici
 ,
 rixatores
@@ -5975,6 +6939,7 @@ rixatores
 rabulaeque
 forenses
 .
+
 Hos
 ego
 respicio
@@ -5983,21 +6948,29 @@ nihil
 attendens
 animarum
 .
+
 —
+
 —
+
 esiae
+
 Ecci
+
 Digitized
 by
 Google
+
 CARMEN
 EVSEBII
+
 Beclesiae
 mihi
 commissae
 populiue
 salutem
 .
+
 Sed
 satis
 est
@@ -6005,6 +6978,7 @@ duros
 loculo
 infarcisse
 labores
+
 Agricolum
 ,
 &
@@ -6013,6 +6987,7 @@ placuisse
 heroibus
 orbis
 .
+
 Non
 tamen
 effugies
@@ -6021,22 +6996,28 @@ mala
 spicula
 durae
 .
+
 Ecclesiae
 praelatus
 .
+
 Ecclesiae
 praelatus
 ego
 multis
 uenerandus
+
 5
+
 Muncribus
 sacris
 ,
 prouentibus
 officiorum
 .
+
 A
+
 Comptior
 est
 uestis
@@ -6044,7 +7025,9 @@ uestis
 poppina
 frequentior
 aede
+
 4
+
 Sacra
 ,
 &
@@ -6053,6 +7036,7 @@ cantus
 mihi
 rarior
 ipso
+
 Talorum
 crepitu
 ,
@@ -6061,6 +7045,7 @@ quoque
 uoce
 sonora
 .
+
 Morte
 cades
 ,
@@ -6070,7 +7055,9 @@ ubi
 uiuere
 plures
 .
+
 Canonicus
+
 En
 ego
 melotam
@@ -6080,7 +7067,9 @@ Mors
 saeua
 propinquat
 .
+
 Pastor
+
 En
 parochus
 quoque
@@ -6090,6 +7079,7 @@ ego
 mihi
 dulce
 falernum
+
 Notius
 aede
 sacra
@@ -6098,6 +7088,7 @@ scortum
 mihi
 charius
 ipsa
+
 Est
 animae
 cura
@@ -6108,7 +7099,9 @@ te
 manet
 ergo
 .
+
 JAbbas
+
 En
 abbas
 uenio
@@ -6118,6 +7111,7 @@ quoque
 uentris
 amicus
 .
+
 Coenobij
 rara
 est
@@ -6126,6 +7120,7 @@ cura
 ,
 frequentior
 aula
+
 Magnorum
 heroum
 .
@@ -6133,8 +7128,10 @@ Chorea
 saltabis
 eadem
 .
+
 ¶
 Prior
+
 En
 prior
 ,
@@ -6144,6 +7141,7 @@ longa
 splendente
 cuculla
 ,
+
 Falce
 cades
 mortis
@@ -6153,12 +7151,16 @@ aufert
 nomina
 honoris
 .
+
 TPater
 vestalium
 Google
+
 —
+
 CARMEN
 EVSEBII
+
 Nympharum
 pater
 ecce
@@ -6167,6 +7169,7 @@ sum
 uentrosior
 ,
 offis
+
 Pinguibus
 emacerans
 corpus
@@ -6176,8 +7179,10 @@ te
 manet
 ipsa
 .
+
 Vestalis
 nympha
+
 En
 monialis
 ego
@@ -6186,6 +7191,7 @@ Vestae
 scruire
 parata
 .
+
 Non
 te
 Vesta
@@ -6194,13 +7200,16 @@ mortis
 subducere
 castris
 .
+
 I
 Legatus
+
 Legatus
 uenio
 culparum
 uincla
 resoluens
+
 Omnia
 pro
 auro
@@ -6211,6 +7220,7 @@ uendo
 ,
 infera
 claudo
+
 Et
 quicquid
 patres
@@ -6218,6 +7228,7 @@ sanxerunt
 ,
 munere
 soluo
+
 Iuribus
 à
 mortis
@@ -6226,8 +7237,10 @@ te
 legatio
 soluet
 .
+
 Dominus
 doctor
+
 Quid
 fers
 ?
@@ -6237,6 +7250,7 @@ sophus
 diuina
 humanaque
 iura
+
 Calleo
 ,
 &
@@ -6246,6 +7260,7 @@ doctor
 Rabbique
 salutor
 .
+
 Te
 manet
 expectans
@@ -6254,7 +7269,9 @@ ultima
 linea
 rerum
 .
+
 Medicus
+
 En
 ego
 sum
@@ -6264,11 +7281,13 @@ uitam
 producere
 gnarus
 ,
+
 Venis
 Iustratis
 morborum
 nomina
 dicoNon
+
 
 
 poteris
@@ -6277,7 +7296,9 @@ mortis
 uitare
 sagittas
 .
+
 Astronomus
+
 En
 ego
 stellarum
@@ -6286,6 +7307,7 @@ motus
 sydera
 noui
 ,
+
 Et
 fati
 genus
@@ -6294,6 +7316,7 @@ scio
 praedicere
 coeli
 .
+
 Non
 potis
 es
@@ -6303,8 +7326,10 @@ praescire
 sagittas
 .
 
+
 Curtisanus
 .
+
 En
 me
 Rhoma
@@ -6312,23 +7337,30 @@ potens
 multis
 suffarsit
 onustum
+
 Muneribus
 sacris
 ,
 prouentibus
 ,
 officijsque
+
 —
 —
+
 –
 4
+
 Digitized
 by
 Googl
+
 it
+
 CARMEN
 EVSEBII
 .
+
 Non
 potes
 his
@@ -6337,13 +7369,16 @@ fugiens
 euadere
 tela
 ,
+
 Aduocatus
+
 Causarum
 patronus
 ego
 ,
 producere
 doctus
+
 Lites
 ,
 &
@@ -6352,6 +7387,7 @@ lingua
 uacuare
 loquaci
 .
+
 Non
 te
 lingua
@@ -6361,7 +7397,9 @@ subducet
 ab
 ictu
 .
+
 Iudex
+
 Iustitiae
 iudex
 quia
@@ -6371,6 +7409,7 @@ sub
 plete
 salutor
 .
+
 Vertice
 me
 nudo
@@ -6378,12 +7417,14 @@ populus
 ueneratur
 adorans
 .
+
 Auri
 sacra
 fames
 peruertere
 saepo
 coegit
+
 Iustitiam
 .
 Mors
@@ -6393,7 +7434,9 @@ aequans
 omnia
 falce
 .
+
 Praetor
+
 Praetor
 ego
 populi
@@ -6404,10 +7447,12 @@ nemo
 quid
 audet
 .
+
 -
 -
 -
 4
+
 Accensor
 causis
 ,
@@ -6417,6 +7462,7 @@ stant
 omnia
 ,
 nanque
+
 Et
 dono
 &
@@ -6427,6 +7473,7 @@ cum
 rebus
 honorem
 .
+
 Munere
 conspecto
 ,
@@ -6436,6 +7483,7 @@ est
 iure
 triumphat
 .
+
 Emitto
 coruos
 ,
@@ -6443,6 +7491,7 @@ censura
 damno
 columbas
 .
+
 Hinc
 metuendus
 ero
@@ -6450,6 +7499,7 @@ superis
 ereboque
 profundo
 .
+
 Te
 manet
 expectans
@@ -6457,7 +7507,9 @@ Ercbus
 Plutoque
 cruentus
 .
+
 Consul
+
 Polleo
 consilijs
 ,
@@ -6465,6 +7517,7 @@ Consul
 dicorque
 salutor
 .
+
 Munere
 conspecto
 ,
@@ -6473,6 +7526,7 @@ iniquum
 est
 consulo
 rectum
+
 Quod
 rectum
 est
@@ -6483,6 +7537,7 @@ est
 quod
 nesciat
 aur
+
 Sacra
 fames
 ,
@@ -6493,6 +7548,7 @@ undique
 fio
 opulentus
 .
+
 Sed
 eris
 aeternum
@@ -6502,17 +7558,24 @@ mors
 impia
 tollet
 .
+
 Causidicus
+
 Digitized
 by
 Gog
+
 4
+
 Cau
+
 135
 .
+
 CARMEN
 EVSEBII
 .
+
 Causidieus
 ego
 sum
@@ -6521,6 +7584,7 @@ causas
 narrare
 peritus
 .
+
 Accior
 in
 causas
@@ -6530,6 +7594,7 @@ spes
 ubi
 fulserit
 auri
+
 Ad
 fraudes
 docta
@@ -6538,6 +7603,7 @@ utor
 bene
 lingua
 .
+
 Muto
 ,
 commuto
@@ -6547,6 +7613,7 @@ inflecto
 atque
 reflecto
 .
+
 Et
 nihil
 est
@@ -6556,6 +7623,7 @@ astu
 peruincere
 poßim
 .
+
 Mors
 aequa
 expectat
@@ -6564,6 +7632,7 @@ te
 fulmine
 diro
 .
+
 Nec
 poteris
 aflu
@@ -6571,7 +7640,9 @@ mortis
 praeuertere
 tela
 .
+
 Scabinus
+
 Ecce
 Scabinus
 ego
@@ -6582,6 +7653,7 @@ bursas
 prorogo
 causas
 .
+
 Senatorque
 uocor
 ,
@@ -6590,6 +7662,7 @@ me
 poplite
 curuo
 ,
+
 Muneribusque
 datis
 ueneratur
@@ -6597,6 +7670,7 @@ ueneratur
 fronte
 retecta
 .
+
 Nil
 mortem
 meditor
@@ -6604,6 +7678,7 @@ loculos
 quando
 impleo
 nummis
+
 Et
 dito
 haeredes
@@ -6614,6 +7689,7 @@ ui
 fraude
 receptis
 ,
+
 Iustitiam
 nummis
 ,
@@ -6624,6 +7700,7 @@ munere
 ,
 uendo
 ,
+
 Quod
 rectum
 est
@@ -6634,6 +7711,7 @@ curuum
 est
 munere
 rectum
+
 Efficio
 ,
 per
@@ -6643,6 +7721,7 @@ stant
 omnia
 iura
 .
+
 Non
 poteris
 durae
@@ -6650,7 +7729,9 @@ mortis
 transire
 sagittas
 .
+
 Ludimagister
+
 En
 ego
 peruigili
@@ -6658,6 +7739,7 @@ cura
 externoque
 labore
 ,
+
 Excolui
 iuuenum
 ingenia
@@ -6665,6 +7747,7 @@ ingenia
 &
 praecepta
 Mineruae
+
 Tradens
 consenui
 ,
@@ -6673,6 +7756,7 @@ piget
 sine
 fructu
 .
+
 Quid
 dabitur
 fructus
@@ -6682,6 +7766,7 @@ quae
 dona
 laboris
 .
+
 Omnia
 mors
 aequans
@@ -6691,23 +7776,29 @@ ultima
 meta
 laboris
 .
+
 Miles
 auratus
+
 *
 -
 4
+
 —
 -
 -
 -
 -
 —
+
 Digitized
 by
 Google
+
 CARMEN
 EVSEBIT
 .
+
 Miles
 ego
 auratus
@@ -6716,6 +7807,7 @@ fulgenti
 murice
 &
 auro
+
 Splendidus
 in
 populo
@@ -6726,10 +7818,12 @@ manet
 omnia
 perdens
 .
+
 ¶
 Miles
 armatus
 .
+
 Miles
 ego
 armatus
@@ -6739,6 +7833,7 @@ bella
 ferocia
 geßi
 .
+
 Nullius
 occursum
 expaui
@@ -6748,6 +7843,7 @@ durus
 &
 audax
 .
+
 Ergo
 immunis
 ero
@@ -6758,9 +7854,11 @@ intrepida
 ipsa
 necabit
 .
+
 ¶
 Mercator
 .
+
 En
 ego
 mercator
@@ -6769,6 +7867,7 @@ diues
 maria
 omnia
 lustro
+
 Et
 terras
 ,
@@ -6781,9 +7880,12 @@ te
 metet
 ipsa
 .
+
 1
+
 C
 Fuckardus
+
 En
 ego
 fuckardus
@@ -6793,6 +7895,7 @@ gesto
 aeris
 onustos
 ,
+
 Omnia
 per
 mundum
@@ -6802,6 +7905,7 @@ uendo
 atque
 reuendo
 .
+
 Heroës
 me
 sollicitant
@@ -6810,6 +7914,7 @@ atque
 aera
 requirunt
 .
+
 Haud
 est
 me
@@ -6819,6 +7924,7 @@ modo
 ditior
 orbe
 .
+
 Mortis
 ego
 iura
@@ -6828,6 +7934,7 @@ nihil
 ergo
 tremisco
 .
+
 Morte
 cades
 ,
@@ -6837,7 +7944,9 @@ rebus
 spoliabit
 opimis
 .
+
 TQuaestor
+
 Quaestor
 ego
 ,
@@ -6845,6 +7954,7 @@ loculos
 fuffersi
 arcasque
 capaces
+
 Est
 mihi
 praenitidis
@@ -6852,6 +7962,7 @@ fundata
 pecunia
 uillis
 .
+
 Hac
 diues
 redimam
@@ -6859,6 +7970,7 @@ durae
 discrimina
 mortis
 .
+
 Te
 mors
 praeripiet
@@ -6866,7 +7978,9 @@ nullo
 exorabilis
 auro
 .
+
 Nauclerus
+
 En
 ego
 nauclerus
@@ -6875,6 +7989,7 @@ per
 aequora
 uectus
 ,
+
 Non
 timui
 maris
@@ -6883,6 +7998,7 @@ uenti
 discrimina
 mille
 .
+
 Cymba
 tamen
 mortis
@@ -6891,6 +8007,7 @@ te
 quaeque
 uorantis
 .
+
 -
 -
 -
@@ -6898,21 +8015,28 @@ uorantis
 -
 -
 a
+
 *
 —
 —
 —
 -
+
 Ized
 bi
+
 —
 -
 .
+
 .
 lij
 .
+
 CARMEN
 LVSEBIAAgricola
+
+
 
 
 Agricola
@@ -6924,6 +8048,7 @@ praeduro
 saepe
 labore
 ,
+
 Et
 uigili
 exhaustus
@@ -6932,6 +8057,7 @@ cura
 sudore
 perenni
 ,
+
 Victam
 pertenuem
 quaerens
@@ -6939,6 +8065,7 @@ quaerens
 sine
 fraude
 doloque
+
 Omnia
 pertentans
 ,
@@ -6946,6 +8073,7 @@ miseram
 ut
 traducere
 poßim
+
 vitam
 ,
 nec
@@ -6955,6 +8083,7 @@ est
 infelicior
 alter
 .
+
 Mors
 tamen
 eduri
@@ -6963,7 +8092,9 @@ tibi
 meta
 laboris
 .
+
 Orator
+
 Heroum
 interpres
 uenio
@@ -6971,6 +8102,7 @@ uenio
 fraudique
 peritus
 .
+
 Bellorum
 strepitus
 compono
@@ -6979,6 +8111,7 @@ compono
 bella
 reduco
 ,
+
 Meque
 petunt
 reges
@@ -6987,6 +8120,7 @@ populus
 miratur
 adcrans
 .
+
 Nulla
 abiget
 fraudi
@@ -6994,8 +8128,10 @@ linguaeue
 peritia
 mortem
 .
+
 Princeps
 belli
+
 Fulmen
 ego
 belli
@@ -7005,6 +8141,7 @@ reges
 regna
 subegi
 .
+
 victor
 ego
 ex
@@ -7012,6 +8149,7 @@ omni
 praeduro
 quamlibet
 ecce
+
 Marte
 fui
 ,
@@ -7021,6 +8159,7 @@ timeo
 discrimina
 nulla
 .
+
 Te
 mors
 confodiet
@@ -7028,6 +8167,7 @@ cauda
 trigonis
 aquosi
 .
+
 Atque
 eris
 exanimis
@@ -7037,8 +8177,10 @@ ictu
 homo
 bullae
 .
+
 Diues
 .
+
 Sum
 rerum
 felix
@@ -7049,6 +8191,7 @@ prolis
 &
 uxor
 ,
+
 Plena
 domus
 laetum
@@ -7057,6 +8200,7 @@ pecus
 &
 cellaria
 plena
+
 Nil
 igitur
 metuo
@@ -7069,8 +8213,10 @@ te
 impia
 tollet
 .
+
 Pauper
 .
+
 Iro
 ego
 pauperior
@@ -7079,6 +8225,7 @@ Codroque
 tenuior
 omni
 ,
+
 Despicior
 cunctis
 ,
@@ -7089,12 +8236,16 @@ subleuit
 heu
 hes
 .
+
 Digitized
 by
+
 ine
+
 CARMEN
 EVSEBII
 .
+
 Hinc
 parcet
 ueniens
@@ -7106,6 +8257,7 @@ auferet
 à
 me
 .
+
 Non
 sic
 euades
@@ -7115,7 +8267,9 @@ cum
 paupere
 tollit
 .
+
 Foenerator
+
 Vt
 loculi
 intumeant
@@ -7126,6 +8280,7 @@ fraude
 ,
 doloque
 ,
+
 Foenore
 nunc
 quaestum
@@ -7134,6 +8289,7 @@ facio
 furtoque
 rapinaque
 ,
+
 Vt
 proles
 ditem
@@ -7142,6 +8298,7 @@ paßim
 dicarque
 beatus
 ,
+
 Per
 fas
 perque
@@ -7150,6 +8307,7 @@ corradens
 omnia
 quaero
 .
+
 Mors
 ueniens
 furtim
@@ -7158,8 +8316,10 @@ praedabitur
 omnia
 tollens
 .
+
 Adolescens
 .
+
 Sum
 iuuenis
 ,
@@ -7168,6 +8328,7 @@ spectabilis
 ,
 indole
 gaudens
+
 Maturusque
 aeui
 ,
@@ -7175,6 +8336,7 @@ nullus
 praestantior
 alter
 ,
+
 Moribus
 egregijs
 populo
@@ -7182,6 +8344,7 @@ laudatus
 ab
 omni
 .
+
 Pallida
 ,
 difformis
@@ -7190,13 +8353,16 @@ auferet
 omnia
 raptim
 .
+
 Puella
+
 Ecce
 puellarum
 pulcherrima
 ,
 mortis
 iniquae
+
 Spicula
 nil
 meditor
@@ -7206,6 +8372,7 @@ iuuenilibus
 fruor
 annis
 ,
+
 Meque
 proci
 expectant
@@ -7214,6 +8381,7 @@ compti
 facieque
 uenusti
 .
+
 Stulta
 ,
 quid
@@ -7225,6 +8393,7 @@ lactas
 Mors
 metet
 omnes
+
 Difformes
 ,
 pulchrosque
@@ -7233,7 +8402,9 @@ cum
 paupere
 dites
 .
+
 Nuncius
+
 Nuncius
 ecce
 ego
@@ -7244,6 +8415,7 @@ nuncia
 perfero
 pernix
 .
+
 Sed
 retrospectans
 post
@@ -7253,6 +8425,7 @@ pape
 audio
 quidnam
 ?
+
 Me
 tuba
 terrificans
@@ -7262,38 +8435,48 @@ uocat
 Heu
 moriendum
 est
+
 PERORATIO
 .
+
 Mortales
 igitur
 memores
 modo
 uiuite
 laeti
+
 -
 -
 —
+
 4
 .
+
 –
+
 Dingutized
 by
 GI
+
 CARMEN
 EVSEBII
 .
+
 Instar
 uenturi
 furis
 ,
 discrimine
 nullo
+
 Cunctos
 rapturi
 paßim
 ditesque
 inopesque
 .
+
 Stultus
 &
 insipiens
@@ -7303,6 +8486,7 @@ sperat
 in
 ista
 ,
+
 Instar
 quae
 fumi
@@ -7313,6 +8497,7 @@ cito
 desinit
 esse
 .
+
 Fac
 igitur
 tota
@@ -7320,6 +8505,7 @@ uirtuti
 incumbito
 mente
 ,
+
 Quae
 nescit
 mortem
@@ -7330,6 +8516,7 @@ ad
 ardua
 coeli
 .
+
 Quo
 nos
 à
@@ -7340,19 +8527,25 @@ luppiter
 .
 Amen
 .
+
 Plaudite
 nunc
 ,
 animum
 cuncti
+
 retinete
 fauentes
 .
+
 FINIS
 .
+
 ANTVERPIAE
+
 MARTINVS
 CAESAR
+
 excudebat
 An
 .
@@ -7362,25 +8555,34 @@ D
 .
 XXXIIII
 .
+
 Mensis
 Decembris
 die
 sexto
 .
+
 Digitized
 by
 Googll
 
+
 22
 
+
 1
+
 Digitized
 by
 Google
+
 Digitized
 by
 Google
+
 –
+
 VXle
 -
 CrHSPPEMVIT
+

@@ -5,33 +5,44 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:35:13Z
+@dateWritten=2023-12-13T13:03:16Z
 
 IVSTVM
 DEI
 IVDICIVM
+
 JIN
 REBELLES
 PARENTIBVS
 FILIOS
 ;
+
 IN
+
 IARBA
+
 PERSARVM
 REGIS
 FILIO
+
 IN
 SCENAM
 DABITVR
+
 A
+
 Studiosa
 luuentute
 Gymnasij
+
 SOCIETATIS
 IESV
+
 5
+
 MECHLINIAE
 .
+
 Die
 11
 .
@@ -41,10 +52,12 @@ Die
 Septembris
 1656
 .
+
 ηνυ
 ψαν
 υδ
 βγί
+
 sacat
 .
 St
@@ -53,19 +66,26 @@ hal
 W
 K
 )
+
 N75
 CG
+
 erv
+
 PERILLVSTRI
 AC
 GENEROSO
+
 DOMINO
+
 D
 .
 PHILIPPO
 DANEELS
+
 EQUITI
 AVRATO
+
 Vice
 -
 comiti
@@ -76,6 +96,7 @@ Dormal
 Toparchae
 
 
+
 de
 Attenrode
 ,
@@ -84,32 +105,42 @@ Weuer
 Superioris
 
 
+
 &
 Inferioris
 Dormal
+
 Hautem
 &
 c
 .
+
 SVMMO
 PRAETORI
+
 CIVITATIS
 AC
 PROVINCIAE
 MECHLINIENSIS
+
 VIGILANTISSIMO
+
 MAECENATISVO
+
 MVNIFICENTISSIMO
 .
 
+
 ARGVMENTVM
 .
+
 Xorto
 Turcarum
 inter
 ,
 &
 Persarum
+
 LReges
 bello
 ,
@@ -117,6 +148,7 @@ hic
 copijs
 suis
 Zanielem
+
 filium
 luniorem
 praeficit
@@ -124,18 +156,21 @@ praeficit
 Iarba
 natu
 maiore
+
 bb
 affectatum
 Regnum
 excluso
 qui
 inuidia
+
 stimulante
 ad
 Turcas
 transfugit
 à
 quibus
+
 exercitui
 in
 Persas
@@ -143,6 +178,7 @@ ituro
 praeficitur
 .
 Zaniellem
+
 
 
 deinde
@@ -154,12 +190,14 @@ manu
 initerimit
 
 
+
 .
 Quo
 nuntio
 ad
 Persarum
 Regem
+
 delato
 ,
 astu
@@ -168,6 +206,7 @@ ad
 patriam
 &
 regnum
+
 dinuitatus
 Iarbas
 iam
@@ -175,6 +214,7 @@ iam
 vt
 putabat
 coroinandus
+
 
 
 ,
@@ -185,6 +225,7 @@ quem
 mortuum
 credebat
 ,
+
 ssuperueniente
 ,
 evulsis
@@ -194,14 +235,18 @@ praecisa
 manu
 
 
+
 ad
 perpetuum
 carcerem
 damnatur
 .
+
 PROLOGVS
 .
+
 5
+
 QVm
 pro
 Regiae
@@ -209,6 +254,7 @@ domus
 concordia
 Deos
 Amicitiae
+
 OPraesides
 in
 vota
@@ -218,6 +264,7 @@ Persis
 Ambitio
 larbae
 genio
+
 patris
 voluntatibus
 reluctanti
@@ -225,6 +272,7 @@ laeta
 initia
 :
 superveniens
+
 Pstitia
 Divina
 infaustum
@@ -232,14 +280,19 @@ exitum
 praedicitACTVS
 
 
+
+
 TI
 .
+
 ACTVS
 PRIMVS
 .
+
 SCENA
 PRIMA
 .
+
 Opijs
 suis
 ituris
@@ -249,6 +302,7 @@ Turcam
 qui
 bellum
 indixerat
+
 ob
 confaederatum
 principem
@@ -256,6 +310,7 @@ non
 redditum
 )
 praeficit
+
 Pfeganes
 Persarum
 Rex
@@ -264,6 +319,7 @@ natu
 minorem
 Zanielem
 ,
+
 spreto
 ob
 affectatum
@@ -272,9 +328,11 @@ maiore
 natu
 Iarba
 .
+
 SCENA
 SECVNDA
 .
+
 Hic
 invidiâ
 in
@@ -284,6 +342,7 @@ de
 nobilium
 consilio
 ad
+
 Turcas
 transfugere
 statuit
@@ -292,11 +351,14 @@ nobiles
 cum
 milite
 secuturos
+
 se
 pollicentur
 .
+
 INTERLVDIVM
 .
+
 Inuidis
 bene
 esse
@@ -308,9 +370,11 @@ alijs
 sit
 malè
 .
+
 SCENA
 TERTIA
 .
+
 Laebas
 vatem
 consulens
@@ -320,13 +384,17 @@ fata
 sua
 edocetur
 .
+
 ACTVS
+
 ACTVS
 SECVNDVS
 .
+
 SCENA
 PRIMA
 .
+
 Vm
 à
 legato
@@ -335,6 +403,7 @@ responsum
 Regis
 Persarum
 accipit
+
 DTurcarum
 Imperator
 ,
@@ -342,6 +411,7 @@ Imperator
 suis
 fidelitatis
 iuramentum
+
 exigit
 :
 cui
@@ -353,6 +423,7 @@ excipitur
 copijsque
 
 
+
 in
 Patrem
 collectis
@@ -360,9 +431,11 @@ ab
 eo
 praeficitur
 .
+
 SCENA
 SECVNDA
 .
+
 Interea
 ,
 dum
@@ -374,6 +447,7 @@ praeluditur
 adsunt
 
 
+
 cum
 copijs
 auxiliaribus
@@ -382,16 +456,20 @@ Persae
 ,
 qui
 magno
+
 gaudio
 excepti
 junctis
 viribus
 ad
 bellum
+
 pergunt
 .
+
 INTERLVDIVM
 .
+
 Insano
 Domino
 inseruire
@@ -399,9 +477,11 @@ inseruire
 insania
 est
 .
+
 SCENA
 TERTIA
 .
+
 Iarbas
 fratrem
 Zanielem
@@ -412,6 +492,7 @@ captum
 interimit
 
 
+
 :
 inter
 haec
@@ -420,19 +501,25 @@ Nemesis
 laetis
 initijs
 infaustum
+
 exitum
 praedicit
 .
+
 ACTVS
+
 X
 M
 .
+
 ACTVS
 TERTIVS
 .
+
 SCENA
 PRIMA
 .
+
 (
 T
 Seganes
@@ -446,6 +533,7 @@ filij
 sucVcessu
 
 
+
 ,
 intellecta
 suorum
@@ -457,6 +545,7 @@ nece
 ,
 vt
 astu
+
 quodam
 de
 Iarbe
@@ -468,6 +557,7 @@ suam
 proclamari
 
 
+
 ,
 &
 exequias
@@ -477,6 +567,7 @@ celebrari
 iubet
 :
 tum
+
 rebellem
 filium
 per
@@ -486,8 +577,10 @@ regnum
 inuitari
 mandat
 .
+
 INTERLVDIVM
 .
+
 Quid
 quisque
 vitet
@@ -496,6 +589,7 @@ homini
 satis
 cautum
 est
+
 In
 horas
 .
@@ -509,18 +603,22 @@ od
 .
 12
 .
+
 SCENA
 SECVNDA
 .
+
 Regis
 Exequiae
 persico
 ritu
 celebrantur
 .
+
 SCENA
 TERTIA
 .
+
 Iarbas
 in
 patriam
@@ -531,6 +629,7 @@ Ordinum
 applausu
 
 
+
 solium
 Patris
 conscendit
@@ -538,6 +637,7 @@ Rex
 inaugurandus
 :
 hic
+
 ex
 improuiso
 prodit
@@ -550,6 +650,7 @@ primum
 oculis
 
 
+
 ac
 praecisâ
 manu
@@ -558,10 +659,14 @@ dein
 mancipat
 vinculis
 .
+
 EPILOGVS
+
 n
+
 EPILOGVS
 .
+
 "
 Ivina
 Iustitia
@@ -571,24 +676,29 @@ oculos
 manum
 rebellibus
 filijs
+
 in
 exemplum
 spectandam
 proponit
 .
+
 Ad
 Majorem
 Dei
 Gloriam
 .
+
 MECHLINIAE
 .
+
 Typis
 ROBERTIJAYE
 ,
 Typographi
 Jurati
 .
+
 emmengnm
 punem
 me
@@ -603,17 +713,25 @@ mXIXIc
 
 
 
+
+
+
 5
+
 
 SgSasu
 
 
+
 .
+
 ETA
 
 
 
+
 )
+
 niP
 t
 -
@@ -623,21 +741,29 @@ t
 -
 -
 ai
+
 (
 I
+
 er
 -
 I
 -
 -
 -
+
 JLA
+
 p
+
 I
 .
+
 5
 .
+
 a
+
 
 ctcsddopesiopesiSim
 
@@ -646,10 +772,18 @@ ctcsddopesiopesiSim
 
 
 
+
+
+
 .
 
+
+
 4
+
 t4*
+
+
 
 
 
@@ -659,11 +793,16 @@ n
 .
 
 
+
 e¬4
 
 
 
+
+
+
 —
+
 
 
 

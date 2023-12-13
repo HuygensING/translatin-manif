@@ -5,30 +5,38 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:35:13Z
+@dateWritten=2023-12-13T13:03:16Z
 
 COMOEDIAE
 PARS
 III
 .
+
 ACTUS
 IV
 .
+
 DrQ4
+
+
 
 
 acee
 ee
 .
+
 cCOMOEDIAE
+
 
 
 PARS
 IVACTUS
 
 
+
 V
 .
+
 Ontes
 Viin
 hpgsa
@@ -37,6 +45,7 @@ acrter
 peii
 peiu
 e
+
 nemm
 mepena
 num
@@ -45,7 +54,9 @@ lenm
 Snc
 tum
 rcme
+
 C
+
 tuus
 pnieis
 enima
@@ -53,6 +64,7 @@ nc
 easims
 nnas
 hadolet
+
 
 
 Acuios
@@ -64,6 +76,7 @@ acnionis
 Filursed
 .
 derecto
+
 
 
 mux
@@ -78,6 +91,7 @@ cum
 Fibe
 
 
+
 es
 perclim
 enm
@@ -90,6 +104,7 @@ nc
 nsaDe
 
 
+
 nanem
 peae
 sa
@@ -97,45 +112,63 @@ lnlas
 eAD
 
 
+
 MAJOREM
+
 DEI
+
 GLORIAM
 .
+
 ADAMET
 EVA
+
 TRAGOE
 DIA
+
 OBILISSIMIS
+
 AMELISSIMISQUE
 DOMINIS
 .
+
 PRAESIDI
 ,
+
 CONSILIARIIS
 AC
 MAGISTRIS
+
 ASSLSSORIBUSQUA
+
 Camerae
 Caesarearum
 ac
 Regiarum
 Rationum
+
 BRABANTIAE
 .
+
 LIMBURGI
 ,
 LUXEMBURGI
 ,
 GELDRIAEQUE
+
 Munificeptissimis
 Larerarum
 Mlorcenatibus
+
 EXHIBEBITUA
+
 ASTUDIOSA
 JUVENTUTE
+
 GYMNASII
 SOCIETATIS
 JESV
+
 Bruxellis
 9
 .
@@ -144,10 +177,13 @@ M
 .
 DCCXVIII
 .
+
 Ludis
 Autumnalibus
 .
+
 c
+
 bged
 buxoninus
 CLUNDIROR
@@ -155,42 +191,59 @@ CLUNDIROR
 Citubs
 Emebum
 .
+
 JVERSONAE
 .
+
 oEUS
+
 sanem
 ce
 Menanius
 
 
+
+
 era
+
 tents
 hercemmectes
+
 
 
 cndis
 th
 .
+
 Lucirem
+
 tem
 petimsvaram
 
 
+
+
 mprrm
+
 brepes
 ea
 pnesbetem
+
 
 
 nae
 nentsunotlio
 
 
+
+
 cernorinems
+
 
 
 ae
 pnCentas
+
 
 
 e
@@ -199,29 +252,41 @@ tenhteiecuiiecui1ec1o
 
 
 
+
+
+
 ntarris
+
 meensem
 de
 nndhuneus
 
 
+
 suganta
 nnnbea
+
 amione
+
 MELANURGUS
+
 sum
 neguse
 deareas
 
 
+
 Begras
 .
+
 TORBA
 DAMONUM
 .
+
 COMOE
 DIA
 .
+
 Averus
 quidam
 (
@@ -230,6 +295,7 @@ l
 ablato
 a
 Predonibus
+
 Per
 simuudem
 ihesauro
@@ -237,68 +303,98 @@ ihesauro
 aragtetam
 detestatur
 .
+
 PERSO
 .
 A
 .
+
 maros
+
 prtustepmm
+
 
 
 petsenes
 
 
+
 bnstetHEGIO
+
 
 
 Eucllum
 eibus
+
 cresiio
 e
 phiSanbnas
 
 
+
 Andtmeanhus
 
 
+
 Chun
+
 psonio
+
 GRUNMO
+
 iae
 nets
 bl
+
 pantus
 Cafentaptiana
 
 
+
+
 pautun
+
 hpns
 hemtnnus
+
 
 
 pnsaNnno
 
 
+
+
 groupnax
+
 cte
 ne
 cmniimdhmntem
 
 
+
 nnnbebd
 
+
 pre
+
 urtii
 .
+
 ens
 hns
+
 penas
 niten
+
 CURCULIO
+
 panaun
+
 22
+
 erebeus
 to
+
 pernes
 i
 neberiberiDORUS
@@ -306,50 +402,71 @@ neberiberiDORUS
 
 
 
+
+
+
 navm
+
 tome
 l
 cnepumm
+
 
 
 d
 hestauernoontscam
 
 
+
 papeonunm
+
+
 
 
 pusantes
 cut
+
 nesum
 Ceaouaro
 
 
+
+
 co14
+
 pui
+
 omo
 nis
 Cemuli
+
 sunm
 teusta
 Destm1
 
 
+
+
 ttane
 ax
+
 cara
+
 pem
 e
 ccene
+
 
 
 la
 naACTUS
 
 
+
 .
 I
 .
+
 QUm
 Adam
 &
@@ -359,6 +476,7 @@ Reges
 ,
 &
 divinis
+
 justitiae
 donis
 ornati
@@ -366,6 +484,7 @@ Paradisum
 mirantur
 ,
 adest
+
 DEUS
 :
 utrique
@@ -377,6 +496,7 @@ boni
 maliinterdicit
 
 
+
 :
 iis
 posterisque
@@ -384,6 +504,7 @@ miserias
 &
 mortem
 minatur
+
 
 
 ,
@@ -396,15 +517,19 @@ pareant
 ,
 Angelorum
 lapsorum
+
 pollicetur
 sedes
 .
+
 COMOE
 DIAE
 PnACTUS
 
 
+
 II
+
 [
 Veifer
 suam
@@ -415,6 +540,7 @@ jam
 destinatam
 
 
+
 videns
 ,
 totus
@@ -423,6 +549,7 @@ in
 furias
 &
 frendet
+
 invidiâ
 :
 quare
@@ -436,6 +563,7 @@ in
 reagendum
 
 
+
 sit
 ,
 deliberet
@@ -444,14 +572,18 @@ Res
 tota
 unius
 relinquitur
+
 aturiae
+
 COMOEDIAE
 Pa
 II
 .
+
 ACTUS
 III
 .
+
 QVa
 Serpentis
 rationibus
@@ -459,6 +591,7 @@ seducta
 &
 vetitum
 fruLctum
+
 
 
 comedit
@@ -470,6 +603,7 @@ porrectura
 discedit
 
 
+
 .
 Interim
 exultant
@@ -479,6 +613,7 @@ quasi
 re
 confecta
 :
+
 sed
 infectam
 esse
@@ -490,6 +625,7 @@ comedat
 ,
 à
 Bucifero
+
 edocti
 abeunt
 ,
@@ -501,13 +637,16 @@ expectaturi
 
 
 
+
 COMORDIAE
 Pan
 IIR
 .
+
 ACTUS
 IV
 .
+
 Nvento
 Adamo
 vetitum
@@ -515,6 +654,7 @@ fructum
 porrigit
 Eus
 :
+
 Trenuit
 ille
 ,
@@ -523,6 +663,7 @@ tandem
 dictis
 importunis
 &
+
 precibus
 victus
 comedit
@@ -533,21 +674,25 @@ trementes
 aufugiunt
 
 
+
 .
 Coronatur
 &
 triumphat
 Serpens
 .
+
 COA0E
 .
 DA
 EAN
 IV
 .
+
 ACTUS
 V
 .
+
 Dam
 &
 Euae
@@ -556,6 +701,7 @@ miseram
 queruntur
 in
 latebris
+
 
 
 ,
@@ -567,6 +713,7 @@ foeditatem
 seseabdiderant
 
 
+
 :
 ex
 iis
@@ -576,6 +723,7 @@ extrahuntur
 :
 Divina
 in
+
 ipsos
 fertur
 sententis
@@ -583,40 +731,54 @@ sententis
 ejiciuntur
 Paradiso
 .
+
 AD
 MAJOREMDEI
 .
+
 GLORIAM
 .
+
 ADAM
 ET
 EVA
+
 RAGOEDIA
+
 Nobilissimis
 ,
 Sapientissimis
 ,
 ac
 Prudentissimis
+
 Dominis
+
 DOMINIS
+
 SUMMO
 PRAETORI
 ,
 ADVOUATO
+
 SCABINIS
 ET
 CONSILIO
 URBIS
+
 IPRENSIS
+
 MUNIFICIS
 MAECENATIBUS
 EXHIBEBITUR
+
 STUDIOSA
 JUVENTUTE
 GYMNASI
+
 SOCIETATIS
 JESU
+
 IpnIS
 11
 .
@@ -627,9 +789,11 @@ ar
 Surrauntis
 1714
 .
+
 LUDIS
 AUTUANALIAVS
 .
+
 IPRIS
 ,
 Td
@@ -637,3 +801,4 @@ PDTRUM
 JACOSUR
 DERAVA
 .
+

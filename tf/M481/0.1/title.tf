@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:35:13Z
+@dateWritten=2023-12-13T13:03:16Z
 
-28773	Iacobi Libeni e Societate Iesv Tragoedia
+33598	Iacobi Libeni e Societate Iesv Tragoedia

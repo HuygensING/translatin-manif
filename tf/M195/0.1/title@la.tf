@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:34:43Z
+@dateWritten=2023-12-13T13:02:48Z
 
-8456	Princeps Auriacus, sive libertas defensa
+9952	Princeps Auriacus, sive libertas defensa

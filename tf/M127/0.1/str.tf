@@ -5,10 +5,12 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:34:41Z
+@dateWritten=2023-12-13T13:02:47Z
 
 Digitizec
+
 DG
+
 Autum
 est
 Regiae
@@ -21,6 +23,7 @@ quis
 tribus
 
 
+
 proximis
 annis
 ,
@@ -28,6 +31,7 @@ praeter
 Antonium
 Bergagne
 ,
+
 Aimprimat
 Exodum
 ,
@@ -36,6 +40,7 @@ Transitum
 maris
 rubri
 ,
+
 Autore
 Cornelio
 Laurimano
@@ -45,9 +50,11 @@ Sub
 poena
 in
 pri
+
 uilegio
 contenta
 .
+
 Datum
 Bruxellae
 anno
@@ -57,54 +64,69 @@ anno
 .
 Maij
 .
+
 Subsig
 .
 Boudewyn
 .
+
 N
+
 
 Digitized
 by
 C
+
 –
 D
+
 CORNELIVS
 LAVRIVLTRAIECTINVS
 
 
+
+
 MANVS
+
 viro
 modestißimo
 Balduino
 Hadriano
+
 à
 Creensteyn
 Iselstadio
+
 suo
 S
 .
 D
 .
+
 VPER
 in
 postremo
 nostro
+
 
 colloquio
 modestè
 tu
 quidem
 ,
+
 Balduine
 humaniss
 .
 mecum
 de
+
 emittenda
 Exodo
 nostra
 ,
 quam
+
 fortè
 apud
 me
@@ -114,6 +136,7 @@ tum
 audieras
 
 
+
 ,
 agebas
 ,
@@ -121,15 +144,18 @@ causamque
 quamobrem
 
 
+
 id
 facere
 recusarem
 pro
+
 tua
 modestia
 efflagitabas
 :
 ego
+
 verò
 ,
 quantum
@@ -141,19 +167,23 @@ eam
 immaturam
 
 
+
 esse
 ,
+
 &
 nondum
 etiam
 satis
 recoctam
+
 verecundè
 respondebam
 ,
 imò
 exactiorem
 limam
+
 desiderare
 ,
 tutioremque
@@ -163,6 +193,7 @@ nostris
 scrinijs
 ,
 quàm
+
 si
 in
 publicum
@@ -175,6 +206,7 @@ non
 placuit
 
 
+
 ,
 vt
 magis
@@ -185,6 +217,7 @@ fueris
 ,
 ac
 multò
+
 mihi
 plura
 tribuere
@@ -197,6 +230,7 @@ literatis
 gregarius
 
 
+
 quiuis
 comperire
 possit
@@ -206,6 +240,7 @@ me
 vel
 ad
 assem
+
 totum
 expendat
 .
@@ -217,6 +252,7 @@ Balduine
 ,
 &
 pueros
+
 rhinocerotis
 habere
 nares
@@ -225,6 +261,7 @@ vt
 metuam
 ronchos
 ?
+
 Quanquam
 non
 video
@@ -233,6 +270,7 @@ meum
 scriptum
 habeat
 ,
+
 quo
 magnoperè
 alios
@@ -242,6 +280,7 @@ possit
 vt
 istud
 aut
+
 legant
 ,
 aut
@@ -252,6 +291,7 @@ vnquam
 reprehendere
 
 
+
 velint
 :
 Non
@@ -260,6 +300,7 @@ defuturos
 auguror
 ,
 qui
+
 nostros
 conatus
 si
@@ -268,6 +309,7 @@ viderint
 sinistrè
 interpretabuntur
 ,
+
 quod
 ab
 nostra
@@ -275,6 +317,7 @@ professione
 aliènum
 quid
 aggressi
+
 in
 eam
 descendisse
@@ -283,6 +326,7 @@ videamur
 ,
 vnde
 profectò
+
 
 
 abstinuisse
@@ -295,12 +339,17 @@ sit
 Putabunt
 
 
+
+
 A
 ij
+
 Digitized
 by
 Google
+
 EPISTOLA
+
 tabunt
 enim
 me
@@ -309,6 +358,7 @@ insanire
 vel
 morbo
 quodam
+
 regio
 rursum
 teneri
@@ -319,6 +369,7 @@ aliena
 ab
 instituto
 vitae
+
 genere
 abhorrentia
 sectari
@@ -328,6 +379,7 @@ vt
 de
 me
 spissae
+
 risum
 tollant
 impunè
@@ -335,6 +387,7 @@ coronae
 ,
 quemadmodum
 scitissimè
+
 
 
 ait
@@ -345,6 +398,7 @@ quae
 meo
 modulo
 vtcumque
+
 metiri
 ac
 tutum
@@ -355,6 +409,7 @@ lares
 continere
 
 
+
 .
 Siquidem
 quid
@@ -363,6 +418,7 @@ hoc
 seculo
 plus
 satis
+
 exulcerato
 ,
 quid
@@ -372,6 +428,7 @@ facilius
 habemus
 ,
 quàm
+
 aliorum
 dicta
 factâve
@@ -381,6 +438,7 @@ Cùm
 ipsi
 aut
 inertia
+
 aut
 certè
 inscitia
@@ -393,11 +451,13 @@ commodum
 Christianaeque
 
 
+
 religionis
 salutem
 adferre
 vtiliter
 possumus
+
 
 
 ,
@@ -411,6 +471,7 @@ faciant
 quod
 nos
 ,
+
 nempe
 τνάθούτε
 δοῦλοι
@@ -418,6 +479,7 @@ nempe
 ρῆασημένοι
 (
 Deum
+
 enim
 immortalem
 quanto
@@ -426,6 +488,7 @@ hoc
 ?
 )
 manibus
+
 pedibusque
 obnixè
 hortari
@@ -436,6 +499,7 @@ hoc
 ?
 si
 ne
+
 id
 quidem
 eo
@@ -444,6 +508,7 @@ perficere
 possumus
 ,
 Acheronta
+
 mouemus
 ,
 illincque
@@ -451,6 +516,7 @@ huc
 calumniae
 monstrum
 multa
+
 superstitione
 euocamus
 .
@@ -460,11 +526,13 @@ illam
 verborum
 
 
+
 luxuriem
 resecandam
 magno
 supercilio
 censemus
+
 
 
 :
@@ -477,6 +545,7 @@ serendis
 dicetur
 
 
+
 ,
 si
 quis
@@ -486,6 +555,7 @@ vocabula
 ac
 rem
 ipsam
+
 breuiter
 prosequatur
 :
@@ -496,12 +566,14 @@ obscuritatem
 aliquando
 
 
+
 &
 perspicuitatem
 nimis
 dilucidam
 ,
 quasi
+
 rem
 istam
 aliquanto
@@ -509,6 +581,7 @@ obscuriùs
 dictam
 oportuerit
 ,
+
 causamur
 .
 Hoc
@@ -520,6 +593,7 @@ asperum
 Hi
 versus
 malè
+
 tornati
 incedunt
 ,
@@ -530,6 +604,7 @@ fluunt
 ,
 pro
 nde
+
 pressiùs
 eant
 oportet
@@ -539,6 +614,7 @@ his
 nulla
 oeconomia
 aut
+
 partium
 συμμετρία
 obseruata
@@ -548,6 +624,7 @@ in
 illis
 autem
 nulla
+
 decori
 habita
 ratio
@@ -559,6 +636,7 @@ ac
 negligenter
 
 
+
 praescripta
 sunt
 :
@@ -566,6 +644,7 @@ illic
 curiosa
 diligentia
 contemptum
+
 
 
 parit
@@ -578,6 +657,7 @@ obsoletum
 ,
 affectatum
 ,
+
 seuerum
 &
 tragicum
@@ -588,6 +668,7 @@ verò
 vt
 puerile
 ,
+
 ineptum
 ,
 absurdum
@@ -599,12 +680,17 @@ ac
 friuolum
 
 
+
+
 dibzy
 G
 Googl
+
 NVNCVPATORIA
 .
+
 2
+
 uolum
 languidumque
 culpatur
@@ -612,6 +698,7 @@ culpatur
 His
 tanquam
 incomptis
+
 atrum
 signum
 allinunt
@@ -620,6 +707,7 @@ transuerso
 :
 alia
 obelis
+
 
 
 ,
@@ -631,6 +719,7 @@ tantum
 non
 onerant
 ,
+
 iugulant
 ac
 miserrime
@@ -638,6 +727,7 @@ conficiunt
 .
 Atqui
 toleranda
+
 haec
 aliquo
 modo
@@ -648,6 +738,7 @@ nisi
 subinde
 ad
 tertium
+
 quodque
 verbum
 pallescerent
@@ -656,6 +747,7 @@ vultu
 graui
 &
 serio
+
 inclamarent
 identidem
 :
@@ -667,6 +759,7 @@ identidem
 Pudendus
 
 
+
 hic
 error
 cum
@@ -674,6 +767,7 @@ suis
 scriptis
 hominem
 conficiet
+
 
 
 prorsus
@@ -686,6 +780,7 @@ in
 manus
 sumant
 pij
+
 ac
 religiosi
 ,
@@ -695,6 +790,7 @@ procul
 arcendi
 pueri
 cereum
+
 genus
 in
 vitia
@@ -705,6 +801,7 @@ nihil
 relinquitur
 ,
 quod
+
 scriptori
 infamiam
 ,
@@ -712,6 +809,7 @@ aduersarijs
 risum
 concitare
 possit
+
 
 
 .
@@ -724,6 +822,7 @@ grauius
 ferant
 ,
 putentque
+
 haud
 iniuria
 vix
@@ -732,6 +831,7 @@ Anticyris
 purgandum
 ,
 quod
+
 iam
 quisque
 ferè
@@ -739,6 +839,7 @@ professionis
 suę
 limites
 impudenter
+
 transiliat
 :
 cuius
@@ -746,6 +847,7 @@ equidem
 temeritatis
 ne
 aliquando
+
 me
 traducant
 hi
@@ -758,6 +860,7 @@ est
 summoperè
 
 
+
 vereor
 .
 Tametsi
@@ -767,6 +870,7 @@ rem
 recta
 via
 secum
+
 deputauerit
 ,
 facilè
@@ -774,6 +878,7 @@ is
 comperiet
 Christianis
 hominibus
+
 
 
 nihil
@@ -786,6 +891,7 @@ aliorum
 labores
 
 
+
 seu
 iure
 ,
@@ -796,6 +902,7 @@ suggillare
 :
 cùm
 ea
+
 vniuscuiusque
 professio
 sit
@@ -805,6 +912,7 @@ prosit
 plurimis
 ,
 obsit
+
 autem
 nemini
 .
@@ -813,6 +921,7 @@ quam
 functionem
 Deus
 quemque
+
 vocârit
 ,
 quóve
@@ -821,6 +930,7 @@ donauerit
 ,
 planè
 obscurum
+
 nobis
 est
 .
@@ -836,6 +946,7 @@ ac
 lactentium
 
 
+
 sibi
 laudem
 subinde
@@ -844,6 +955,7 @@ velit
 .
 ad
 quod
+
 item
 non
 omnino
@@ -851,6 +963,7 @@ absurdè
 adduxeris
 illud
 vulgo
+
 iactatum
 prouerbium
 :
@@ -858,6 +971,7 @@ prouerbium
 καὶ
 κήπωρος
 ἀνὴρ
+
 μάλα
 καίριον
 εἴπεν
@@ -867,6 +981,7 @@ in
 ea
 domo
 ,
+
 quae
 cùm
 instructissima
@@ -875,6 +990,7 @@ sit
 omnibus
 suis
 partibus
+
 non
 tantùm
 ad
@@ -884,6 +1000,7 @@ sed
 ad
 voluptatem
 etiam
+
 absoluta
 ,
 infinitam
@@ -891,6 +1008,7 @@ penè
 diuersorum
 generum
 supellectilem
+
 
 
 complectitur
@@ -902,14 +1020,19 @@ nihil
 sit
 quod
 vel
+
 cuA
 
 
+
 iij
+
 dibzy
 G
 Go
+
 EPISTOLA
+
 cupiat
 vel
 possit
@@ -919,6 +1042,7 @@ citra
 architecti
 aut
 possessoris
+
 
 
 voluntatem
@@ -933,6 +1057,7 @@ ac
 domo
 
 
+
 Christi
 ,
 cui
@@ -944,6 +1069,7 @@ Domini
 diuersa
 
 
+
 diuersorum
 sunt
 munia
@@ -953,6 +1079,7 @@ alij
 sint
 parietes
 ,
+
 vestibula
 ,
 limina
@@ -966,6 +1093,7 @@ fenestrae
 ,
 laquearia
 ,
+
 coenacula
 ,
 cellaria
@@ -980,6 +1108,7 @@ scalae
 contignationes
 
 
+
 ,
 pauimenta
 ,
@@ -989,6 +1118,7 @@ alij
 denique
 aliud
 :
+
 ipsum
 autem
 ostium
@@ -1000,6 +1130,7 @@ vnam
 aliquam
 
 
+
 optima
 harmonia
 basilicam
@@ -1007,6 +1138,7 @@ extruunt
 ,
 in
 qua
+
 &
 potentia
 Dei
@@ -1016,6 +1148,7 @@ celebretur
 admirabile
 eius
 numen
+
 diuersarum
 vocum
 concentu
@@ -1023,6 +1156,7 @@ extollatur
 .
 Huc
 illud
+
 adiungo
 ,
 non
@@ -1032,6 +1166,7 @@ animalia
 in
 arcam
 Noe
+
 ingressa
 fuisse
 ,
@@ -1040,6 +1175,7 @@ ex
 vniuerso
 genere
 speciatim
+
 quaelibet
 :
 neque
@@ -1050,6 +1186,7 @@ quodque
 minori
 
 
+
 curae
 fuisse
 reparatori
@@ -1058,12 +1195,14 @@ generis
 humani
 ,
 quam
+
 quod
 nobilissimum
 ac
 generosissimum
 censebatur
 .
+
 Vult
 enim
 Deus
@@ -1073,6 +1212,7 @@ intelligi
 ,
 ecclesiam
 suam
+
 velut
 ex
 diuersis
@@ -1085,6 +1225,7 @@ tanquam
 optimè
 
 
+
 constituta
 Repub
 .
@@ -1093,6 +1234,7 @@ aliud
 munus
 exerceant
 ,
+
 ita
 tamen
 ,
@@ -1102,6 +1244,7 @@ communem
 salutem
 sua
 conferant
+
 omnia
 .
 Quin
@@ -1116,12 +1259,14 @@ vel
 ex
 D
 .
+
 Paulo
 manifestissimè
 constabit
 ,
 quemadmodum
 omnes
+
 quasi
 multarum
 partium
@@ -1130,6 +1275,7 @@ membrorum
 in
 vnum
 corpus
+
 in
 Christo
 capite
@@ -1139,6 +1285,7 @@ coagmentati
 nimirum
 eo
 modo
+
 
 
 vt
@@ -1151,6 +1298,7 @@ spiritus
 efficiens
 omnia
 in
+
 omnibus
 .
 Vnicuique
@@ -1160,6 +1308,7 @@ inquit
 ,
 datur
 manifestatio
+
 spiritus
 ad
 id
@@ -1170,6 +1319,7 @@ Non
 igitur
 facilè
 pro
+
 pietate
 Christiana
 alij
@@ -1178,11 +1328,13 @@ dotes
 suas
 inuidebimus
 ,
+
 dicta
 factáve
 aliorum
 inhumanissimè
 conuellemus
+
 
 
 ,
@@ -1194,6 +1346,7 @@ alijs
 existimabimus
 ,
 ac
+
 de
 nobis
 aliquando
@@ -1205,6 +1358,7 @@ optemus
 Diuisiones
 
 
+
 ,
 inquit
 Paulus
@@ -1214,6 +1368,7 @@ sunt
 ,
 sed
 idem
+
 spiritus
 .
 Hoc
@@ -1226,11 +1381,16 @@ sua
 munera
 
 
+
 ,
+
 GO
+
 gle
+
 NVNCVPATORIA
 .
+
 nera
 Dominus
 ,
@@ -1239,6 +1399,7 @@ eodem
 ipsa
 conseruat
 spiritu
+
 
 
 amoris
@@ -1250,12 +1411,14 @@ dulcedinis
 ,
 ne
 huc
+
 aliquando
 contumeliae
 lutum
 tumoris
 phlegma
 ,
+
 calumniae
 coenum
 ,
@@ -1265,6 +1428,7 @@ bilis
 pus
 rancoris
 &
+
 inuidiae
 ,
 sanies
@@ -1273,6 +1437,7 @@ subrepant
 :
 sed
 omnia
+
 in
 vna
 vnius
@@ -1281,6 +1446,7 @@ voluntate
 ,
 in
 tranquillissima
+
 pace
 conquiescant
 .
@@ -1291,6 +1457,7 @@ est
 ,
 quod
 de
+
 sponsa
 sua
 sorore
@@ -1303,6 +1470,7 @@ sua
 ardentissimo
 
 
+
 ille
 animo
 semel
@@ -1311,6 +1479,7 @@ decantat
 :
 Fauus
 distillans
+
 
 
 labia
@@ -1324,6 +1493,7 @@ lingua
 tua
 &
 odor
+
 vestimentorum
 tuorum
 sicut
@@ -1331,6 +1501,7 @@ odor
 thuris
 .
 Nullam
+
 duritiem
 ,
 nullam
@@ -1342,6 +1513,7 @@ nullam
 nihil
 
 
+
 denique
 caninum
 huius
@@ -1349,6 +1521,7 @@ sponsae
 labia
 habere
 oportet
+
 
 
 ,
@@ -1362,6 +1535,7 @@ est
 ,
 suauiloquentia
 tum
+
 pueros
 ,
 tum
@@ -1373,6 +1547,7 @@ ac
 religione
 
 
+
 formare
 ,
 educare
@@ -1381,6 +1556,7 @@ continere
 .
 Hoc
 sepimentum
+
 charitatis
 inter
 nos
@@ -1388,6 +1564,7 @@ plerique
 iam
 corruptissimo
 hoc
+
 seculo
 sic
 ensibus
@@ -1396,6 +1573,7 @@ perfodiunt
 sic
 sceleratè
 perrumpunt
+
 
 
 ,
@@ -1408,6 +1586,7 @@ minus
 cogitare
 ,
 quam
+
 illo
 vineam
 Domini
@@ -1416,12 +1595,14 @@ esse
 .
 Non
 habet
+
 profectò
 Christiana
 religio
 munimentum
 aut
 praesidium
+
 
 
 quicquam
@@ -1431,6 +1612,7 @@ insultus
 charitate
 
 
+
 ipsa
 fortius
 accommodatiusque
@@ -1438,6 +1620,7 @@ accommodatiusque
 Hic
 murus
 fuerit
+
 
 
 ahenius
@@ -1452,6 +1635,7 @@ vinculo
 vinciuntur
 
 
+
 .
 Hac
 panoplia
@@ -1460,6 +1644,7 @@ adeò
 deterrentur
 ,
 vt
+
 ne
 eminus
 quidem
@@ -1469,6 +1654,7 @@ ausint
 .
 adeoque
 id
+
 solùm
 student
 ,
@@ -1477,6 +1663,7 @@ artibus
 illud
 sepimentum
 subuertant
+
 
 
 ,
@@ -1489,6 +1676,7 @@ fecisse
 ad
 reliqua
 fidei
+
 ppugnacula
 demolienda
 ,
@@ -1496,6 +1684,7 @@ vt
 vniuersum
 Christi
 regnum
+
 
 
 aut
@@ -1507,6 +1696,7 @@ ex
 maxima
 parte
 cędibus
+
 dissidijs
 ac
 fędissimis
@@ -1514,6 +1704,7 @@ schismatibus
 corruptum
 in
 summum
+
 
 
 discrimen
@@ -1528,6 +1719,7 @@ ideo
 ad
 illam
 
+
 charitatem
 hominimque
 societatem
@@ -1538,14 +1730,19 @@ ipsos
 est
 ,
 euertendam
+
 A
 iiij
+
 adiunDigitized
+
 
 
 by
 Google
+
 EPISTOLA
+
 adiungant
 etiam
 literarum
@@ -1554,12 +1751,14 @@ contemptum
 optimarum
 artium
 ac
+
 disciplinarum
 quandam
 obliuionem
 ,
 quum
 tamen
+
 apertissimè
 constet
 Deum
@@ -1567,6 +1766,7 @@ ab
 orbe
 condito
 semper
+
 in
 sua
 ecclesia
@@ -1576,6 +1776,7 @@ literas
 literatos
 omnes
 mirificè
+
 conseruasse
 &
 magnis
@@ -1583,6 +1784,7 @@ honoribus
 insuper
 exornasse
 .
+
 Vbi
 mihi
 non
@@ -1591,6 +1793,7 @@ in
 coniunctionem
 vitae
 grauissimè
+
 
 
 peccare
@@ -1604,12 +1807,14 @@ ipsum
 vniuersi
 
 
+
 autorem
 ,
 eiusque
 sempiternam
 voluntatem
 .
+
 Nunquam
 enim
 Deus
@@ -1617,6 +1822,7 @@ humano
 generi
 adeò
 infestus
+
 fuit
 ,
 vt
@@ -1627,6 +1833,7 @@ diuinam
 saltem
 humanam
 sapientiam
+
 huic
 ostenderit
 .
@@ -1636,6 +1843,7 @@ testes
 tot
 nobis
 scriptores
+
 hactenus
 extiterunt
 ,
@@ -1645,6 +1853,7 @@ insano
 ferè
 explodatur
 ,
+
 qui
 secùs
 arbitretur
@@ -1655,6 +1864,7 @@ est
 rerum
 coelestium
 ,
+
 hoc
 est
 ,
@@ -1666,6 +1876,7 @@ nobis
 conspicuae
 sunt
 ,
+
 quaeque
 in
 aere
@@ -1678,6 +1889,7 @@ siue
 aspectum
 
 
+
 siue
 auditum
 quodam
@@ -1686,6 +1898,7 @@ feruntur
 ?
 Quid
 ,
+
 inquam
 ,
 est
@@ -1696,6 +1909,7 @@ quae
 in
 nostro
 orbe
+
 infra
 lunae
 globum
@@ -1705,6 +1919,7 @@ fiunt
 cuius
 non
 aliqua
+
 ratio
 apud
 homines
@@ -1712,6 +1927,7 @@ inueniatur
 ?
 Sagacissimum
 certè
+
 illud
 animal
 homo
@@ -1719,6 +1935,7 @@ abstrusa
 inuestigare
 ,
 recondita
+
 perscrutari
 nunquam
 desinit
@@ -1726,6 +1943,7 @@ desinit
 Intelligit
 nimirùm
 ideò
+
 se
 natum
 &
@@ -1734,6 +1952,7 @@ tantam
 rerum
 diuersitatem
 inductum
+
 esse
 ,
 vt
@@ -1744,6 +1963,7 @@ his
 se
 interim
 oblectet
+
 
 
 ,
@@ -1758,6 +1978,7 @@ ociosus
 discedat
 
 
+
 .
 Sed
 hoc
@@ -1767,6 +1988,7 @@ non
 aliunde
 se
 accepisse
+
 
 
 videt
@@ -1779,6 +2001,7 @@ omnium
 opifice
 Deo
 ,
+
 cuius
 ea
 est
@@ -1789,6 +2012,7 @@ velit
 mortales
 hac
 sapientia
+
 perpetuò
 donare
 .
@@ -1799,6 +2023,7 @@ artes
 &
 inuentae
 ,
+
 &
 ad
 summum
@@ -1810,6 +2035,7 @@ propè
 nihil
 sit
 ,
+
 quod
 mens
 humana
@@ -1818,6 +2044,7 @@ non
 attigerit
 ,
 partim
+
 etiam
 attingere
 non
@@ -1827,6 +2054,7 @@ Quin
 non
 ad
 coelos
+
 modò
 ,
 sed
@@ -1837,6 +2065,7 @@ geniorum
 myriadas
 ad
 ipsum
+
 Deum
 subuolare
 ac
@@ -1845,15 +2074,20 @@ ausa
 non
 destitit
 .
+
 Proinde
 in
+
 d
 by
 G
 oogle
+
 NVNCVPATORIA
 .
+
 4
+
 Proinde
 in
 his
@@ -1861,6 +2095,7 @@ omnibus
 neminem
 maledictis
 prouocabimus
+
 
 
 ,
@@ -1871,6 +2106,7 @@ nemini
 quouis
 
 
+
 modo
 inuidebimus
 ,
@@ -1878,12 +2114,14 @@ nullius
 nomen
 apud
 alios
+
 impiè
 proscindemus
 ,
 ne
 videamur
 impedimento
+
 fuisse
 ,
 quo
@@ -1896,6 +2134,7 @@ patre
 luminum
 (
 vt
+
 Iacobi
 verbo
 vtar
@@ -1905,6 +2144,7 @@ concessas
 exerceat
 ,
 &
+
 communi
 bono
 nos
@@ -1914,6 +2154,7 @@ re
 malignè
 obsistamus
 .
+
 Huius
 certè
 animus
@@ -1926,6 +2167,7 @@ suo
 labore
 
 
+
 conatur
 prodesse
 ,
@@ -1933,6 +2175,7 @@ vtcunque
 ceciderit
 euentus
 ,
+
 nec
 quicquam
 efficere
@@ -1941,6 +2184,7 @@ potuerit
 quod
 animo
 respondeat
+
 
 
 .
@@ -1955,12 +2199,14 @@ video
 quomodo
 
 
+
 deprehendendus
 sim
 ,
 quasi
 praeter
 professionem
+
 fecerim
 ,
 quod
@@ -1969,6 +2215,7 @@ Comoedijs
 scribendis
 operam
 collocauerim
+
 
 
 :
@@ -1983,11 +2230,13 @@ in
 summis
 
 
+
 Theologis
 ,
 eruditissimisque
 hominbus
 haudquaquam
+
 improbatus
 .
 Sed
@@ -1998,6 +2247,7 @@ dixerint
 (
 liberè
 apud
+
 te
 loquor
 mi
@@ -2009,6 +2259,7 @@ video
 hoc
 scripti
 genus
+
 
 
 aut
@@ -2023,6 +2274,7 @@ nos
 minimè
 
 
+
 pertinere
 ,
 qui
@@ -2030,6 +2282,7 @@ erudiendis
 pueris
 occupamur
 ,
+
 &
 optimum
 quemque
@@ -2038,6 +2291,7 @@ malle
 suscipere
 ,
 quàm
+
 deserere
 vllam
 officij
@@ -2046,6 +2300,7 @@ partem
 Equidem
 dum
 viriculas
+
 
 
 meas
@@ -2057,6 +2312,7 @@ ineptum
 re
 ipsa
 com
+
 perio
 :
 nisi
@@ -2070,6 +2326,7 @@ soletur
 quęcunque
 
 
+
 hac
 in
 parte
@@ -2079,6 +2336,7 @@ me
 bono
 &
 iuuandi
+
 quidem
 animo
 facere
@@ -2091,11 +2349,13 @@ mihi
 negauerit
 
 
+
 Comoediarum
 tractationem
 non
 potius
 ad
+
 ludimagistros
 quàm
 ad
@@ -2105,6 +2365,7 @@ attinere
 cum
 in
 illis
+
 vitae
 exempla
 quae
@@ -2113,6 +2374,7 @@ imitentur
 ,
 proponuntur
 ,
+
 cumque
 an
 instituendam
@@ -2121,12 +2383,14 @@ pietatem
 ad
 bene
 beateque
+
 viuendum
 praecepta
 luculenter
 illic
 praescribuntur
 ?
+
 Atqui
 in
 omni
@@ -2139,6 +2403,7 @@ duo
 potissimum
 
 
+
 requiruntur
 :
 formatio
@@ -2146,6 +2411,7 @@ linguae
 ,
 ac
 fidelis
+
 morum
 institutio
 ,
@@ -2156,15 +2422,21 @@ non
 conA
 
 
+
 v
+
 temnid
+
 
 
 by
 G
 Goc
+
 gle
+
 EPISTOLA
+
 temnimus
 ,
 vt
@@ -2174,6 +2446,7 @@ priorem
 arbitremur
 .
 Neque
+
 enim
 disertos
 solùm
@@ -2185,6 +2458,7 @@ etiam
 bonos
 
 
+
 è
 scholis
 prodire
@@ -2193,6 +2467,7 @@ volumus
 Danda
 opera
 est
+
 optimo
 cuique
 praeceptori
@@ -2202,6 +2477,7 @@ rudis
 illa
 &
 imperita
+
 aetas
 ad
 veram
@@ -2211,6 +2487,7 @@ assuescatur
 vt
 existimet
 Dei
+
 timorem
 vel
 cum
@@ -2218,6 +2495,7 @@ primis
 literarum
 rudimentis
 coniungendum
+
 
 
 esse
@@ -2229,6 +2507,7 @@ laborem
 qui
 vel
 in
+
 vita
 vel
 in
@@ -2241,6 +2520,7 @@ inutilem
 fore
 
 
+
 ,
 imò
 infelicem
@@ -2249,16 +2529,19 @@ perniciosum
 .
 Praeclarè
 monet
+
 grauissimus
 autor
 Sophocles
 :
+
 ὡς
 τἄλλα
 πάνγα
 δεύτεξ
 ἡνεῖτα
 πατῆρ
+
 Σεὺς
 .
 ἡ
@@ -2267,6 +2550,7 @@ Sophocles
 συκθνήσχει
 βρογοῖς
 ,
+
 Κὰν
 [
 ῶσι
@@ -2277,6 +2561,7 @@ Sophocles
 δυκ
 ἀπόλλυγαι
 .
+
 Vt
 itaque
 pro
@@ -2287,6 +2572,7 @@ quos
 semel
 in
 nostram
+
 disciplinam
 admiserim
 ,
@@ -2295,6 +2581,7 @@ ac
 fideliter
 instituantur
 :
+
 duxi
 necessarium
 fore
@@ -2304,6 +2591,7 @@ cum
 literarum
 studio
 pietatem
+
 
 
 etiam
@@ -2316,6 +2604,7 @@ his
 periculosis
 
 
+
 temporibus
 à
 pura
@@ -2323,6 +2612,7 @@ religione
 desciscat
 .
 Illud
+
 enim
 futurum
 esse
@@ -2332,6 +2622,7 @@ prospicio
 inter
 hos
 pueros
+
 Reipubasemina
 conseruari
 ,
@@ -2340,6 +2631,7 @@ consilijs
 atque
 ope
 illa
+
 
 
 olim
@@ -2351,6 +2643,7 @@ nisi
 stupidi
 ac
 cęci
+
 sumus
 ,
 satis
@@ -2359,6 +2652,7 @@ Reipub
 .
 salutem
 versari
+
 potissimum
 in
 tribus
@@ -2366,6 +2660,7 @@ hominum
 ordinibus
 ,
 videlicet
+
 
 
 in
@@ -2377,6 +2672,7 @@ illorum
 vices
 
 
+
 gerunt
 ,
 in
@@ -2385,6 +2681,7 @@ atque
 horum
 vicarijs
 sacerdotibus
+
 
 
 ,
@@ -2400,6 +2697,7 @@ aetatem
 rudem
 
 
+
 adhuc
 &
 ad
@@ -2408,6 +2706,7 @@ sequacem
 instituunt
 .
 Quare
+
 mihi
 praeter
 professionem
@@ -2416,6 +2715,7 @@ fecisse
 videor
 ,
 si
+
 non
 tam
 verbis
@@ -2427,12 +2727,14 @@ sanè
 negligitur
 )
 quam
+
 exemplis
 ex
 sacrarum
 literarum
 fontibus
 religiosissimè
+
 desumptis
 ad
 pietatem
@@ -2441,6 +2743,7 @@ Dei
 timorem
 pueros
 nostrae
+
 fidei
 commissos
 admonuerim
@@ -2450,6 +2753,7 @@ autem
 res
 id
 potest
+
 efficaciùs
 perficere
 ,
@@ -2457,11 +2761,15 @@ quam
 Tragoediarum
 aut
 Comoediarum
+
 actio
 ,
+
 bGoogle
+
 NVNCVPATORIA
 .
+
 actio
 ,
 quod
@@ -2474,6 +2782,7 @@ inhaereat
 vt
 cum
 ipsis
+
 quoque
 coalescat
 ,
@@ -2484,6 +2793,7 @@ illi
 fuerint
 ,
 eius
+
 aliquam
 speciem
 etiam
@@ -2495,6 +2805,7 @@ praebeant
 Hac
 ratione
 nos
+
 quidem
 ,
 mi
@@ -2504,6 +2815,7 @@ hanc
 Exodum
 conscribendam
 sumpsimus
+
 
 
 ,
@@ -2517,6 +2829,7 @@ habeant
 ,
 quae
 ipsi
+
 imitentur
 ,
 &
@@ -2527,6 +2840,7 @@ ac
 mores
 suos
 christianè
+
 
 
 ad
@@ -2540,6 +2854,7 @@ illa
 (
 nisi
 me
+
 animus
 fallit
 )
@@ -2552,6 +2867,7 @@ eiusque
 fortissimum
 
 
+
 numen
 admirentur
 ,
@@ -2560,6 +2876,7 @@ ac
 vereantur
 ,
 vt
+
 discant
 in
 spe
@@ -2573,6 +2890,7 @@ illam
 fęlicitatem
 
 
+
 aspirare
 .
 Videbunt
@@ -2583,6 +2901,7 @@ sit
 eorum
 qui
 Deo
+
 ac
 suis
 ministris
@@ -2592,6 +2911,7 @@ repugnant
 qui
 pręfracto
 animo
+
 Verbum
 Dei
 contennunt
@@ -2601,6 +2921,7 @@ quę
 &
 quanta
 interim
+
 hîc
 veris
 Abrahami
@@ -2610,6 +2931,7 @@ sint
 ,
 donec
 sub
+
 Pharone
 in
 Aegypto
@@ -2622,6 +2944,7 @@ hac
 vita
 sub
 mundi
+
 huius
 principe
 peregrinamur
@@ -2629,6 +2952,7 @@ peregrinamur
 Videbunt
 denique
 qumo
+
 per
 fidem
 B
@@ -2640,6 +2964,7 @@ filius
 Pharaonis
 filię
 ,
+
 potius
 eligens
 simul
@@ -2653,6 +2978,7 @@ quam
 temporarijs
 
 
+
 peccati
 commodis
 frui
@@ -2661,6 +2987,7 @@ maiores
 arbitrat
 ?
 diuicias
+
 
 
 (
@@ -2675,6 +3002,7 @@ Aegyptiorum
 thesauros
 
 
+
 .
 Pręterea
 haud
@@ -2684,6 +3012,7 @@ parergôs
 neque
 oculis
 con
+
 niuentibus
 illud
 in
@@ -2693,6 +3022,7 @@ obseruabunt
 qumo
 in
 verissima
+
 ecclesia
 concordes
 ac
@@ -2702,6 +3032,7 @@ viuant
 qumdo
 ipse
 Deus
+
 in
 medio
 suorum
@@ -2712,6 +3043,7 @@ benedicat
 cętui
 suo
 :
+
 quo
 angeli
 protectores
@@ -2719,6 +3051,7 @@ protectores
 ministri
 sanctę
 congregationis
+
 magna
 frequentia
 summaque
@@ -2726,6 +3059,7 @@ reuerentia
 pios
 tutentur
 :
+
 quo
 mirificè
 Diis
@@ -2734,6 +3068,7 @@ ecclesiam
 contra
 hostium
 assultus
+
 perpetuò
 conseruet
 .
@@ -2744,6 +3079,7 @@ discet
 iuuentus
 ,
 qua
+
 fęlicitatis
 spe
 fruuntur
@@ -2756,6 +3092,7 @@ atrijs
 nidulantur
 
 
+
 ,
 at
 in
@@ -2763,6 +3100,7 @@ speciosis
 catholicę
 ecclesię
 tabernaculis
+
 toti
 conqescunt
 .
@@ -2776,6 +3114,7 @@ atque
 alijs
 
 
+
 armis
 oppugnari
 ,
@@ -2785,6 +3124,7 @@ contrà
 atque
 hostes
 &
+
 hęretici
 veram
 animi
@@ -2793,11 +3133,16 @@ possident
 ,
 quòd
 dominus
+
 virtutum
+
 ed
 by
 Google
+
 DiEPISTOLA
+
+
 
 
 virtutum
@@ -2811,6 +3156,7 @@ ijs
 Alij
 interim
 cruciantur
+
 
 
 varijs
@@ -2827,12 +3173,14 @@ in
 turpissimis
 
 
+
 suis
 tabernaculis
 à
 veris
 foedissimè
 conuulsis
+
 atque
 abruptis
 torquentur
@@ -2840,6 +3188,7 @@ nunc
 his
 opinionibus
 oppidò
+
 
 
 quàm
@@ -2853,6 +3202,7 @@ flagitijs
 erroribus
 
 
+
 ac
 schismaticis
 paradoxis
@@ -2860,6 +3210,7 @@ paradoxis
 vt
 quocunque
 se
+
 vertant
 ,
 nidum
@@ -2870,12 +3221,14 @@ inueniant
 Aedificant
 
 
+
 enim
 exemplo
 nostri
 Pharaonis
 inuito
 Domino
+
 
 
 exercituum
@@ -2887,12 +3240,14 @@ Nisi
 dominus
 
 
+
 aedificauerit
 domum
 ,
 in
 vanum
 laborauerunt
+
 qui
 ędificant
 eam
@@ -2902,6 +3257,7 @@ quilibet
 hinc
 admirabitur
 ,
+
 quàm
 amabilia
 sint
@@ -2909,6 +3265,7 @@ tabernacula
 domini
 virtutum
 ,
+
 quàm
 bonus
 Deus
@@ -2920,6 +3277,7 @@ qui
 recto
 sunt
 corde
+
 
 
 ,
@@ -2935,6 +3293,7 @@ etiam
 haereticus
 
 
+
 sit
 ,
 conspectis
@@ -2944,12 +3303,14 @@ orthodoxae
 Ecclesiae
 
 
+
 tabernaculis
 cogatur
 nolit
 velit
 cum
 Balaamo
+
 propheta
 licet
 impio
@@ -2958,6 +3319,7 @@ exclamare
 Quàm
 pulchra
 tabernacula
+
 
 
 tua
@@ -2970,6 +3332,7 @@ Ifrael
 .
 Nam
 in
+
 his
 nullae
 dissentiones
@@ -2978,12 +3341,14 @@ nullae
 contentiones
 ,
 nullae
+
 prodigiosae
 opinationes
 piorum
 animos
 inquietant
 ,
+
 sed
 vt
 fratres
@@ -2997,6 +3362,7 @@ extra
 quaerunt
 
 
+
 ,
 aut
 supra
@@ -3005,11 +3371,13 @@ captum
 sapere
 volunt
 ,
+
 quemadmodum
 in
 haereticorum
 conuenticulis
 fieri
+
 
 
 videmus
@@ -3021,12 +3389,14 @@ vt
 ipsi
 cautiores
 ac
+
 proinde
 foeliciores
 euadant
 Pharaonis
 &
 impiorum
+
 exemplo
 ,
 itemque
@@ -3035,6 +3405,7 @@ Ioannis
 &
 Mambris
 optamus
+
 
 
 ,
@@ -3047,6 +3418,7 @@ in
 animos
 
 
+
 immiserint
 .
 Qui
@@ -3056,6 +3428,7 @@ est
 inquit
 Solomon
 )
+
 maiestatis
 ,
 opprimetur
@@ -3066,6 +3439,7 @@ De
 quibus
 item
 ait
+
 Esaias
 :
 Qui
@@ -3077,6 +3451,7 @@ quasi
 non
 sint
 .
+
 Caeterùm
 quod
 in
@@ -3087,11 +3462,13 @@ pro
 necessitate
 
 
+
 historiae
 frequenter
 legitur
 Deum
 Pharaonis
+
 animum
 indurasse
 ,
@@ -3103,12 +3480,17 @@ autorem
 arbitretur
 
 
+
 :
 non
+
 zed
 by
 Google
+
 NVNCVPATORIA6
+
+
 
 
 tretur
@@ -3120,6 +3502,7 @@ operaeprecium
 esse
 rem
 per
+
 se
 spinosam
 &
@@ -3129,6 +3512,7 @@ atque
 alioqui
 satis
 ab
+
 alijs
 excussam
 aggredi
@@ -3137,6 +3521,7 @@ ne
 brassicam
 recoctam
 repetere
+
 
 
 videamur
@@ -3149,6 +3534,7 @@ humanissime
 Balduine
 
 
+
 ,
 vt
 in
@@ -3159,6 +3545,7 @@ nostram
 quae
 de
 filiorum
+
 Israelis
 egressu
 ex
@@ -3170,6 +3557,7 @@ Comicè
 hoc
 est
 ,
+
 artificios
 è
 ,
@@ -3181,6 +3569,7 @@ agit
 ,
 sic
 animum
+
 veri
 amici
 induas
@@ -3190,6 +3579,7 @@ citra
 nominis
 nostri
 iacturam
+
 in
 lucem
 prodire
@@ -3200,6 +3590,7 @@ autem
 tum
 maximè
 fieri
+
 poterit
 ,
 quum
@@ -3208,6 +3599,7 @@ seuerissimè
 tuo
 iudicio
 exercueris
+
 
 
 :
@@ -3219,6 +3611,7 @@ innata
 illa
 tua
 modestia
+
 semper
 arbitrari
 id
@@ -3229,6 +3622,7 @@ alienissimum
 esse
 .
 Verum
+
 eam
 ego
 vim
@@ -3237,6 +3631,7 @@ naturalem
 exacti
 iudicij
 notionem
+
 animo
 tuo
 inscitam
@@ -3248,12 +3643,14 @@ iudicem
 habere
 
 
+
 scriptorum
 meorum
 minimè
 refugiam
 .
 Hanc
+
 itaque
 Exodum
 tibi
@@ -3264,10 +3661,12 @@ ac
 studiosissimis
 
 
+
 adolescentibus
 dicatam
 consecratamque
 perpetuò
+
 
 
 habeas
@@ -3283,6 +3682,7 @@ ad
 exactam
 
 
+
 discussionem
 aut
 stet
@@ -3291,6 +3691,7 @@ cadat
 .
 Vale
 .
+
 Ex
 VItraiecto
 .
@@ -3300,140 +3701,203 @@ Calend
 .
 Iunij
 ,
+
 Anno
 1562
 .
+
 Actorum
+
 Digitized
 by
 Googl
+
 Actorum
 nomina
 .
+
 Mosei
 ?
+
 Pharo
 Aegyptiorum
 rex
 .
+
 Hebraeorum
 duces
 .
+
 Symbulus
 à
 Consiliis
 Pharoni
 .
+
 Aaron
 §
+
 Iudas
+
 ZoroastresSimeon
+
+
 
 
 Principes
 Istaelis
 .
+
 Iamnes
+
 Magi
 3
 .
+
 Henochus
+
 Mambres
+
 Maria
 soror
 Mosis
 .
+
 Exactores
 po
+
 Demarchus
+
 Eliabus
 Israelita
 .
+
 Desmophylax
 (
 puli
 Israelit
 .
+
 Amalechus
 .
+
 Pua
+
 Siphira
 ?
 obstetrices
 hebraeor
 .
+
 Dromo
 .
+
 Thodopis
 .
+
 Aminadabus
 Israelita
 .
+
 Siphra
 altera
 ex
 Hebraeis
 .
+
 Spudaea
 pedissequa
 .
+
 Droma
 famula
 .
+
 Elohim
 Deus
 siue
 genius
 .
+
 Hydrophila
+
 Populus
 Israelis
 .
+
 ancillae
+
 Polyhydria
+
 Chorus
 ex
 filiis
 Israelis
+
 Populus
 Aegyptius
 .
+
 Epilogus
 .
+
 Demus
 .
+
 Digitized
 by
 Google
+
 T
+
 R
+
 A
+
 N
+
 S
+
 1
+
 T
+
 V
+
 S
+
 M
+
 A
+
 R
+
 1
+
 S
+
 2
+
 V
+
 B
+
 R
+
 Perioche
 seu
 Argumentum
 in
+
 Exodum
 .
+
 errae
 Aegypti
 inquilinos
 gnatos
 Ifrahel
+
 ex
 seruitute
 premit
@@ -3442,12 +3906,14 @@ Pharo
 timens
 ne
 nimis
+
 ugescerent
 ,
 in
 partu
 masculos
 iubet
+
 ecari
 ,
 atque
@@ -3456,6 +3922,7 @@ in
 profluentem
 mittier
 .
+
 ub
 tempus
 idem
@@ -3466,6 +3933,7 @@ nascitur
 hunc
 clàm
 diu
+
 ocobela
 celatum
 mittit
@@ -3473,6 +3941,7 @@ in
 aquam
 ,
 extrahit
+
 hermuthis
 ,
 pro
@@ -3482,6 +3951,7 @@ educat
 Vbi
 euasit
 in
+
 irum
 ,
 fugit
@@ -3492,6 +3962,7 @@ Hîc
 quom
 pasceret
 oues
+
 oceri
 ,
 videt
@@ -3501,6 +3972,7 @@ ex
 rubo
 Elohim
 .
+
 ittitur
 in
 Aegyptum
@@ -3508,6 +3980,7 @@ Israelem
 vt
 liberet
 .
+
 tPharo
 negare
 ,
@@ -3515,6 +3988,7 @@ Moses
 signa
 ostendere
 ,
+
 ex
 durus
 insuper
@@ -3523,11 +3997,13 @@ premere
 .
 inde
 post
+
 dentidem
 recusans
 plagis
 caeditur
 .
+
 ed
 his
 magis
@@ -3535,6 +4011,7 @@ indurescit
 .
 Elohim
 docet
+
 itum
 caedendi
 agni
@@ -3543,6 +4020,7 @@ agni
 moritur
 primogenitus
 .
+
 erubus
 assum
 hinc
@@ -3552,6 +4030,7 @@ Phase
 ac
 cum
 suis
+
 onis
 migrat
 ex
@@ -3559,6 +4038,7 @@ Aegypto
 Israel
 per
 mare
+
 ubrum
 :
 hos
@@ -3567,18 +4047,22 @@ insequens
 mox
 vndamergitur
 .
+
 srael
 laetus
 canticum
 Domino
 canit
 .
+
 PROLOGVS
 .
+
 Iamb
 .
 Trimetri
 .
+
 TIrantur
 aliqui
 (
@@ -3589,23 +4073,28 @@ quae
 causa
 sit
 ,
+
 Cur
 hactenus
 ex
 nostris
 nemo
 processerit
+
 V
+
 In
 hoc
 proscenium
 ,
 viri
 integerrimi
+
 Iidemque
 spectatores
 candidissimi
 .
+
 Nam
 iam
 ferè
@@ -3617,6 +4106,7 @@ fallor
 ,
 aut
 eo
+
 Plus
 ,
 quod
@@ -3626,12 +4116,17 @@ nemo
 hinc
 viderit
 ,
+
 Digitized
 by
 Google
+
 Nemo
+
 7
+
 COMOEDIA
+
 Nemo
 hinc
 spectârit
@@ -3640,6 +4135,7 @@ aliquam
 nobis
 fabulam
 .
+
 Id
 cur
 factum
@@ -3649,6 +4145,7 @@ si
 operam
 mihi
 dabitis
+
 Primùm
 eloquar
 ,
@@ -3656,6 +4153,7 @@ deinde
 nunc
 quid
 venerim
+
 Paucis
 dicam
 ,
@@ -3665,35 +4163,41 @@ remerit
 vestram
 omnium
 ,
+
 Si
 vultis
 auribus
 aequis
 animaduortere
 .
+
 Cùm
 primùm
 noster
 autor
 Comicus
 animum
+
 Ad
 fabulas
 scribendas
 appulisset
 id
+
 Sibi
 putauit
 facilè
 impetrari
 ab
 omnibus
+
 Vt
 quod
 scriberet
 ,
 interpretentur
 candidè
+
 Omnes
 ,
 nec
@@ -3703,6 +4207,7 @@ partem
 rapiant
 malam
 .
+
 Id
 nunc
 multò
@@ -3710,6 +4215,7 @@ aliter
 euenire
 intelligit
 .
+
 Fuere
 enim
 quidam
@@ -3717,6 +4223,7 @@ scioli
 atque
 aliquot
 leues
+
 ΚρIτικὸI
 ,
 qui
@@ -3726,12 +4233,14 @@ Esthera
 quam
 nuper
 egimus
+
 Calumniantur
 nescio
 quid
 ,
 quasi
 prius
+
 Ab
 alio
 facta
@@ -3740,11 +4249,13 @@ sit
 quasi
 noster
 simia
+
 Cuiuspiam
 alterius
 fuerit
 didascalus
 .
+
 In
 hoc
 iam
@@ -3753,6 +4264,7 @@ disputant
 factumque
 vituperant
 .
+
 Verùm
 itáne
 sit
@@ -3763,17 +4275,20 @@ autumant
 ,
 aduertite
 .
+
 Extat
 quidem
 in
 superiori
 Germania
+
 Hamanus
 ab
 Naogeorgo
 scripta
 Tragicè
 ,
+
 Quam
 qui
 cum
@@ -3781,6 +4296,7 @@ nostra
 Esthera
 conferat
 satis
+
 Comperiet
 ,
 herclè
@@ -3790,6 +4306,7 @@ mage
 conuenire
 ,
 quàm
+
 Δle
 δια
 πασῶν
@@ -3798,12 +4315,14 @@ adeò
 sunt
 disimili
 stilo
+
 Oratione
 item
 dissimili
 prorsus
 ,
 &
+
 Quod
 praecipuum
 est
@@ -3811,6 +4330,7 @@ est
 adeò
 argumento
 dißident
+
 Toto
 ,
 vt
@@ -3819,6 +4339,7 @@ qui
 vtranque
 nouerit
 .
+
 Taceo
 illam
 Tragoediam
@@ -3826,6 +4347,7 @@ Tragoediam
 hanc
 nostram
 Comoediam
+
 Esse
 ,
 vt
@@ -3835,6 +4357,7 @@ defendat
 nos
 satis
 .
+
 Iam
 &
 noster
@@ -3842,6 +4365,7 @@ hic
 sanctè
 iurare
 poßiet
+
 Se
 nunquam
 Hamanum
@@ -3849,6 +4373,7 @@ vidisse
 vspiam
 anteà
 .
+
 Imò
 sciße
 se
@@ -3857,13 +4382,17 @@ scriptum
 extare
 huiusmodi
 ,
+
 Si
 est
+
 Digitized
 by
 Google
+
 TRAGICA
 .
+
 Si
 est
 fortè
@@ -3873,6 +4402,7 @@ dicat
 constanter
 pernegat
 .
+
 Agè
 demus
 scisse
@@ -3881,12 +4411,14 @@ quid
 autem
 ?
 suggillauerit
+
 Quando
 illo
 neminem
 nec
 isthunc
 alterum
+
 In
 aliquo
 voluerit
@@ -3894,6 +4426,7 @@ reprehendere
 .
 neque
 enim
+
 Istuc
 vnquam
 in
@@ -3902,6 +4435,7 @@ induxit
 suum
 .
 Putat
+
 Licere
 id
 sibi
@@ -3911,12 +4445,14 @@ fecere
 alij
 plurimi
 ,
+
 Quorum
 multae
 de
 eadem
 re
 Comoediae
+
 Paßim
 extant
 ,
@@ -3925,12 +4461,14 @@ lubentes
 nos
 admittimus
 .
+
 Sua
 cuique
 laus
 ,
 meritaque
 existimatio
+
 Relinquitur
 :
 siquidem
@@ -3939,6 +4477,7 @@ olim
 palma
 posita
 est
+
 Omnibus
 in
 medio
@@ -3948,6 +4487,7 @@ artem
 tractant
 musicam
 .
+
 Nunc
 igitur
 hîc
@@ -3956,11 +4496,13 @@ noster
 fecit
 iudices
 ,
+
 Arbitrium
 vestrum
 ,
 vestra
 existimatio
+
 Porrò
 valebit
 ,
@@ -3968,6 +4510,7 @@ si
 quod
 isti
 maleuoli
+
 Vitio
 vortant
 ,
@@ -3976,12 +4519,14 @@ bonos
 habeat
 locum
 .
+
 Habetis
 optimi
 viri
 ,
 quur
 hactenus
+
 Vobis
 nihil
 exhibuimus
@@ -3989,6 +4534,7 @@ exhibuimus
 Nunc
 quid
 adferam
+
 Denuò
 ,
 si
@@ -3999,11 +4545,13 @@ est
 porrò
 cognoscite
 .
+
 Apportamus
 vobis
 è
 Biblijs
 sacris
+
 In
 hoc
 theatron
@@ -4012,6 +4560,7 @@ Exodum
 quam
 vt
 fabulam
+
 Non
 fabulam
 acturi
@@ -4020,12 +4569,14 @@ sumus
 hodie
 ita
 enim
+
 Voluit
 choragus
 &
 imperator
 histricus
 ,
+
 Qui
 orationem
 hanc
@@ -4034,6 +4585,7 @@ scripsit
 Nec
 verò
 ampliùs
+
 Quid
 alij
 de
@@ -4042,12 +4594,14 @@ dictitant
 ,
 curauerit
 :
+
 Quando
 neque
 Terentius
 neque
 Plautus
 Zoilis
+
 Careant
 suis
 ,
@@ -4058,6 +4612,7 @@ hîc
 se
 combarat
 .
+
 Nam
 certò
 iam
@@ -4066,10 +4621,12 @@ ab
 hinc
 annis
 sibi
+
 Obseruauit
 rebus
 praeclaris
 defore
+
 Nunquam
 suas
 pestes
@@ -4077,6 +4634,7 @@ pestes
 &
 optimis
 viris
+
 Suas
 satanas
 .
@@ -4084,29 +4642,38 @@ Ecce
 igitur
 denuò
 nouam
+
 Hanc
 Exodum
 suam
 exhibendam
 tradidit
+
 B
+
 ized
 by
 Google
+
 Ciuis
+
 8
+
 COMOEDIA
+
 Ciuis
 eliensque
 vester
 Laurimanus
 ,
 vt
+
 Vostris
 vbique
 commodis
 inseruiat
 .
+
 Nouam
 inquio
 ,
@@ -4115,6 +4682,7 @@ si
 qui
 rem
 considerant
+
 Nulla
 est
 antiquior
@@ -4124,6 +4692,7 @@ nunc
 fecit
 nouam
 ,
+
 Vt
 qui
 velint
@@ -4134,6 +4703,7 @@ simul
 &
 nouam
 .
+
 Nec
 hinc
 vicißim
@@ -4143,6 +4713,7 @@ petit
 nisi
 vt
 animo
+
 Aequo
 adsitis
 ,
@@ -4151,6 +4722,7 @@ potestatem
 ,
 vt
 modò
+
 Eam
 agere
 nobis
@@ -4158,6 +4730,7 @@ liceat
 per
 silentium
 .
+
 Non
 putat
 operaeprecium
@@ -4165,6 +4738,7 @@ esse
 vt
 hîc
 exponerem
+
 Vobis
 argumentum
 ,
@@ -4172,6 +4746,7 @@ quòd
 adeò
 sit
 Exodi
+
 Notum
 vocabulum
 ,
@@ -4179,6 +4754,7 @@ vt
 vel
 partem
 maximam
+
 Vestrum
 inde
 rem
@@ -4187,6 +4763,7 @@ scire
 satis
 existumet
 .
+
 Quis
 enim
 nescit
@@ -4194,11 +4771,13 @@ Deumolim
 per
 Mosen
 suos
+
 Ex
 Aegypto
 Israelitas
 duxisse
 per
+
 Mare
 Rubrum
 ,
@@ -4206,6 +4785,7 @@ ac
 liberasse
 de
 tyrannidè
+
 Pharaonis
 ?
 quis
@@ -4214,6 +4794,7 @@ nôrit
 ceu
 digitos
 suos
+
 Signa
 isthaec
 ac
@@ -4222,6 +4803,7 @@ prodigia
 fecit
 quae
 Elohim
+
 Prius
 ,
 Pharo
@@ -4229,6 +4811,7 @@ Israelem
 quàm
 dimitteret
 ?
+
 Haec
 omnia
 hic
@@ -4236,6 +4819,7 @@ nunc
 vobis
 exhibebimus
 ,
+
 Et
 hinc
 hodie
@@ -4243,6 +4827,7 @@ agemus
 Tragicocomoediam
 hanc
 .
+
 Nam
 vt
 fieret
@@ -4252,6 +4837,7 @@ per
 ista
 non
 licet
+
 Prodigia
 ,
 nec
@@ -4260,6 +4846,7 @@ fieri
 voluit
 Pharo
 ,
+
 Aut
 Elohim
 omnium
@@ -4267,6 +4854,7 @@ horum
 iustus
 arbiter
 .
+
 Nihil
 verò
 autor
@@ -4275,12 +4863,14 @@ me
 iußit
 proloqui
 ;
+
 Cur
 dißita
 loca
 &
 interualla
 temporum
+
 Coegerit
 in
 vnam
@@ -4289,6 +4879,7 @@ scenam
 &
 in
 idem
+
 Proscenium
 ,
 nisi
@@ -4297,12 +4888,14 @@ bonorum
 exemplum
 habet
 ,
+
 Quo
 exemplo
 sibi
 licere
 omninò
 existimat
+
 Quod
 illi
 fecere
@@ -4314,11 +4907,13 @@ numero
 Plautus
 est
 .
+
 Quapropter
 arbitratur
 aequiores
 vos
 sibi
+
 Fore
 ,
 qui
@@ -4329,18 +4924,23 @@ vobis
 .
 Proinde
 si
+
 Quid
+
 zed
 by
 Google
+
 TRAGICA
 .
+
 Quid
 fors
 per
 imprudentiam
 erratum
 siei
+
 Ab
 ludijs
 ,
@@ -4349,6 +4949,7 @@ re
 difficili
 ignoscite
 .
+
 Spectate
 ,
 adeste
@@ -4356,12 +4957,14 @@ quilibet
 ,
 iuuate
 nos
+
 Vestro
 silentio
 ,
 &
 actiones
 scenicas
+
 Nunc
 pergite
 pro
@@ -4369,6 +4972,7 @@ virili
 amare
 seriò
 .
+
 Ita
 fiet
 ,
@@ -4376,6 +4980,7 @@ vt
 nos
 alacriores
 deintegro
+
 Simus
 daturi
 alias
@@ -4384,11 +4989,13 @@ quas
 facimus
 fabulas
 :
+
 Et
 vestri
 aequanimitas
 augebit
 plurimùm
+
 Dehinc
 aliorum
 etiam
@@ -4396,6 +5003,7 @@ ad
 scribendum
 industriam
 .
+
 Sed
 ne
 quid
@@ -4405,11 +5013,13 @@ addam
 quaeso
 aduortite
 ;
+
 Vt
 pernoscatis
 quam
 Deus
 mirabilis
+
 Sit
 &
 potens
@@ -4418,20 +5028,24 @@ omnibus
 operibus
 suis
 .
+
 FINIS
 PROLOGI
 .
+
 Actus
 primi
 Scena
 prima
 .
+
 Eliabus
 solus
 .
 Trimetri
 Iamb
 .
+
 TT
 dura
 res
@@ -4442,6 +5056,7 @@ fidem
 Dei
 ,
 modò
+
 Seruom
 dici
 pro
@@ -4449,6 +5064,7 @@ libero
 :
 sic
 obrui
+
 Heu
 ,
 seruitute
@@ -4458,6 +5074,7 @@ ab
 re
 vt
 ocij
+
 Detur
 nihil
 .
@@ -4467,6 +5084,7 @@ est
 (
 nisi
 mortui
+
 Prorsus
 velimus
 esse
@@ -4475,6 +5093,7 @@ in
 fundo
 Aegyptio
 aut
+
 Arare
 ,
 aut
@@ -4486,6 +5105,7 @@ semper
 aliquid
 ,
 aut
+
 Etiam
 in
 coquendis
@@ -4493,12 +5113,14 @@ lateribus
 in
 luto
 nimis
+
 Miserè
 vitam
 exercere
 .
 Denique
 temporis
+
 Nihil
 remittitur
 ,
@@ -4506,6 +5128,7 @@ quod
 ab
 labore
 sit
+
 Vacuum
 ,
 vt
@@ -4516,6 +5139,7 @@ quàm
 sic
 viuere
 .
+
 Nae
 ille
 haud
@@ -4524,6 +5148,7 @@ quantas
 in
 vita
 poßidet
+
 Opes
 ;
 cui
@@ -4531,15 +5156,21 @@ contigit
 libertas
 aurea
 ,
+
 B
 ij
+
 Digitized
 by
 Google
+
 Cui
 ,
+
 9
+
 COMOEDIA
+
 Cui
 ,
 vt
@@ -4552,6 +5183,7 @@ facere
 impunè
 licet
 .
+
 Ad
 hoc
 malum
@@ -4560,6 +5192,7 @@ etiam
 illud
 :
 incidi
+
 In
 herum
 ,
@@ -4571,6 +5204,7 @@ humanitùs
 vt
 captus
 est
+
 Bonorum
 ,
 nos
@@ -4581,6 +5215,7 @@ vti
 mulos
 :
 neque
+
 Quid
 aequum
 vel
@@ -4589,6 +5224,7 @@ sit
 prorsus
 cogitat
 .
+
 Modò
 non
 defit
@@ -4597,6 +5233,7 @@ quod
 in
 pistrino
 perfici
+
 Dignum
 putat
 ,
@@ -4606,6 +5243,7 @@ pensi
 quicquam
 habet
 .
+
 Heri
 in
 figlinam
@@ -4614,12 +5252,14 @@ fortè
 venit
 ,
 laterculos
+
 Videt
 subalbidos
 &
 adhuc
 cineraceos
 .
+
 Ibi
 coepit
 homo
@@ -4629,12 +5269,14 @@ adeò
 vt
 crudos
 quasi
+
 Minusque
 percoctos
 plus
 quingentos
 mihi
 in
+
 Caput
 fregerit
 ,
@@ -4643,6 +5285,7 @@ totum
 tuber
 fecerit
 .
+
 Hem
 ,
 itan
@@ -4656,6 +5299,7 @@ vt
 non
 aliter
 tibi
+
 Sit
 curae
 fornax
@@ -4665,6 +5309,7 @@ tu
 istuc
 debebas
 mihi
+
 Praecauisse
 ,
 vt
@@ -4673,6 +5318,7 @@ quid
 damni
 persentiscerem
 ?
+
 Ad
 ocia
 omnes
@@ -4680,18 +5326,21 @@ estis
 plusquam
 strennui
 ,
+
 Nati
 fruges
 consumere
 :
 ad
 negocia
+
 Manus
 habetis
 non
 nisi
 papyraceas
 .
+
 Mox
 hinc
 me
@@ -4700,6 +5349,7 @@ ad
 meos
 conseruulos
 ,
+
 Vt
 visam
 ,
@@ -4709,6 +5359,7 @@ officia
 faciant
 sua
 .
+
 Deus
 bone
 ,
@@ -4718,6 +5369,7 @@ miseriam
 vidi
 ?
 piget
+
 Meminisse
 .
 illinc
@@ -4725,6 +5377,7 @@ postquam
 reuertor
 ,
 ilicò
+
 Citra
 moram
 ceu
@@ -4732,6 +5385,7 @@ per
 ferias
 fossas
 iubet
+
 Tergerier
 ,
 fodi
@@ -4741,12 +5395,14 @@ expinsi
 far
 ,
 simulque
+
 Runcari
 spinas
 &
 virgas
 vincirier
 .
+
 Ad
 alias
 inde
@@ -4756,6 +5412,7 @@ mittit
 ,
 inde
 item
+
 Ad
 alias
 ,
@@ -4766,10 +5423,12 @@ fodinas
 hîc
 opu
 st
+
 Argillam
 luteam
 bene
 elaboratam
+
 Conficere
 ,
 vt
@@ -4777,6 +5436,7 @@ optimae
 informentur
 ollulae
 ,
+
 Quas
 denuo
 in
@@ -4786,6 +5446,7 @@ ipse
 experiar
 ,
 ac
+
 Meo
 me
 conficiam
@@ -4793,22 +5454,28 @@ gladio
 ,
 si
 quippiam
+
 Digitized
 by
 Google
+
 Hype
 .
+
 Per
 imoTRAGICA
 
 
+
 .
+
 Per
 imprudentiam
 fors
 erratum
 siet
 .
+
 Breuiter
 ,
 non
@@ -4819,6 +5486,7 @@ vlla
 quam
 non
 vrgeat
+
 Suus
 labor
 .
@@ -4827,6 +5495,7 @@ posteà
 autem
 ?
 quantulus
+
 Labor
 est
 ,
@@ -4836,12 +5505,14 @@ cutis
 liueret
 verbere
 ?
+
 Vtcunque
 feceris
 omnia
 quàm
 scitißimè
 ,
+
 Nihil
 egeris
 ,
@@ -4850,6 +5521,7 @@ non
 contusae
 sint
 magis
+
 Scapulae
 ,
 quàm
@@ -4859,6 +5531,7 @@ baculo
 tundi
 solet
 .
+
 Iam
 &
 vix
@@ -4868,12 +5541,14 @@ demensum
 ,
 vt
 viuere
+
 Foeliciùs
 dicas
 in
 regno
 Cerberi
 ,
+
 Quàm
 nos
 sub
@@ -4882,6 +5557,7 @@ Parhone
 miseri
 viuimus
 .
+
 O
 si
 nunc
@@ -4890,6 +5566,7 @@ ille
 Iosephus
 adsiet
 ,
+
 Non
 sic
 pateretur
@@ -4898,6 +5575,7 @@ premi
 ,
 non
 vilia
+
 Vt
 mancipia
 haberent
@@ -4905,6 +5583,7 @@ nos
 nostri
 Aegyptij
 .
+
 Sed
 frustrà
 ego
@@ -4913,6 +5592,7 @@ rationes
 mecum
 deputo
 .
+
 Ferendum
 est
 ,
@@ -4922,6 +5602,7 @@ mutari
 non
 potest
 :
+
 Quandoquidem
 nil
 temerè
@@ -4930,6 +5611,7 @@ faciat
 ,
 feras
 .
+
 Scitum
 est
 ,
@@ -4941,12 +5623,14 @@ animo
 bono
 ,
 &
+
 Partem
 malorum
 adimere
 nobis
 maxumam
 .
+
 Sed
 quas
 matronas
@@ -4956,6 +5640,7 @@ ire
 mihi
 obuiam
 ?
+
 Hebraae
 sunt
 ,
@@ -4965,11 +5650,13 @@ adferant
 herclè
 audiam
 .
+
 Scena
 2a
 .
 Senarii
 .
+
 Pua
 ,
 Siphra
@@ -4977,6 +5664,7 @@ obstetrices
 .
 Eliabus
 .
+
 In
 tu
 ?
@@ -4989,6 +5677,7 @@ Pu
 incredibilia
 sunt
 mihi
+
 Quae
 narras
 .
@@ -4997,6 +5686,7 @@ facinus
 ?
 ne
 audiueram
+
 Quidem
 .
 Sip
@@ -5009,6 +5699,7 @@ credas
 magis
 ,
 sanctißimè
+
 Dedimus
 fidem
 ,
@@ -5020,6 +5711,7 @@ est
 ,
 quae
 secus
+
 Facere
 ausit
 .
@@ -5035,6 +5727,7 @@ Sip
 ab
 Pua
 ,
+
 Vin
 tu
 cum
@@ -5045,18 +5738,25 @@ vide
 ,
 ne
 feceris
+
 rίι
 .
 &
+
 B
 iij
+
 Tibi
 iras
+
 ed
 by
 GC
+
 10
+
 COMOEDIA
+
 Tibi
 iratum
 Iouem
@@ -5067,8 +5767,10 @@ dicas
 potius
 Apin
 .
+
 Scaz
 .
+
 Sed
 dic
 sodes
@@ -5079,6 +5781,7 @@ Sip
 .
 interminatus
 est
+
 Nobis
 noster
 seu
@@ -5088,6 +5791,7 @@ siue
 hic
 Apis
 .
+
 Pu
 .
 Regem
@@ -5104,6 +5808,7 @@ ad
 se
 vocat
 :
+
 Acceßimus
 :
 semoti
@@ -5111,6 +5816,7 @@ alij
 :
 nos
 foeminae
+
 Solae
 :
 incipit
@@ -5119,6 +5825,7 @@ Vos
 huc
 iußi
 accersirier
+
 Ad
 me
 obstetrices
@@ -5126,6 +5833,7 @@ Hebraeae
 :
 dicam
 tribus
+
 Verbis
 quid
 vos
@@ -5135,8 +5843,10 @@ Expectamus
 quid
 dicat
 .
+
 Scaz
 .
+
 Nouistis
 arbitror
 in
@@ -5144,6 +5854,7 @@ quo
 regno
 aut
 oppido
+
 Hic
 viuitis
 ,
@@ -5155,6 +5866,7 @@ Pharo
 ,
 volo
 mihi
+
 Quod
 iussero
 ratum
@@ -5162,6 +5874,7 @@ seruari
 ,
 quando
 ita
+
 Lubet
 .
 Vocate
@@ -5171,13 +5884,16 @@ grauidas
 Hebraeas
 ,
 vt
+
 Scaz
 .
+
 His
 parturientibus
 adsitis
 ,
 videbitis
+
 Vbi
 partum
 illae
@@ -5185,6 +5901,7 @@ approperant
 ,
 foetúsne
 masculus
+
 Sit
 :
 &
@@ -5197,6 +5914,7 @@ ipso
 partu
 non
 mora
+
 Vos
 hunc
 necabitis
@@ -5204,6 +5922,7 @@ necabitis
 parcetis
 nemini
 .
+
 Nolo
 mihi
 gentem
@@ -5211,6 +5930,7 @@ hanc
 luxuriare
 amplius
 .
+
 Abundè
 enim
 populosa
@@ -5219,6 +5939,7 @@ est
 praeter
 caeteras
 .
+
 Proinde
 ita
 facite
@@ -5226,6 +5947,7 @@ facite
 ni
 poenas
 contemnitis
+
 Prorsus
 ,
 quas
@@ -5233,6 +5955,7 @@ alioqui
 certò
 sperabitis
 .
+
 Id
 visus
 dicere
@@ -5242,6 +5965,7 @@ abite
 ac
 vos
 citò
+
 Suspendite
 .
 an
@@ -5249,6 +5973,7 @@ cuiquam
 homini
 tanta
 ferocitas
+
 Innata
 sit
 ?
@@ -5260,8 +5985,10 @@ quis
 regium
 dicat
 ?
+
 Scaz
 .
+
 Ah
 Siphra
 .
@@ -5272,6 +5999,7 @@ esse
 qui
 ita
 semel
+
 Omnem
 exuit
 hominem
@@ -5281,6 +6009,7 @@ nihil
 humani
 ,
 neque
+
 Iuris
 ,
 neque
@@ -5291,6 +6020,7 @@ hoc
 sit
 relliquum
 ?
+
 Elia
 .
 Aufert
@@ -5301,18 +6031,21 @@ nec
 quid
 hae
 garriant
+
 Audire
 commodè
 satis
 queo
 :
 attamen
+
 Si
 quam
 coniecturam
 facere
 liceat
 mihi
+
 Ex
 gestibus
 ,
@@ -5323,8 +6056,10 @@ est
 ,
 quod
 inter
+
 Hyp
 .
+
 Se
 versant
 adeò
@@ -5335,21 +6070,27 @@ adibo
 alloquar
 .
 
+
 2
 .
+
 SaluebiDigitized
+
 
 
 by
 Google
+
 TRAGICA
 .
+
 Saluebitis
 vos
 matronae
 quantum
 datur
 .
+
 Siph
 .
 Eadem
@@ -5360,6 +6101,7 @@ vmbras
 fumos
 hîc
 mihi
+
 Vendas
 .
 El
@@ -5373,6 +6115,7 @@ Sip
 precaris
 quo
 frui
+
 Nunquam
 licet
 .
@@ -5382,6 +6125,7 @@ tu
 nobis
 hîc
 somnias
+
 Salutem
 ,
 quae
@@ -5392,6 +6136,7 @@ El
 quid
 ?
 salueas
+
 Tamen
 quantum
 datur
@@ -5403,6 +6148,7 @@ quidem
 nihil
 est
 bone
+
 Vir
 ,
 &
@@ -5415,8 +6161,10 @@ modò
 perire
 vis
 .
+
 Scaz
 .
+
 Elia
 .
 Id
@@ -5428,6 +6176,7 @@ Hebraeis
 Pu
 .
 nos
+
 Vides
 Hebraeas
 ,
@@ -5435,6 +6184,7 @@ quod
 quidem
 nobis
 malè
+
 Vortitur
 .
 El
@@ -5442,11 +6192,13 @@ El
 existumem
 sanè
 clementiùs
+
 Apud
 Proserpinam
 manes
 tractarier
 ,
+
 Quàm
 hîc
 nos
@@ -5457,6 +6209,7 @@ si
 Dijs
 placet
 ,
+
 Nostri
 domini
 .
@@ -5468,6 +6221,7 @@ verè
 dixti
 .
 voluimus
+
 Omnes
 idem
 saxum
@@ -5478,6 +6232,7 @@ miseria
 miseriam
 ,
 &
+
 Labor
 laborem
 vt
@@ -5486,12 +6241,14 @@ vndam
 aßiduè
 trabit
 :
+
 Ita
 cathenatim
 succedunt
 sibi
 mutuò
 .
+
 Vt
 haemanus
 &
@@ -5500,6 +6257,7 @@ pedes
 satis
 indicant
 ,
+
 Quae
 plus
 quàm
@@ -5509,6 +6267,7 @@ iam
 callent
 mihi
 .
+
 Siph
 .
 Nisi
@@ -5520,6 +6279,7 @@ aliqua
 sit
 ,
 nihil
+
 Video
 salutis
 .
@@ -5529,6 +6289,7 @@ quae
 tandem
 salus
 potest
+
 Sperari
 sine
 libertatis
@@ -5536,6 +6297,7 @@ spe
 aut
 gratia
 ?
+
 Pu
 .
 Est
@@ -5546,6 +6308,7 @@ graue
 miserum
 .
 Deus
+
 Ipse
 voluit
 nos
@@ -5553,6 +6316,7 @@ omnes
 nasci
 liberos
 .
+
 Elia
 .
 Quid
@@ -5564,6 +6328,7 @@ Pu
 .
 fecit
 iniquitas
+
 Hominum
 ,
 quae
@@ -5572,8 +6337,10 @@ saepè
 consulit
 praua
 .
+
 Scaz
 .
+
 Elia
 .
 Sed
@@ -5584,6 +6351,7 @@ dudum
 fuit
 ?
 videbam
+
 Enim
 adueniens
 nescio
@@ -5593,6 +6361,7 @@ re
 vos
 loqui
 .
+
 Siph
 .
 Rogas
@@ -5606,6 +6375,7 @@ ac
 is
 ,
 in
+
 Quem
 venimus
 modò
@@ -5616,6 +6386,7 @@ fit
 quod
 quis
 malum
+
 Perfert
 ,
 vt
@@ -5626,23 +6397,31 @@ verset
 :
 nam
 iuuat
+
 Animum
 interdum
 miserias
 cum
 aliquo
 identidem
+
 "
 0
+
 B
 iiij
+
 
 Digitized
 by
 Google
+
 Confere
+
 11
+
 COMOEDIA
+
 Conferre
 .
 El
@@ -5654,6 +6433,7 @@ est
 vt
 dicis
 solatij
+
 Genus
 est
 habere
@@ -5661,12 +6441,14 @@ cuius
 in
 sinum
 tuam
+
 Subin
 aegritudinem
 euomas
 sed
 hinc
 domum
+
 Concessero
 ,
 ne
@@ -5674,6 +6456,7 @@ fustis
 me
 post
 ianuam
+
 Expectet
 ,
 qui
@@ -5682,6 +6465,7 @@ mihi
 lumbifragium
 duit
 .
+
 Pu
 .
 Forti
@@ -5692,6 +6476,7 @@ quae
 dura
 perferes
 ,
+
 Aderit
 Deus
 nobis
@@ -5699,6 +6484,7 @@ vbi
 non
 putabimus
 .
+
 Elia
 .
 Ita
@@ -5712,6 +6498,7 @@ patimur
 ò
 factum
 bene
+
 Quod
 nihil
 huic
@@ -5720,6 +6507,7 @@ de
 necandis
 foetibus
 .
+
 Pu
 .
 Dicto
@@ -5732,6 +6520,7 @@ miseris
 Siphra
 ad
 malum
+
 Hoc
 etiam
 .
@@ -5744,6 +6533,7 @@ feramus
 Pu
 .
 obsecro
+
 Mea
 tu
 feramus
@@ -5753,6 +6543,7 @@ tu
 facere
 quod
 iubet
+
 Rex
 :
 Sip
@@ -5766,6 +6557,7 @@ nulláne
 misericordia
 ,
 nullane
+
 Te
 pietas
 commouet
@@ -5778,6 +6570,7 @@ autem
 si
 mouet
 ?
+
 Regi
 obluctari
 inscitia
@@ -5789,6 +6582,7 @@ non
 id
 nego
 .
+
 Sed
 nil
 Deum
@@ -5798,6 +6592,7 @@ cogitas
 non
 feceris
 ,
+
 Quod
 hic
 non
@@ -5808,8 +6603,10 @@ consultum
 est
 hunc
 magis
+
 Scaz
 .
+
 Vereri
 ,
 quam
@@ -5822,6 +6619,7 @@ ille
 adhuc
 viuit
 .
+
 PPu
 .
 Au
@@ -5833,6 +6631,7 @@ animum
 induxeris
 tuum
 .
+
 Viuit
 ,
 breuique
@@ -5840,6 +6639,7 @@ nos
 illum
 videbimus
 .
+
 Quod
 hactenus
 opem
@@ -5848,6 +6648,7 @@ se
 nobis
 substraxerit
 ,
+
 Factum
 aliundè
 putato
@@ -5855,6 +6656,7 @@ putato
 nos
 nos
 culpabiles
+
 Sumus
 ,
 nostra
@@ -5863,6 +6665,7 @@ id
 meruere
 crimina
 .
+
 Siph
 .
 Certè
@@ -5873,6 +6676,7 @@ nolim
 scelus
 committere
 .
+
 Nunc
 demum
 intelligo
@@ -5881,6 +6685,7 @@ conetur
 rex
 ,
 timet
+
 Sibi
 ,
 ne
@@ -5889,6 +6694,7 @@ nostri
 Pharios
 opprimant
 ,
+
 Et
 ea
 nunc
@@ -5896,6 +6702,7 @@ gratia
 sobolem
 omnem
 masculam
+
 Interficit
 .
 Pu
@@ -5906,6 +6713,7 @@ putas
 &
 ne
 sibi
+
 Desint
 mancipia
 ,
@@ -5914,14 +6722,17 @@ pro
 iure
 proque
 iniuria
+
 Sept
 .
+
 Aegyptij
 vtantur
 ,
 seruabit
 filias
 ,
+
 Vt
 est
 audacia
@@ -5930,13 +6741,17 @@ Verùm
 noster
 nos
 Deus
+
 Magis
 nunc
+
 Digitized
 by
 Google
+
 TRAGICA
 .
+
 Magis
 nunc
 stimulet
@@ -5946,6 +6761,7 @@ impia
 iussa
 Principis
 .
+
 Si
 quid
 resiscat
@@ -5953,6 +6769,7 @@ hîc
 ,
 poterimus
 ilicò
+
 Quid
 comminisci
 ,
@@ -5960,6 +6777,7 @@ aut
 suggeret
 facilè
 Deus
+
 Quod
 respondebimus
 .
@@ -5969,6 +6787,7 @@ est
 difficile
 ,
 quod
+
 Narrando
 non
 facile
@@ -5979,15 +6798,18 @@ Siph
 .
 scio
 .
+
 Causabimur
 nostras
 ad
 partum
 quemlibet
+
 Procliuiores
 foeminis
 Aegyptijs
 .
+
 Ac
 in
 pariundo
@@ -5997,6 +6819,7 @@ faciles
 ,
 vt
 prius
+
 Exierit
 foetus
 ,
@@ -6005,6 +6828,7 @@ illas
 nos
 accedimus
 .
+
 Pu
 .
 Placet
@@ -6014,6 +6838,7 @@ tu
 istuc
 optumè
 Siphra
+
 Pixisti
 ,
 quòd
@@ -6021,6 +6846,7 @@ non
 omnibus
 sit
 foeminis
+
 Eadem
 natura
 :
@@ -6028,6 +6854,7 @@ alijs
 aliter
 successerit
 .
+
 Haec
 vel
 eitra
@@ -6035,6 +6862,7 @@ dolorem
 laxat
 inguina
 ,
+
 Sibique
 ipsa
 obstetricatur
@@ -6042,6 +6870,7 @@ obstetricatur
 illa
 vix
 potest
+
 Euadere
 ,
 vt
@@ -6050,6 +6879,7 @@ quidem
 expertae
 sumus
 .
+
 Sed
 hinc
 domum
@@ -6061,6 +6891,7 @@ Sip
 Vt
 lubet
 .
+
 Scena
 3a
 .
@@ -6069,11 +6900,13 @@ cum
 quibusdam
 octon
 .
+
 Pharo
 ,
 Zoroastres
 magus
 .
+
 AEc
 natio
 mihi
@@ -6081,6 +6914,7 @@ fit
 indies
 numerosior
 :
+
 Ne
 quicquam
 ego
@@ -6088,6 +6922,7 @@ iußi
 de
 suffocandis
 masculis
+
 In
 partu
 .
@@ -6096,6 +6931,7 @@ contemnor
 ?
 obstetrices
 singulas
+
 Ad
 me
 vocaui
@@ -6104,6 +6940,7 @@ causam
 praetexunt
 hae
 nescio
+
 Quam
 .
 proinde
@@ -6116,6 +6953,7 @@ ratione
 fieri
 queat
 .
+
 Zor
 .
 Rex
@@ -6128,6 +6966,7 @@ audiam
 tibi
 respondero
 .
+
 Pha
 .
 Vt
@@ -6136,6 +6975,7 @@ filios
 viuos
 seruarier
 ,
+
 Rem
 sciscitatus
 sum
@@ -6145,6 +6985,7 @@ cur
 aut
 qua
 gratia
+
 Fecissent
 ,
 dicut
@@ -6153,6 +6994,7 @@ Hebraeas
 esse
 vt
 caeterae
+
 Sunt
 foeminae
 ,
@@ -6162,11 +7004,16 @@ vegetas
 ad
 partum
 quemlibet
+
 Faciles
+
 B
 ν
+
 12
+
 COMOERIA
+
 Faciles
 ,
 vt
@@ -6179,6 +7026,7 @@ quàm
 accedat
 obstetrix
 .
+
 At
 mihi
 verisimile
@@ -6190,6 +7038,7 @@ quomodo
 haec
 ratio
 tibi
+
 Constet
 ,
 dispice
@@ -6203,6 +7052,7 @@ fieri
 Zor
 .
 puto
+
 Equidem
 posse
 :
@@ -6211,6 +7061,7 @@ enim
 natura
 est
 omnibus
+
 Eadem
 .
 id
@@ -6223,6 +7074,7 @@ est
 videre
 .
 non
+
 Lucina
 fert
 ex
@@ -6232,6 +7084,7 @@ quibuslibet
 ,
 sed
 huic
+
 Citius
 ,
 illi
@@ -6243,6 +7096,7 @@ vel
 nuquam
 ,
 prout
+
 Vocata
 abesse
 etiam
@@ -6253,6 +7107,7 @@ Ph
 memini
 quidem
 .
+
 Zor
 .
 Vidésnequibus
@@ -6263,6 +7118,7 @@ restricta
 ,
 vel
 nimis
+
 Arctata
 ,
 his
@@ -6272,6 +7128,7 @@ partum
 sine
 periculo
 ?
+
 Pha
 .
 Audiui
@@ -6287,6 +7144,7 @@ plana
 ,
 patentia
 ,
+
 Vt
 vel
 citra
@@ -6296,6 +7154,7 @@ pariant
 Agè
 hoc
 tibi
+
 Lucidius
 atque
 tam
@@ -6307,12 +7166,14 @@ sol
 est
 fecero
 .
+
 Aßimulato
 vterum
 foeminae
 cuiuis
 vasculo
 .
+
 Pha
 .
 Probè
@@ -6328,12 +7189,14 @@ et
 angulosum
 tibi
 siet
+
 Pistortum
 ,
 anfractuosum
 &
 implicatum
 plurimis
+
 Inuolucris
 ,
 vt
@@ -6348,6 +7211,7 @@ Oct
 .
 Cat
 .
+
 (
 Quae
 in
@@ -6358,6 +7222,7 @@ in
 modum
 coaguli
 )
+
 Post
 id
 locorum
@@ -6368,6 +7233,7 @@ extraxeris
 ,
 neque
 citra
+
 Iacturam
 vasculi
 exierit
@@ -6377,6 +7243,7 @@ sic
 putato
 ,
 si
+
 Sint
 in
 vtero
@@ -6388,6 +7255,7 @@ aut
 quae
 infantem
 foras
+
 Nitentem
 impediunt
 ,
@@ -6396,6 +7264,7 @@ partum
 diu
 morarier
 .
+
 Pha
 .
 Dicis
@@ -6410,6 +7279,7 @@ verisimilia
 vt
 his
 verius
+
 Nihil
 sit
 .
@@ -6421,6 +7291,7 @@ meatus
 si
 nimis
 fuant
+
 Astricti
 ?
 Atque
@@ -6431,6 +7302,7 @@ nec
 ausim
 verè
 dicere
+
 Anvel
 ideò
 illud
@@ -6440,6 +7312,7 @@ inter
 vulgatum
 siet
 :
+
 Locusta
 si
 Lucam
@@ -6449,6 +7322,7 @@ pariet
 tu
 quid
 velim
+
 Satis
 tenes
 .
@@ -6462,6 +7336,7 @@ iam
 nec
 adeò
 rudis
+
 Es
 ,
 aut
@@ -6472,6 +7347,7 @@ vt
 non
 facilè
 intelligas
+
 Quid
 sit
 ,
@@ -6483,8 +7359,10 @@ adsit
 maie
 viro
 .
+
 (
 via
+
 Ph
 .
 Intelligo
@@ -6500,11 +7378,16 @@ Zor
 certé
 no
 hac
+
 Quicam
+
 0
+
 TRAGICA
 .
+
 13
+
 Quicquam
 promoueris
 ,
@@ -6514,6 +7397,7 @@ tentandum
 est
 tibi
 .
+
 Pha
 .
 Zorastre
@@ -6523,6 +7407,7 @@ patiar
 hanc
 multitudinem
 magis
+
 Augerier
 ,
 etiamsi
@@ -6530,8 +7415,10 @@ omnes
 homines
 mihi
 .
+
 Sen
 .
+
 Inimicos
 capiundos
 sciam
@@ -6542,6 +7429,7 @@ Nae
 tu
 si
 semina
+
 Naturae
 obstipas
 ,
@@ -6551,6 +7439,7 @@ est
 ,
 ne
 tibi
+
 Contingat
 quasi
 cum
@@ -6558,6 +7447,7 @@ Coryco
 quodam
 luctarier
 .
+
 Phar
 .
 Habeo
@@ -6569,6 +7459,7 @@ facilè
 probabis
 optimum
 .
+
 Zor
 .
 Quod
@@ -6582,6 +7473,7 @@ prorsus
 recutitos
 hos
 semel
+
 Delere
 ,
 ne
@@ -6589,6 +7481,7 @@ quod
 nominis
 Hebraei
 vestigium
+
 Relinquatur
 residuum
 .
@@ -6598,6 +7491,7 @@ sum
 .
 solùm
 meos
+
 Fouebo
 Pharios
 ,
@@ -6607,6 +7501,7 @@ sceptra
 administrabo
 mea
 .
+
 Zor
 .
 Aequum
@@ -6620,6 +7515,7 @@ pugnauero
 Pha
 .
 proin
+
 Edictum
 promulgabo
 omni
@@ -6628,6 +7524,7 @@ populo
 omnem
 vt
 masculam
+
 Prolem
 à
 partu
@@ -6637,6 +7534,7 @@ profluentem
 sine
 mora
 :
+
 Sed
 omnem
 foeminam
@@ -6644,6 +7542,7 @@ sibi
 permittant
 viuere
 .
+
 Zor
 .
 Prouinciam
@@ -6655,6 +7554,7 @@ aequum
 erit
 exequi
 .
+
 Phar
 .
 Siue
@@ -6668,6 +7568,7 @@ deque
 habeò
 ,
 mihi
+
 Quando
 sic
 lubitum
@@ -6679,6 +7580,7 @@ si
 vixero
 ,
 pedem
+
 Nullus
 mouebit
 .
@@ -6691,15 +7593,19 @@ Zor
 .
 optumen
 .
+
 2
+
 Scena
 42
 Trimetri
 .
+
 Maria
 .
 Iocobela
 .
+
 Ono
 animo
 sis
@@ -6707,12 +7613,14 @@ mater
 :
 Deus
 fraterculum
+
 Meum
 seruauit
 ,
 lamentari
 desine
 .
+
 
 Iocob
 .
@@ -6728,8 +7636,10 @@ fuit
 charis(
 
 
+
 simum
 ?
+
 Ah
 mi
 filiole
@@ -6738,6 +7648,7 @@ deliciae
 meae
 vnicae
 :
+
 O
 gnate
 gnate
@@ -6748,6 +7659,7 @@ vtero
 tuli
 meo
 ,
+
 Quem
 multis
 peperi
@@ -6756,6 +7668,7 @@ miserijs
 quem
 clam
 Parhone
+
 Occului
 menseis
 tres
@@ -6764,8 +7677,11 @@ tres
 si
 liceat
 adhuc
+
 Te
 oeCOMOEDIA
+
+
 
 
 Te
@@ -6779,6 +7695,7 @@ me
 ,
 imò
 puer
+
 Miselle
 quid
 te
@@ -6787,6 +7704,7 @@ fiet
 quem
 iam
 viuere
+
 Non
 arbitror
 ?
@@ -6794,6 +7712,7 @@ Deus
 te
 mi
 dulcißime
+
 Fili
 seruaßit
 .
@@ -6803,6 +7722,7 @@ mater
 mitte
 lacrumas
 .
+
 Ego
 tibi
 tuum
@@ -6810,6 +7730,7 @@ gnatum
 seruatum
 nuncio
 .
+
 Sola
 es
 ,
@@ -6822,8 +7743,10 @@ Ioc
 quid
 tu
 mihi
+
 Scaz
 .
+
 Misera
 loqueris
 ?
@@ -6835,6 +7758,7 @@ filium
 tuum
 saluum
 .
+
 Bono
 animo
 es
@@ -6851,6 +7775,7 @@ soleris
 Ma
 .
 bono
+
 Animo
 es
 inquam
@@ -6860,6 +7785,7 @@ eductum
 de
 flumine
 .
+
 Iocob
 .
 Obsecro
@@ -6873,6 +7799,7 @@ mater
 tene
 ego
 ?
+
 Ne
 viuam
 ,
@@ -6882,23 +7809,27 @@ falsi
 dixerim
 tibi
 .
+
 Vt
 obseruabam
 quo
 secundo
 flumine
+
 Tuus
 iste
 laberetur
 infans
 ,
 commodùm
+
 Huc
 mox
 descendit
 propter
 amnem
 filia
+
 Regis
 ,
 videt
@@ -6908,6 +7839,7 @@ ext
 rabi
 iubet
 .
+
 Ego
 statim
 ad
@@ -6918,6 +7850,7 @@ atque
 eccam
 .
 viden
+
 Quid
 portet
 ?
@@ -6930,6 +7863,7 @@ te
 illi
 mater
 nutricem
+
 Adduxero
 :
 ne
@@ -6940,6 +7874,7 @@ in
 mora
 sies
 .
+
 Scena
 5a
 .
@@ -6948,6 +7883,7 @@ generis
 cum
 superiorib
 .
+
 Thermuthis
 ,
 Palaestra
@@ -6956,6 +7892,7 @@ locobela
 ,
 Maria
 .
+
 Er
 pol
 scitus
@@ -6964,6 +7901,7 @@ puer
 Palaestra
 ,
 commodè
+
 Nos
 lotum
 abiuimus
@@ -6973,6 +7911,7 @@ Pal
 Hera
 inspiciebam
 procul
+
 E
 littore
 rectà
@@ -6981,6 +7920,7 @@ nos
 cistellam
 appellere
 .
+
 Ther
 .
 Ah
@@ -6993,6 +7933,7 @@ lacruma
 Palaestra
 vide
 obsecro
+
 Vt
 scitulè
 membra
@@ -7002,6 +7943,7 @@ sunt
 vt
 formosula
 ,
+
 Vt
 pinguiuscula
 ?
@@ -7009,6 +7951,7 @@ heu
 tenelli
 digituli
 ,
+
 Labella
 heu
 rosea
@@ -7017,6 +7960,7 @@ infantule
 heu
 puposule
 ,
+
 
 Quis
 in
@@ -7028,15 +7972,21 @@ fuit
 vt
 sic
 mitteret
+
 Fi
 .
 .
+
 Te
 in
+
 ogl
+
 TRAGICA
 .
+
 14
+
 Te
 in
 profluentem
@@ -7045,6 +7995,7 @@ aquam
 Palaestra
 non
 mihi
+
 Fit
 dubium
 ,
@@ -7054,6 +8005,7 @@ ex
 Hebraeis
 masculis
 .
+
 Palae
 .
 Ita
@@ -7070,6 +8022,7 @@ quid
 misera
 dicam
 ?
+
 Hoccine
 tibi
 est
@@ -7078,6 +8031,7 @@ factum
 ?
 aut
 hoccine
+
 Est
 officium
 &
@@ -7086,6 +8040,7 @@ regis
 ?
 quid
 tibi
+
 Fecere
 hi
 paruuli
@@ -7094,6 +8049,7 @@ quos
 pro
 certo
 scio
+
 Esse
 extra
 omnem
@@ -7102,6 +8058,7 @@ aleam
 ?
 quem
 miselluli
+
 Huius
 non
 commiserescat
@@ -7110,6 +8067,7 @@ hunc
 quis
 perduit
 ?
+
 Pal
 .
 Hera
@@ -7119,6 +8077,7 @@ hanc
 arculam
 ,
 miraberis
+
 Artificium
 .
 Ther
@@ -7130,6 +8089,7 @@ est
 Sed
 dic
 bona
+
 Fide
 ,
 nihil
@@ -7138,6 +8098,7 @@ vidisti
 conclusum
 magis
 ?
+
 Nullan
 crepundia
 ,
@@ -7147,6 +8108,7 @@ aliqua
 ,
 quae
 solent
+
 Matres
 piae
 addere
@@ -7157,6 +8119,7 @@ fors
 extracti
 ex
 aqua
+
 Viuant
 ,
 expertes
@@ -7165,8 +8128,10 @@ sint
 liberi
 patris
 sui
+
 Sept
 .
+
 Bonorum
 ?
 Pal
@@ -7178,6 +8143,7 @@ rogitas
 ,
 tute
 quom
+
 De
 flumine
 excepisti
@@ -7185,6 +8151,7 @@ excepisti
 aecastor
 nil
 ego
+
 Vidi
 nisi
 arculam
@@ -7194,6 +8161,7 @@ quam
 nunc
 manibus
 tenes
+
 Bitumine
 &
 pice
@@ -7203,6 +8171,7 @@ vti
 nunc
 habes
 ,
+
 Et
 hunc
 miserum
@@ -7210,6 +8179,7 @@ puellum
 ad
 ripam
 fluminis
+
 Sic
 in
 carecto
@@ -7220,6 +8190,7 @@ Ther
 polminimè
 hic
 siet
+
 Misericors
 ,
 quisquis
@@ -7228,6 +8199,7 @@ miseros
 sic
 abijcit
 .
+
 Indigna
 matris
 nomine
@@ -7236,6 +8208,7 @@ est
 quae
 non
 suum
+
 Lactat
 foetum
 :
@@ -7243,6 +8216,7 @@ quanquam
 istuc
 inuitae
 modò
+
 Faciant
 matres
 Hebraeae
@@ -7250,6 +8224,7 @@ Hebraeae
 non
 illa
 impia
+
 Prorsus
 fuit
 ,
@@ -7258,6 +8233,7 @@ sic
 compegit
 in
 arculam
+
 Infantem
 hunc
 ,
@@ -7265,6 +8241,7 @@ quae
 simulare
 mortem
 maluit
+
 Verbis
 &
 ipsa
@@ -7274,6 +8251,7 @@ vitae
 spem
 dare
 ,
+
 Quam
 simul
 animum
@@ -7281,6 +8259,7 @@ maternum
 negligere
 ac
 statim
+
 Aliquo
 modo
 interimere
@@ -7288,6 +8267,7 @@ interimere
 quales
 olim
 apud
+
 Seclum
 prius
 fuere
@@ -7295,6 +8275,7 @@ fuere
 quales
 nunc
 quoque
+
 Nostra
 videt
 aetas
@@ -7308,12 +8289,16 @@ hîc
 te
 maceras
 ?
+
 Ther
 .
+
 ed
 by
 Googl
+
 COMOEDIA
+
 Ther
 .
 Palaestra
@@ -7322,6 +8307,7 @@ animo
 ,
 qui
 regibus
+
 Ex
 omnibus
 vnicè
@@ -7329,6 +8315,7 @@ vnus
 perhibetur
 probus
 ,
+
 Eum
 nunc
 improbi
@@ -7336,6 +8323,7 @@ viri
 officio
 vtier
 .
+
 Pal
 .
 Au
@@ -7349,11 +8337,13 @@ Ther
 quòd
 hic
 iniurias
+
 His
 atque
 huiusmodi
 innocentibus
 facit
+
 Immeritò
 ,
 Palaestra
@@ -7363,8 +8353,10 @@ modò
 *
 poenitet
 .
+
 saturat
 .
+
 Vtinam
 Dij
 faxint
@@ -7373,6 +8365,7 @@ aliquando
 ad
 se
 miser
+
 Redeat
 .
 Pal
@@ -7387,6 +8380,7 @@ Th
 Est
 in
 principe
+
 Difficile
 ,
 qui
@@ -7395,8 +8389,10 @@ quod
 alij
 suadent
 ,
+
 Scaz
 .
+
 Nimis
 facilè
 credunt
@@ -7404,6 +8400,7 @@ credunt
 atque
 in
 sententias
+
 Horum
 subinde
 iurant
@@ -7413,6 +8410,7 @@ neque
 ius
 ,
 neque
+
 Bonum
 aut
 aequum
@@ -7422,8 +8420,10 @@ qui
 siue
 melius
 seu
+
 Staz
 .
+
 PPeius
 ,
 prosit
@@ -7434,6 +8434,7 @@ nihil
 quicquam
 vident
 ,
+
 Nisi
 quod
 lubet
@@ -7445,6 +8446,7 @@ sic
 est
 .
 attamen
+
 Quid
 faciemus
 puero
@@ -7456,11 +8458,14 @@ etiam
 mea
 tu
 rog
+
 as
 ?
+
 pro
 meo
 .
+
 Tollam
 .
 Pal
@@ -7476,6 +8481,7 @@ inquam
 ,
 &
 habebo
+
 Pal
 .
 Tantillum
@@ -7486,8 +8492,10 @@ Ther
 adeon
 me
 inhumanam
+
 putas
 ,
+
 Adeò
 ignauam
 ,
@@ -7498,6 +8506,7 @@ animo
 obiecit
 meo
 ,
+
 Quem
 sustuli
 semel
@@ -7509,6 +8518,7 @@ alam
 Pal
 .
 licet
+
 Hera
 .
 Mar
@@ -7522,6 +8532,7 @@ hic
 est
 tuus
 ?
+
 Ther
 .
 Quid
@@ -7538,6 +8549,7 @@ Ther
 .
 pro
 meo
+
 PPosthac
 habebitur
 ,
@@ -7545,6 +8557,7 @@ qualem
 qualem
 vides
 ,
+
 Mar
 .
 Elegans
@@ -7556,8 +8569,10 @@ huc
 adducam
 nutricem
 tibi
+
 Sept
 .
+
 Quae
 lactet
 ipsum
@@ -7568,6 +8583,7 @@ prorsus
 ,
 ex
 nutricibus
+
 Hebraeis
 .
 atque
@@ -7576,6 +8592,7 @@ puellula
 tempus
 est
 ,
+
 Abi
 ,
 voca
@@ -7586,6 +8603,7 @@ mihi
 quam
 optimam
 .
+
 Mar
 .
 Eo
@@ -7599,12 +8617,14 @@ fleam
 ,
 vbi
 intuor
+
 Hos
 molliculos
 lacertos
 ,
 hoc
 corpusculum
+
 Tenellum
 sic
 abiectum
@@ -7613,6 +8633,7 @@ tace
 ,
 tace
 obsecro
+
 Infantule
 ,
 meus
@@ -7622,6 +8643,7 @@ tace
 ne
 lachruma
 .
+
 Ioco
 .
 nin
@@ -7631,13 +8653,18 @@ fratrem
 ,
 quem
 sustulit
+
 Theri
+
 Digitized
 by
 Google
+
 TRAGICA
 .
+
 15
+
 Thermuthis
 filia
 Pharaonis
@@ -7645,6 +8672,7 @@ Pharaonis
 Ma
 .
 eminus
+
 Quod
 vidi
 .
@@ -7654,6 +8682,7 @@ mater
 sperabam
 fore
 .
+
 Ioco
 .
 Et
@@ -7669,6 +8698,7 @@ te
 missa
 sum
 .
+
 Iocob
 .
 Dij
@@ -7678,6 +8708,7 @@ optata
 omnia
 offerant
 .
+
 Vbi
 ea
 est
@@ -7692,6 +8723,7 @@ Iocob
 salus
 tibi
 regia
+
 Filia
 ,
 men
@@ -7706,6 +8738,7 @@ mulier
 quod
 vtrique
 Pij
+
 Vortant
 bene
 .
@@ -7714,6 +8747,7 @@ vides
 infantem
 paruolum
 ?
+
 Iocob
 .
 Video
@@ -7726,6 +8760,7 @@ quasi
 biduanus
 est
 .
+
 Ther
 .
 Hunc
@@ -7737,6 +8772,7 @@ fidei
 vti
 non
 secus
+
 Lactes
 ,
 habeasque
@@ -7748,6 +8784,7 @@ te
 natus
 siet
 .
+
 Iocob
 .
 Equidem
@@ -7759,6 +8796,7 @@ in
 me
 officium
 sedulae
+
 Nutricis
 defuisse
 vnquam
@@ -7769,8 +8807,10 @@ Ther
 curato
 sic
 ,
+
 Sept
 .
+
 Quasi
 tumater
 sis
@@ -7780,6 +8820,7 @@ quasi
 hîc
 sit
 filius
+
 Tuus
 :
 impensas
@@ -7787,6 +8828,7 @@ ac
 mercedem
 auferes
 tibi
+
 Ame
 .
 Iocob
@@ -7797,6 +8839,7 @@ dicis
 habeo
 gratiam
 .
+
 Ther
 .
 Habebis
@@ -7807,6 +8850,7 @@ huius
 nec
 tu
 secus
+
 Opinabere
 .
 Iocob
@@ -7816,6 +8860,7 @@ cuius
 sit
 filius
 ,
+
 Id
 prorsus
 nil
@@ -7825,6 +8870,7 @@ mea
 huic
 ego
 faciam
+
 Quod
 aequom
 est
@@ -7836,6 +8882,7 @@ eductum
 ,
 vt
 quidem
+
 Teque
 &
 tuis
@@ -7849,11 +8896,13 @@ pol
 faxint
 Pij
 .
+
 Adultum
 autem
 vocabis
 apto
 nomine
+
 Mosen
 ,
 quòd
@@ -7863,6 +8912,7 @@ flumine
 sic
 extraxerim
 .
+
 Iocob
 .
 Et
@@ -7876,6 +8926,7 @@ Dij
 dent
 vt
 in
+
 Virum
 euadat
 opera
@@ -7883,6 +8934,7 @@ tua
 ,
 quando
 puer
+
 Forma
 est
 sat
@@ -7893,6 +8945,7 @@ Ioc
 id
 aedepol
 fore
+
 Speramus
 :
 à
@@ -7900,6 +8953,7 @@ me
 non
 erit
 periculi
+
 Quicquam
 puero
 .
@@ -7910,6 +8964,7 @@ vti
 secura
 sis
 .
+
 Ther
 .
 Panniculos
@@ -7919,6 +8974,7 @@ linteola
 tenues
 subuculas
 ,
+
 Et
 fasciolas
 ,
@@ -7927,6 +8983,7 @@ ipsum
 fasciabis
 :
 haec
+
 Omnia
 petes
 à
@@ -7936,6 +8993,7 @@ ac
 dabuntur
 ilicò
 .
+
 Postideà
 tuniculas
 ,
@@ -7943,12 +9001,16 @@ interulam
 ,
 caligulas
 ,
+
 Calceozed
+
 
 
 by
 Google
+
 COMOEDIA
+
 Calceolos
 ,
 bullas
@@ -7956,6 +9018,7 @@ aureas
 ,
 crepundia
 ,
+
 Et
 quibus
 haec
@@ -7965,6 +9028,7 @@ sese
 oblectat
 ,
 tibi
+
 Vltro
 suppeditabo
 ,
@@ -7972,6 +9036,7 @@ atque
 horum
 omnium
 nihil
+
 Desiderabis
 .
 Ioc
@@ -7982,6 +9047,7 @@ optumè
 Ther
 .
 proin
+
 Arrae
 loco
 hunc
@@ -7991,6 +9057,7 @@ accipe
 aureum
 ,
 vide
+
 Vt
 huius
 curam
@@ -7998,6 +9065,7 @@ gnauiter
 habeas
 :
 bene
+
 Tecum
 fuisse
 actum
@@ -8007,12 +9075,14 @@ Ioc
 .
 non
 deseram
+
 In
 educando
 officium
 nutricis
 bonae
 .
+
 Ther
 .
 Vale
@@ -8024,6 +9094,7 @@ vale
 dulcis
 pusio
 .
+
 Iocob
 .
 Vale
@@ -8036,13 +9107,16 @@ audin
 ?
 Iocob
 .
+
 quid
 est
 ?
+
 Ther
 .
 caue
 dixeris
+
 Cuiquam
 ,
 ne
@@ -8053,6 +9127,7 @@ permánet
 ,
 ac
 mihi
+
 Irritatus
 siet
 .
@@ -8063,6 +9138,7 @@ ex
 me
 nouerit
 .
+
 Ther
 .
 Palaestra
@@ -8074,6 +9150,7 @@ Hebraeis
 ;
 ne
 pater
+
 Resiscat
 ,
 cautio
@@ -8085,6 +9162,7 @@ rectè
 spero
 aedepol
 .
+
 Clàm
 quoi
 pietas
@@ -8093,6 +9171,7 @@ adest
 meretur
 probalàm
 .
+
 Ther
 .
 Haec
@@ -8102,6 +9181,7 @@ praemium
 sibi
 duit
 .
+
 Sed
 intrò
 nos
@@ -8111,6 +9191,7 @@ cui
 oriatur
 suspectio
 .
+
 Scena
 62
 .
@@ -8118,11 +9199,14 @@ Trimetri
 vt
 superiores
 .
+
 Demarchus
 ,
 Eliabus
 .
+
 1
+
 Em
 cessator
 ,
@@ -8132,6 +9216,7 @@ fice
 viden
 in
 manu
+
 Fustem
 ?
 hunc
@@ -8141,6 +9226,7 @@ caput
 tuum
 librauero
 .
+
 AHoccine
 ages
 ,
@@ -8152,6 +9238,7 @@ te
 ego
 verbis
 meis
+
 Semel
 audientem
 facere
@@ -8159,6 +9246,7 @@ facere
 quin
 mihi
 ocyus
+
 Laboras
 ?
 El
@@ -8171,12 +9259,14 @@ mihere
 Dem
 .
 Vide
+
 Vtos
 putidum
 sibi
 distorsit
 carnufex
 .
+
 Quid
 ita
 istuc
@@ -8188,6 +9278,7 @@ vin
 hîc
 cerebro
 tuo
+
 Vias
 dispergier
 ?
@@ -8195,14 +9286,18 @@ propudium
 hominis
 ,
 scelus
+
 Vt
 stat
 ,
+
 ed
 by
 Googl
+
 TRAGICA
 .
+
 Vt
 stat
 ,
@@ -8212,6 +9307,7 @@ consutas
 habeat
 manus
 .
+
 Eliab
 .
 Identidem
@@ -8221,6 +9317,7 @@ saepius
 feci
 ,
 inspice
+
 Quaeso
 an
 gleba
@@ -8230,6 +9327,7 @@ sic
 satis
 subactasit
 .
+
 Dem
 .
 Sceleste
@@ -8241,6 +9339,7 @@ sic
 tibi
 subactasit
 .
+
 Men
 istuc
 tu
@@ -8255,6 +9354,7 @@ hei
 vt
 durus
 es
+
 Mihi
 praeter
 aequum
@@ -8265,6 +9365,7 @@ me
 ob
 verbulum
 .
+
 Dem
 .
 Quid
@@ -8273,6 +9374,7 @@ scelestus
 ,
 odiosè
 sin
+
 Tuvt
 res
 tibi
@@ -8283,6 +9385,7 @@ caue
 quicquam
 hîc
 mutias
+
 Hodie
 ,
 ne
@@ -8291,6 +9394,7 @@ libuerit
 ,
 continuo
 tibi
+
 Hic
 pugnus
 in
@@ -8300,6 +9404,7 @@ haereat
 Quid
 nuncteho
 ,
+
 Quo
 nunc
 abis
@@ -8309,6 +9414,7 @@ heus
 tu
 plumbee
 ,
+
 Fugitiue
 ,
 malè
@@ -8317,6 +9423,7 @@ conciliate
 an
 te
 poenitet
+
 Quantum
 hîc
 fit
@@ -8329,6 +9436,7 @@ dico
 edico
 tibi
 ,
+
 Si
 quid
 cessare
@@ -8336,6 +9444,7 @@ te
 hodie
 depraehendero
 ,
+
 Continuò
 te
 tam
@@ -8343,6 +9452,7 @@ mollem
 faxo
 fustibus
 ,
+
 Quàm
 vllus
 cynaedus
@@ -8355,6 +9465,7 @@ hei
 nostri
 te
 Deus
+
 Aliquando
 misereat
 .
@@ -8363,6 +9474,7 @@ Dem
 scelus
 quid
 murmurat
+
 Adhuc
 ?
 El
@@ -8375,6 +9487,7 @@ vt
 hoc
 pacto
 diu
+
 Apud
 te
 seruiam
@@ -8385,6 +9498,7 @@ morere
 ,
 morere
 miser
+
 Et
 vapula
 .
@@ -8399,12 +9513,14 @@ verberas
 Dem
 .
 tibi
+
 Ego
 rationem
 reddam
 stimulorum
 seges
 !
+
 Vt
 sis
 miser
@@ -8414,6 +9530,7 @@ enecem
 :
 opera
 tua
+
 Mihi
 est
 ,
@@ -8422,6 +9539,7 @@ oratio
 conducta
 .
 denique
+
 Te
 seruom
 hominem
@@ -8431,6 +9549,7 @@ cogita
 me
 liberum
 :
+
 Te
 viuere
 alieni
@@ -8438,6 +9557,7 @@ iuris
 &
 iniuriae
 ,
+
 Me
 autem
 facere
@@ -8447,9 +9567,11 @@ collubitum
 est
 semel
 .
+
 υ
 .
 *
+
 Proin
 tace
 ac
@@ -8458,6 +9580,7 @@ labora
 ne
 totum
 caput
+
 Tibi
 fißile
 faxo
@@ -8466,12 +9589,14 @@ neve
 hos
 lapides
 sanguine
+
 Tuo
 mox
 bellè
 purpurißitos
 feras
 .
+
 Vos
 alij
 sultis
@@ -8480,6 +9605,7 @@ intrò
 auferte
 .
 dein
+
 Hos
 lateres
 in
@@ -8487,21 +9613,29 @@ metas
 simul
 componite
 .
+
 C
+
 Curadibzy
+
 
 
 G
 Google
+
 16
+
 COMOEDIA
+
 in
 vicis
 ac
 pomerijs
+
 lumbinum
 stercus
 mih
+
 te
 ,
 aut
@@ -8510,18 +9644,21 @@ non
 poterit
 ,
 bi
+
 ist
 haec
 simul
 omnia
 ,
 ne
+
 Quom
 ego
 reuertor
 post
 vberes
 virgide
+
 In
 pistrinum
 dedam
@@ -8529,6 +9666,7 @@ vos
 discipulos
 cruci
 .
+
 Elia
 .
 Deum
@@ -8538,6 +9676,7 @@ quae
 haec
 est
 mise
+
 Est
 esse
 seruom
@@ -8546,6 +9685,7 @@ hoccine
 seruire
 liberis
 ?
+
 Malim
 herclè
 in
@@ -8553,6 +9693,7 @@ Aegypto
 canis
 quàm
 seruolus
+
 Dici
 ,
 adeò
@@ -8561,9 +9702,11 @@ indignis
 exercent
 modis
 ,
+
 C
 .
 „
+
 Qui
 coria
 nostra
@@ -8571,6 +9714,7 @@ pro
 incude
 sibi
 ferrea
+
 Habent
 ,
 quibus
@@ -8580,6 +9724,7 @@ sunt
 manus
 ,
 nisi
+
 Ad
 verbera
 :
@@ -8587,6 +9732,7 @@ quibus
 aedepol
 quantò
 aequius
+
 Foret
 ,
 si
@@ -8594,6 +9740,7 @@ meminerit
 miseris
 nobis
 dare
+
 Demensum
 ,
 vt
@@ -8603,6 +9750,7 @@ nos
 petimus
 quidem
 .
+
 Hîc
 fraudant
 ,
@@ -8611,6 +9759,7 @@ indulgent
 nimis
 :
 famem
+
 Et
 fustes
 qui
@@ -8621,6 +9770,7 @@ lautè
 hîc
 vixerit
 .
+
 Sed
 ò
 Deus
@@ -8633,6 +9783,7 @@ patimur
 nunquam
 in
 te
+
 Nos
 miseri
 velut
@@ -8640,6 +9791,7 @@ velut
 machina
 videbimus
 ?
+
 Nascere
 semel
 ò
@@ -8650,12 +9802,14 @@ in
 medijs
 malis
 ,
+
 Tuosque
 liberali
 assere
 causa
 manu
 ,
+
 Ne
 vsque
 in
@@ -8663,8 +9817,10 @@ carnificinis
 his
 consenescamus
 .
+
 Scaz
 .
+
 Sed
 haec
 mei
@@ -8672,6 +9828,7 @@ tergi
 loquor
 fiducia
 ,
+
 Quòd
 interim
 in
@@ -8679,8 +9836,10 @@ labore
 proficio
 parum
 .
+
 Israelitarum
 .
+
 Chorus
 I
 .
@@ -8688,205 +9847,260 @@ Ex
 pueris
 &
 puellis
+
 B
 .
 2
+
 Iambici
 Dimetri
 omnes
 .
+
 8
+
 Nil
 seruitute
 est
 durius
 ,
+
 Plagasque
 heriles
 perpeti
 :
+
 Potißimùm
 qui
 libero
+
 
 Natus
 parente
 huc
 cogitur
+
 3
 
+
 Primi
+
 
 32
 .
+
 Digitized
 by
 Go
+
 TRAGICA
 .
+
 Primi
 parentes
 liberi
+
 Fuere
 ,
 ducti
 non
 quidem
+
 In
 tantali
 ,
 Hesperiosve
+
 sed
+
 In
 hortulos
 Paradiseos
 .
+
 o
+
 Hîc
 quod
 libebat
 pro
 suo
+
 Licebat
 arbitrio
 :
 Deus
+
 Hos
 liberos
 voluit
 datis
+
 Bonis
 fruisci
 perpetim
 .
+
 Moxnegligentes
 iussuum
+
 DDei
 rebelles
 incidunt
+
 In
 seruitutem
 ,
 quam
 suis
+
 Item
 dedere
 posteris
+
 Quicunque
 perfractarius
+
 Sequitur
 rebellionem
 Adae
 ,
+
 Hic
 sentiet
 quod
 in
 suo
+
 Expertus
 ille
 est
 corpore
 .
+
 Fit
 culpa
 cuique
 seruitus
 ,
+
 Seruire
 virtus
 non
 potest
 .
+
 Laxata
 cunctis
 vinculis
+
 Vagatur
 huc
 &
 huc
 frequens
 .
+
 Hic
 seruus
 est
 ,
 qui
 crimini
+
 Obnoxius
 foedo
 iacet
 :
+
 Qui
 seruit
 vnicè
 Deo
+
 Hic
 praeter
 alios
 liber
 est
 .
+
 Non
 peior
 vlla
 est
 seruitus
 ,
+
 Seruire
 quàm
 vel
 daemoni
 ,
+
 Vel
 carnis
 illecebras
 suae
+
 2
+
 Vltrò
 sequi
 per
 omnia
 .
+
 Iam
 quisque
 in
 Aegypto
 duci
+
 Seruit
 Pharhoni
 ,
 cum
 suis
+
 Humeris
 miser
 non
 excutit
+
 Peccati
 onus
 miserabile
 .
+
 dibzy
 G
+
 c
 ij
+
 17
+
 COMOEDIA
+
 Actus
 secundi
 Scena
 prima
 .
+
 Moses
 solus
 .
 Trimetri
 .
+
 Quidem
 hodie
 per
 desertum
 compendij
+
 –
 Feci
 parum
@@ -8897,6 +10111,7 @@ huc
 huc
 soceri
 mei
+
 AQues
 sollicitus
 cogo
@@ -8905,6 +10120,7 @@ vt
 cùm
 venerit
 hesperus
+
 Pastae
 domum
 redeant
@@ -8914,6 +10130,7 @@ monte
 autem
 hoc
 sinam
+
 Eas
 pendere
 ,
@@ -8921,6 +10138,7 @@ nec
 porrò
 procedere
 .
+
 Hîc
 ego
 viridi
@@ -8931,6 +10149,7 @@ quiescam
 &
 quod
 pecus
+
 Nostrum
 facit
 ,
@@ -8939,6 +10158,7 @@ interim
 meminisse
 quoad
 potis
+
 Sum
 )
 ruminabo
@@ -8948,6 +10168,7 @@ vitam
 quae
 vt
 fuit
+
 Varia
 ,
 varijs
@@ -8955,6 +10176,7 @@ obnixa
 semper
 casibus
 ,
+
 Non
 possum
 quin
@@ -8963,6 +10185,7 @@ animum
 cruciem
 meum
 .
+
 Istuc
 esse
 sapere
@@ -8970,6 +10193,7 @@ aiunt
 ,
 ad
 praecedentia
+
 Vitae
 sub
 in
@@ -8979,6 +10203,7 @@ atque
 ex
 his
 regulam
+
 Habere
 ,
 ad
@@ -8989,6 +10214,7 @@ mores
 formes
 tuos
 ,
+
 Quò
 velut
 ad
@@ -8997,6 +10223,7 @@ tuus
 limet
 oculus
 .
+
 Proinde
 à
 puero
@@ -9004,6 +10231,7 @@ quantam
 miseriam
 pertuli
 ?
+
 
 Sept
 .
@@ -9019,28 +10247,33 @@ vbi
 quom
 multos
 quidem
+
 Iam
 annos
 patres
 nostros
 Pharao
 durißimè
+
 Exercuisset
 foetus
 masculos
 iubet
+
 In
 profluentem
 mittier
 :
 hîc
 matercula
+
 Mea
 Iocobela
 miserta
 aetatulae
 meae
 ,
+
 Vt
 animus
 suasit
@@ -9048,6 +10281,7 @@ maternus
 ,
 me
 clàmdomi
+
 Menseis
 treis
 nutrit
@@ -9056,6 +10290,7 @@ inde
 item
 exponit
 metu
+
 Pharaonis
 in
 fiscella
@@ -9063,6 +10298,7 @@ vndique
 pice
 oblita
 ,
+
 Expositum
 tollit
 regis
@@ -9070,13 +10306,16 @@ filia
 ,
 pro
 suo
+
 Habet
 ,
 curandumque
 instituendum
 rectissumè
+
 Septenarij
 .
+
 In
 disciplinis
 omnibus
@@ -9084,6 +10323,7 @@ ac
 scitis
 Aegyptijs
 .
+
 Hîc
 non
 ignauam
@@ -9094,18 +10334,23 @@ vt
 siue
 in
 literis
+
 VulgarioDigitized
+
 
 
 by
 Googk
+
 TRAGICA
 .
+
 Vulgarioribus
 ,
 siue
 in
 hieroglyphicis
+
 Periculum
 faciant
 ,
@@ -9113,16 +10358,19 @@ solertem
 me
 duint
 .
+
 Postidea
 quadraginta
 annos
 natus
 venit
+
 In
 mentem
 Israelitas
 cognatos
 meos
+
 Visere
 .
 quò
@@ -9133,6 +10381,7 @@ ex
 his
 vidi
 ilicò
+
 Iniuria
 quendam
 affici
@@ -9142,12 +10391,14 @@ nimio
 aegrae
 tuli
 ,
+
 Illum
 haud
 humanitùs
 tractari
 :
 Aegyptium
+
 Percußi
 ratus
 illum
@@ -9157,20 +10408,24 @@ me
 per
 quem
 Deus
+
 Salutem
 Israeli
 daturus
 aliquando
 siet
 .
+
 Sept
 .
+
 Ibi
 postero
 die
 in
 certantes
 incido
+
 Alios
 duos
 ,
@@ -9178,6 +10433,7 @@ quos
 vt
 verbis
 lenissumis
+
 Studebam
 conciliare
 ,
@@ -9185,6 +10441,7 @@ fratres
 esse
 eos
 ,
+
 Nec
 aequum
 vt
@@ -9193,12 +10450,14 @@ alterum
 laedat
 :
 statim
+
 Iniurius
 ille
 maledicta
 ingerit
 omnia
 ,
+
 Quis
 me
 sibi
@@ -9208,12 +10467,14 @@ statuisset
 quis
 me
 item
+
 Illis
 fecisset
 iudicem
 :
 velimne
 perimere
+
 Ipsum
 ,
 velut
@@ -9222,6 +10483,7 @@ die
 illum
 Aegyptum
 .
+
 Vt
 sensi
 caedem
@@ -9229,6 +10491,7 @@ manifestam
 ,
 nec
 amplius
+
 Celari
 posse
 :
@@ -9238,14 +10501,17 @@ fugere
 in
 Madianitidem
 ,
+
 Sept
 .
+
 Peregrinari
 vsque
 ,
 donec
 Sephoram
 mihi
+
 Det
 filiam
 suam
@@ -9253,6 +10519,7 @@ nuptum
 Ietro
 meus
 .
+
 Ex
 hac
 mihi
@@ -9261,36 +10528,42 @@ filij
 duo
 .
 Quamlibet
+
 Peregrinum
 interim
 fuisse
 sit
 graue
 ,
+
 Multò
 mihi
 grauißimum
 est
 sic
 Isaaci
+
 Nepotes
 ,
 germen
 hoc
 Deo
 lectißimum
+
 Lavoribus
 macerari
 ,
 flagris
 confici
 ,
+
 Vt
 mortuos
 eos
 quàm
 viuos
 dixeris
+
 Potius
 .
 quibus
@@ -9299,6 +10572,7 @@ ille
 ad
 Abrahamum
 patrem
+
 Nostrum
 praedixit
 ,
@@ -9311,6 +10585,7 @@ non
 sua
 Sept
 .
+
 Peregrinos
 ,
 pressos
@@ -9318,6 +10593,7 @@ iri
 atque
 afflictos
 graui
+
 Miseraque
 seruitute
 ,
@@ -9325,15 +10601,21 @@ seruitute
 id
 annos
 perpetim
+
 C
 iij
+
 Quazed
+
 
 
 by
 Google
+
 18
+
 COMOEDIA
+
 Quadringentos
 ,
 olim
@@ -9341,6 +10623,7 @@ tamen
 fore
 liberos
 .
+
 Enimuerò
 gentem
 hanc
@@ -9351,8 +10634,10 @@ seruient
 inquit
 Deus
 ,
+
 Sept
 .
+
 Ego
 puniam
 ,
@@ -9360,12 +10645,14 @@ exibuntque
 laeti
 posteà
 .
+
 Nunc
 qui
 annorum
 numerum
 exactè
 vocauerit
+
 Ad
 calculos
 ,
@@ -9373,12 +10660,14 @@ comperiet
 is
 breui
 adfore
+
 Quom
 liberabimur
 ex
 Aegyptia
 manu
 .
+
 Quod
 vt
 fiat
@@ -9390,6 +10679,7 @@ lacrumas
 Deus
 Abrabae
 ,
+
 Deus
 Isaci
 ,
@@ -9398,6 +10688,7 @@ Israelis
 oro
 ,
 cui
+
 Miserere
 proprium
 est
@@ -9405,6 +10696,7 @@ est
 miserisque
 opitularier
 .
+
 Papae
 ,
 quid
@@ -9414,6 +10706,7 @@ eminus
 quid
 intuor
 ?
+
 Rubúsne
 ista
 est
@@ -9424,8 +10717,10 @@ flamma
 flamma
 certè
 .
+
 Cat
 .
+
 Sed
 &
 rubus
@@ -9436,6 +10731,7 @@ sed
 quo
 fomite
 ?
+
 Profectò
 flagrat
 maximè
@@ -9445,6 +10741,7 @@ quid
 non
 potest
 .
+
 Nam
 nil
 rubus
@@ -9453,6 +10750,7 @@ consumitur
 integra
 en
 adhuc
+
 Prorsus
 manet
 .
@@ -9462,6 +10760,7 @@ flammam
 video
 ,
 rei
+
 Quid
 sit
 ?
@@ -9472,6 +10771,7 @@ prodigium
 aliquod
 siet
 .
+
 Illuc
 concessero
 ,
@@ -9480,6 +10780,7 @@ visam
 cur
 non
 rubus
+
 Comburatur
 .
 stupenda
@@ -9488,6 +10789,7 @@ res
 quam
 non
 queo
+
 Mente
 assequi
 ,
@@ -9496,6 +10798,7 @@ quid
 praesidij
 sit
 magis
+
 In
 oculis
 ,
@@ -9504,6 +10807,7 @@ quibus
 explorabo
 veriùs
 .
+
 Scena
 2
 .
@@ -9511,10 +10815,13 @@ Septenarii
 &
 Octonarii
 .
+
 Elohim
 .
+
 Moses
 .
+
 oses
 ,
 Moses
@@ -9531,6 +10838,7 @@ adsum
 El
 .
 caue
+
 Accesseris
 propius
 ni
@@ -9539,6 +10847,7 @@ soccos
 prius
 detraxeris
 :
+
 ALocus
 enim
 ,
@@ -9554,6 +10863,7 @@ En
 ego
 Deus
 pa
+
 Deus
 Abraham
 ,
@@ -9571,12 +10881,14 @@ atat
 tris
 tui
 ,
+
 Vereor
 recto
 atque
 aperto
 obtuta
 contuerier
+
 Deum
 meum
 .
@@ -9591,13 +10903,18 @@ inquam
 in
 Aegypto
 mei
+
 Populi
+
 Dis
+
 Dized
 by
 Goog
+
 TRAGICA
 .
+
 Populi
 miserias
 &
@@ -9605,8 +10922,10 @@ seruitutes
 non
 ferendas
 :
+
 Cat
 .
+
 Audiui
 eorum
 gemitus
@@ -9616,6 +10935,7 @@ vsque
 ad
 me
 graues
+
 Ob
 exactores
 quos
@@ -9624,8 +10944,10 @@ habent
 quòd
 item
 dolores
+
 Cat
 .
+
 Horum
 mecum
 tacitus
@@ -9634,6 +10956,7 @@ ac
 norim
 probè
 .
+
 Descendi
 itaque
 ipsus
@@ -9644,6 +10967,7 @@ eos
 ex
 carnificina
 liberem
+
 Aegyptiorum
 ,
 ducamque
@@ -9652,6 +10976,7 @@ illinc
 ex
 Pharaonis
 manu
+
 Ad
 terram
 aliam
@@ -9666,6 +10991,7 @@ terram
 (
 inquio
 )
+
 Fluentem
 lacte
 &
@@ -9676,6 +11002,7 @@ ad
 fines
 ,
 vbi
+
 Cananaei
 ,
 Hitthaei
@@ -9685,6 +11012,7 @@ Amorrhaei
 Pheresaei
 nunc
 habent
+
 Cum
 Hiuaeis
 ac
@@ -9693,6 +11021,7 @@ Iebusaeis
 animum
 aduortito
 .
+
 Hinc
 ergo
 ad
@@ -9700,6 +11029,7 @@ me
 Israelis
 gnatorum
 improbus
+
 Clamor
 ijt
 coelo
@@ -9710,6 +11040,7 @@ atque
 immaniter
 hos
 premant
+
 Aegyptij
 ,
 vidi
@@ -9719,6 +11050,7 @@ gratia
 tu
 nunc
 mihi
+
 Eris
 ad
 Pharaonem
@@ -9727,6 +11059,7 @@ delegatus
 vt
 populum
 meum
+
 Aegypto
 educas
 .
@@ -9739,6 +11072,7 @@ vt
 Parhonem
 Cat
 .
+
 Adire
 ausim
 ,
@@ -9747,6 +11081,7 @@ tuum
 Israelem
 educere
 ?
+
 Eloh
 .
 Moses
@@ -9762,6 +11097,7 @@ vide
 Ego
 tibi
 comes
+
 Semper
 adero
 .
@@ -9772,6 +11108,7 @@ tibi
 argumento
 te
 fuisse
+
 Ame
 legatum
 :
@@ -9781,6 +11118,7 @@ Aegypto
 illos
 eduxeris
 ,
+
 Mihi
 hoc
 in
@@ -9791,6 +11129,7 @@ I
 quò
 te
 vocat
+
 Deus
 .
 nihil
@@ -9801,6 +11140,7 @@ sat
 erit
 tibi
 mea
+
 Autoritas
 .
 Deus
@@ -9812,6 +11152,7 @@ praestat
 multis
 millibus
 .
+
 Mos
 .
 En
@@ -9825,6 +11166,7 @@ illi
 ex
 me
 rogauerint
+
 Vicissatim
 nomen
 tuum
@@ -9833,6 +11175,7 @@ quod
 esse
 dixero
 ?
+
 Elo
 .
 Sum
@@ -9850,6 +11193,7 @@ vos
 misit
 ,
 aut
+
 Potius
 :
 Deus
@@ -9860,6 +11204,7 @@ Deus
 Abraham
 ,
 Deus
+
 Isaac
 ,
 Deus
@@ -9871,6 +11216,7 @@ huc
 Hoc
 est
 enim
+
 Nomen
 meum
 perenne
@@ -9878,6 +11224,7 @@ perenne
 hoc
 memoraculum
 meum
+
 In
 secula
 ,
@@ -9888,6 +11235,7 @@ aeuum
 velim
 innotescere
 .
+
 Quid
 autem
 cunctaris
@@ -9897,6 +11245,7 @@ ito
 saltem
 ac
 senioribus
+
 Isacidis
 ad
 te
@@ -9906,48 +11255,61 @@ missum
 te
 esse
 dicito
+
 C
 iiii
+
 AmeDi
+
+
 
 
 Dized
 by
 Google
+
 19
+
 COMOEDIA
+
 Ame
 :
 quemadmodum
 hinc
 ex
+
 Quemadmodum
 item
 decreuerim
 ipOmnibus
 
 
+
 istis
 miserijs
 liberar
+
 Eos
 vsque
 opprimunt
 ,
 atque
 au
+
 Terram
 aliam
 ,
 abundantem
 lacte
 &
+
 Hivbi
 te
 audiuerint
 (
 enimuerò
 libenter
+
 Adibitis
 simul
 omnes
@@ -9955,13 +11317,16 @@ regem
 Aegypti
 .
 bi
+
 Vobis
 fuisse
 visum
 Hebraeorum
 Deum
 ,
+
 Senarij
+
 Orare
 igitur
 vt
@@ -9969,6 +11334,7 @@ vos
 sinat
 proficiscier
 .
+
 Triduanum
 iter
 per
@@ -9976,12 +11342,14 @@ desertum
 vt
 vestro
 Deo
+
 Illic
 sacruficetis
 .
 Scio
 profectò
 maximè
+
 Non
 illum
 permissurum
@@ -9991,6 +11359,7 @@ coactum
 vi
 quidem
 :
+
 Ego
 verò
 ob
@@ -10000,6 +11369,7 @@ modis
 Aegyptun
 afflixero
 ,
+
 Vt
 victus
 his
@@ -10010,6 +11380,7 @@ missos
 faxit
 lubens
 .
+
 Quin
 hoc
 audi
@@ -10020,6 +11391,7 @@ vacui
 illinc
 exibitis
 .
+
 Nam
 conciliabo
 vos
@@ -10028,6 +11400,7 @@ gratiam
 cum
 Aegyptijs
 ,
+
 Efficiamque
 vt
 vestrae
@@ -10036,6 +11409,7 @@ foeminae
 ,
 &
 hospites
+
 Et
 vicinas
 exorent
@@ -10043,7 +11417,9 @@ vasa
 aurea
 &
 argentea
+
 –
+
 Vestemque
 in
 vsum
@@ -10052,22 +11428,26 @@ sacrificij
 quibus
 corrasis
 vndique
+
 Per
 liberos
 vestros
 cuncta
 exportabitis
 ,
+
 Totamque
 .
 Aegyptum
 fraude
 compilabitis
 .
+
 Senar
 .
 2
 .
+
 Mos
 .
 At
@@ -10081,6 +11461,7 @@ te
 visum
 mihi
 .
+
 Eloh
 .
 Eho
@@ -10096,6 +11477,7 @@ tibi
 gestas
 manu
 ?
+
 Mos
 .
 Virga
@@ -10113,6 +11495,7 @@ Mos
 .
 hem
 .
+
 El
 .
 sic
@@ -10123,6 +11506,7 @@ nunc
 quid
 est
 ?
+
 Mos
 .
 Perij
@@ -10137,6 +11521,7 @@ ne
 fugito
 quò
 pedem
+
 Retrahis
 ?
 manum
@@ -10149,6 +11534,7 @@ caudam
 quid
 ?
 viden
+
 Rursum
 tibi
 virgam
@@ -10160,6 +11546,7 @@ credant
 visum
 tibi
 ?
+
 Agè
 nunc
 secundò
@@ -10170,6 +11557,7 @@ quopiam
 instruendus
 es
 .
+
 Insere
 manum
 in
@@ -10186,6 +11574,7 @@ iam
 educito
 .
 viden
+
 Albam
 adeò
 lepra
@@ -10200,17 +11589,24 @@ video
 paueo
 miser
 .
+
 Elob
 .
+
 zed
 by
 Google
+
 3
 .
+
 el
+
 TRAGICA
 .
+
 20
+
 Elob
 .
 Reduc
@@ -10227,7 +11623,9 @@ El
 educ
 denuò
 .
+
 MosEloh
+
 
 
 .
@@ -10240,9 +11638,11 @@ corpus
 caeterum
 ?
 Proin
+
 (
 licet
 .
+
 Si
 non
 priori
@@ -10252,6 +11652,7 @@ poterunt
 ,
 tibi
 vt
+
 Credant
 :
 certè
@@ -10263,6 +11664,7 @@ duobus
 his
 quidem
 ,
+
 Sumes
 aquam
 de
@@ -10274,14 +11676,17 @@ in
 terram
 fuderis
 ,
+
 In
 sanguinem
 tibi
 extemplò
 mutabitur
 .
+
 Senar
 .
+
 Mos
 .
 Obsecro
@@ -10297,6 +11702,7 @@ ita
 ne
 nunc
 quidem
+
 Post
 colloquium
 tuum
@@ -10305,6 +11711,7 @@ poßum
 à
 facundia
 :
+
 Quid
 praepeditus
 lingua
@@ -10312,6 +11719,7 @@ multos
 offendo
 titubantia
 .
+
 Elob
 .
 Nam
@@ -10324,8 +11732,10 @@ quis
 mutum
 et
 surdum
+
 facit
 ?
+
 Ecquis
 videntem
 aut
@@ -10337,8 +11747,10 @@ is
 ego
 Imodò
 ,
+
 Sen
 .
+
 Ego
 tibi
 adero
@@ -10353,6 +11765,7 @@ ac
 tibi
 quae
 sies
+
 Dicturus
 vltrò
 suggeram
@@ -10362,6 +11775,7 @@ sodes
 Pomine
 ,
 alium
+
 Mitte
 idoneum
 magis
@@ -10373,6 +11787,7 @@ multùm
 odiosus
 es
 .
+
 An
 non
 tibi
@@ -10384,6 +11799,7 @@ Abaron
 hic
 sat
 scio
+
 Disertè
 loquitur
 .
@@ -10392,6 +11808,7 @@ adeò
 ipsus
 obuiam
 tibi
+
 Procedet
 ,
 ac
@@ -10402,6 +11819,7 @@ ex
 animo
 laetabitur
 .
+
 Tu
 illi
 fac
@@ -10413,8 +11831,10 @@ sic
 ,
 vt
 loquar
+
 tibi
 :
+
 ligo
 in
 tuo
@@ -10427,6 +11847,7 @@ insidebo
 quid
 vobis
 siet
+
 Facto
 opus
 vtrique
@@ -10436,6 +11857,7 @@ illic
 ad
 populum
 tuo
+
 Nomine
 verba
 faciet
@@ -10444,6 +11866,7 @@ tibique
 erit
 paßim
 loco
+
 Oris
 :
 sed
@@ -10455,6 +11878,7 @@ vice
 cuiusdam
 Dei
 .
+
 Cape
 in
 manum
@@ -10467,6 +11891,7 @@ portenta
 isthaec
 tibi
 .
+
 Moses
 abi
 sanè
@@ -10478,6 +11903,7 @@ Domine
 ,
 quando
 ita
+
 Vis
 :
 quando
@@ -10490,6 +11916,7 @@ induxti
 prorsus
 tuum
 .
+
 Inscitia
 quidem
 est
@@ -10499,6 +11926,7 @@ cum
 Deo
 luctarier
 ,
+
 Nec
 velle
 ,
@@ -10510,6 +11938,7 @@ non
 cauere
 possumus
 .
+
 Ietron
 adibo
 socerum
@@ -10520,6 +11949,7 @@ conueniendus
 est
 mihi
 ,
+
 Vt
 cum
 pace
@@ -10529,10 +11959,14 @@ in
 Aegyptum
 proficiscier
 .
+
 c
 3
+
 Scena
 terCOMOEDIA
+
+
 
 
 Scena
@@ -10540,10 +11974,12 @@ Scena
 Trimetri
 Iambici
 .
+
 Demarchus
 exactor
 solus
 .
+
 Am
 ego
 istuc
@@ -10553,12 +11989,14 @@ vos
 reuertar
 pessumi
 ,
+
 Nequissumique
 plagipatidae
 ,
 ac
 faxo
 vos
+
 *
 Ex
 seruulis
@@ -10566,6 +12004,7 @@ boues
 mihi
 clitellarios
 .
+
 Facite
 sultis
 quod
@@ -10573,18 +12012,21 @@ imperaui
 ,
 ne
 domum
+
 Reuersus
 ostendam
 imparata
 esse
 omnia
 .
+
 Volo
 mihi
 in
 officinis
 perpetuò
 operae
+
 Caleant
 ,
 nisi
@@ -10592,6 +12034,7 @@ voltis
 corium
 vestrum
 magis
+
 Rigere
 fustibus
 ,
@@ -10600,6 +12043,7 @@ est
 vllum
 bubuium
 .
+
 Non
 aedepol
 vos
@@ -10607,6 +12051,7 @@ ociosos
 vsque
 alam
 .
+
 Nimio
 mihi
 estis
@@ -10616,6 +12061,7 @@ nimio
 per
 Iouem
 ,
+
 Quàm
 vt
 in
@@ -10624,6 +12070,7 @@ faciundo
 non
 sumptus
 supra
+
 Decimam
 partem
 vsque
@@ -10631,6 +12078,7 @@ exerceatis
 hîc
 mihi
 .
+
 Nemo
 huc
 in
@@ -10638,6 +12086,7 @@ Aegyptum
 seruos
 adducitur
 ,
+
 Vt
 conchas
 sibi
@@ -10645,6 +12094,7 @@ vel
 vmbelicos
 de
 mari
+
 Legat
 ,
 &
@@ -10654,12 +12104,14 @@ ad
 laborem
 contrahat
 .
+
 Faceßite
 omnem
 ignauiam
 ,
 faceßite
 .
+
 Vah
 ,
 quid
@@ -10671,6 +12123,7 @@ nimium
 vobis
 loquor
 .
+
 Nisi
 seu
 fodinae
@@ -10678,14 +12131,17 @@ saeu
 officinae
 mihi
 domum
+
 Reuerso
 desudauerint
 laboribus
 ,
+
 Ornabo
 lumbifragio
 dignißumè
 .
+
 Nec
 mihi
 manus
@@ -10694,6 +12150,7 @@ ipsa
 re
 experiemini
 .
+
 Ibo
 ad
 forum
@@ -10704,6 +12161,7 @@ illhic
 si
 quid
 publicae
+
 Cessent
 operae
 :
@@ -10712,6 +12170,7 @@ sarta
 tecta
 esse
 omnia
+
 Volo
 ,
 ne
@@ -10720,6 +12179,7 @@ nostram
 deturpet
 Rempublicam
 .
+
 Causabor
 omnium
 inertiam
@@ -10727,6 +12187,7 @@ inertiam
 si
 quid
 oculis
+
 Doleat
 meis
 .
@@ -10735,6 +12196,7 @@ hi
 quidem
 Hebraei
 viderint
+
 Lubentius
 cacodaemonem
 ,
@@ -10744,17 +12206,21 @@ me
 .
 adeò
 eos
+
 Vt
 ciTRAGICA
 
 
+
 .
+
 Vt
 cimex
 mordacißimus
 è
 nidis
 suis
+
 Noctu
 ad
 labores
@@ -10762,26 +12228,31 @@ excitabo
 .
 Quis
 ferat
+
 Ex
 mancipijs
 hisce
 nihili
 &
 frugiperditis
+
 Quemquam
 ocio
 ,
 inertiaque
 consenescere
 ?
+
 Scena
 4
 .
 Scazontes
 .
+
 Moses
 solus
 .
+
 TErbum
 profectò
 hoc
@@ -10793,16 +12264,19 @@ ferunt
 vulgiDeum
 
 
+
 vel
 vltrò
 bona
 largirier
 saepè
+
 Mortalibus
 ,
 tametsi
 intelligant
 ipsi
+
 Nihil
 .
 Vt
@@ -10814,6 +12288,7 @@ vnicum
 bonum
 summum
 ,
+
 Extra
 quem
 qui
@@ -10821,6 +12296,7 @@ quaerat
 aliud
 bonum
 tota
+
 Errat
 via
 ,
@@ -10828,6 +12304,7 @@ capitque
 pro
 bono
 saepè
+
 Malum
 :
 ita
@@ -10836,6 +12313,7 @@ bonitas
 arenam
 maris
 longè
+
 Superat
 .
 sexcenta
@@ -10845,6 +12323,7 @@ exempla
 si
 id
 vellem
+
 Hac
 luce
 clarius
@@ -10852,6 +12331,7 @@ docere
 .
 Si
 summè
+
 Bonus
 est
 ,
@@ -10861,6 +12341,7 @@ bonum
 de
 bono
 gigni
+
 Potest
 .
 Sed
@@ -10872,6 +12353,7 @@ quid
 boni
 porto
 ?
+
 O
 foelices
 Hebraei
@@ -10880,6 +12362,7 @@ si
 sua
 norint
 .
+
 Nam
 delegatus
 huc
@@ -10888,6 +12371,7 @@ eo
 vt
 Israelitas
 
+
 Meos
 educam
 ex
@@ -10895,11 +12379,13 @@ seruitute
 ,
 quae
 totos
+
 Iam
 penè
 quadringentos
 annos
 infoelicem
+
 Populum
 exercet
 ,
@@ -10908,11 +12394,13 @@ laniat
 prorsusque
 discerpit
 .
+
 Non
 magnus
 ille
 Zoroastres
 Aegypto
+
 Tantum
 boni
 attulit
@@ -10920,6 +12408,7 @@ attulit
 quantum
 modò
 Israel
+
 Ex
 me
 audiet
@@ -10936,6 +12425,7 @@ Sep
 .
 Iamb
 .
+
 Faciunt
 ,
 cuius
@@ -10943,6 +12433,7 @@ prudentia
 atque
 ope
 infoelix
+
 Alitur
 Aegyptus
 .
@@ -10950,17 +12441,23 @@ Vab
 quanto
 satius
 foret
+
 Iamb
 .
 Trim
 .
+
 Si
 nobyGoogl
 
 
+
+
 21
 
+
 COMOEDIA
+
 Si
 notitiam
 veram
@@ -10968,18 +12465,21 @@ veri
 Dei
 seruet
 .
+
 Nae
 tum
 mihi
 sapientißima
 videretur
 :
+
 In
 qua
 fuere
 tot
 annos
 inquilini
+
 Nostri
 patres
 ,
@@ -10988,6 +12488,7 @@ sapere
 veriùs
 vel
 tum
+
 Potuisset
 quàm
 facillimè
@@ -10995,6 +12496,7 @@ facillimè
 &
 Dijs
 falsis
+
 Nullum
 exhibere
 cultum
@@ -11003,6 +12505,7 @@ Frustrà
 ego
 id
 mecum
+
 Deputo
 .
 quid
@@ -11013,6 +12516,7 @@ voluit
 Deus
 noster
 ?
+
 Quid
 si
 vel
@@ -11024,6 +12528,7 @@ in
 Aegyptum
 ,
 haec
+
 Quòd
 perseueret
 in
@@ -11031,6 +12536,7 @@ idolis
 suis
 .
 quantoque
+
 Diutius
 hîc
 agit
@@ -11038,6 +12544,7 @@ Israel
 ,
 magis
 tanto
+
 Quòd
 in
 suis
@@ -11045,6 +12552,7 @@ erroribus
 senescat
 .
 Quis
+
 Osiris
 ,
 quis
@@ -11054,6 +12562,7 @@ Apis
 aut
 Memphis
 ?
+
 Quis
 item
 est
@@ -11063,12 +12572,14 @@ quos
 omnes
 Deos
 caeci
+
 Aegyptij
 colunt
 ,
 postquam
 vnicum
 numen
+
 Sit
 supra
 infraque
@@ -11076,6 +12587,7 @@ lunarem
 globum
 ,
 curat
+
 Regitque
 quod
 omnia
@@ -11083,6 +12595,7 @@ omnia
 quod
 agnoscit
 Israel
+
 Solus
 .
 sapientes
@@ -11090,6 +12603,7 @@ sunt
 Aegyptij
 ,
 verùm
+
 Vana
 est
 illa
@@ -11098,6 +12612,7 @@ sapientia
 quae
 Deumnescit
 .
+
 Nunc
 porrò
 in
@@ -11107,6 +12622,7 @@ haud
 bonis
 (
 volgò
+
 Quod
 dicunt
 )
@@ -11118,6 +12634,7 @@ auspice
 ac
 duce
 .
+
 Quando
 is
 qui
@@ -11125,6 +12642,7 @@ me
 pridem
 necare
 conatus
+
 Fuit
 ,
 diem
@@ -11134,6 +12652,7 @@ obijt
 ac
 Pharo
 regnet
+
 Alter
 .
 Fratrem
@@ -11143,6 +12662,7 @@ quem
 nunc
 mihi
 dixit
+
 Fore
 obuium
 Deus
@@ -11152,6 +12672,7 @@ eccum
 ipse
 adest
 inter
+
 Vepres
 .
 Deus
@@ -11162,6 +12683,7 @@ est
 mihi
 hunc
 sumam
+
 Itineris
 comitem
 ,
@@ -11170,16 +12692,19 @@ fidum
 interpretem
 linguae
 .
+
 Scena
 5a
 Iamb
 .
 Senarii
 .
+
 Aaron
 .
 Moses
 .
+
 Isi
 me
 animus
@@ -11191,6 +12716,7 @@ iam
 adesse
 ,
 qui
+
 Me
 praestoletur
 ,
@@ -11198,14 +12724,19 @@ praedixit
 dudum
 Deus
 .
+
 MosDigitized
+
 
 
 by
 Google
+
 *
+
 TRAGICA
 .
+
 Mos
 .
 Adest
@@ -11220,12 +12751,14 @@ nostrum
 vtrique
 pax
 .
+
 In
 sancto
 hoc
 osculo
 laetißimus
 mihi
+
 Tuus
 est
 aduentus
@@ -11237,6 +12770,7 @@ te
 ego
 frater
 gaudeo
+
 Venisse
 mihi
 obuiam
@@ -11248,6 +12782,7 @@ huc
 vocat
 Deus
 ,
+
 Vt
 in
 hunc
@@ -11257,6 +12792,7 @@ eam
 obuius
 .
 proin
+
 Venisti
 solus
 ?
@@ -11265,6 +12801,7 @@ vxor
 cum
 liberis
 ?
+
 Mos
 .
 Adest
@@ -11276,6 +12813,7 @@ nobis
 in
 itinere
 .
+
 Aar
 .
 Quid
@@ -11288,6 +12826,7 @@ Mos
 non
 Mercuriale
 nos
+
 Vllum
 afficit
 :
@@ -11297,6 +12836,7 @@ quod
 tu
 mirabere
 .
+
 Aar
 .
 Narra
@@ -11309,6 +12849,7 @@ Mos
 fortè
 in
 diuersorium
+
 Vt
 veni
 cum
@@ -11317,6 +12858,7 @@ meis
 ecce
 Dominus
 mihi
+
 Adest
 ,
 mecumque
@@ -11325,6 +12867,7 @@ grauiter
 luctatus
 est
 ,
+
 Adeò
 vt
 me
@@ -11339,6 +12882,7 @@ interemisset
 Mos
 .
 ac
+
 Fecisset
 ,
 ni
@@ -11354,12 +12898,14 @@ Vxor
 Mos
 .
 Sephora
+
 Mea
 arrepto
 silice
 acuto
 gnati
 mei
+
 Praeputium
 praecidit
 ,
@@ -11367,6 +12913,7 @@ applicuitque
 ante
 hos
 meos
+
 Pedes
 .
 Heus
@@ -11378,6 +12925,7 @@ mihi
 sponsus
 sanguinis
 .
+
 Aar
 .
 Quid
@@ -11393,6 +12941,7 @@ nae
 indignum
 feceras
 .
+
 Mos
 .
 Quidum
@@ -11406,12 +12955,14 @@ aspernabere
 quae
 Deus
 dedit
+
 In
 signamortalibus
 .
 an
 excidit
 animo
+
 Tandem
 tuo
 ,
@@ -11420,6 +12971,7 @@ ille
 foedus
 cum
 patre
+
 Nostro
 Abrahamo
 percußit
@@ -11427,12 +12979,14 @@ percußit
 atque
 in
 foederis
+
 Signum
 voluit
 circuncidi
 omnes
 masculos
 ?
+
 Mos
 .
 Memini
@@ -11445,6 +12999,7 @@ nulla
 adeò
 animum
 Dei
+
 Perstringit
 ,
 ac
@@ -11453,6 +13008,7 @@ sacra
 videat
 negligi
 ,
+
 Et
 se
 prophanari
@@ -11462,6 +13018,7 @@ nunc
 quid
 venimus
 ,
+
 Loquamur
 .
 Mos
@@ -11476,6 +13033,7 @@ da
 &
 visus
 est
+
 Mihi
 .
 Mos
@@ -11488,6 +13046,7 @@ eminus
 locutus
 est
 .
+
 Et
 vox
 eius
@@ -11495,6 +13054,7 @@ meis
 intonuit
 auribus
 .
+
 Aar
 .
 Videlicet
@@ -11503,6 +13063,7 @@ descendit
 vt
 iam
 liberet
+
 Israel
 .
 Mos
@@ -11513,20 +13074,27 @@ per
 me
 ducem
 ,
+
 Et
 temis
+
 zed
 by
 Google
+
 22
+
 COMOEDIA
+
 ronem
 linguae
 inter
+
 deserit
 suos
 .
 Abyssu
+
 i
 Deus
 .
@@ -11534,12 +13102,14 @@ Mos
 .
 en
 hunc
+
 Aa
 .
 vt
 illo
 nos
 illinc
+
 Portenta
 vt
 edam
@@ -11552,6 +13122,7 @@ malum
 )
 p
 .
+
 Populum
 moueant
 ,
@@ -11560,6 +13131,7 @@ si
 verbis
 tuis
 minus
+
 Credant
 ,
 signis
@@ -11569,6 +13141,7 @@ compellantur
 Aar
 .
 optimè
+
 Dicis
 .
 Nam
@@ -11577,6 +13150,7 @@ signa
 non
 credentibus
 .
+
 Mos
 .
 Et
@@ -11586,6 +13160,7 @@ viderit
 Pharo
 ,
 nihil
+
 Credet
 .
 Aur
@@ -11602,12 +13177,14 @@ ad
 me
 ait
 :
+
 Reuersus
 in
 Aegyptum
 ,
 videsis
 omnia
+
 Pharaoni
 prodigia
 facias
@@ -11616,6 +13193,7 @@ quae
 tibi
 in
 manum
+
 Dedi
 :
 Ego
@@ -11625,6 +13203,7 @@ indurabo
 animum
 illius
 ac
+
 Retinebo
 ,
 ne
@@ -11633,6 +13212,7 @@ dimittat
 populum
 meum
 .
+
 Tu
 itaque
 frater
@@ -11641,6 +13221,7 @@ ad
 Pharonem
 dicito
 :
+
 Sic
 inquit
 Dominus
@@ -11648,6 +13229,7 @@ Dominus
 Israel
 est
 filius
+
 Mihi
 primigenus
 .
@@ -11658,6 +13240,7 @@ dixi
 ,
 vt
 mitteres
+
 Hunc
 filium
 ,
@@ -11668,12 +13251,14 @@ seruiat
 quem
 quia
 negas
+
 Dimittere
 ,
 ecce
 ego
 occidamtibi
 filium
+
 Omnem
 primigenum
 .
@@ -11683,6 +13268,7 @@ duram
 cepimus
 viam
 .
+
 Sed
 hac
 ducit
@@ -11693,6 +13279,7 @@ Deus
 frater
 βεῶ
 ,
+
 Et
 denique
 clauam
@@ -11700,6 +13287,7 @@ Pharaoni
 aegrè
 extorseris
 .
+
 Mos
 .
 Quid
@@ -11714,11 +13302,13 @@ frater
 nihil
 ,
 nisi
+
 Vt
 conuocemùs
 ex
 Israel
 optimos
+
 Ac
 seniores
 ,
@@ -11727,6 +13317,7 @@ haec
 narremus
 ordine
 .
+
 Mos
 .
 Rectè
@@ -11737,6 +13328,7 @@ hinc
 quicquid
 tandem
 boni
+
 Est
 gaudij
 aut
@@ -11747,6 +13339,7 @@ hos
 defertur
 .
 hi
+
 Soli
 sunt
 quos
@@ -11755,10 +13348,14 @@ iam
 noster
 respicit
 .
+
 Chorus
+
 byGoogle
+
 TRAGICA
 .
+
 Chorus
 2
 .
@@ -11766,36 +13363,44 @@ hexastrophos
 filiorum
 Israelis
 .
+
 Ex
 Psalmo
 113
 .
+
 Dimetri
 .
+
 Poterisne
 ferre
 diutius
+
 In
 seruitute
 nos
 Deus
 ?
+
 Aut
 qui
 tuos
 sic
 verberant
 ,
+
 Flagrisque
 caedunt
 duriter
 ?
+
 Nam
 &
 exprobrant
 nomen
 tuum
 ,
+
 Dum
 quaeritant
 :
@@ -11803,233 +13408,292 @@ qui
 sit
 Deus
 .
+
 Deus
 sed
 ille
 noster
 est
 ,
+
 Coelos
 supremus
 qui
 tenet
 .
+
 Hinc
 ille
 quicquid
 fecerit
 ,
+
 Perficiet
 arbitrio
 suo
 .
+
 Et
 expoliuit
 omnia
+
 Quae
 totus
 orbis
 continet
 .
+
 Simulachra
 verò
 gentium
+
 Quae
 vos
 &
 ipsa
 extollitis
 :
+
 Imagines
 sunt
 aureae
 ,
+
 Aut
 plumbeae
 atque
 argenteae
 ,
+
 Humana
 quas
 industria
+
 Effingit
 atque
 perficit
 .
+
 Illis
 figuram
 viuidè
+
 Insculpitoris
 artifex
 :
+
 Sed
 oris
 vsum
 negligit
 ,
+
 Nam
 non
 potest
 hunc
 addere
 .
+
 Hinc
 fit
 ,
 tacentes
 perpetim
+
 Vt
 non
 queant
 vel
 hiscere
 .
+
 Caelator
 illis
 addidit
+
 Oculos
 ,
 quibus
 nihil
 vident
 .
+
 Aures
 habent
 ,
 nec
 audiunt
 :
+
 Nares
 habent
 ,
 sed
 his
 nihil
+
 Odoris
+
 2
+
 Digitized
 by
 Google
+
 13
+
 COMOEDIA
+
 Odoris
 ipsae
 sentiunt
+
 Sint
 perforatae
 quamlibet
 .
+
 Sic
 exhibent
 manus
 suas
 ,
+
 Verùm
 quibus
 nil
 palpitant
 .
+
 Pedes
 habent
 ,
 nec
 ambulant
 .
+
 Et
 stant
 aperto
 gutture
 ,
+
 Vocem
 sed
 illo
 neutiquam
 ,
+
 Sonumue
 possunt
 edere
 .
+
 His
 conferatur
 ,
 qui
 facit
+
 Tales
 imagines
 sibi
 .
+
 Et
 differunt
 ab
 his
 nihil
 ,
+
 Simulachra
 quotquot
 factitant
 ,
+
 In
 ista
 qui
 vel
 impij
+
 Omnem
 locant
 fiduciam
 .
+
 Israel
 in
 Deo
 tuo
+
 Tu
 spem
 fidemque
 colloca
 .
+
 Solus
 is
 opem
 tibi
 feret
 ,
+
 3
+
 Et
 liberabit
 his
 malis
 .
+
 6
+
 Confide
 :
 nam
 te
 proteget
+
 .
+
 2
 °
+
 Scuto
 suae
 potentiae
 .
+
 Senarii
 .
+
 Actus
 3
 .
 Scena
 ia
+
 *
+
 Moses
 .
+
 Aaron
 .
 
+
 3
+
 MErtò
 Israelitis
 iam
 nostris
 persuasimus
+
 
 Deum
 nobis
@@ -12038,6 +13702,7 @@ visum
 ,
 &
 supplices
+
 Credunt
 ,
 natio
@@ -12046,8 +13711,10 @@ dura
 atque
 incredula
 .
+
 "
 1
+
 Aar
 .
 Nisi
@@ -12056,6 +13723,7 @@ hîc
 adsit
 gratia
 numinis
+
 Vt
 sic
 velit
@@ -12065,6 +13733,7 @@ nae
 tu
 frater
 mihi
+
 Laterem
 laueris
 ,
@@ -12074,13 +13743,17 @@ iam
 illis
 persuaseris
 ,
+
 Nec
 sic
+
 τ2
 3
 .
+
 TRAGICA
 .
+
 Ne
 sic
 persuaseris
@@ -12089,6 +13762,7 @@ quidem
 Mos
 .
 Mirabilis
+
 Dei
 bonitas
 ,
@@ -12097,6 +13771,7 @@ in
 factis
 suis
 .
+
 Tantumne
 ignaris
 gratiam
@@ -12104,12 +13779,14 @@ addi
 ?
 itan
 malis
+
 Populo
 heuduris
 oppresso
 vltrò
 opitularier
 ?
+
 Hem
 illuc
 vide
@@ -12119,8 +13796,10 @@ fortis
 vt
 à
 forti
+
 Cat
 .
+
 Praedam
 auferet
 ,
@@ -12130,6 +13809,7 @@ illo
 sit
 fortior
 .
+
 Aar
 .
 Et
@@ -12142,6 +13822,7 @@ venit
 quod
 ad
 Abraham
+
 Olim
 Deus
 percusso
@@ -12149,6 +13830,7 @@ foedere
 dixit
 :
 En
+
 Ego
 sum
 El
@@ -12158,6 +13840,7 @@ te
 gentes
 in
 plurimas
+
 Patrem
 dedi
 ,
@@ -12166,18 +13849,21 @@ te
 sceptra
 posteritas
 tua
+
 Mirabitur
 ,
 tibique
 &
 semini
 tuo
+
 Ero
 Deus
 .
 Me
 autore
 poßidebitis
+
 Terram
 hanc
 ,
@@ -12190,6 +13876,7 @@ peregrinus
 aduena
 es
 .
+
 Mos
 .
 Quae
@@ -12201,6 +13888,7 @@ cuiusmodi
 ,
 tenes
 .
+
 Sed
 eius
 esse
@@ -12208,6 +13896,7 @@ vterque
 nouimus
 ,
 suos
+
 Qui
 amat
 semper
@@ -12217,6 +13906,7 @@ verbo
 fallit
 neminem
 .
+
 Citius
 hic
 sol
@@ -12227,6 +13917,7 @@ aut
 coelum
 ruat
 ,
+
 Quàm
 non
 promißis
@@ -12234,6 +13925,7 @@ ille
 maneat
 suis
 .
+
 Aar
 .
 Verus
@@ -12242,6 +13934,7 @@ est
 .
 proinde
 confidentiùs
+
 Parhonem
 adeamus
 .
@@ -12252,6 +13945,7 @@ adeamus
 &
 quam
 sumus
+
 Nacti
 spartam
 ,
@@ -12260,6 +13954,7 @@ sedulò
 ac
 piè
 .
+
 Aderit
 Deus
 suis
@@ -12268,6 +13963,7 @@ ministris
 nec
 (
 licet
+
 Pharo
 aduersabitur
 )
@@ -12275,6 +13971,7 @@ dubito
 ,
 quin
 prouinciam
+
 Coeptam
 secundabit
 .
@@ -12285,6 +13982,7 @@ ais
 frater
 ?
 quasi
+
 Non
 iam
 sumus
@@ -12293,6 +13991,7 @@ certi
 quid
 ille
 dixerit
+
 Nobis
 .
 imò
@@ -12301,6 +14000,7 @@ spero
 ,
 amplius
 scio
+
 Praestabit
 ,
 quam
@@ -12312,6 +14012,7 @@ verbis
 fidus
 est
 .
+
 Hic
 fabulae
 totius
@@ -12319,8 +14020,10 @@ erit
 choragus
 optimus
 ,
+
 Sept
 .
+
 Et
 ludiones
 nos
@@ -12328,6 +14031,7 @@ suos
 non
 adiuuet
 ?
+
 Nos
 delegati
 mittimur
@@ -12336,6 +14040,7 @@ an
 non
 memor
 erit
+
 Nostri
 qui
 misit
@@ -12345,12 +14050,17 @@ agitur
 causa
 ,
 num
+
 Hanc
+
 itized
 by
 Google
+
 24
+
 COMOEDIA
+
 Hanc
 ille
 deserat
@@ -12363,6 +14073,7 @@ qui
 sic
 iubet
 ,
+
 Nos
 ire
 qui
@@ -12370,12 +14081,14 @@ compellit
 ,
 qui
 prouidentia
+
 Sua
 tyrannidem
 regis
 pertaesus
 ,
 hinc
+
 Liberat
 Israelem
 ?
@@ -12385,6 +14098,7 @@ is
 Deus
 est
 patrum
+
 Nostrorum
 ?
 Proin
@@ -12393,6 +14107,7 @@ qui
 proficiscitur
 Deo
 ,
+
 Non
 infoeliciter
 ire
@@ -12401,6 +14116,7 @@ censeo
 ,
 nec
 malè
+
 Rem
 constabiliuit
 suam
@@ -12408,6 +14124,7 @@ suam
 Mos
 .
 verißima
+
 Frater
 loqueris
 .
@@ -12416,6 +14133,7 @@ commodum
 huc
 sese
 ingerunt
+
 Nobis
 Iudas
 ac
@@ -12423,6 +14141,7 @@ Simeon
 ,
 hósne
 adducimus
+
 Vna
 ad
 Pharonem
@@ -12431,6 +14150,7 @@ vt
 dictorum
 testes
 sient
+
 Ac
 factorum
 ?
@@ -12444,6 +14164,7 @@ non
 est
 opus
 .
+
 Ne
 si
 fors
@@ -12452,6 +14173,7 @@ is
 nobis
 respondeat
 ,
+
 Illi
 interim
 desperent
@@ -12459,6 +14181,7 @@ desperent
 &
 animos
 statim
+
 Mutent
 .
 Est
@@ -12467,6 +14190,7 @@ genus
 nostrum
 irritabile
 ,
+
 Durae
 ceruicis
 ,
@@ -12474,6 +14198,7 @@ nisi
 quid
 aliud
 seruitus
+
 Communis
 omnium
 haec
@@ -12481,6 +14206,7 @@ docuit
 :
 quàm
 languida
+
 futem
 spes
 ista
@@ -12490,6 +14216,7 @@ vides
 .
 Natura
 non
+
 Facilè
 cedit
 ,
@@ -12498,12 +14225,14 @@ iam
 insederit
 semel
 .
+
 Et
 seruitute
 mores
 plerumque
 in
 malum
+
 Mutantur
 .
 caeterùm
@@ -12515,6 +14244,7 @@ sua
 Mos
 .
 probe
+
 Dicis
 .
 Aar
@@ -12526,6 +14256,7 @@ ex
 monitu
 Dei
 ,
+
 Quàm
 Pharò
 grauatim
@@ -12534,12 +14265,14 @@ feret
 ,
 quamque
 audiet
+
 Inuito
 animo
 nos
 sollicitare
 vt
 liberum
+
 Permittat
 ire
 Israelem
@@ -12550,6 +14283,7 @@ sic
 est
 .
 tamen
+
 Permittet
 ,
 licet
@@ -12557,7 +14291,9 @@ inuitus
 .
 tandem
 sentiet
+
 5
+
 Tyrannus
 ,
 viuátne
@@ -12565,6 +14301,7 @@ alius
 se
 potentior
 .
+
 Nunc
 ad
 fores
@@ -12572,6 +14309,7 @@ palatij
 propè
 adsumus
 :
+
 Tu
 pulsa
 grauiter
@@ -12581,12 +14319,15 @@ in
 Dei
 Israelis
 nomine
+
 Nostrum
 emittamus
 arietem
 .
 machaera
+
 si
+
 Pharoni
 est
 ,
@@ -12596,6 +14337,7 @@ esse
 in
 nostro
 Deo
+
 Verninam
 intelliget
 .
@@ -12603,25 +14345,34 @@ agè
 pulsa
 liberè
 .
+
 t22
+
 *
 *
 7
+
 r
+
 
 Digitized
 by
 Google
 
+
 Scena
+
 Sepb
 .
+
 TRAGICAScena
+
 
 
 22
 Trimetri
 .
+
 Aaron
 .
 Dromo
@@ -12630,10 +14381,12 @@ Moses
 .
 Pharo
 .
+
 Demarchus
 .
 Desmophylax
 .
+
 Perite
 nobis
 aliquis
@@ -12643,12 +14396,14 @@ heus
 ,
 quis
 impete
+
 Tam
 vasto
 ambas
 fores
 conuolsit
 cardine
+
 Toto
 ?
 quae
@@ -12659,6 +14414,7 @@ malum
 intemperiae
 exercitant
 ,
+
 Vt
 sic
 perfingeretis
@@ -12667,8 +14423,10 @@ fores
 ?
 Mos
 frater
+
 Scaz
 .
+
 Videlicet
 bona
 hic
@@ -12677,6 +14435,7 @@ principia
 .
 Aa
 tui
+
 Nos
 nil
 quicquam
@@ -12684,6 +14443,7 @@ perfregimus
 ,
 sed
 quaerimus
+
 Regem
 ,
 si
@@ -12692,6 +14452,7 @@ queamus
 conuenire
 eum
 .
+
 Dro
 .
 Itáne
@@ -12707,12 +14468,14 @@ licet
 .
 Est
 graue
+
 Negocium
 ,
 quod
 hîc
 communicabimus
 .
+
 Et
 regis
 interest
@@ -12722,6 +14485,7 @@ ad
 illum
 admittimur
 .
+
 Mos
 .
 Ne
@@ -12732,6 +14496,7 @@ nos
 regem
 quaerimus
 .
+
 Dro
 .
 Nempè
@@ -12742,6 +14507,7 @@ facietis
 è
 cloaca
 apud
+
 Regem
 .
 Aa
@@ -12753,6 +14519,7 @@ Dro
 hîc
 moramini
 ,
+
 Visam
 an
 regi
@@ -12764,6 +14531,7 @@ Vise
 obsecro
 .
 Superbum
+
 An
 petulans
 hoc
@@ -12774,6 +14542,7 @@ est
 nisi
 quis
 sciat
+
 His
 commodè
 loqui
@@ -12782,6 +14551,7 @@ sunt
 portae
 ferreae
 .
+
 Mos
 .
 Hoc
@@ -12791,6 +14561,7 @@ verè
 frater
 sed
 interim
+
 Memineris
 nunc
 tuum
@@ -12798,6 +14569,7 @@ esse
 ad
 regem
 expromere
+
 Verbum
 Dei
 nostri
@@ -12806,6 +14578,7 @@ verbum
 quod
 in
 meo
+
 Tuoque
 ille
 ore
@@ -12814,6 +14587,7 @@ statuit
 ,
 ne
 mea
+
 Titubantia
 ipsum
 offendam
@@ -12821,12 +14595,14 @@ offendam
 post
 istuc
 tamen
+
 Ego
 succenturiatus
 adero
 tibi
 quoque
 .
+
 Dro
 .
 Vbi
@@ -12838,6 +14614,7 @@ intrate
 ,
 accedite
 huc
+
 In
 atrio
 sedet
@@ -12847,6 +14624,7 @@ Aar
 .
 tibi
 Pharao
+
 Rex
 salua
 omnia
@@ -12857,6 +14635,7 @@ Mos
 &
 sapienter
 vt
+
 Tuos
 regas
 rex
@@ -12868,6 +14647,7 @@ quid
 adfertis
 noui
 ?
+
 Men
 voltis
 vos
@@ -12880,16 +14660,22 @@ est
 vt
 sciam
 ?
+
 D
 ij
+
 Digitized
 by
 Google
+
 dar
 .
 Non
+
 25
+
 COMOEDIA
+
 Aar
 .
 Nos
@@ -12898,6 +14684,7 @@ legati
 venimus
 iussu
 Dei
+
 Israelis
 :
 ne
@@ -12905,6 +14692,7 @@ suspicare
 quid
 mali
 .
+
 Non
 adferimus
 bellum
@@ -12913,6 +14701,7 @@ nec
 quod
 regnum
 tuum
+
 In
 aliquo
 labefactet
@@ -12921,6 +14710,7 @@ si
 modo
 vis
 pius
+
 Huic
 acquiescere
 .
@@ -12928,12 +14718,14 @@ Misit
 porrò
 orare
 te
+
 Dominus
 Deus
 Israelis
 vt
 populum
 suum
+
 Patienter
 hinc
 dimittas
@@ -12941,6 +14733,7 @@ dimittas
 vt
 festum
 diem
+
 In
 deserto
 celebrent
@@ -12949,6 +14742,7 @@ sibi
 pius
 annue
 .
+
 Phar
 .
 Quid
@@ -12961,6 +14755,7 @@ quis
 est
 ille
 Dominus
+
 Vt
 ego
 audiam
@@ -12969,10 +14764,12 @@ vocem
 &
 illi
 debeam
+
 Israelem
 ?
 Simpliciter
 tibi
+
 Pro
 illo
 nunc
@@ -12981,6 +14778,7 @@ respondeo
 Dominum
 ego
 nescio
+
 Vllum
 ,
 nec
@@ -12989,6 +14787,7 @@ aliquo
 hinc
 dimisero
 .
+
 Aar
 .
 Ab
@@ -12998,6 +14797,7 @@ venisse
 nos
 nostra
 ipsius
+
 Sponte
 ,
 aut
@@ -13006,6 +14806,7 @@ quicquid
 est
 tandem
 negocij
+
 Sic
 perfici
 ex
@@ -13015,6 +14816,7 @@ longè
 aliter
 est
 .
+
 Vocauit
 enim
 nos
@@ -13023,6 +14825,7 @@ ille
 Hebraeorum
 Deus
 :
+
 Huius
 iam
 nos
@@ -13032,6 +14835,7 @@ ministros
 hîc
 vides
 .
+
 Eia
 sodes
 ,
@@ -13041,6 +14845,7 @@ pace
 liceat
 tua
 ,
+
 Vt
 eamus
 inquam
@@ -13050,6 +14855,7 @@ trium
 dierum
 iter
 ,
+
 Nec
 verò
 amplius
@@ -13058,6 +14864,7 @@ amplius
 sacruficemus
 dein
 Deo
+
 Domino
 nostro
 in
@@ -13066,6 +14873,7 @@ deserto
 ne
 fors
 ingruat
+
 Nobis
 aliqua
 pestis
@@ -13074,6 +14882,7 @@ ferrumve
 hostile
 ,
 quo
+
 Serui
 tui
 spreto
@@ -13081,6 +14890,7 @@ Domino
 miserè
 cadant
 .
+
 Phar
 .
 Vin
@@ -13090,6 +14900,7 @@ iam
 denuò
 respondeam
 ?
+
 Ne
 aliquam
 vobis
@@ -13098,12 +14909,14 @@ istis
 moueas
 vide
 ,
+
 Aut
 excitaßis
 crabrones
 si
 sic
 loqui
+
 Pergis
 Mos
 .
@@ -13114,6 +14927,7 @@ ne
 imprudens
 isthaec
 sibi
+
 Pixerit
 .
 O
@@ -13126,6 +14940,7 @@ narrant
 vera
 sunt
 .
+
 Eia
 dimitte
 igitur
@@ -13135,6 +14950,7 @@ enim
 iubet
 Deus
 ,
+
 Cui
 tu
 obluctari
@@ -13144,22 +14960,31 @@ velis
 inscitia
 est
 ,
+
 XX
 .
+
 2
 .
+
 –
+
 itized
 by
 Google
+
 Et
 iu—
 
 
+
 —
+
 TRAGICA
 .
+
 26
+
 Et
 iuxtà
 rem
@@ -13168,6 +14993,7 @@ hoc
 modo
 promoueris
 ,
+
 Ac
 si
 aduorsum
@@ -13175,6 +15001,7 @@ stimulum
 sciens
 calcaueris
 .
+
 Phar
 .
 Pròh
@@ -13187,6 +15014,7 @@ ad
 aliquam
 insaniam
 .
+
 O
 quanta
 ,
@@ -13196,6 +15024,7 @@ voltu
 confidentia
 est
 ?
+
 Num
 cogitant
 quid
@@ -13204,12 +15033,14 @@ dicant
 num
 pudet
 viros
+
 Triobolares
 haec
 ad
 me
 gerris
 Siculis
+
 Vaniora
 adferre
 serio
@@ -13217,6 +15048,7 @@ serio
 apagite
 sultis
 hinc
+
 Apinas
 vestras
 ,
@@ -13226,6 +15058,7 @@ tricas
 parui
 aestumo
 .
+
 Mos
 .
 Quid
@@ -13240,6 +15073,7 @@ rogitas
 etiam
 ?
 Quia
+
 Tu
 Moses
 &
@@ -13249,12 +15083,14 @@ cur
 ab
 operibus
 suis
+
 Populum
 abstrahitis
 ?
 eho
 consultiùs
 mihi
+
 Feceritis
 ,
 ite
@@ -13266,6 +15102,7 @@ ite
 opera
 ilico
 ,
+
 Et
 vos
 aliquid
@@ -13273,6 +15110,7 @@ laboris
 hîc
 faceßite
 .
+
 Quid
 desit
 interim
@@ -13281,6 +15119,7 @@ vobis
 pulchrè
 scio
 ,
+
 Torpetis
 ocio
 omnes
@@ -13292,6 +15131,7 @@ au
 ne
 istuc
 Pharo
+
 Falsò
 de
 nobis
@@ -13299,6 +15139,7 @@ arbitrere
 .
 Ph
 scilicet
+
 Falsò
 :
 vide
@@ -13309,6 +15150,7 @@ Est
 terrae
 huius
 frequens
+
 Populus
 ,
 &
@@ -13318,14 +15160,17 @@ nugis
 nunc
 facitis
 vt
+
 Cessent
 paßim
 ab
 oneribus
 suis
 .
+
 Dimet
 .
+
 Nulla
 adeò
 ex
@@ -13338,6 +15183,7 @@ ex
 nimio
 ocio
 .
+
 Mos
 .
 Si
@@ -13350,6 +15196,7 @@ non
 rectè
 accipis
 .
+
 Pha
 .
 Ego
@@ -13362,19 +15209,23 @@ audiam
 non
 audio
 .
+
 Quin
 efficiam
 fortunae
 vestrae
 quo
 loco
+
 Fuerint
 hactenus
 intelligatis
 ,
 quando
 sic
+
 33
+
 Boni
 ocij
 vos
@@ -13382,6 +15233,7 @@ satias
 ceperit
 semel
 .
+
 Hem
 nunc
 cornutam
@@ -13389,10 +15241,12 @@ vos
 petijstis
 bestiam
 ,
+
 (
 i
 *
 ,
+
 Vbi
 me
 vestro
@@ -13400,7 +15254,9 @@ differre
 studuistis
 Deo
 .
+
 „
+
 Nunc
 videro
 ,
@@ -13410,8 +15266,11 @@ illhic
 quantus
 siet
 .
+
 12
+
 iQui
+
 
 
 gratiam
@@ -13421,6 +15280,7 @@ ferre
 offensam
 ferat
 .
+
 Aar
 .
 Rex
@@ -13433,6 +15293,7 @@ Mos
 mitius
 agito
 .
+
 .
 -
 -
@@ -13453,6 +15314,7 @@ agito
 .
 –
 J
+
 Ne
 tu
 Deum
@@ -13464,17 +15326,23 @@ Ph
 .
 tibi
 
+
 D
 iij
+
 Iratus
 sit
 .
+
 Digitized
 by
 Google
+
 2
 
+
 COMOEDIA
+
 Iratus
 sit
 .
@@ -13484,8 +15352,10 @@ dictis
 proteles
 tuis
 ?
+
 Sept
 .
+
 Agite
 huc
 Demarchum
@@ -13493,6 +15363,7 @@ Demarchum
 Desmophylacem
 &
 caeteros
+
 Exactores
 populi
 ,
@@ -13501,6 +15372,7 @@ quid
 mandem
 in
 posterum
+
 Sciant
 ;
 illi
@@ -13510,6 +15382,7 @@ volo
 probè
 curauerint
 .
+
 Dem
 .
 Nos
@@ -13518,6 +15391,7 @@ Pharao
 rex
 illustrißime
 .
+
 Phar
 .
 Videtis
@@ -13529,6 +15403,7 @@ Desm
 videmus
 maximè
 .
+
 Phar
 .
 Occasionem
@@ -13537,6 +15412,7 @@ hae
 captant
 sibi
 ,
+
 Quae
 si
 data
@@ -13549,6 +15425,7 @@ est
 nam
 nunquam
 eas
+
 Post
 illa
 poßis
@@ -13559,6 +15436,7 @@ Dem
 narras
 optimè
 .
+
 Phar
 .
 Proin
@@ -13569,6 +15447,7 @@ caueam
 dabo
 ,
 singularias
+
 Illis
 cathenas
 demite
@@ -13576,6 +15455,7 @@ demite
 &
 actutum
 indite
+
 Maiores
 ,
 vt
@@ -13583,22 +15463,26 @@ mihi
 asseruentur
 sedulò
 .
+
 Pertaesus
 ocij
 Israel
 duras
 dabit
 ,
+
 Huic
 posthac
 nullas
 paleas
 suppeditabitis
+
 Ferundis
 lateribus
 velut
 hactenus
 quidem
+
 Fecistis
 :
 ipsi
@@ -13608,14 +15492,17 @@ paleasque
 colligant
 sibi
 .
+
 Sept
 .
+
 Nibilo
 tamen
 minus
 perficiant
 pristinum
 .
+
 Demensum
 laterum
 ,
@@ -13624,6 +15511,7 @@ certe
 amplius
 imponite
 ,
+
 Neque
 hinc
 quicquam
@@ -13632,6 +15520,7 @@ minuite
 torpent
 ocio
 .
+
 Adeoque
 nunc
 clamant
@@ -13640,12 +15529,14 @@ Ibimus
 hinc
 &
 Deo
+
 Nostro
 sacruficabimus
 .
 At
 porrò
 seruitus
+
 Illis
 apud
 nos
@@ -13655,6 +15546,7 @@ ac
 clemens
 nimis
 .
+
 Aequom
 est
 hanc
@@ -13663,8 +15555,10 @@ vt
 sit
 his
 labor
+
 Sept
 .
+
 Labore
 laboriosior
 ,
@@ -13673,6 +15567,7 @@ ad
 res
 vanas
 suos
+
 Adiungant
 animos
 .
@@ -13683,6 +15578,7 @@ isthuc
 bellè
 habet
 .
+
 Dem
 .
 Hanc
@@ -13690,6 +15586,7 @@ regis
 nostri
 aequissumam
 sententiam
+
 Et
 alijs
 indicabimus
@@ -13699,6 +15596,7 @@ vt
 seruent
 ratam
 .
+
 Hi
 quid
 adimant
@@ -13706,6 +15604,7 @@ suis
 laboribus
 ,
 ilicò
+
 Contundam
 fustibus
 ,
@@ -13713,6 +15612,7 @@ ac
 vapulabunt
 durius
 .
+
 dar
 .
 Huic
@@ -13724,6 +15624,7 @@ rectè
 curatum
 velis
 .
+
 Agè
 tu
 instiga
@@ -13734,16 +15635,22 @@ hic
 insanit
 satis
 .
+
 Phar
 .
 Cu2
 
 
+
+
 Digitized
 by
 Google
+
 i
+
 TRAGICAPhar
+
 
 
 .
@@ -13756,6 +15663,7 @@ partem
 si
 quid
 siet
+
 Peccatum
 ,
 ignoscitur
@@ -13767,12 +15675,14 @@ non
 aequom
 facis
 .
+
 Pha
 .
 Abundas
 ocio
 Moses
 penuriam
+
 Melius
 feretis
 quàm
@@ -13783,6 +15693,7 @@ Mos
 itan
 ais
 ?
+
 Nos
 iudicet
 Dominus
@@ -13792,6 +15703,7 @@ Pha
 abite
 &
 dicite
+
 Haec
 nunc
 iam
@@ -13802,6 +15714,7 @@ vt
 quantus
 sit
 Pharo
+
 Ex
 vobis
 norit
@@ -13809,6 +15722,7 @@ norit
 quantae
 potentiae
 .
+
 Mos
 .
 Hoc
@@ -13819,6 +15733,7 @@ quod
 dudum
 inquit
 mihi
+
 Dominus
 ,
 induruisse
@@ -13826,6 +15741,7 @@ cor
 Pharonis
 ,
 &
+
 Nunquam
 fore
 vt
@@ -13834,6 +15750,7 @@ hunc
 populum
 lubens
 .
+
 Vereor
 tamen
 ne
@@ -13842,6 +15759,7 @@ hoc
 odio
 Israel
 statim
+
 Mutet
 animos
 ,
@@ -13850,6 +15768,7 @@ nos
 audire
 ,
 si
+
 Negantur
 paleae
 ,
@@ -13859,6 +15778,7 @@ futurum
 iam
 scio
 .
+
 Aar
 .
 Curae
@@ -13872,6 +15792,7 @@ dat
 &
 adimit
 .
+
 Videndum
 quid
 iam
@@ -13879,10 +15800,12 @@ nobis
 dicturus
 siet
 .
+
 Scena
 tertia
 Senarii
 .
+
 Iudas
 ,
 Simeon
@@ -13895,6 +15818,7 @@ Aaron
 ,
 Pharo
 .
+
 Heu
 ,
 tuam
@@ -13907,7 +15831,9 @@ proh
 ,
 prò
 Deum
+
 —
+
 Immortalem
 .
 He
@@ -13920,6 +15846,7 @@ noster
 Deus
 .
 
+
 Iud
 .
 Vah
@@ -13928,6 +15855,7 @@ carnificinam
 sceleratam
 tyrannidem
 .
+
 Mos
 .
 Quis
@@ -13939,6 +15867,7 @@ eiulatus
 ?
 Aar
 scilicet
+
 Hi
 principes
 sunt
@@ -13946,6 +15875,7 @@ Israelis
 ,
 fortè
 iam
+
 De
 paleis
 audiuere
@@ -13955,12 +15885,14 @@ illis
 nunc
 dolet
 .
+
 Iud
 .
 Quis
 vnquam
 audiuit
 contumeliosiùs
+
 Factam
 cuiquam
 iniuriam
@@ -13970,6 +15902,7 @@ Sim
 dira
 patimur
 ,
+
 Crudelia
 sunt
 ,
@@ -13981,6 +15914,7 @@ tyrannus
 Hen
 .
 ò
+
 Saeuitiam
 hominis
 ,
@@ -13990,6 +15924,7 @@ quae
 toleramus
 impia
 .
+
 Hoccine
 seruire
 est
@@ -13998,13 +15933,18 @@ hoccine
 esse
 liberum
 ?
+
 D
 iiij
+
 Mos
 .
 Frag
+
 27
+
 COMOEDIA
+
 Mos
 .
 Frater
@@ -14016,6 +15956,7 @@ videamus
 quónam
 eant
 .
+
 Hen
 .
 Quanto
@@ -14025,6 +15966,7 @@ esset
 si
 apertis
 ensibus
+
 Inuadant
 nos
 ,
@@ -14032,6 +15974,7 @@ nos
 frustulatim
 dissecent
 ?
+
 Sim
 .
 An
@@ -14040,6 +15983,7 @@ satis
 erat
 perpetuis
 laboribus
+
 Cruciari
 ,
 noctesque
@@ -14048,6 +15992,7 @@ obnixè
 agere
 omnia
 ,
+
 Nisi
 insuper
 paleae
@@ -14056,6 +16001,7 @@ negentur
 heu
 ,
 quibus
+
 Vitam
 sustentemus
 miseram
@@ -14063,6 +16009,7 @@ miseram
 Iud
 .
 durißimum
+
 Telum
 fames
 .
@@ -14071,6 +16018,7 @@ haec
 quis
 sufferat
 miser
+
 Tot
 verbera
 ,
@@ -14081,6 +16029,7 @@ fustes
 iras
 plumbeas
 .
+
 Sed
 recta
 nos
@@ -14089,11 +16038,13 @@ aulam
 .
 hanc
 supplices
+
 Expostulemus
 cum
 Parhone
 iniuriam
 .
+
 Heno
 .
 Sanè
@@ -14105,6 +16056,7 @@ fieri
 ?
 ò
 fidem
+
 Dei
 Israelis
 ,
@@ -14112,6 +16064,7 @@ quid
 commeruerunt
 tui
 ?
+
 Imò
 fac
 meruisse
@@ -14120,6 +16073,7 @@ satin
 haec
 dura
 seruitus
+
 Pro
 supplicio
 graui
@@ -14127,17 +16081,20 @@ graui
 satin
 verberarier
 ,
+
 In
 latomijs
 pendentes
 virgis
 plectier
+
 Et
 indignis
 vsque
 exercerier
 modis
 ?
+
 Ab
 pro
 paleis
@@ -14145,6 +16102,7 @@ sibiipsis
 stipulas
 colligunt
 ,
+
 Quibus
 in
 opere
@@ -14152,6 +16110,7 @@ faciundo
 non
 magae
 percitur
+
 Quàm
 si
 in
@@ -14163,6 +16122,7 @@ Frustra
 haec
 ego
 .
+
 Tu
 Iuda
 nihil
@@ -14173,6 +16133,7 @@ aut
 verere
 ,
 rem
+
 Nostram
 Parhoni
 apertè
@@ -14181,6 +16142,7 @@ vt
 est
 exponito
 .
+
 En
 prodit
 ipsus
@@ -14188,6 +16150,7 @@ ipsus
 accedamus
 alacriter
 .
+
 Aar
 .
 Adeunt
@@ -14198,8 +16161,10 @@ oportunè
 ipsus
 exijt
 .
+
 buc
 ?
+
 Iud
 .
 Viuat
@@ -14211,8 +16176,10 @@ Ph
 quid
 acturi
 venistis
+
 Troch
 .
+
 Aut
 quibus
 de
@@ -14222,6 +16189,7 @@ acceditis
 ?
 effare
 .
+
 Iud
 .
 Miramur
@@ -14231,6 +16199,7 @@ regi
 in
 mentem
 modò
+
 Venire
 potuerit
 ,
@@ -14238,6 +16207,7 @@ vt
 ita
 faciat
 suis
+
 Seruis
 .
 Pha
@@ -14251,6 +16221,7 @@ ambages
 mihi
 occipis
 ?
+
 Nil
 circuitione
 opus
@@ -14260,6 +16231,7 @@ rem
 ipsam
 mihi
 .
+
 Loquere
 .
 Iud
@@ -14272,9 +16244,12 @@ datur
 palea
 seruis
 tuis
+
 Nec
+
 TRAGICA
 .
+
 Nec
 interim
 quicquam
@@ -14282,6 +16257,7 @@ licet
 cessare
 ob
 operibus
+
 Quin
 aßiduè
 dicunt
@@ -14290,6 +16266,7 @@ hem
 ducite
 lateres
 ,
+
 Ducite
 .
 super
@@ -14299,6 +16276,7 @@ fustes
 verbera
 ingerunt
 .
+
 Flagris
 iuxtà
 ac
@@ -14307,6 +16285,7 @@ conficimur
 serui
 tui
 .
+
 Phar
 .
 Odiosi
@@ -14319,11 +16298,13 @@ fit
 operis
 poenitet
 ?
+
 Vacatis
 ocio
 ,
 vacatis
 ocio
+
 Inquam
 vos
 &
@@ -14333,6 +16314,7 @@ dicitis
 modò
 :
 Ibimus
+
 Ac
 sacruficabimus
 Domino
@@ -14342,6 +16324,7 @@ Sim
 nil
 dicimus
 .
+
 Phar
 .
 Hanc
@@ -14349,6 +16332,7 @@ vestri
 vobis
 impetrarunt
 gratiam
+
 Legati
 .
 his
@@ -14360,6 +16344,7 @@ sint
 alios
 mittite
 .
+
 Proinde
 vos
 ite
@@ -14367,6 +16352,7 @@ ite
 operamini
 :
 nihil
+
 Agitis
 ,
 palea
@@ -14376,16 +16362,19 @@ dabitur
 vt
 solet
 .
+
 Nihilominus
 tamen
 demensum
 reddite
+
 Lateritium
 ,
 secùs
 meritò
 vapulabitis
 .
+
 Heno
 .
 Ah
@@ -14396,6 +16385,7 @@ sim
 ,
 malim
 .
+
 Itan
 semel
 in
@@ -14403,6 +16393,7 @@ nos
 toto
 Erinnys
 impetu
+
 Fuerit
 ?
 quae
@@ -14412,6 +16403,7 @@ nobis
 excitant
 Tragoediam
 ?
+
 Sim
 .
 Quid
@@ -14424,12 +16416,14 @@ quid
 demum
 cogitas
 ?
+
 Sunt
 hae
 promißiones
 illae
 splendidae
 ,
+
 Quas
 fecit
 olim
@@ -14438,6 +16432,7 @@ nostro
 Abraham
 Deus
 ?
+
 Quid
 est
 ,
@@ -14446,6 +16441,7 @@ montes
 pollicerier
 aureos
 ?
+
 Aar
 .
 Nimirum
@@ -14455,6 +16451,7 @@ peccant
 grauiter
 Deo
 .
+
 Succurre
 ,
 ne
@@ -14462,6 +16459,7 @@ patiare
 sic
 vulgus
 rude
+
 Et
 imperitum
 errare
@@ -14471,6 +16469,7 @@ Iud
 Verùm
 Henoche
 quid
+
 Moses
 ,
 quid
@@ -14486,6 +16485,7 @@ Aa
 visus
 es
 .
+
 Iud
 .
 Vah
@@ -14495,6 +16495,7 @@ columen
 populi
 Dei
 .
+
 Heno
 .
 Vah
@@ -14506,17 +16507,20 @@ Sim
 impostores
 nequam
 .
+
 Itáne
 lepidum
 atque
 gloriosum
 ducitis
+
 Hiantem
 coruum
 miserè
 adeò
 deludere
 ?
+
 Mos
 .
 Ne
@@ -14527,6 +16531,7 @@ animus
 commotus
 esto
 :
+
 Compescite
 iram
 ,
@@ -14536,19 +16541,27 @@ atque
 audite
 me
 .
+
 ν
+
 Iud
 .
+
 28
+
 Sept
 .
 2
 .
+
 Scaz
 .
+
 Sept
 .
+
 COMOEDIA
+
 Iud
 .
 Ten
@@ -14561,6 +16574,7 @@ viden
 nos
 consilijs
 tuis
+
 Miseros
 esse
 impeditos
@@ -14569,6 +16583,7 @@ Mosciam
 expediet
 Deus
 .
+
 Iud
 .
 Expediet
@@ -14587,6 +16602,7 @@ Sim
 .
 ob
 ,
+
 Tibi
 vt
 credamus
@@ -14597,6 +16613,7 @@ nos
 freti
 sumus
 ?
+
 Tu
 nos
 hodie
@@ -14604,17 +16621,20 @@ ex
 re
 tranquillißima
 probè
+
 Coniecisti
 in
 miseriam
 multò
 pessumam
 .
+
 Pro
 vita
 mortem
 commutauimus
 opera
+
 Tua
 .
 Aar
@@ -14625,6 +16645,7 @@ non
 rectè
 putatis
 filij
+
 Heno
 .
 Videat
@@ -14634,19 +16655,23 @@ vos
 atque
 iudicet
 ,
+
 Foetere
 qui
 fecistis
 odorem
 Israelis
+
 Cat
 .
+
 Coram
 Parhone
 &
 illius
 ministris
 ,
+
 Quom
 his
 in
@@ -14656,6 +16681,7 @@ dedistis
 ,
 quo
 indies
+
 Nos
 iugulent
 ac
@@ -14663,12 +16689,14 @@ miserè
 trucident
 .
 pergite
+
 Et
 rem
 impeditam
 restituite
 scilicet
 .
+
 Mose
 .
 Tu
@@ -14680,6 +16708,7 @@ nusquam
 longius
 .
 Deum
+
 Ego
 conuenero
 ,
@@ -14688,6 +16717,7 @@ quid
 spei
 duit
 .
+
 Aar
 .
 Amabo
@@ -14703,11 +16733,13 @@ Mos
 .
 vale
 .
+
 Scena
 42
 Octonarii
 Iambici
 .
+
 Moses
 .
 Elohim
@@ -14717,6 +16749,7 @@ Aminadabus
 Populus
 Israelis
 .
+
 Eus
 Araham
 ,
@@ -14728,6 +16761,7 @@ Israel
 .
 Deus
 patrum
+
 Nostrorum
 ,
 ò
@@ -14739,6 +16773,7 @@ istas
 me
 miserias
 coijcis
+
 Frustra
 ?
 quid
@@ -14751,6 +16786,7 @@ in
 his
 me
 impli
+
 Ego
 audiens
 dicto
@@ -14763,6 +16799,7 @@ tuo
 cas
 malis
 ?
+
 Ac
 cur
 tam
@@ -14775,6 +16812,7 @@ populo
 quae
 tibi
 sedet
+
 Sententia
 ?
 nam
@@ -14788,6 +16826,7 @@ me
 vt
 perderes
 ?
+
 Ex
 illo
 enim
@@ -14801,6 +16840,7 @@ sum
 locutus
 ,
 en
+
 Populum
 magis
 magisque
@@ -14810,6 +16850,7 @@ nec
 sua
 à
 tyrannide
+
 Cessauit
 ,
 nec
@@ -14821,16 +16862,22 @@ hinc
 eripuisti
 mihi
 .
+
 Eloh
 .
 Heus
+
 37
+
 Digitized
 by
 Google
+
 TRAGICA
 .
+
 29
+
 Elob
 .
 Heus
@@ -14848,6 +16895,7 @@ vis
 adsum
 tibi
 .
+
 Videbis
 quam
 facturus
@@ -14861,6 +16909,7 @@ manum
 El
 .
 modò
+
 Eos
 dimittet
 ,
@@ -14870,6 +16919,7 @@ manum
 robustam
 eijciet
 è
+
 Terra
 sua
 .
@@ -14884,6 +16934,7 @@ quod
 sis
 bonus
 ,
+
 Nec
 si
 velis
@@ -14897,6 +16948,7 @@ poßis
 velis
 quicquam
 mali
+
 Facere
 .
 Elob
@@ -14916,6 +16968,7 @@ duns
 ero
 tuus
 .
+
 Apparui
 Abrahamo
 ,
@@ -14924,8 +16977,10 @@ atque
 Iacobo
 in
 deo
+
 Sept
 .
+
 Schadai
 ,
 &
@@ -14937,6 +16992,7 @@ non
 sum
 factus
 notior
+
 Illis
 .
 huc
@@ -14948,6 +17004,7 @@ quod
 foedus
 statui
 meum
+
 Cum
 ijsdem
 ,
@@ -14961,6 +17018,7 @@ terram
 nimirum
 eam
 ,
+
 In
 qua
 ipsi
@@ -14969,8 +17027,10 @@ fuere
 &
 incolae
 .
+
 Senar
 .
+
 Nunc
 verò
 filiorum
@@ -14979,6 +17039,7 @@ lacrumas
 &
 planctus
 graues
+
 Inaudij
 ,
 quos
@@ -14987,6 +17048,7 @@ Aegyptij
 modò
 premunt
 ,
+
 Venitque
 in
 mentem
@@ -14996,6 +17058,7 @@ mihi
 .
 Itaque
 dicito
+
 Sic
 filijs
 Israelis
@@ -15005,6 +17068,7 @@ Pominus
 ,
 vosque
 eduxero
+
 Ex
 oneribus
 istis
@@ -15015,6 +17079,7 @@ ex
 seruitute
 extraxero
 ,
+
 Vos
 liberali
 vt
@@ -15022,8 +17087,10 @@ asseram
 causa
 manu
 .
+
 Sen
 .
+
 Vos
 mihi
 populus
@@ -15036,6 +17103,7 @@ Deus
 nec
 clam
 siet
+
 Vobis
 ,
 quin
@@ -15048,6 +17116,7 @@ sim
 qui
 vos
 libero
+
 De
 oneribus
 hisce
@@ -15059,6 +17128,7 @@ fidant
 modo
 mihi
 )
+
 Inducam
 vos
 in
@@ -15069,6 +17139,7 @@ olim
 cuius
 gratia
 manum
+
 Meam
 leuaui
 ,
@@ -15083,6 +17154,7 @@ darem
 &
 dabo
 hanc
+
 Vobis
 vt
 poßideatis
@@ -15094,6 +17166,7 @@ dominus
 Nunc
 igitur
 citò
+
 Te
 confer
 hinc
@@ -15106,6 +17179,7 @@ morâ
 isthaec
 dicito
 .
+
 Mos
 .
 Abeo
@@ -15118,6 +17192,7 @@ quid
 modò
 profecero
 .
+
 Sed
 ecce
 oportunè
@@ -15126,6 +17201,7 @@ laborem
 accinctus
 obuiam
 venit
+
 Israel
 ,
 compellabo
@@ -15135,6 +17211,7 @@ verum
 timeo
 nimis
 malè
+
 Pop
 .
 Mevt
@@ -15147,6 +17224,7 @@ viri
 quò
 pergitis
 ?
+
 Ad
 opera
 ,
@@ -15159,6 +17237,7 @@ Am
 sed
 heus
 vbi
+
 Nunc
 Moses
 ille
@@ -15172,6 +17251,7 @@ ore
 plurimus
 deus
 ?
+
 Mos
 .
 Audi
@@ -15186,11 +17266,15 @@ vester
 Pop
 .
 hem
+
 Nósne
+
 ed
 by
 Google
+
 COMOEDIA
+
 Nósne
 audiamus
 adhuc
@@ -15203,6 +17287,7 @@ sistite
 sic
 ait
 Deus
+
 Vester
 :
 se
@@ -15215,6 +17300,7 @@ Aegyptijs
 vos
 oneribus
 ,
+
 Vt
 vos
 manu
@@ -15225,6 +17311,7 @@ sitis
 populus
 illius
 ,
+
 Se
 item
 fore
@@ -15235,6 +17322,7 @@ vestrum
 malorum
 vindicem
 .
+
 Sic
 credite
 ,
@@ -15246,6 +17334,7 @@ me
 videte
 ,
 si
+
 Falsus
 sit
 ille
@@ -15257,6 +17346,7 @@ posse
 quenquam
 fallere
 .
+
 Popul
 .
 Vah
@@ -15271,6 +17361,7 @@ ta
 dices
 commodè
 .
+
 Vt
 terga
 nostra
@@ -15283,6 +17374,7 @@ committamus
 Am
 .
 vide
+
 Sodes
 quid
 postules
@@ -15293,6 +17385,7 @@ volumus
 tibi
 acquiescere
 ,
+
 Vna
 pro
 seruitute
@@ -15301,7 +17394,9 @@ nobis
 confestim
 pares
 .
+
 3
+
 Proinde
 Moses
 alios
@@ -15312,6 +17407,7 @@ illudas
 ,
 nos
 face
+
 Missos
 .
 Mos
@@ -15326,6 +17422,7 @@ quis
 videor
 modò
 ?
+
 Hem
 ,
 repudiatus
@@ -15335,6 +17432,7 @@ hominem
 quempiam
 Sen
 .
+
 Esse
 inuenustam
 ,
@@ -15348,6 +17446,7 @@ spretus
 quò
 petam
 ?
+
 Elob
 .
 Moses
@@ -15362,12 +17461,16 @@ Eloh
 ingredere
 denuò
 ad
+
 3
+
 
 Pharonem
 .
+
 Cat
 .
+
 
 Vt
 filios
@@ -15376,6 +17479,7 @@ Israëlis
 permittat
 è
 sua
+
 Terra
 exire
 aliò
@@ -15390,6 +17494,7 @@ En
 filij
 Israel
 nihil
+
 Iam
 me
 audiunt
@@ -15400,6 +17505,7 @@ patienter
 audiat
 obsecro
 ?
+
 Cùm
 sim
 labijs
@@ -15412,6 +17518,7 @@ Aaron
 adest
 tibi
 ,
+
 Respice
 .
 quin
@@ -15423,6 +17530,7 @@ te
 iamdudum
 constitui
 Deum
+
 Parhoni
 :
 &
@@ -15435,6 +17543,7 @@ propheta
 erit
 tuus
 .
+
 Tu
 cuncta
 loqueris
@@ -15447,6 +17556,7 @@ praecipio
 Aaron
 frater
 tuus
+
 Loquetur
 ad
 Parhonem
@@ -15456,6 +17566,7 @@ vt
 dimittat
 è
 sua
+
 Terra
 .
 Interim
@@ -15466,6 +17577,7 @@ egregiè
 indurabo
 ,
 nec
+
 Volet
 signis
 ac
@@ -15475,6 +17587,7 @@ editis
 auditis
 vos
 .
+
 Enimuerò
 multis
 modis
@@ -15482,6 +17595,7 @@ manum
 extendam
 meam
 super
+
 Aegyptum
 ,
 &
@@ -15490,6 +17604,7 @@ populum
 meum
 Israel
 validissima
+
 Vi
 ,
 vt
@@ -15503,6 +17618,7 @@ certò
 norint
 Aegyptij
 .
+
 Mose
 .
 Facesso
@@ -15517,6 +17633,7 @@ ius
 postuias
 tuum
 .
+
 Elob
 .
 Si
@@ -15529,21 +17646,34 @@ per
 vos
 ostendier
 ,
+
 Dices
+
 Digitized
 by
 Google
+
 3
+
 3
+
 i
+
 7
+
 C
+
 L
+
 5
+
 3
+
 TRAGICA
 .
+
 30
+
 Dices
 tuo
 fratri
@@ -15554,6 +17684,7 @@ baculum
 sustolllat
 ac
 statim
+
 Serpens
 fiat
 ,
@@ -15566,6 +17697,7 @@ Mose
 .
 nempè
 sic
+
 Curabimus
 .
 nunquid
@@ -15579,14 +17711,17 @@ nihil
 abi
 modo
 .
+
 Scena
 5a
 Trimetri
 .
+
 Moses
 .
 Aaron
 .
+
 Vid
 restat
 vt
@@ -15596,6 +17731,7 @@ frater
 quò
 mittimur
 ?
+
 Aar
 .
 Vbi
@@ -15609,6 +17745,7 @@ mora
 .
 non
 ego
+
 Patiar
 vllum
 in
@@ -15617,7 +17754,9 @@ commodum
 tibi
 claudier
 ,
+
 V
+
 Vt
 prosim
 Israelitis
@@ -15628,6 +17767,7 @@ Mos
 quid
 ?
 Deum
+
 Non
 nos
 sequamur
@@ -15637,6 +17777,7 @@ Aar
 ducem
 sequitur
 Deum
+
 Non
 cespitat
 ,
@@ -15646,12 +17787,14 @@ si
 in
 tenebris
 versabitur
+
 Plusquam
 cimmerijs
 .
 Sed
 putásne
 eduxerit
+
 Aegypto
 Israelem
 ?
@@ -15661,6 +17804,7 @@ certè
 non
 fit
 mihi
+
 Dubium
 nam
 qui
@@ -15670,6 +17814,7 @@ autumant
 neque
 hi
 satis
+
 Norunt
 Deum
 ,
@@ -15678,6 +17823,7 @@ ille
 hos
 semper
 respicit
+
 Frater
 :
 quod
@@ -15689,6 +17835,7 @@ non
 verè
 viuitur
 .
+
 Aar
 .
 Tamen
@@ -15704,12 +17851,14 @@ fremat
 iratus
 licet
 ,
+
 Volet
 tandem
 inuitus
 populum
 dimittere
 .
+
 Ponunt
 feroces
 animos
@@ -15717,6 +17866,7 @@ tigres
 ,
 quòm
 velit
+
 Deus
 :
 subitò
@@ -15726,6 +17876,7 @@ mutare
 hic
 valet
 .
+
 Dominatur
 tumidus
 ,
@@ -15733,6 +17884,7 @@ Spiritus
 altos
 gerat
 :
+
 Sequitur
 superbos
 victor
@@ -15740,6 +17892,7 @@ victor
 tergo
 Deus
 .
+
 Memini
 vidisse
 ,
@@ -15747,12 +17900,14 @@ quo
 quidem
 sum
 iniquior
+
 Parboni
 ,
 duros
 animos
 nullis
 flectier
+
 Potuisse
 precibus
 ,
@@ -15760,11 +17915,13 @@ nullis
 portentis
 Dei
 :
+
 Quin
 arctiùs
 spumabant
 ore
 feruidi
+
 Ignem
 ,
 bellumque
@@ -15772,6 +17929,7 @@ vltrò
 ciebant
 efferi
 .
+
 Aar
 .
 Quid
@@ -15782,6 +17940,7 @@ Pharonem
 hunc
 exitus
 ?
+
 Mos
 .
 Quis
@@ -15791,22 +17950,28 @@ sit
 futurus
 nescio
 ,
+
 Apparet
+
 Digitized
 by
 Google
+
 COMOEDIA
+
 Apparet
 hunc
 conari
 sedulò
 ,
 dies
+
 Noctésque
 laborare
 ,
 omnem
 denique
+
 Lapidem
 mouere
 ,
@@ -15816,6 +17981,7 @@ non
 dimittat
 hinc
 .
+
 Et
 quantum
 ego
@@ -15824,12 +17990,14 @@ animum
 perspexi
 satis
 ,
+
 Non
 faciet
 :
 experietur
 extrema
 omnia
+
 Potius
 ,
 quàm
@@ -15839,6 +18007,7 @@ sic
 est
 homo
 ,
+
 Cum
 placas
 :
@@ -15846,6 +18015,7 @@ aduorsatur
 sedulò
 ,
 nihil
+
 Vt
 impetres
 cum
@@ -15855,6 +18025,7 @@ Aar
 .
 Videre
 tu
+
 Mihi
 frater
 prospicere
@@ -15863,6 +18034,7 @@ quae
 futura
 sunt
 .
+
 Ain
 tot
 motus
@@ -15870,6 +18042,7 @@ motus
 tot
 nobis
 pericula
+
 Etiamnum
 restare
 ?
@@ -15878,6 +18051,7 @@ Mos
 hoc
 illud
 videlicet
+
 Est
 ,
 quod
@@ -15886,6 +18060,7 @@ indurauit
 Pharaonis
 Deus
 ,
+
 Ne
 quò
 patiatur
@@ -15894,11 +18069,13 @@ sibi
 populum
 abripi
 .
+
 Deus
 per
 ardua
 volet
 innotescere
+
 Suis
 ,
 ne
@@ -15907,6 +18084,7 @@ leuis
 sequatur
 gratia
 ,
+
 Statimque
 id
 animis
@@ -15914,6 +18092,7 @@ excidat
 ,
 quod
 ceuminus
+
 Difficile
 factum
 est
@@ -15923,6 +18102,7 @@ difficile
 tamen
 Deo
 ?
+
 Ac
 sic
 sunt
@@ -15932,6 +18112,7 @@ omnes
 ,
 vt
 quibus
+
 Quid
 benefacias
 ,
@@ -15940,6 +18121,7 @@ pluma
 leuior
 gratia
 .
+
 Aar
 .
 O
@@ -15950,18 +18132,21 @@ te
 frater
 ,
 nisi
+
 Aliud
 praesens
 modò
 vrgeret
 negocium
 .
+
 Scena
 6a
 Eiusdem
 farinae
 versus
 .
+
 Pharo
 .
 Symbulus
@@ -15973,6 +18158,7 @@ Moses
 Magi
 3
 .
+
 3
 .
 Zoroast
@@ -15981,12 +18167,14 @@ Iamnes
 &
 Mambres
 .
+
 Ecutus
 consilium
 tuùm
 Symbule
 ,
 non
+
 Omnino
 ineptè
 mihi
@@ -15994,6 +18182,7 @@ pol
 fecisse
 videor
 ,
+
 Vt
 me
 noster
@@ -16006,6 +18195,7 @@ Sym
 nam
 tu
 Pharo
+
 Nisi
 omnem
 funem
@@ -16013,19 +18203,24 @@ sic
 praesecuisses
 semel
 ,
+
 Machaeramque
 hoc
 tibi
 retorsisses
 ariete
 ,
+
 IamDigitized
+
 
 
 by
 Google
+
 TRAGICA
 .
+
 Iamdudum
 ad
 te
@@ -16035,6 +18230,7 @@ redijssent
 Pha
 .
 commodùm
+
 Mihi
 in
 mentem
@@ -16044,6 +18240,7 @@ suggesseras
 laudo
 te
 .
+
 Symb
 .
 Si
@@ -16058,6 +18255,7 @@ placet
 Pharo
 ,
 &
+
 Id
 gratum
 aduorsum
@@ -16065,6 +18263,7 @@ te
 fuisse
 gaudeo
 .
+
 Phar
 .
 Fex
@@ -16078,6 +18277,7 @@ quid
 ?
 cogeret
 ?
+
 Malum
 malo
 adde
@@ -16086,6 +18286,7 @@ potius
 si
 non
 sufficit
+
 Simplex
 malum
 ,
@@ -16094,6 +18295,7 @@ mox
 sibi
 geminum
 .
+
 Nae
 viceris
 .
@@ -16105,6 +18307,7 @@ metuant
 quid
 tua
 ?
+
 Si
 quod
 habes
@@ -16114,6 +18317,7 @@ seruas
 si
 potiris
 interim
+
 Voto
 tuo
 ,
@@ -16122,6 +18326,7 @@ aliquis
 aduersus
 te
 queat
+
 Vel
 ausit
 hiscere
@@ -16132,6 +18337,7 @@ aedepol
 idem
 arbitror
 .
+
 Aar
 .
 Hem
@@ -16142,6 +18348,7 @@ tibi
 noster
 Pharo
 .
+
 Mos
 .
 Profectò
@@ -16153,6 +18360,7 @@ accedundi
 tempus
 est
 .
+
 Tu
 loquere
 ,
@@ -16160,6 +18368,7 @@ orationi
 ego
 subseruiam
 .
+
 Aar
 .
 Salus
@@ -16176,6 +18385,7 @@ me
 homines
 nequam
 ?
+
 Quam
 nunc
 mihi
@@ -16186,6 +18396,7 @@ Aar
 .
 Dominus
 Deus
+
 Nos
 denuò
 ad
@@ -16195,6 +18406,7 @@ misit
 pace
 quod
 tua
+
 Liceat
 nobis
 )
@@ -16202,6 +18414,7 @@ vt
 proficiscamur
 ac
 sacra
+
 Faciamus
 in
 deserto
@@ -16209,6 +18422,7 @@ deserto
 sic
 enim
 iubet
+
 Deus
 ille
 Israelis
@@ -16217,6 +18431,7 @@ veluti
 antè
 diximus
 .
+
 Phar
 .
 Hem
@@ -16228,6 +18443,7 @@ vobis
 malum
 duint
 .
+
 Sym
 .
 Tantine
@@ -16238,7 +18454,9 @@ salus
 ,
 vt
 fuit
+
 5
+
 Quae
 iam
 semel
@@ -16246,6 +18464,7 @@ periclitata
 ,
 redire
 nondum
+
 Etiam
 pudeat
 ?
@@ -16256,7 +18475,9 @@ quid
 tu
 existimas
 ?
+
 8
+
 Egóne
 vt
 saepius
@@ -16265,6 +18486,7 @@ eadem
 re
 audiam
 ?
+
 Sym
 .
 Non
@@ -16280,7 +18502,9 @@ agas
 ,
 vide
 .
+
 2
+
 Dominus
 est
 qui
@@ -16289,6 +18513,7 @@ mittit
 sapienter
 feceris
 ,
+
 Si
 cum
 illo
@@ -16296,7 +18521,9 @@ verbum
 nullum
 commutaueris
 .
+
 *
+
 Phar
 .
 Vide
@@ -16306,6 +18533,7 @@ ducat
 homines
 malè
 
+
 Prouidos
 :
 insanit
@@ -16314,12 +18542,14 @@ nequit
 hanc
 compescere
 .
+
 ἐ
 ε
 .
 .
 ν
 .
+
 Dixi
 ,
 &
@@ -16329,18 +18559,25 @@ dicam
 nusquam
 dimisero
 .
+
 2
+
 Sym
 .
+
 2
 °
 .
+
 dibzy
 G
 Google
+
 31
 
+
 COMOEDIA
+
 Sym
 .
 Illhaee
@@ -16350,6 +18587,7 @@ est
 proin
 potius
 amolimini
+
 Vos
 hinc
 .
@@ -16358,6 +18596,7 @@ est
 sequi
 pericula
 .
+
 Aar
 .
 Insania
@@ -16366,11 +18605,13 @@ Deo
 obluctarier
 &
 manum
+
 Conserere
 cum
 potentiori
 .
 postulat
+
 Dominus
 suum
 ius
@@ -16378,6 +18619,7 @@ ius
 nemini
 negaueris
 .
+
 Missum
 face
 Israelem
@@ -16388,6 +18630,7 @@ Ph
 .
 quis
 est
+
 Dominus
 ,
 vt
@@ -16399,6 +18642,7 @@ interrogem
 Aa
 .
 Deus
+
 Ille
 Israel
 ,
@@ -16408,6 +18652,7 @@ nostrum
 visus
 est
 .
+
 Pha
 .
 Gerrae
@@ -16421,6 +18666,7 @@ somnia
 ,
 fabulae
 .
+
 Pha
 .
 Symbule
@@ -16431,6 +18677,7 @@ Vah
 ,
 men
 sycophanticis
+
 Sutelis
 posse
 capi
@@ -16440,6 +18687,7 @@ Mos
 arbitrare
 nos
 Pharo
+
 Tibi
 sycophantas
 ,
@@ -16453,12 +18701,14 @@ non
 ?
 qui
 mihi
+
 Studetis
 per
 fallaciam
 imponere
 ,
 meos
+
 Seruos
 inuito
 me
@@ -16467,6 +18717,7 @@ longè
 alio
 abducere
 ?
+
 Sed
 ne
 me
@@ -16477,6 +18728,7 @@ aut
 qui
 non
 velim
+
 Ratione
 vobiscum
 vtier
@@ -16484,6 +18736,7 @@ vtier
 sic
 fecero
 .
+
 Si
 vos
 dominus
@@ -16493,6 +18746,7 @@ misit
 si
 visus
 est
+
 Idem
 vobis
 ,
@@ -16500,6 +18754,7 @@ agitè
 portenta
 aliqua
 edite
+
 Vt
 credam
 ,
@@ -16508,6 +18763,7 @@ facite
 mihi
 compendium
 .
+
 Mose
 .
 Si
@@ -16517,6 +18773,7 @@ monstris
 aut
 rerum
 miraculis
+
 Docendus
 es
 ,
@@ -16525,6 +18782,7 @@ his
 nihil
 moueberis
 ,
+
 Agè
 sis
 Aaron
@@ -16532,6 +18790,7 @@ proijce
 baculum
 ad
 pedes
+
 Huius
 ,
 sanè
@@ -16546,6 +18805,7 @@ Ph
 .
 perij
 .
+
 Video
 serpentem
 .
@@ -16558,6 +18818,7 @@ malùm
 extimescis
 ?
 bei
+
 Iocularia
 sunt
 .
@@ -16566,8 +18827,10 @@ fascinator
 est
 nequam
 .
+
 Scaz
 .
+
 Sic
 fascinat
 oculos
@@ -16577,6 +18840,7 @@ esse
 rem
 putes
 .
+
 Mos
 .
 O
@@ -16589,6 +18853,7 @@ quid
 ?
 fascinator
 hic
+
 Siet
 ?
 iube
@@ -16597,6 +18862,7 @@ actutum
 ad
 me
 magos
+
 Nostros
 ,
 si
@@ -16605,6 +18871,7 @@ ipsi
 praestare
 queant
 artibus
+
 Suis
 .
 &
@@ -16613,6 +18880,7 @@ secum
 singuli
 ferant
 .
+
 Mose
 .
 Crede
@@ -16621,17 +18889,24 @@ id
 Deum
 facere
 praestigijs
+
 Nullis
+
 Digitized
 by
 Google
+
 7
 .
+
 Sept
 .
+
 TRAGICA
 .
+
 32
+
 Nullis
 ,
 neque
@@ -16642,12 +18917,14 @@ opust
 virtute
 cuius
 in
+
 Formam
 redibit
 pristinam
 ,
 si
 prenderit
+
 Caudam
 .
 Pha
@@ -16662,6 +18939,7 @@ Hem
 tibi
 Pharo
 .
+
 Symb
 .
 Adsunt
@@ -16673,6 +18951,7 @@ artis
 faciant
 suae
 .
+
 Zoroast
 .
 Viuat
@@ -16683,6 +18962,7 @@ iußi
 aduolamus
 huc
 :
+
 Loquere
 ,
 si
@@ -16693,6 +18973,7 @@ aliquid
 efficere
 queat
 .
+
 Phar
 .
 Si
@@ -16704,6 +18985,7 @@ facitis
 aut
 adeò
 si
+
 Fallacia
 nulla
 subest
@@ -16711,6 +18993,7 @@ subest
 idem
 iam
 denuò
+
 Coram
 his
 tentate
@@ -16721,6 +19004,7 @@ Deus
 vester
 siet
 ,
+
 Intelligam
 .
 Mos
@@ -16730,6 +19014,7 @@ Aaron
 abijce
 baculum
 in
+
 Dei
 Israëlis
 nomine
@@ -16739,6 +19024,7 @@ quid
 ?
 videtis
 hunc
+
 Colubrum
 ,
 quantus
@@ -16753,6 +19039,7 @@ difficile
 hoc
 ?
 quase
+
 Idem
 &
 nos
@@ -16760,6 +19047,7 @@ incantare
 non
 nouerimus
 .
+
 Ita
 illi
 hunc
@@ -16767,6 +19055,7 @@ baculum
 veneficis
 suis
 tibi
+
 Tantum
 alligarunt
 .
@@ -16776,6 +19065,7 @@ astant
 hi
 tibi
 Pharo
+
 Magicis
 dolis
 :
@@ -16785,6 +19075,7 @@ te
 in
 simili
 quoque
+
 Deiudemus
 .
 Non
@@ -16794,6 +19085,7 @@ magis
 ,
 aut
 lupus
+
 Lupum
 ,
 quàm
@@ -16806,6 +19098,7 @@ Ph
 .
 probè
 .
+
 Sed
 vos
 proijcite
@@ -16816,6 +19109,7 @@ Sym
 proijcite
 verò
 .
+
 En
 rex
 Pharo
@@ -16827,6 +19121,7 @@ Ph
 .
 per
 Deos
+
 Totidem
 .
 at
@@ -16842,8 +19137,10 @@ deuorat
 .
 Sepi
 .
+
 Iamn
 .
+
 Nil
 iam
 vides
@@ -16851,6 +19148,7 @@ noui
 .
 incantamentis
 sibi
+
 Ista
 omnia
 faciunt
@@ -16861,8 +19159,10 @@ facile
 factu
 est
 .
+
 Hyperc
 .
+
 Zor
 .
 Eadem
@@ -16871,6 +19171,7 @@ tibi
 baculos
 istos
 citò
+
 Curaßint
 in
 taurum
@@ -16880,6 +19181,7 @@ asinum
 ceruum
 vel
 suem
+
 Abire
 si
 velis
@@ -16889,6 +19191,7 @@ nos
 poterimus
 quidem
 .
+
 Sym
 .
 Proinde
@@ -16899,6 +19202,7 @@ cauendum
 ab
 his
 tibi
+
 Erit
 Pharo
 rex
@@ -16910,8 +19214,10 @@ pergis
 auscultare
 ,
 mox
+
 Sept
 .
+
 Magicis
 susurris
 hinc
@@ -16920,23 +19226,29 @@ insigni
 multent
 malo
 .
+
 Nam
 pariter
 incantant
 homini
 vesaniam
 ,
+
 Pariter
 etiam
 excantant
 omnem
 prudentiam
 .
+
 Mamb
 .
 
+
 byGoogle
+
 COMOEDIA
+
 Mamb
 .
 Cauendum
@@ -16950,6 +19262,7 @@ Ph
 fit
 seduli
 .
+
 Abite
 hinc
 vos
@@ -16958,11 +19271,13 @@ plani
 impostores
 pessumi
 ,
+
 Auferte
 nugas
 istas
 sycophanticas
 .
+
 Hercle
 posthac
 si
@@ -16972,6 +19287,7 @@ sed
 non
 est
 opus
+
 Verbis
 .
 eamus
@@ -16979,6 +19295,7 @@ intrò
 ,
 vbi
 nugabimur
+
 Magis
 super
 his
@@ -16990,15 +19307,18 @@ Rex
 Pharo
 licet
 .
+
 Scena
 7
 .
 Scazontes
 .
+
 Moses
 .
 Elohim
 .
+
 Rò
 summe
 Deus
@@ -17007,7 +19327,9 @@ fidem
 obsecro
 :
 tandem
+
 3
+
 dut
 muta
 odium
@@ -17016,19 +19338,23 @@ Pharonis
 aut
 tuam
 cernat
+
 P
+
 Potentiam
 :
 tametsi
 nil
 tuis
 verbis
+
 Omnino
 diffidam
 .
 nos
 liberabis
 de
+
 Manu
 Aegypti
 ,
@@ -17037,6 +19363,7 @@ vt
 stipulam
 sole
 perfringes
+
 Excoctam
 nostros
 aduersarios
@@ -17045,6 +19372,7 @@ Elo
 .
 Moses
 .
+
 Grauatus
 est
 animus
@@ -17052,6 +19380,7 @@ Parhonis
 ,
 &
 durus
+
 Negat
 dimittere
 populum
@@ -17059,6 +19388,7 @@ populum
 ecce
 vesper
 iam
+
 Adest
 ,
 sed
@@ -17066,6 +19396,7 @@ ito
 cras
 diluculo
 summo
+
 Ad
 hunc
 Parhonem
@@ -17076,6 +19407,7 @@ ad
 amnem
 :
 tu
+
 Illi
 obuiam
 stabis
@@ -17083,6 +19415,7 @@ prope
 fluminis
 ripam
 ,
+
 Et
 sumes
 in
@@ -17090,6 +19423,7 @@ manum
 virgam
 tibi
 versam
+
 In
 colubrum
 ,
@@ -17098,12 +19432,14 @@ ita
 confidenter
 effare
 :
+
 Dominus
 ille
 Hebraeorum
 Deus
 tibi
 rursus
+
 Me
 misit
 hisce
@@ -17111,7 +19447,9 @@ mandatis
 :
 Feras
 tandem
+
 f
+
 Aequo
 animo
 ,
@@ -17121,6 +19459,7 @@ populus
 ac
 seruiat
 longè
+
 In
 deserto
 mihi
@@ -17129,6 +19468,7 @@ mihi
 hactenus
 quidem
 durus
+
 Renuisti
 audire
 ,
@@ -17137,6 +19477,7 @@ Dominus
 haec
 dicit
 :
+
 In
 eo
 cognosce
@@ -17145,6 +19486,7 @@ Dominus
 siem
 solus
 .
+
 En
 ego
 feriam
@@ -17154,12 +19496,16 @@ fluminis
 &
 mihi
 extemplò
+
 Omnes
+
 Digitized
 by
 Google
+
 TRAGICA
 .
+
 Omnes
 abibunt
 in
@@ -17168,6 +19514,7 @@ cruorem
 vt
 hinc
 pisces
+
 Moriantur
 :
 atque
@@ -17175,6 +19522,7 @@ ex
 putrido
 flumine
 Aegyptus
+
 Defessa
 non
 bibet
@@ -17184,6 +19532,7 @@ sitis
 premet
 totam
 .
+
 Sic
 Moses
 dixeris
@@ -17191,6 +19540,7 @@ statim
 ac
 redibit
 lux
+
 Crastina
 .
 Mos
@@ -17204,17 +19554,20 @@ seruet
 tuum
 numen
 .
+
 Scena
 8
 .
 Trochaici
 Trimetri
 .
+
 Eliabus
 .
 Siphra
 altera
 .
+
 Vàm
 laboriosa
 res
@@ -17222,6 +19575,7 @@ est
 seruitus
 ,
 cui
+
 Liber
 est
 animus
@@ -17231,6 +19585,7 @@ pudicè
 honestè
 eductus
 .
+
 –
 Quod
 quidem
@@ -17242,6 +19597,7 @@ vt
 mittam
 interim
 alios
+
 Conseruos
 ,
 acerbè
@@ -17249,8 +19605,10 @@ satis
 experior
 ,
 multos
+
 (
 nostros
+
 Quom
 iam
 annos
@@ -17261,6 +19619,7 @@ nec
 quot
 mihi
 sint
+
 Domini
 ,
 scire
@@ -17271,6 +19630,7 @@ quod
 imperat
 ,
 mox
+
 Prohibet
 alter
 ,
@@ -17280,6 +19640,7 @@ inceptem
 primùm
 ,
 herclè
+
 Nesciam
 :
 sic
@@ -17289,6 +19650,7 @@ sacrum
 &
 saxum
 stans
+
 Plector
 vsque
 vtrinque
@@ -17299,6 +19661,7 @@ Eliabe
 .
 iustus
 ille
+
 Est
 dolor
 ,
@@ -17307,6 +19670,7 @@ frustrà
 conqueri
 potestis
 .
+
 Sed
 sic
 est
@@ -17317,6 +19681,7 @@ vt
 Deum
 istud
 ipsum
+
 Autumem
 voluisse
 ,
@@ -17325,6 +19690,7 @@ hanc
 exequi
 nos
 .
+
 Nam
 quod
 &
@@ -17332,6 +19698,7 @@ paleae
 negantur
 ,
 seruitute
+
 Ipsa
 est
 durius
@@ -17345,6 +19712,7 @@ Siph
 quamobrem
 decet
 nos
+
 Haec
 bati
 animo
@@ -17355,6 +19723,7 @@ si
 Eliabe
 faciemus
 ,
+
 Hic
 abos
 leuior
@@ -17362,6 +19731,7 @@ erit
 .
 cogitabis
 nos
+
 Vel
 peccasse
 ,
@@ -17370,6 +19740,7 @@ Deum
 conari
 quod
 non
+
 Quimus
 assequi
 ,
@@ -17377,6 +19748,7 @@ iuuat
 malis
 in
 rebus
+
 Si
 bono
 vtare
@@ -17386,6 +19758,7 @@ Eli
 credo
 te
 dixisse
+
 Vera
 .
 Sed
@@ -17396,6 +19769,7 @@ habent
 ?
 quot
 demum
+
 Heu
 ,
 contemnimur
@@ -17405,15 +19779,22 @@ Siph
 .
 indigna
 digna
+
 Sunt
+
 E
 ij
+
 itized
 by
 Google
+
 33
+
 COMOEDIA
+
 11
+
 Sunt
 habenda
 ,
@@ -17423,6 +19804,7 @@ herus
 ,
 certò
 credei
+
 Hisce
 vinculis
 nos
@@ -17430,14 +19812,17 @@ aliquando
 eximemur
 .
 
+
 Quas
 gestamus
 compedes
 semel
 exuemus
 .
+
 ἐ
 .
+
 Et
 iuuabit
 meminiße
@@ -17445,6 +19830,7 @@ olim
 ,
 quos
 labores
+
 Exantlauimus
 .
 Eli
@@ -17455,6 +19841,7 @@ malum
 si
 accedit
 ,
+
 Homini
 misero
 fit
@@ -17463,6 +19850,7 @@ furor
 spero
 certè
 idem
+
 Confore
 ,
 vt
@@ -17472,12 +19860,14 @@ seruiamus
 :
 verùm
 .
+
 Spes
 dilata
 affligit
 pectus
 aerumnosum
 .
+
 Siph
 .
 Vera
@@ -17491,6 +19881,7 @@ ferunt
 de
 Mose
 ,
+
 Tene
 nil
 solatur
@@ -17499,6 +19890,7 @@ Eli
 nostri
 aiunt
 solamen
+
 Istud
 languidum
 esse
@@ -17508,6 +19900,7 @@ quidum
 amabo
 ?
 constans
+
 Fama
 est
 ,
@@ -17517,6 +19910,7 @@ meditari
 nescio
 quid
 .
+
 Elia
 .
 Nostri
@@ -17530,6 +19924,7 @@ vt
 nata
 est
 .
+
 Tum
 autem
 metuo
@@ -17540,6 +19935,7 @@ auxilium
 post
 hellum
 .
+
 Siph
 .
 Quid
@@ -17550,17 +19946,20 @@ tibi
 misera
 dicam
 ?
+
 Aerumnas
 forti
 feramus
 animo
 :
 nunquam
+
 Dominus
 noster
 obliuiscitur
 suorum
 .
+
 Eliab
 .
 Faxo
@@ -17575,6 +19974,7 @@ necesse
 Sip
 .
 spera
+
 In
 Deo
 nostro
@@ -17584,18 +19984,22 @@ curas
 fortè
 habebis
 .
+
 Scena
 9a
 Iambici
 Trimetri
 .
+
 Thodopis
 .
 Spudaea
 .
 Droma
 .
+
 3
+
 TTame
 Dij
 nostri
@@ -17605,6 +20009,7 @@ Spudaea
 ,
 quantum
 ego
+
 Vidi
 Pharonem
 ,
@@ -17612,6 +20017,7 @@ nonnihil
 timeo
 misera
 ,
+
 ANe
 quam
 ille
@@ -17621,6 +20027,7 @@ turbam
 faciat
 ,
 aut
+
 Vim
 Israelitis
 his
@@ -17635,12 +20042,14 @@ tu
 Tho
 .
 quia
+
 Postquam
 iste
 Moses
 dux
 Israel
 semel
+
 
 Iterumque
 aduenit
@@ -17650,21 +20059,26 @@ rogat
 ,
 vt
 sibi
+
 Populum
 dimitti
 iubeat
 :
 ille
 continui
+
 Huic
+
 TRAGICA
 .
+
 Huic
 irasci
 &
 negare
 pertinaciter
 ,
+
 Velle
 retinere
 ,
@@ -17673,6 +20087,7 @@ onera
 augere
 plurimùm
 .
+
 Spud
 .
 Quid
@@ -17685,6 +20100,7 @@ abijt
 tristis
 ,
 nescio
+
 Quid
 secum
 murmurans
@@ -17692,6 +20108,7 @@ murmurans
 portenta
 etiam
 audio
+
 Fuisse
 visa
 :
@@ -17701,6 +20118,7 @@ sunt
 ,
 vt
 arbitror
+
 Duras
 etiam
 nos
@@ -17712,6 +20130,7 @@ Dij
 isthaec
 probibeant
 .
+
 Thodopis
 ominare
 melius
@@ -17721,6 +20140,7 @@ Th
 quid
 ego
 aliud
+
 Tibi
 dicam
 nescio
@@ -17729,18 +20149,21 @@ Pharo
 crudelis
 est
 ,
+
 Durus
 ,
 seuerus
 atque
 inexorabilis
 ,
+
 Pol
 Israeli
 iniurius
 multis
 modis
 :
+
 Qui
 sic
 pergit
@@ -17752,6 +20175,7 @@ illum
 iam
 mihi
 .
+
 Diem
 videre
 videor
@@ -17759,11 +20183,13 @@ videor
 quo
 grandi
 malo
+
 Huiusce
 olim
 conficiemur
 tyrannide
 .
+
 Spud
 .
 Dij
@@ -17780,6 +20206,7 @@ Th
 vana
 sint
 .
+
 Sed
 nisi
 mens
@@ -17792,6 +20219,7 @@ facit
 ,
 vides
 .
+
 Spud
 .
 Video
@@ -17801,8 +20229,10 @@ me
 Israelis
 miseret
 pigetque
+
 Cat
 .
+
 Thod
 .
 Aecastor
@@ -17813,11 +20243,13 @@ Deorum
 :
 sed
 tamen
+
 Grauitate
 supplicij
 compensant
 tarditatem
 .
+
 Spud
 .
 Ita
@@ -17828,6 +20260,7 @@ gradu
 vindicta
 Deûm
 suas
+
 Poscit
 poenas
 ,
@@ -17836,6 +20269,7 @@ grauiores
 possit
 quidem
 .
+
 at
 quid
 properans
@@ -17850,6 +20284,7 @@ hem
 ?
 Droma
 ?
+
 Spud
 .
 Ellam
@@ -17865,6 +20300,7 @@ ad
 me
 respice
 .
+
 Thod
 .
 Sodes
@@ -17877,6 +20313,7 @@ Dro
 aduesperascit
 ,
 &
+
 Pharo
 iam
 dudum
@@ -17885,6 +20322,7 @@ intus
 cum
 suis
 ,
+
 Viso
 ,
 an
@@ -17899,6 +20337,7 @@ coenat
 tam
 citò
 ?
+
 Drom
 .
 Rectè
@@ -17908,6 +20347,7 @@ videlicet
 cras
 summo
 diluculo
+
 Exibit
 ,
 quò
@@ -17919,6 +20359,7 @@ Tho
 iam
 iam
 Proma
+
 Istic
 adero
 ,
@@ -17926,6 +20367,7 @@ cura
 parentur
 singula
 .
+
 Dro
 .
 Vt
@@ -17938,6 +20380,7 @@ sunt
 parata
 ,
 te
+
 Solam
 expectant
 ,
@@ -17947,6 +20390,7 @@ si
 cessas
 diu
 ,
+
 Corrumpitur
 .
 Th
@@ -17958,18 +20402,26 @@ hic
 sollicita
 sis
 .
+
 ViniE
 
 
+
 iij
+
 Digitized
 by
 Google
+
 34
+
 2
 4
+
 COMOEDIA
+
 2
+
 Veniam
 statim
 .
@@ -17977,10 +20429,14 @@ concinnabis
 lectum
 mihi
 ,
+
 i2
 .
+
 2
+
 3
+
 Vt
 si
 fors
@@ -17991,6 +20447,7 @@ Pharo
 ,
 cubem
 in
+
 Nostro
 cubili
 .
@@ -18004,6 +20461,7 @@ Tho
 Spudaea
 ,
 non
+
 Potest
 ,
 quin
@@ -18011,6 +20469,7 @@ isthaec
 regis
 pertinacia
 ,
+
 Qua
 sic
 repellit
@@ -18020,6 +20479,7 @@ Israelem
 sic
 premit
 ,
+
 Aliquando
 in
 neruum
@@ -18031,6 +20491,7 @@ fieri
 certè
 potest
 .
+
 Chorus
 tertius
 .
@@ -18038,6 +20499,7 @@ Ex
 Psalmo
 105
 .
+
 Iamb
 .
 acatal
@@ -18045,44 +20507,55 @@ acatal
 &
 cat
 .
+
 Extollite
 Israel
 Deum
 ,
+
 233
+
 Celebrate
 Iouam
 vestrum
 .
+
 Huius
 sonoris
 vocibus
+
 Vocate
 nomen
 sacrum
 :
+
 Vt
 nouerint
 &
 audiant
+
 Hunc
 exteri
 popelli
 ,
+
 Ab
 orbe
 nostro
 condito
+
 Quae
 fecit
 ille
 nobis
 .
+
 Hunc
 canite
 voce
 blandula
 ,
+
 Hunc
 canite
 &
@@ -18090,138 +20563,173 @@ vsque
 &
 vsque
 .
+
 In
 cymbalis
 aut
 nablijs
+
 Hic
 audiatur
 vnus
 .
+
 Quàm
 multa
 sint
 ,
 exponite
 ,
+
 Quae
 fecit
 Israeli
 .
+
 Vt
 praedicentur
 posteris
+
 Sunt
 digna
 quae
 patrauit
 .
+
 In
 nomine
 illius
 sacro
+
 Iam
 gratulamini
 omnes
 ,
+
 uius
 potiti
 numine
+
 Hunc
 millies
 probastis
 .
+
 Digitized
 by
 Google
+
 Gaude31
 
 
+
 .
+
 TRAGICA
 .
+
 Gaudete
 toto
 pectore
 ,
+
 Laetetur
 animus
 vester
 :
+
 Gaudete
 vos
 qui
 quaeritis
+
 Deo
 placere
 semper
 .
+
 Hunc
 quaerite
 ,
 hinc
 vobis
 opem
+
 Roburque
 postulate
 .
+
 Huius
 fauorem
 perpetim
+
 Vobis
 studete
 habere
 .
+
 Portenta
 quanta
 fecerit
+
 Memineritis
 per
 aeuum
 ,
+
 Quàm
 vera
 sint
 ,
 quae
 dixerit
+
 Vnquam
 ad
 suos
 fideles
 .
+
 Coluere
 perpetim
 Deum
+
 Hunc
 Abrahae
 nepotes
 .
+
 Elegit
 ipse
 filios
+
 Vt
 seruiant
 Iacob
 .
+
 Hic
 noster
 est
 dominus
 Deus
 ,
+
 Qui
 iudicat
 tyrannos
 ,
+
 Et
 vniuersos
 dirigit
+
 Terrae
 ,
 polique
 tractus
 .
+
 Actus
 4
 .
@@ -18231,12 +20739,14 @@ I
 Senarii
 Iamb
 .
+
 Polyhydria
 .
 Hydrophila
 .
 Demus
 .
+
 Vò
 fers
 situlam
@@ -18252,6 +20762,7 @@ me
 id
 roges
 ?
+
 Hem
 ,
 quò
@@ -18262,6 +20773,7 @@ hauriam
 meis
 aquam
 .
+
 Poly
 .
 Domum
@@ -18273,6 +20785,7 @@ hauries
 Hyd
 .
 prohibueris
+
 Tu
 ?
 Poly
@@ -18285,14 +20798,20 @@ semper
 fert
 fluuius
 tibi
+
 E
 iiij
+
 Secures
+
 Dized
 by
 Google
+
 35
+
 COMOEDIA
+
 Secures
 .
 Hyd
@@ -18301,9 +20820,11 @@ nescio
 quid
 istuc
 aenigmatis
+
 (
 aquam
 .
+
 Sit
 .
 loquere
@@ -18315,8 +20836,10 @@ velis
 ,
 intelligam
 .
+
 haurito
 tibi
+
 Polyph
 .
 Nempè
@@ -18327,6 +20850,7 @@ bem
 ,
 Hydrophila
 talem
+
 Hyd
 .
 Papae
@@ -18339,6 +20863,7 @@ Poly
 sanguinem
 vides
 :
+
 Aliam
 si
 quaeris
@@ -18351,6 +20876,7 @@ Hyd
 .
 an
 tibi
+
 Digna
 videor
 ,
@@ -18360,6 +20886,7 @@ tuis
 ludas
 dolis
 ?
+
 Polyh
 .
 Neque
@@ -18373,6 +20900,7 @@ dolus
 ,
 scio
 .
+
 Credin
 mihi
 ?
@@ -18382,6 +20910,7 @@ vana
 sim
 modò
 ,
+
 Et
 quod
 loquor
@@ -18392,6 +20921,7 @@ verum
 sit
 magis
 ,
+
 Quàm
 nunc
 ego
@@ -18401,6 +20931,7 @@ manibus
 gesto
 meis
 .
+
 Hydr
 .
 At
@@ -18413,6 +20944,7 @@ Poly
 .
 nulla
 vix
+
 Ripa
 est
 ,
@@ -18423,6 +20955,7 @@ acceßi
 nullus
 puteus
 aut
+
 Lacus
 ,
 in
@@ -18432,6 +20965,7 @@ immiserim
 hydrias
 meas
 :
+
 Verùm
 quid
 postea
@@ -18441,6 +20975,7 @@ aquam
 ,
 sed
 sanguinem
+
 Hausi
 ,
 vt
@@ -18453,8 +20988,10 @@ ego
 sed
 &
 alij
+
 Scax
 .
+
 Toto
 manè
 ,
@@ -18465,6 +21002,7 @@ armenta
 gregesque
 de
 more
+
 Adaquarent
 .
 Hydr
@@ -18475,6 +21013,7 @@ sunt
 quae
 praedicas
 ,
+
 Perijmus
 .
 Poly
@@ -18485,6 +21024,7 @@ sunt
 pol
 iratos
 Deos
+
 Nobis
 habemus
 :
@@ -18494,6 +21034,7 @@ sit
 ,
 non
 queo
+
 Conijcere
 aut
 suspicari
@@ -18503,6 +21044,7 @@ ciues
 ,
 ò
 viri
+
 Aegyptij
 &
 populares
@@ -18510,6 +21052,7 @@ nostri
 ,
 quid
 sumus
+
 Miseri
 ?
 quae
@@ -18519,6 +21062,7 @@ calamitas
 ?
 tantum
 mali
+
 Nox
 vna
 secum
@@ -18528,6 +21072,7 @@ vt
 pereamus
 siti
 ?
+
 Polyph
 .
 Audin
@@ -18541,6 +21086,7 @@ vel
 surda
 sim
 ,
+
 Vel
 istud
 audiam
@@ -18552,6 +21098,7 @@ non
 est
 aqua
 ,
+
 Non
 est
 aqua
@@ -18562,6 +21109,7 @@ non
 est
 aqua
 .
+
 Flumen
 putet
 ,
@@ -18569,6 +21117,7 @@ cruore
 inundant
 omnia
 ,
+
 Pisces
 moriuntur
 :
@@ -18577,6 +21126,7 @@ miseros
 sitis
 enecat
 .
+
 Hydr
 .
 Ah
@@ -18588,6 +21138,7 @@ euertit
 genius
 malus
 ?
+
 Dem
 .
 Puella
@@ -18599,6 +21150,7 @@ tabum
 saniem
 atque
 sanguinem
+
 Dat
 flumen
 :
@@ -18608,17 +21160,23 @@ Aegyptus
 aquam
 .
 Magi
+
 L
+
 Aliquot
+
 igitized
 by
 Google
+
 TRAGICA
 .
+
 Aliquot
 veneficique
 versibus
 suis
+
 Incantant
 vndas
 ,
@@ -18627,6 +21185,7 @@ genus
 hoc
 hominum
 latet
+
 Heu
 ,
 inter
@@ -18634,6 +21193,7 @@ hos
 Israelitas
 nos
 domi
+
 Luporum
 alimus
 catulos
@@ -18641,6 +21201,7 @@ catulos
 Sed
 isthaec
 deferam
+
 Ad
 regem
 .
@@ -18650,6 +21211,7 @@ quod
 huic
 malo
 queat
+
 Tandem
 inuenire
 remedium
@@ -18659,6 +21221,7 @@ Poly
 ego
 me
 conferam
+
 Rectà
 domum
 cruentis
@@ -18666,6 +21229,7 @@ cum
 hydrijs
 meis
 .
+
 Hydr
 .
 Domum
@@ -18677,12 +21241,14 @@ aqua
 vix
 audeo
 .
+
 Scena
 2
 .
 Trochaici
 Senarii
 .
+
 Pharo
 .
 Symbulus
@@ -18691,6 +21257,7 @@ Moses
 .
 Aaron
 .
+
 Demus
 cum
 populo
@@ -18699,12 +21266,14 @@ Aegyptio
 Magi
 3
 .
+
 Depol
 Symbule
 ,
 nescio
 quid
 illo
+
 4
 Cum
 populo
@@ -18719,11 +21288,14 @@ quod
 boni
 est
 .
+
 A
+
 Ph
 sic
 prorsus
 .
+
 Animum
 obfirmaui
 meum
@@ -18733,6 +21305,7 @@ nusquam
 hos
 dimittam
 .
+
 Symb
 .
 Rectè
@@ -18746,6 +21319,7 @@ mihi
 auferat
 ?
 quin
+
 Si
 iam
 dimißi
@@ -18754,6 +21328,7 @@ capeßant
 ,
 an
 non
+
 Diminuta
 sit
 Respub
@@ -18763,6 +21338,7 @@ Ph
 optimè
 istud
 .
+
 Non
 faciam
 ,
@@ -18773,11 +21349,13 @@ cogant
 ,
 nec
 horum
+
 Arbitrio
 quiescam
 vrgere
 ac
 detinere
+
 Ociosos
 ,
 non
@@ -18787,6 +21365,7 @@ sit
 vnda
 sanguis
 ,
+
 Sit
 flumen
 cruentum
@@ -18795,6 +21374,7 @@ non
 hac
 parte
 quicquam
+
 Me
 Pharonem
 mouerint
@@ -18804,6 +21384,7 @@ sapis
 Pharo
 rex
 .
+
 Mos
 .
 Rex
@@ -18821,6 +21402,7 @@ Sic
 duns
 inquit
 :
+
 Sine
 ,
 hinc
@@ -18834,6 +21416,7 @@ seruiat
 .
 Iamb
 .
+
 Phar
 .
 Non
@@ -18848,6 +21431,7 @@ recusas
 ,
 omnes
 ecce
+
 Feriam
 Aegypti
 fines
@@ -18855,6 +21439,7 @@ ranis
 :
 flumen
 ipsas
+
 Vltrò
 ebulliet
 ,
@@ -18863,14 +21448,20 @@ ita
 his
 scatebit
 .
+
 EV
+
 Vt
 sint
+
 Digitized
 by
 Google
+
 36
+
 COMOEDIA
+
 Vt
 sint
 prorepturae
@@ -18879,6 +21470,7 @@ omnium
 aedeis
 vestras
 ,
+
 In
 cubilia
 ,
@@ -18889,6 +21481,7 @@ furnos
 &
 mactras
 ,
+
 Nec
 locus
 erit
@@ -18899,6 +21492,7 @@ non
 hae
 penetrabunt
 .
+
 Symb
 .
 Magicum
@@ -18910,6 +21504,7 @@ Ph
 hinc
 vos
 sultis
+
 Ociùs
 iam
 nunc
@@ -18917,6 +21512,7 @@ amolimini
 ,
 nihil
 me
+
 Mordebunt
 ranae
 .
@@ -18925,6 +21521,7 @@ me
 intrò
 Symbule
 .
+
 Aar
 .
 Heu
@@ -18939,6 +21536,7 @@ Mos
 quid
 ergo
 ?
+
 Agè
 tu
 iussu
@@ -18947,6 +21545,7 @@ protende
 huc
 ,
 protende
+
 Virgam
 in
 flumina
@@ -18958,6 +21557,7 @@ in
 stagna
 ,
 paßim
+
 Vt
 ranae
 hinc
@@ -18966,6 +21566,7 @@ emergant
 &
 tegant
 Aegyptum
+
 Totam
 :
 perferat
@@ -18975,6 +21576,7 @@ qui
 flecti
 nescit
 .
+
 Aar
 .
 In
@@ -18985,7 +21587,9 @@ hem
 ,
 protendo
 .
+
 -
+
 Sed
 ranarum
 quanta
@@ -18996,6 +21600,7 @@ Mos
 his
 accedent
 ,
+
 Quas
 magi
 incantabunt
@@ -19004,6 +21609,7 @@ enim
 hoc
 omittet
 ,
+
 Indurescat
 vt
 magis
@@ -19011,6 +21617,7 @@ sed
 nos
 eamus
 .
+
 Dem
 .
 Proh
@@ -19025,10 +21632,12 @@ mali
 est
 ?
 quis
+
 Fascinator
 improbus
 nostris
 succeßit
+
 Sedibus
 ?
 pus
@@ -19040,12 +21649,14 @@ sanguis
 putredo
 ,
 foetor
+
 Impetu
 vno
 concurrunt
 &
 obsident
 hoc
+
 Regnum
 .
 turpes
@@ -19053,6 +21664,7 @@ insuper
 ranae
 coaxant
 ,
+
 Nullus
 est
 locus
@@ -19061,6 +21673,7 @@ quo
 non
 irrepant
 illae
+
 Pop
 .
 Non
@@ -19071,6 +21684,7 @@ quidem
 durare
 poßit
 ,
+
 Si
 sic
 fit
@@ -19082,6 +21696,7 @@ ranae
 intus
 ,
 ranae
+
 In
 cubilibus
 ,
@@ -19093,6 +21708,7 @@ non
 Dij
 penates
 ,
+
 Quae
 haec
 est
@@ -19106,6 +21722,7 @@ vidi
 vos
 potesse
 ,
+
 Quae
 impostores
 faciunt
@@ -19114,6 +21731,7 @@ Israelitae
 Zoro
 .
 Rex
+
 Possumus
 :
 fortè
@@ -19125,8 +21743,10 @@ plura
 quàm
 putares
 .
+
 Sept
 .
+
 Phar
 .
 Foetor
@@ -19138,6 +21758,7 @@ foedè
 in
 mensa
 turpis
+
 Rana
 coaxat
 ,
@@ -19147,6 +21768,7 @@ potis
 sum
 ferre
 :
+
 Huc
 me
 item
@@ -19154,6 +21776,7 @@ exciuit
 clarior
 populi
 proinde
+
 Vos
 faceßite
 vt
@@ -19165,15 +21788,20 @@ Mamb
 non
 rectè
 istud
+
 Rex
 Phaa
+
 Digitized
 by
 Google
+
 –
 —
+
 TRAGICA
 .
+
 Rex
 Pharo
 .
@@ -19184,6 +21812,7 @@ curaßit
 ille
 Moses
 .
+
 Hunc
 voca
 ,
@@ -19193,6 +21822,7 @@ praestigias
 auferat
 istas
 .
+
 dut
 quiesce
 ,
@@ -19201,6 +21831,7 @@ recedent
 vltrò
 ,
 sanguis
+
 Vt
 post
 septimum
@@ -19209,6 +21840,7 @@ esse
 desijt
 .
 nam
+
 Et
 aqua
 tandem
@@ -19217,6 +21849,7 @@ formam
 pristinam
 resedit
 .
+
 Tu
 nihilo
 minus
@@ -19224,12 +21857,14 @@ tuam
 rem
 promouebis
 ,
+
 Detinebis
 omnes
 ,
 nec
 quoquam
 permittes
+
 Hos
 abire
 .
@@ -19240,12 +21875,14 @@ vos
 arte
 vestra
 ranas
+
 Abigitis
 ?
 procliuiùs
 quod
 extat
 pessum
+
 Ibit
 opera
 vestra
@@ -19255,6 +21892,7 @@ quod
 nusquam
 est
 vllam
+
 In
 formam
 excitare
@@ -19267,6 +21905,7 @@ sic
 est
 .
 verùm
+
 Nos
 aliud
 mouet
@@ -19276,6 +21915,7 @@ non
 ita
 facile
 quimus
+
 Verbis
 tibi
 declarare
@@ -19287,12 +21927,14 @@ vtcunque
 est
 .
 non
+
 Possum
 diutius
 coenosas
 istas
 ranas
 ,
+
 Garrulum
 genus
 &
@@ -19302,6 +21944,7 @@ heus
 satelles
 ,
 Mosen
+
 Huc
 accerse
 .
@@ -19313,6 +21956,7 @@ quod
 in
 tuam
 rem
+
 Plurimùm
 siet
 ?
@@ -19324,6 +21968,7 @@ percupio
 Sym
 .
 quando
+
 Moses
 &
 Aaron
@@ -19333,6 +21978,7 @@ negabunt
 ,
 ni
 tu
+
 Dimittas
 populum
 isthunc
@@ -19341,6 +21987,7 @@ finge
 vultum
 ,
 multa
+
 Callidus
 promitte
 ,
@@ -19349,6 +21996,7 @@ post
 non
 seruabis
 :
+
 Heus
 ,
 nepam
@@ -19358,12 +22006,14 @@ imitare
 retrouorsum
 cede
 ad
+
 Parietem
 tuae
 sententiae
 ahaeneum
 vsque
 .
+
 Phar
 .
 Non
@@ -19374,6 +22024,7 @@ discessero
 ,
 si
 necessum
+
 Non
 sit
 prorsus
@@ -19383,6 +22034,7 @@ me
 habent
 haeranae
 .
+
 Mos
 .
 Salue
@@ -19394,6 +22046,7 @@ Pha
 saluere
 eatenus
 omnes
+
 Nos
 oportet
 ,
@@ -19401,6 +22054,7 @@ quatenus
 Dij
 permittunt
 .
+
 Caeterùm
 quid
 vos
@@ -19409,12 +22063,14 @@ huc
 ,
 audite
 :
+
 Non
 ego
 arbitrabar
 Domini
 vestri
 verbum
+
 Tam
 efficax
 dudum
@@ -19424,6 +22080,7 @@ vbi
 repellebam
 vos
 ,
+
 Quàm
 nunc
 ipsa
@@ -19433,6 +22090,7 @@ istuc
 liquidò
 reduxit
 .
+
 Deturpant
 Aegyptum
 &
@@ -19440,18 +22098,26 @@ cuncta
 inficiunt
 ranae
 ,
+
 gitized
 by
 Google
+
 DiQuas
 
 
+
 in
+
 37
+
 11
 0
+
 COMOEDIA
+
 Moses
+
 Quas
 in
 me
@@ -19459,12 +22125,14 @@ exciuistis
 .
 Quamobrem
 vterque
+
 Deprecamini
 dominum
 ,
 vt
 ranas
 depellat
+
 Ame
 ,
 &
@@ -19474,6 +22142,7 @@ meo
 ,
 vobis
 dimittam
+
 Israelem
 ,
 vt
@@ -19486,6 +22155,7 @@ Mos
 Vah
 ,
 nunc
+
 Me
 praestantior
 sis
@@ -19494,6 +22164,7 @@ gloriare
 de
 me
 .
+
 Aar
 .
 Sufficit
@@ -19506,6 +22177,7 @@ sciat
 dominum
 esse
 .
+
 Mos
 .
 At
@@ -19517,6 +22189,7 @@ quando
 pro
 te
 ,
+
 Ac
 tuis
 ,
@@ -19525,6 +22198,7 @@ me
 velis
 precari
 ,
+
 Ranae
 vt
 propulsentur
@@ -19533,10 +22207,12 @@ te
 omnes
 ,
 tuisque
+
 Iab
 .
 Scaz
 .
+
 Adomibus
 ,
 ac
@@ -19545,6 +22221,7 @@ in
 flumine
 relinquantur
 .
+
 Pha
 .
 Quin
@@ -19557,6 +22234,7 @@ iuxta
 verbum
 tuum
 sic
+
 Fiet
 ,
 vt
@@ -19567,12 +22245,14 @@ aliquem
 Deum
 ,
 qui
+
 Comparandus
 ad
 nostrum
 siet
 .
 Facessent
+
 Ate
 domibusque
 tuis
@@ -19581,6 +22261,7 @@ ranae
 vt
 restent
 tantum
+
 Solito
 in
 flumine
@@ -19596,6 +22277,7 @@ Aar
 .
 fiet
 .
+
 Mamb
 .
 Rex
@@ -19609,6 +22291,7 @@ hodie
 procedimus
 .
 nam
+
 Nil
 tu
 ea
@@ -19619,6 +22302,7 @@ haec
 quae
 facis
 nunc
+
 Cum
 populo
 :
@@ -19629,6 +22313,7 @@ quod
 tuam
 inde
 mutes
+
 Sententiam
 .
 Symb
@@ -19643,6 +22328,7 @@ Iamb
 .
 Scaz
 .
+
 Phar
 .
 Concedamus
@@ -19652,6 +22338,7 @@ quid
 facient
 ,
 docebit
+
 Exitus
 .
 Zor
@@ -19666,6 +22353,7 @@ dixti
 herclè
 verùm
 .
+
 Nam
 cuiuis
 facilè
@@ -19676,12 +22364,15 @@ minus
 tutum
 est
 .
+
 Trimetri
 Iambici
 .
+
 Scena
 3
 .
+
 Populus
 Aegyp
 .
@@ -19689,6 +22380,7 @@ Demarchus
 .
 Desmophylax
 .
+
 Iis
 nostris
 magnam
@@ -19697,12 +22389,14 @@ gratiam
 :
 adeò
 enim
+
 Repentè
 ranas
 à
 nostris
 hi
 finibus
+
 Abegere
 :
 quotus
@@ -19710,6 +22404,7 @@ quisque
 autem
 putasset
 id
+
 Ita
 futurum
 ?
@@ -19723,14 +22418,19 @@ receßit
 Desm
 .
 hem
+
 DemarDigitized
+
 
 
 by
 Google
+
 TRAGICA
 .
+
 38
+
 Demarche
 quid
 tudicis
@@ -19744,6 +22444,7 @@ est
 Desm
 .
 tibi
+
 Propulsas
 arbitrare
 ranas
@@ -19752,6 +22453,7 @@ Dem
 .
 arbitror
 .
+
 Moriuntur
 .
 Pop
@@ -19767,6 +22469,7 @@ isthaec
 istaec
 iam
 lues
+
 Euanuit
 ?
 Desm
@@ -19778,6 +22481,7 @@ vt
 iam
 euanuit
 ?
+
 Dem
 .
 Dic
@@ -19792,6 +22496,7 @@ nos
 ire
 de
 fumo
+
 Ad
 flammam
 .
@@ -19802,6 +22507,7 @@ istud
 est
 paroemiae
 :
+
 Desm
 .
 Intellige
@@ -19813,6 +22519,7 @@ moriuntur
 vt
 vides
 )
+
 Ranae
 ,
 &
@@ -19823,6 +22530,7 @@ sed
 quid
 posteà
 ?
+
 Abeunt
 relicto
 (
@@ -19832,12 +22540,14 @@ aiunt
 foetore
 pessumo
 .
+
 Corrupto
 hinc
 aere
 aedepol
 maior
 lues
+
 Sequetur
 ,
 quae
@@ -19848,6 +22558,7 @@ sit
 Dem
 .
 malum
+
 Praesagis
 .
 Desm
@@ -19855,6 +22566,7 @@ auguror
 fortaßis
 quod
 velim
+
 Fieri
 nunquam
 .
@@ -19867,6 +22579,7 @@ Dem
 .
 &
 ,
+
 Ita
 dij
 me
@@ -19876,6 +22589,7 @@ nares
 offendit
 meas
 .
+
 Atqui
 quicquid
 tandem
@@ -19885,6 +22599,7 @@ mali
 ab
 Hebraeis
 reor
+
 In
 nos
 deriuari
@@ -19894,6 +22609,7 @@ Desm
 infortunium
 ferant
 .
+
 Dem
 .
 Meministin
@@ -19904,6 +22620,7 @@ neque
 flumen
 ,
 nequam
+
 Lacus
 ,
 neque
@@ -19918,6 +22635,7 @@ quid
 niDem
 
 
+
 .
 In
 sanguine
@@ -19928,6 +22646,7 @@ pisces
 Desm
 .
 optuma
+
 Tum
 mihi
 pars
@@ -19938,6 +22657,7 @@ Dem
 .
 horum
 omnium
+
 Autores
 sunt
 Hebraei
@@ -19949,6 +22669,7 @@ hercle
 .
 odio
 nimis
+
 Digni
 sunt
 .
@@ -19962,6 +22683,7 @@ illhaec
 cuncta
 alligant
 .
+
 Desm
 .
 Ain
@@ -19971,6 +22693,7 @@ sanos
 sensus
 magicis
 auertere
+
 Norunt
 sacris
 ,
@@ -19978,6 +22701,7 @@ lunam
 coelo
 deducere
 ,
+
 Sistere
 pluuiam
 ,
@@ -19985,6 +22709,7 @@ pluuiam
 ciere
 tonitrua
 grandini
+
 Mista
 graui
 .
@@ -19997,6 +22722,7 @@ in
 his
 potentia
 ?
+
 Dem
 .
 Potißimum
@@ -20006,6 +22732,7 @@ duobus
 qui
 huius
 disciplinae
+
 Magistri
 sunt
 &
@@ -20015,6 +22742,7 @@ probi
 Desm
 .
 putas
+
 Eos
 ,
 quos
@@ -20022,6 +22750,7 @@ astare
 Pharaoni
 vidimus
 .
+
 Dem
 .
 Ipsißimos
@@ -20032,6 +22761,7 @@ sed
 aliam
 nobis
 tradidit
+
 Rex
 disciplinam
 ,
@@ -20039,13 +22769,18 @@ cuius
 nos
 quidem
 sumus
+
 PraeseDigitized
+
 
 
 by
 Google
+
 15
+
 COMOEDIA
+
 
 Praefecti
 .
@@ -20055,7 +22790,9 @@ vt
 his
 negociosis
 maximum
+
 3
+
 Mex
 fustuarium
 numeremus
@@ -20064,9 +22801,11 @@ Desm
 .
 nempe
 ita
+
 ē
 *
 ῆ
+
 Vt
 dicis
 .
@@ -20079,8 +22818,10 @@ nos
 eamus
 ,
 vt
+
 e
 *
+
 Functi
 officio
 à
@@ -20088,12 +22829,16 @@ Pharone
 ineamus
 gratiam
 .
+
 Septenarii
 .
+
 Scena
 4
 .
+
 12
+
 Moses
 .
 Aaron
@@ -20105,9 +22850,11 @@ Pharo
 .
 Symbulus
 .
+
 Magi
 3
 .
+
 TIden
 frater
 quam
@@ -20118,6 +22865,7 @@ dat
 ,
 vt
 sibi
+
 Populum
 seruaßit
 ?
@@ -20130,6 +22878,8 @@ esse
 autu.
 
 
+
+
 Sapientiae
 condimentum
 ,
@@ -20137,6 +22887,7 @@ constantiae
 bonae
 (
 mant
+
 Fideique
 promptuarium
 :
@@ -20146,6 +22897,7 @@ ille
 abest
 ,
 licet
+
 Quoiqui
 animum
 aduortere
@@ -20158,6 +22910,7 @@ monitu
 dei
 fore
 ?
+
 Vel
 Polypum
 vel
@@ -20167,6 +22920,7 @@ censeas
 :
 sic
 condijt
+
 In
 melle
 linguam
@@ -20179,6 +22933,7 @@ danunt
 quo
 gaudeat
 :
+
 Sed
 cor
 situm
@@ -20192,7 +22947,9 @@ aceto
 ,
 si
 sui
+
 *
+
 Fit
 voti
 compos
@@ -20206,6 +22963,7 @@ in
 Domini
 manu
 :
+
 Hic
 quom
 volt
@@ -20221,6 +22979,7 @@ Aar
 ehò
 ,
 facit
+
 Quod
 vulgus
 nequam
@@ -20230,8 +22989,10 @@ improbum
 :
 nam
 donicum
+
 Senar
 .
+
 Verbera
 sentit
 ,
@@ -20241,6 +23002,7 @@ post
 illa
 redit
 ad
+
 Ingenium
 .
 Mos
@@ -20251,6 +23013,7 @@ imperium
 Domini
 exequi
 ,
+
 Virgam
 capesse
 ;
@@ -20259,6 +23022,7 @@ puluerem
 ,
 mutetur
 in
+
 Pediculos
 ,
 &
@@ -20269,6 +23033,7 @@ pariter
 &
 homines
 .
+
 Vim
 sentiat
 ,
@@ -20278,6 +23043,7 @@ non
 volt
 acquiescere
 .
+
 Aar
 .
 Hem
@@ -20292,6 +23058,7 @@ dni
 Mos
 .
 mirabilis
+
 Deus
 est
 in
@@ -20303,6 +23070,7 @@ hoc
 ,
 en
 proruit
+
 Huc
 populus
 pediculosus
@@ -20312,6 +23080,7 @@ nos
 cedamus
 hinc
 .
+
 Pop
 .
 Aeg
@@ -20326,11 +23095,16 @@ incolae
 ,
 accolae
 ,
+
 Quò
+
 Dized
 by
 Google
+
 TRAGICA39
+
+
 
 
 Quò
@@ -20349,6 +23123,7 @@ miseria
 quae
 lues
 ,
+
 Contagio
 ,
 pestis
@@ -20357,6 +23132,7 @@ nos
 miseros
 enecat
 ?
+
 Ebeu
 satellitium
 ,
@@ -20365,6 +23141,7 @@ me
 totum
 exedit
 .
+
 Ebeu
 ,
 iamne
@@ -20375,6 +23152,7 @@ esca
 vermibus
 ?
 nimis
+
 Me
 illic
 momordit
@@ -20387,6 +23165,7 @@ hem
 ecce
 alterum
 ,
+
 Ecce
 alterum
 .
@@ -20396,6 +23175,7 @@ erumpunt
 alij
 noui
 ,
+
 Quàm
 istos
 necuerim
@@ -20408,6 +23188,7 @@ me
 continere
 ,
 quin
+
 Caput
 ,
 tergum
@@ -20419,6 +23200,7 @@ sic
 summam
 mihi
 cutem
+
 His
 vnguibus
 perstringo
@@ -20427,6 +23209,7 @@ proh
 aerumnam
 miserrimam
 .
+
 Heu
 ,
 foedis
@@ -20438,6 +23221,7 @@ E
 quid
 ego
 miser
+
 Dicam
 ?
 vno
@@ -20446,12 +23230,14 @@ morbo
 teneri
 ?
 femoralia
+
 Ac
 tibialia
 lendiginosa
 pediculis
 scatent
 ,
+
 Ab
 homine
 vsque
@@ -20462,6 +23248,7 @@ obsita
 omnia
 vermibus
 .
+
 Phar
 .
 In
@@ -20473,6 +23260,7 @@ saeuit
 morbus
 hic
 nihil
+
 Tutum
 est
 ab
@@ -20485,6 +23273,7 @@ sic
 res
 habet
 .
+
 Phar
 .
 Proinde
@@ -20495,6 +23284,7 @@ vos
 nobis
 in
 his
+
 Simile
 efficere
 .
@@ -20505,6 +23295,7 @@ satis
 superque
 ,
 sed
+
 Nequicquam
 omnia
 :
@@ -20513,6 +23304,7 @@ ad
 nostram
 sententiam
 parùm
+
 Succeßit
 .
 Iamn
@@ -20521,6 +23313,7 @@ anteidhac
 Pharo
 nostram
 potentiam
+
 Vidisti
 .
 caeterùm
@@ -20529,6 +23322,7 @@ phthiriasis
 est
 .
 mortalium
+
 Corporibus
 infestißima
 .
@@ -20536,6 +23330,7 @@ nos
 eam
 tibi
 phtbirian
+
 Magicis
 carminibus
 efficere
@@ -20543,6 +23338,7 @@ omninò
 non
 possumus
 .
+
 Symb
 .
 Quid
@@ -20554,6 +23350,7 @@ Aegyptus
 miratur
 sapientiam
 ,
+
 Vos
 in
 tantillo
@@ -20562,6 +23359,7 @@ ab
 his
 nugiuendulis
 ,
+
 Planis
 &
 impostoribus
@@ -20570,6 +23368,7 @@ iamne
 non
 ludent
 dolis
+
 Trioboli
 homines
 ,
@@ -20577,8 +23376,10 @@ homines
 his
 succumbet
 Aegyptus
+
 Scaz
 .
+
 Sapiens
 ?
 Zor
@@ -20588,8 +23389,10 @@ est
 sapientia
 Mosis
 diuinaomnibus
+
 Octon
 .
+
 Satis
 .
 Iamn
@@ -20600,6 +23403,7 @@ humana
 nequicquam
 valet
 sapientia
+
 Contra
 deos
 Mambres
@@ -20608,6 +23412,7 @@ certè
 Pharo
 diuinior
 ,
+
 Quam
 quae
 sic
@@ -20617,6 +23422,7 @@ nostrà
 effingi
 probè
 .
+
 Zor
 .
 Nos
@@ -20627,12 +23433,16 @@ rimas
 rex
 quaerimus
 ,
+
 Nec
 vere
+
 Digitized
 by
 Google
+
 COMOEDIA
+
 Nec
 verba
 tibi
@@ -20643,6 +23453,7 @@ veri
 oratio
 est
 .
+
 Nam
 non
 potest
@@ -20654,6 +23465,7 @@ adsit
 digitus
 Dei
 .
+
 Iamn
 .
 Apertè
@@ -20663,6 +23475,7 @@ non
 isthaec
 facit
 industria
+
 Humana
 ,
 sed
@@ -20673,6 +23486,7 @@ Mamb
 suspicimus
 hîc
 simul
+
 Digitum
 Dei
 :
@@ -20682,6 +23496,7 @@ aliud
 tibi
 praeteximus
 .
+
 Pha
 .
 Apage
@@ -20694,6 +23509,7 @@ non
 tamen
 hinc
 dimisero
+
 Israelem
 ,
 non
@@ -20704,6 +23520,7 @@ tenebras
 ,
 tenebras
 quaeritem
+
 Mihi
 ,
 aut
@@ -20713,6 +23530,7 @@ extremis
 obiectem
 periculis
 .
+
 Sym
 .
 Hinc
@@ -20725,6 +23543,7 @@ vnquam
 retrahat
 ,
 face
+
 Vt
 coepisti
 ,
@@ -20734,6 +23553,7 @@ profer
 quicquid
 ingerunt
 tibi
+
 Malorum
 finge
 somnia
@@ -20742,6 +23562,7 @@ esse
 ,
 quae
 magi
+
 Loquuntur
 .
 Pha
@@ -20754,11 +23575,13 @@ Symb
 sapis
 probè
 .
+
 Scena
 5
 .
 Trimetri
 .
+
 Maria
 .
 Populus
@@ -20768,6 +23591,7 @@ Demarchus
 .
 Desmophylax
 .
+
 AEinfoelix
 est
 homo
@@ -20775,12 +23599,14 @@ impius
 ,
 qui
 neque
+
 Verbis
 neque
 portentis
 aut
 signis
 flectier
+
 Potest
 :
 aaeò
@@ -20789,6 +23615,7 @@ occalluit
 animo
 semel
 ,
+
 Vt
 nec
 Deum
@@ -20797,6 +23624,7 @@ homines
 prorsus
 cogitet
 .
+
 Non
 ipsus
 aerumnam
@@ -20805,6 +23633,7 @@ cladem
 sentit
 suam
 ,
+
 Non
 ,
 si
@@ -20815,6 +23644,7 @@ fauces
 astet
 proximè
 .
+
 Quod
 quàm
 facilè
@@ -20824,6 +23654,7 @@ cuiuis
 noscere
 est
 ?
+
 Hic
 toties
 admonitus
@@ -20831,6 +23662,7 @@ admonitus
 cum
 gratia
 suo
+
 Vt
 nos
 regno
@@ -20839,6 +23671,7 @@ ire
 ad
 sacra
 dei
+
 Nostri
 ,
 recusat
@@ -20846,17 +23679,20 @@ pertinax
 :
 itemque
 post
+
 Plagis
 adactus
 huc
 durißimis
 nihil
+
 Mouetur
 ,
 obstinatè
 etiam
 nos
 detinet
+
 Verùm
 nisi
 Spiritus
@@ -20865,6 +23701,7 @@ in
 me
 iam
 siet
+
 Vanus
 ,
 grauiores
@@ -20872,9 +23709,12 @@ perferet
 aerumnas
 adhuc
 ,
+
 Vtisiam
+
 TRAGICA
 .
+
 Vt
 istam
 ab
@@ -20884,11 +23724,13 @@ gloriam
 dominus
 cluat
 .
+
 Sed
 eccos
 Israelitas
 miserrimos
 ,
+
 Vt
 rursus
 in
@@ -20896,12 +23738,14 @@ pistrinum
 ineant
 durißimum
 ,
+
 Vbi
 praeter
 laborem
 exantlant
 iurgia
 ,
+
 Maledicta
 ,
 improperia
@@ -20911,12 +23755,14 @@ haec
 tot
 verbera
 .
+
 Fratres
 viri
 ,
 feramus
 animo
 masculo
+
 Quae
 dura
 perpetimur
@@ -20925,6 +23771,7 @@ breui
 deus
 aderit
 ,
+
 Qui
 nos
 ex
@@ -20932,6 +23779,7 @@ carnificina
 istac
 eduxerit
 .
+
 Henoch
 .
 Soror
@@ -20940,6 +23788,7 @@ dei
 cognouimus
 .
 Pharo
+
 Solus
 repugnat
 durus
@@ -20948,6 +23797,7 @@ Iud
 .
 admiranda
 sunt
+
 Quae
 dominus
 praestitit
@@ -20956,6 +23806,7 @@ sed
 nequicquam
 omnia
 .
+
 Sime
 .
 Nos
@@ -20963,6 +23814,7 @@ sustinemus
 indignis
 populum
 affici
+
 Modis
 .
 Eliab
@@ -20977,6 +23829,7 @@ callent
 Amin
 .
 fames
+
 Me
 item
 miserum
@@ -20987,6 +23840,7 @@ Elia
 homines
 magis
 asinos
+
 Quàm
 nos
 ,
@@ -20997,12 +23851,14 @@ Mar
 .
 forti
 pectore
+
 Estote
 ,
 sustinete
 adhuc
 pauxillulum
 .
+
 Si
 quid
 possum
@@ -21010,6 +23866,7 @@ vaticinari
 ,
 breui
 admodum
+
 Hinc
 liberabimur
 .
@@ -21019,6 +23876,7 @@ ita
 quidem
 faxit
 Deus
+
 Beatus
 .
 Mar
@@ -21030,6 +23888,7 @@ pro
 foribus
 est
 ,
+
 Confidite
 ,
 &
@@ -21038,8 +23897,10 @@ vos
 seruate
 secundis
 .
+
 Scaz
 .
+
 Sim
 .
 Quid
@@ -21052,6 +23913,7 @@ hactenus
 iacit
 aleam
 ,
+
 Vt
 nos
 sibi
@@ -21060,6 +23922,7 @@ retineat
 ?
 Vir
 duplex
+
 Est
 ,
 aliud
@@ -21070,6 +23933,7 @@ aliud
 celat
 animo
 .
+
 Nam
 iam
 aliquoties
@@ -21077,12 +23941,14 @@ Mosem
 &
 Aaronem
 subdolus
+
 Fefellit
 ,
 defraudans
 genium
 nostrum
 nimis
+
 Crudeliter
 .
 Mar
@@ -21091,6 +23957,7 @@ enimuerò
 tandem
 desinet
 .
+
 Iud
 .
 Lupus
@@ -21104,6 +23971,7 @@ Mar
 at
 hîc
 secùs
+
 Iehuda
 fit
 .
@@ -21114,6 +23982,7 @@ Domini
 manu
 est
 .
+
 Leu
 riuulus
 aquarum
@@ -21123,6 +23992,7 @@ quò
 vult
 ad
 suum
+
 Inclinat
 illud
 arbitrium
@@ -21130,6 +24000,7 @@ arbitrium
 illhic
 vnus
 est
+
 Καρδιογνωτης
 .
 Iud
@@ -21137,17 +24008,24 @@ Iud
 Demiror
 Pharaonem
 nihil
+
 F
+
 Moueoogle
 
 
+
+
 40
+
 COMOEDIA
+
 Mouerier
 tot
 signis
 .
 Henop
+
 Quae
 Dominus
 excitat
@@ -21155,10 +24033,12 @@ excitat
 adeoVt
 
 
+
 haesitet
 virtute
 fieri
 istaec
+
 Mar
 .
 Et
@@ -21166,17 +24046,20 @@ haesitat
 ,
 &
 nullume
+
 Nam
 hoc
 mane
 Móses
 denuò
+
 Adijt
 Pharaonem
 ,
 vt
 nos
 din
+
 Dei
 nostri
 ,
@@ -21187,17 +24070,20 @@ recusarit
 foreVt
 
 
+
 varia
 insecta
 eius
 palatium
 &
 domos
+
 Irrumpant
 ,
 populoque
 infestißima
 oppleant
+
 Faciem
 Aegypti
 vniuersam
@@ -21205,6 +24091,7 @@ vniuersam
 sed
 nos
 Gossenem
+
 Habitemus
 ,
 vbi
@@ -21213,6 +24100,7 @@ nos
 immunes
 ab
 his
+
 Insectis
 ,
 vt
@@ -21221,6 +24109,7 @@ eo
 exemplo
 sciat
 Pharo
+
 Sit
 quantus
 in
@@ -21228,12 +24117,14 @@ terra
 Israelitarum
 Deus
 ,
+
 Qui
 tantum
 discrimen
 faciat
 inter
 suum
+
 Et
 Pharaonis
 bopulum
@@ -21242,6 +24133,7 @@ Sim
 aecastor
 laudandus
 est
+
 ominus
 ,
 laudandus
@@ -21250,6 +24142,7 @@ Deus
 Abrahae
 ,
 facit
+
 Qui
 istaec
 portenta
@@ -21261,6 +24154,7 @@ Elia
 sit
 laus
 perpetim
+
 Deo
 Amin
 .
@@ -21272,6 +24166,7 @@ nostro
 huic
 Iouae
 ,
+
 Qui
 visitauit
 nos
@@ -21280,8 +24175,10 @@ vt
 de
 manu
 saeui
+
 Scaz
 .
+
 Pharonis
 vindicet
 populum
@@ -21289,6 +24186,7 @@ suum
 Elia
 .
 labor
+
 Vtcunque
 onerosus
 hic
@@ -21297,6 +24195,7 @@ mihi
 ,
 &
 grauis
+
 Sit
 seruitus
 ,
@@ -21304,12 +24203,14 @@ spes
 libertatis
 me
 tamen
+
 Haud
 mediocriter
 solatur
 ?
 alia
 calamitas
+
 Aliam
 sequitur
 in
@@ -21318,12 +24219,14 @@ Aegypto
 hic
 sub
 pondere
+
 Genua
 labascunt
 .
 illic
 infestat
 grauis
+
 Scolopendra
 ,
 musca
@@ -21334,8 +24237,10 @@ stellio
 ,
 formicula
 ,
+
 Sept
 .
+
 Et
 id
 genus
@@ -21343,6 +24248,7 @@ multa
 execranda
 animalcula
 .
+
 Mar
 Non
 his
@@ -21351,6 +24257,7 @@ vindex
 malorum
 Deus
 erit
+
 Contentus
 :
 grauiora
@@ -21358,6 +24265,7 @@ etiamnum
 restant
 ,
 prius
+
 Quàm
 abeamus
 hinc
@@ -21365,6 +24273,7 @@ in
 terram
 nostris
 patribus
+
 Diu
 promissam
 .
@@ -21375,18 +24284,25 @@ graui
 ora
 obsecro
 ?
+
 Mar
 .
 Adbuc
+
 ισ
+
 ed
 by
 Goog
+
 Scaz
 .
+
 TRAGICA
 .
+
 41
+
 Mar
 .
 Adhuc
@@ -21397,6 +24313,7 @@ Dominus
 dabit
 ,
 interim
+
 Nos
 expectemus
 .
@@ -21405,6 +24322,7 @@ habemus
 ,
 quem
 ducem
+
 In
 nomine
 Schadai
@@ -21412,6 +24330,7 @@ sequamur
 ,
 quando
 erit
+
 Opus
 .
 Iud
@@ -21421,6 +24340,7 @@ alacres
 verùm
 adsunt
 modò
+
 Nostri
 exactores
 :
@@ -21428,6 +24348,7 @@ ad
 opera
 intermissa
 nos
+
 Properè
 abripiamus
 hinc
@@ -21438,6 +24359,7 @@ Quàm
 pulchrè
 ego
 meos
+
 Flagricibas
 hisce
 faxim
@@ -21445,6 +24367,7 @@ loris
 ,
 vt
 scient
+
 Tam
 validè
 varij
@@ -21455,8 +24378,10 @@ coccinum
 vel
 purpura
 ,
+
 Sept
 .
+
 Nisi
 modò
 eundum
@@ -21466,8 +24391,10 @@ ex
 iussu
 Pharonis
 .
+
 Hyperc
 .
+
 Desm
 .
 Equidem
@@ -21476,6 +24403,7 @@ egregiè
 ex
 suis
 virtutibus
+
 Ornarem
 ,
 vt
@@ -21484,6 +24412,7 @@ nostri
 simul
 omnes
 perduit
+
 Scelestos
 .
 Dem
@@ -21492,6 +24421,7 @@ inde
 haec
 insecta
 proficiscier
+
 Tam
 certo
 scio
@@ -21504,6 +24434,7 @@ viuere
 heu
 dolor
 ,
+
 Me
 non
 habere
@@ -21513,6 +24444,7 @@ qui
 de
 illis
 modò
+
 Supplicium
 sumam
 vt
@@ -21523,6 +24455,7 @@ vt
 est
 aequißimum
 ?
+
 Desm
 .
 Vocandus
@@ -21532,12 +24465,14 @@ atque
 Aaron
 .
 caeterùm
+
 Nos
 iram
 verbis
 disimulabimus
 impigrè
 .
+
 Nam
 vt
 haec
@@ -21548,6 +24483,7 @@ sapientem
 illum
 autumant
 ,
+
 Qui
 interdum
 ,
@@ -21556,6 +24492,7 @@ neceßitas
 ita
 postulat
 ,
+
 Manu
 altera
 fert
@@ -21565,6 +24502,7 @@ ostentat
 panem
 altera
 :
+
 Aut
 qui
 ex
@@ -21573,6 +24511,7 @@ ore
 calidum
 atque
 frigidum
+
 Simul
 efflat
 .
@@ -21583,6 +24522,7 @@ facere
 non
 potest
 ,
+
 Nunquam
 is
 sibi
@@ -21593,6 +24533,7 @@ Dem
 .
 id
 verißimè
+
 Dixti
 Desmophylax
 .
@@ -21601,12 +24542,14 @@ eccos
 tibi
 obuios
 ,
+
 Quos
 quaerimus
 :
 magnum
 viae
 dispendium
+
 Nobis
 ademerunt
 .
@@ -21617,6 +24560,7 @@ hos
 alloquere
 tu
 .
+
 Scena
 6
 .
@@ -21625,6 +24569,7 @@ generis
 cum
 superiorib
 .
+
 Demarchus
 .
 Moses
@@ -21635,6 +24580,7 @@ Desmophylax
 .
 Pharo
 .
+
 ADvos
 ibamus
 .
@@ -21648,6 +24594,7 @@ Dem
 vos
 iußit
 Pharo
+
 Accersier
 .
 Aar
@@ -21658,16 +24605,23 @@ hem
 frater
 ,
 videlicet
+
 Rursus
+
 F
 ij
+
 itized
 by
 Gog
+
 -
 
+
 COMOEDIA
+
 2
+
 Rursus
 aliquam
 in
@@ -21677,6 +24631,7 @@ inijciet
 ,
 aut
 dolo
+
 Fabricam
 finget
 nouam
@@ -21686,6 +24641,7 @@ Mos
 Pominus
 deciderit
 .
+
 Desm
 .
 Festinandum
@@ -21697,6 +24653,7 @@ non
 patitur
 moram
 .
+
 In
 rem
 vestram
@@ -21706,6 +24663,7 @@ quod
 vos
 adducimus
 :
+
 Nam
 rex
 loquetur
@@ -21714,6 +24672,7 @@ quae
 pol
 plurimùm
 sient
+
 Vobis
 saluti
 &
@@ -21724,6 +24683,7 @@ Mos
 faxit
 Deus
 .
+
 Sed
 vbi
 est
@@ -21737,6 +24697,7 @@ aulam
 egressus
 est
 .
+
 Mos
 .
 Salue
@@ -21748,6 +24709,7 @@ salutem
 optamus
 maximè
 .
+
 Non
 est
 temerè
@@ -21758,12 +24720,14 @@ ad
 me
 vocauerim
 .
+
 Expertus
 denuò
 in
 vobis
 manum
 Dei
+
 Resipisco
 ,
 nec
@@ -21771,6 +24735,7 @@ iam
 amplius
 Israelem
 nego
+
 Vobis
 dimittere
 :
@@ -21779,6 +24744,7 @@ ite
 ac
 facite
 sacrum
+
 Vestro
 Deo
 ,
@@ -21788,6 +24754,7 @@ hisce
 tantùm
 finibus
 ,
+
 Insecta
 vt
 hinc
@@ -21802,6 +24769,7 @@ non
 ita
 Pharo
 .
+
 Pha
 .
 Quid
@@ -21814,6 +24782,7 @@ quia
 non
 commodè
 potest
+
 Id
 fieri
 .
@@ -21823,18 +24792,21 @@ ea
 quidem
 nostro
 Deo
+
 Sacra
 faciemus
 ,
 quae
 execrarentur
 tui
+
 Aegyptij
 ,
 nec
 aequis
 oculis
 poßient
+
 Aspicere
 ,
 vt
@@ -21844,8 +24816,10 @@ in
 nos
 continuò
 saxa
+
 Scaz
 .
+
 Iaciant
 .
 Sed
@@ -21856,6 +24830,7 @@ tuorum
 te
 mouet
 ,
+
 Permitte
 ,
 vt
@@ -21863,6 +24838,7 @@ eamus
 hinc
 in
 solitudinem
+
 Saltem
 tridui
 iter
@@ -21873,6 +24849,7 @@ amplius
 ,
 vt
 Deo
+
 Nostro
 sacrificemus
 ,
@@ -21880,6 +24857,7 @@ prout
 ipse
 iusserit
 .
+
 Eam
 rem
 si
@@ -21889,6 +24867,7 @@ possumus
 impetrare
 ,
 iam
+
 Ne
 musca
 quidem
@@ -21899,6 +24878,7 @@ Pha
 .
 placet
 .
+
 Concedo
 ,
 sed
@@ -21907,6 +24887,7 @@ lege
 ne
 pòst
 longiùs
+
 Hinc
 procedatis
 ,
@@ -21914,6 +24895,7 @@ aut
 loco
 istoc
 quopiam
+
 Excedatis
 .
 Precamini
@@ -21921,6 +24903,7 @@ item
 pro
 me
 Deum
+
 Vestrum
 .
 Mos
@@ -21931,14 +24914,17 @@ statim
 atque
 à
 te
+
 Scaz
 .
+
 Discessero
 ,
 Dominum
 exorabo
 vt
 crastino
+
 Die
 auferat
 insecta
@@ -21947,14 +24933,19 @@ vobis
 ,
 nec
 diutius
+
 Haec
+
 2
 °
+
 Digitized
 by
 Gonogle
+
 TRAGICA
 .
+
 Haec
 perferet
 populus
@@ -21962,12 +24953,14 @@ populus
 tuine
 satellites
 .
+
 Verùm
 caue
 nos
 amplius
 frustraueris
 .
+
 Quom
 plaga
 cessat
@@ -21977,12 +24970,14 @@ solitum
 animum
 induas
 ,
+
 Ac
 nobis
 Israetem
 hinc
 ad
 sacrificia
+
 Dimittere
 .
 Pha
@@ -21995,6 +24990,7 @@ dixi
 esto
 ratum
 .
+
 Dem
 .
 Iam
@@ -22004,6 +25000,7 @@ istam
 luem
 execrabilem
 ,
+
 Et
 pulchrè
 etiam
@@ -22011,6 +25008,7 @@ vobiscum
 actum
 putabitis
 .
+
 Mose
 .
 Nos
@@ -22024,6 +25022,7 @@ frater
 ?
 arbitrare
 ,
+
 Hic
 quae
 locutus
@@ -22033,6 +25032,7 @@ ex
 animo
 dixerit
 ?
+
 Mose
 .
 Nescio
@@ -22044,6 +25044,7 @@ mihi
 facere
 visus
 est
+
 Idem
 ,
 quod
@@ -22053,6 +25054,7 @@ faciunt
 qui
 quom
 malè
+
 Habent
 ,
 meliora
@@ -22060,6 +25062,7 @@ spondent
 omnia
 :
 posteà
+
 Verò
 quom
 conualuerunt
@@ -22068,6 +25071,7 @@ conualuerunt
 morbus
 abijt
 ,
+
 Rursus
 ad
 ingenium
@@ -22076,11 +25080,13 @@ redeunt
 ne
 dicam
 interim
+
 Eos
 subinde
 peiores
 resurgere
 .
+
 Sed
 nos
 tamen
@@ -22089,6 +25095,7 @@ praestaemus
 quod
 promisimus
 :
+
 Deum
 precemur
 ,
@@ -22097,6 +25104,7 @@ isthaec
 auferat
 mala
 .
+
 Aar
 .
 Precemur
@@ -22107,16 +25115,20 @@ impijs
 quoad
 possumus
 .
+
 Trimetri
 Iamb
 .
+
 Scena
 7
 .
+
 Thodopis
 .
 Spudaea
 .
+
 St
 istucmihi
 datum
@@ -22124,6 +25136,7 @@ datum
 dijs
 immortalibus
 ,
+
 Vt
 quanquam
 foemina
@@ -22133,12 +25146,14 @@ sexu
 fragili
 ,
 queam
+
 Nonnulla
 prospicere
 futura
 .
 non
 enim
+
 Vt
 modò
 alea
@@ -22147,6 +25162,7 @@ cecidit
 suspicata
 iam
 diu
+
 Fuissem
 .
 Hoc
@@ -22156,11 +25172,13 @@ est
 quod
 dixi
 saepiùs
+
 Aegyptum
 oportere
 aerumnis
 multis
 adhuc
+
 Et
 obrui
 &
@@ -22168,6 +25186,7 @@ conficier
 miseram
 .
 Dapsilis
+
 Rex
 Pharo
 sibi
@@ -22177,14 +25196,20 @@ genio
 suo
 ,
 parùm
+
 F
 iij
+
 Quid
+
 Digitized
 by
 Google
+
 42
+
 COMOEDIA
+
 Quid
 ciuibus
 miseris
@@ -22192,6 +25217,7 @@ fiat
 perpendit
 ,
 vt
+
 Suam
 expleat
 tyrannidem
@@ -22199,6 +25225,7 @@ tyrannidem
 Scio
 quidem
 ,
+
 Neque
 conuenit
 mihi
@@ -22206,6 +25233,7 @@ mihi
 nec
 personae
 prepon
+
 Admittit
 istaec
 vt
@@ -22213,12 +25241,14 @@ de
 rege
 proloquar
 ,
+
 Qui
 animo
 meo
 certè
 charißimus
 omnium
+
 Meritò
 esse
 debeat
@@ -22226,6 +25256,7 @@ debeat
 qui
 item
 charißimam
+
 Sibi
 me
 adiunxit
@@ -22235,12 +25266,14 @@ haeccine
 obsecro
 fieri
 ?
+
 Itáne
 Israelem
 hîc
 retinere
 inuitò
 studet
+
 Sibi
 cum
 summo
@@ -22250,6 +25283,7 @@ populi
 magno
 malo
 ?
+
 Quanto
 aequius
 foret
@@ -22259,6 +25293,7 @@ in
 hac
 re
 nonnihil
+
 Deiure
 suo
 recedat
@@ -22267,6 +25302,7 @@ vt
 prosit
 suis
 .
+
 Rex
 non
 necesse
@@ -22276,6 +25312,7 @@ vel
 certè
 habere
 non
+
 Debet
 pro
 iure
@@ -22284,6 +25321,7 @@ agere
 omnia
 .
 Principi
+
 Nihil
 est
 clementia
@@ -22291,6 +25329,7 @@ ac
 facilitate
 melius
 .
+
 Adeóne
 demens
 est
@@ -22298,6 +25337,7 @@ Pharo
 ex
 animi
 sui
+
 Saeuitia
 ,
 vt
@@ -22306,6 +25346,7 @@ signa
 ,
 tot
 miracula
+
 Nihil
 aduertat
 ?
@@ -22313,6 +25354,7 @@ fex
 ,
 purulenti
 sanguinis
+
 Foetor
 ,
 ranae
@@ -22322,6 +25364,7 @@ vermes
 insecta
 varia
 nil
+
 Ne
 commouent
 ?
@@ -22331,12 +25374,14 @@ quanto
 hîc
 regem
 plurimi
+
 Anteeunt
 sapientia
 ,
 qui
 istud
 verißimè
+
 Dictum
 putant
 :
@@ -22345,6 +25390,7 @@ qui
 retinere
 vult
 ,
+
 Exire
 magis
 incitat
@@ -22352,6 +25398,7 @@ incitat
 Errat
 longè
 mea
+
 Sententia
 ,
 si
@@ -22359,6 +25406,7 @@ imperium
 credat
 grauius
 aut
+
 Stabilius
 esse
 vi
@@ -22371,6 +25419,7 @@ quod
 adIungitur
 
 
+
 amicitia
 .
 Sed
@@ -22378,18 +25427,21 @@ haec
 ego
 non
 satis
+
 Decorè
 dixerim
 ratione
 sexus
 ,
 aut
+
 Meae
 personae
 ,
 quae
 parare
 commodum
+
 Mihi
 debeam
 potius
@@ -22397,7 +25449,9 @@ ex
 huius
 commodo
 ,
+
 *
+
 Et
 habere
 mores
@@ -22405,12 +25459,14 @@ consimiles
 regi
 meo
 :
+
 Vt
 nostrae
 amori
 nulla
 incidere
 calamitas
+
 Poßit
 .
 Verùm
@@ -22419,16 +25475,23 @@ tam
 obstinatè
 operam
 dare
+
 Digitized
 by
 Google
+
 Scaz
 .
+
 Nequi
+
 /
+
 TRAGICA
 .
+
 43
+
 Nequò
 dimittat
 Israelem
@@ -22436,6 +25499,7 @@ Israelem
 vt
 malit
 &
+
 Maria
 omnia
 &
@@ -22444,6 +25508,7 @@ caelo
 miscere
 ,
 vel
+
 Sacra
 item
 profanis
@@ -22452,6 +25517,7 @@ id
 mihi
 non
 volgaribus
+
 Modis
 dolet
 .
@@ -22461,6 +25527,7 @@ Non
 illibenter
 te
 bactenus
+
 Audiui
 .
 Thod
@@ -22478,6 +25545,7 @@ Th
 .
 qui
 po
+
 A
 foribus
 audiui
@@ -22487,9 +25555,11 @@ quàm
 cordata
 ,
 quàm
+
 (
 tes
 ?
+
 Lepida
 ac
 vera
@@ -22501,8 +25571,10 @@ est
 .
 quam
 vellem
+
 Trocha
 .
+
 Pharoni
 in
 his
@@ -22511,6 +25583,7 @@ conueniat
 ,
 non
 ea
+
 Quae
 nunc
 ,
@@ -22520,6 +25593,7 @@ mala
 Sic
 sunt
 Principes
+
 Omnes
 tyranni
 :
@@ -22528,12 +25602,14 @@ interitus
 nihili
 aestimant
 ,
+
 Vel
 corruat
 caelum
 ,
 desudet
 sanguinem
+
 Humus
 ,
 fruges
@@ -22541,6 +25617,7 @@ depastae
 interciuant
 ,
 nihil
+
 Est
 ,
 dummodò
@@ -22548,6 +25625,7 @@ ipsi
 pro
 libidine
 omnia
+
 Agant
 &
 quiduis
@@ -22556,6 +25634,7 @@ perficiant
 Nil
 tam
 graue
+
 Aut
 noxium
 gignit
@@ -22564,6 +25643,7 @@ tellus
 quod
 non
 ij
+
 Vix
 huius
 faciant
@@ -22571,6 +25651,7 @@ faciant
 Per
 polminimè
 mihi
+
 Fuisti
 falsa
 :
@@ -22578,6 +25659,7 @@ praedixti
 dudum
 fore
 ,
+
 Quae
 nunc
 toleramus
@@ -22588,16 +25670,19 @@ Tho
 huc
 obstinata
 mens
+
 Pharaonis
 enitebatur
 .
 Nolunt
 Dij
+
 Mortalium
 pati
 tyrannidem
 diu
 ,
+
 Neque
 vt
 prae
@@ -22605,6 +25690,7 @@ nobis
 aspernemur
 caeteros
 .
+
 Spud
 Quae
 non
@@ -22612,6 +25698,7 @@ mala
 interim
 miserrimi
 sumus
+
 Perbeßi
 ?
 Sanguinem
@@ -22621,6 +25708,7 @@ pus
 ranas
 liuidas
 ,
+
 Pediculos
 ,
 cyniphes
@@ -22629,6 +25717,7 @@ scolopendras
 ,
 &
 tribus
+
 Vt
 rem
 absoluam
@@ -22643,6 +25732,7 @@ ab
 ,
 plura
 nos
+
 Timemus
 .
 Spu
@@ -22660,8 +25750,10 @@ tu
 mala
 mens
 .
+
 Cat
 .
+
 Malus
 animus
 ,
@@ -22672,8 +25764,10 @@ quis
 tum
 magister
 improbus
+
 Sept
 .
+
 Accedit
 ,
 ipsum
@@ -22681,6 +25775,7 @@ animum
 insanum
 saepè
 applicat
+
 Ad
 deteriorem
 partem
@@ -22690,12 +25785,14 @@ sanè
 vt
 tu
 quidem
+
 Dicis
 si
 non
 Symbulus
 consilia
 sua
+
 Intermisceat
 ,
 aut
@@ -22704,14 +25801,19 @@ adeò
 pro
 istoc
 coeperit
+
 F
 iiij
+
 Bubulum
 ,
+
 ed
 by
 Google
+
 COMOEDIA
+
 Ebulum
 ,
 nae
@@ -22720,8 +25822,10 @@ sperem
 omnia
 meliora
 .
+
 Hypere
 .
+
 Thod
 .
 Quidum
@@ -22732,6 +25836,7 @@ Moses
 &
 iste
 Aaron
+
 Accersiti
 vt
 malum
@@ -22739,12 +25844,14 @@ malum
 quo
 omnes
 miserrumè
+
 Laborabant
 ,
 à
 Domino
 deprecarentur
 :
+
 Commune
 foedus
 vtrinque
@@ -22752,8 +25859,10 @@ est
 initum
 :
 scilicet
+
 Scaz
 .
+
 Vt
 illi
 insecta
@@ -22761,12 +25870,14 @@ precibus
 hinc
 depellerent
 ,
+
 Pharo
 autem
 eos
 permitteret
 hinc
 proficiscier
+
 Ad
 sacra
 suo
@@ -22775,6 +25886,7 @@ facienda
 .
 res
 ita
+
 Prorsus
 transacta
 est
@@ -22784,6 +25896,7 @@ pacto
 iam
 nulla
 sunt
+
 Insecta
 :
 ecce
@@ -22794,6 +25907,7 @@ ad
 ingenium
 redit
 .
+
 Spud
 .
 Vel
@@ -22804,12 +25918,14 @@ conceßisset
 ,
 modò
 ab
+
 Hoc
 genere
 vermium
 ratione
 vlla
 semel
+
 Potuisset
 liberarier
 ,
@@ -22817,6 +25933,7 @@ liberarier
 tu
 ais
 neque
+
 Fidem
 hunc
 seruare
@@ -22826,6 +25943,7 @@ neque
 stare
 foedere
 ?
+
 Certè
 non
 hoc
@@ -22835,14 +25953,17 @@ leges
 vt
 quis
 recedat
+
 Hypere
 .
+
 Aconditione
 accepta
 vel
 alicui
 data
 .
+
 An
 se
 putat
@@ -22850,12 +25971,14 @@ nullis
 teneri
 legibus
 ?
+
 Vtcunque
 illis
 solutus
 esse
 dicitur
 ,
+
 In
 has
 tamen
@@ -22863,6 +25986,7 @@ nihil
 indignum
 committere
 .
+
 Regem
 decet
 ,
@@ -22871,6 +25995,7 @@ legirupa
 aut
 tyrannus
 hic
+
 Siet
 .
 Thod
@@ -22884,11 +26009,13 @@ inuidus
 :
 Sept
 .
+
 Affectuosus
 animus
 impotens
 iacet
 ,
+
 Quid
 aequum
 aut
@@ -22897,6 +26024,7 @@ sit
 nihildum
 perspicit
 .
+
 Vt
 pueri
 ,
@@ -22907,6 +26035,7 @@ saeuiunt
 ,
 cauent
 :
+
 Post
 id
 locorum
@@ -22914,6 +26043,7 @@ meminerunt
 nihil
 amplius
 ,
+
 (
 Infirmus
 enim
@@ -22925,6 +26055,7 @@ eos
 gubernat
 ,
 &
+
 Aetas
 inualida
 )
@@ -22932,6 +26063,7 @@ Sic
 Pharonil
 etiam
 sibi
+
 Cauet
 ,
 nisi
@@ -22940,6 +26072,7 @@ extrema
 vrget
 neceßitas
 .
+
 Spud
 .
 Non
@@ -22948,6 +26081,7 @@ mali
 mihi
 videntur
 hi
+
 Israelitae
 ,
 quanquam
@@ -22956,6 +26090,7 @@ Pharo
 sic
 premit
 .
+
 Thod
 .
 Vab
@@ -22970,12 +26105,16 @@ laedunt
 ,
 nemini
 
+
 Sunt
+
 dibzy
 G
 Google
+
 TRAGICA
 .
+
 Sunt
 aduersi
 ,
@@ -22984,6 +26123,7 @@ facilè
 perferunt
 ,
 ijs
+
 Sese
 vltrò
 dedunt
@@ -22991,6 +26131,7 @@ dedunt
 quorum
 studijs
 obsequi
+
 Debent
 ,
 nunquam
@@ -22999,12 +26140,14 @@ alijs
 praeponunt
 ,
 vnicum
+
 Colunt
 Deum
 ,
 cuius
 numen
 fortißimum
+
 Experti
 sumus
 vsque
@@ -23015,6 +26158,7 @@ Spu
 nisi
 talpasit
 ,
+
 Quiuis
 id
 ipsum
@@ -23022,6 +26166,7 @@ viderit
 satis
 .
 caret
+
 (
 Meo
 arbitrio
@@ -23031,12 +26176,14 @@ communi
 ,
 qui
 neget
+
 Deos
 ab
 Israelitis
 stare
 ,
 Pharios
+
 Nos
 contrà
 odisse
@@ -23045,6 +26192,7 @@ nam
 varijs
 nos
 cladibus
+
 Vsque
 opprimunt
 ,
@@ -23053,6 +26201,7 @@ illis
 sunt
 omnia
 .
+
 Thod
 .
 Scio
@@ -23064,6 +26213,7 @@ huic
 populo
 ,
 nisi
+
 Vel
 dignitas
 vel
@@ -23071,6 +26221,7 @@ sexus
 obstaret
 ,
 lubens
+
 Quid
 faxim
 bene
@@ -23078,6 +26229,7 @@ bene
 Suasu
 meo
 permitteret
+
 Pharo
 ire
 hos
@@ -23088,6 +26240,7 @@ quò
 illic
 eos
 vocat
+
 Deus
 .
 Spud
@@ -23102,6 +26255,7 @@ Tho
 vbi
 dixeris
 .
+
 Spud
 .
 Ne
@@ -23112,6 +26266,7 @@ solito
 censu
 excidat
 ,
+
 Minusque
 pinguia
 sint
@@ -23120,18 +26275,21 @@ tributa
 quae
 exigat
 .
+
 Lucrum
 vndecunque
 iniqui
 captant
 Principes
 :
+
 Et
 quamlibet
 rosas
 subinde
 à
 sentibus
+
 Legunt
 ,
 malum
@@ -23142,6 +26300,7 @@ non
 est
 malum
 .
+
 Thod
 .
 Pol
@@ -23152,6 +26311,7 @@ Sed
 ne
 quis
 audiat
+
 Hos
 sermones
 ,
@@ -23165,6 +26325,7 @@ prae
 ,
 sequar
 .
+
 Scena
 8
 .
@@ -23172,10 +26333,12 @@ Similis
 farinae
 vsus
 .
+
 Droma
 .
 Amalechus
 .
+
 li
 boni
 quae
@@ -23185,6 +26348,7 @@ noua
 est
 calamitas
 ?
+
 Quis
 vastat
 Aegyptum
@@ -23192,12 +26356,14 @@ totam
 genius
 malus
 ?
+
 Vix
 here
 ab
 insectis
 liberati
 turpibus
+
 Minimum
 quieuimus
 ,
@@ -23208,16 +26374,24 @@ iterum
 Vix
 datum
 est
+
 F
 γ
+
 Diem
+
 sed
 by
+
 S
 .
+
 44
+
 2
+
 COMOEDIA
+
 Diem
 ad
 vnum
@@ -23225,12 +26399,14 @@ respirare
 ,
 succedit
 aliud
+
 Malum
 priori
 peius
 .
 ò
 Aegyptios
+
 Miseros
 .
 Die
@@ -23238,6 +26414,7 @@ surgente
 vt
 mulgeant
 pecus
+
 Hodie
 exeunt
 famulae
@@ -23246,6 +26423,7 @@ ilicò
 redeunt
 domum
 ,
+
 Neque
 lac
 neque
@@ -23254,17 +26432,20 @@ reportant
 ,
 consternatae
 ita
+
 Fuere
 nunciant
 malum
 insuper
 graue
 ,
+
 Pecus
 omne
 pessuma
 laborare
 omnium
+
 Peste
 ,
 interijsse
@@ -23276,6 +26457,7 @@ boues
 ,
 oues
 ,
+
 Capras
 ,
 camelos
@@ -23285,6 +26467,7 @@ superesse
 quod
 in
 agris
+
 Aeg
 yptij
 pascant
@@ -23293,12 +26476,14 @@ Proh
 Dij
 succurrite
 ,
+
 Succurrite
 rebus
 afflictis
 .
 quid
 denique
+
 Futurum
 est
 ?
@@ -23310,6 +26495,7 @@ breui
 (
 auguror
 )
+
 Hic
 totus
 orbis
@@ -23319,6 +26505,7 @@ Sed
 quis
 est
 ,
+
 Quem
 ex
 Gossene
@@ -23329,6 +26516,7 @@ properare
 video
 ?
 num
+
 Amulechus
 hic
 ?
@@ -23340,6 +26528,7 @@ quid
 habet
 mali
 ?
+
 Ita
 cogitabundus
 properat
@@ -23347,6 +26536,7 @@ solo
 ex
 loco
 .
+
 Amal
 .
 Nisi
@@ -23357,6 +26547,7 @@ sunt
 ,
 herclè
 nescio
+
 Quid
 dicam
 aliud
@@ -23364,6 +26555,7 @@ tótne
 malis
 simul
 inuoluier
+
 Aegyptum
 ?
 prò
@@ -23372,12 +26564,14 @@ Deûm
 .
 nobis
 pecus
+
 Omne
 perijt
 ,
 pestifera
 lues
 Aegyptios
+
 Tauros
 ,
 oues
@@ -23386,17 +26580,20 @@ capellas
 ,
 breuiter
 omnia
+
 Armenta
 gregesque
 absorpsit
 rictu
 pessumo
 .
+
 Cadauerosa
 terra
 foetet
 horridùm
 .
+
 Tellus
 sacris
 nisi
@@ -23404,13 +26601,16 @@ expiatur
 ,
 aut
 Dij
+
 *
 2
+
 Placentur
 victimis
 ,
 incertus
 summiser
+
 Quónam
 euadent
 .
@@ -23420,18 +26620,21 @@ quem
 finem
 sperabimus
 .
+
 Iußit
 Pharo
 vt
 rebus
 relictis
 omnibus
+
 Visam
 ,
 si
 interijsset
 quoque
 Israeliticum
+
 Pecus
 ,
 num
@@ -23439,10 +26642,12 @@ saeuisset
 eadem
 pestis
 in
+
 Iumentis
 Israelitarum
 quo
 quidem
+
 Vt
 veni
 ,
@@ -23453,14 +26658,19 @@ esse
 omnia
 ,
 
+
 dibzy
 G
 Google
+
 Nun-
+
+
 
 
 TRAGICA
 .
+
 Nunc
 eo
 ,
@@ -23472,6 +26682,7 @@ nunciem
 Dro
 .
 parùm
+
 Amaleche
 siste
 .
@@ -23484,6 +26695,7 @@ me
 ehem
 Proma
 ,
+
 Num
 quippiam
 habes
@@ -23493,6 +26705,7 @@ quod
 factum
 absente
 me
+
 Sit
 in
 Aegypto
@@ -23508,6 +26721,7 @@ Ama
 ex
 Gossene
 .
+
 Dro
 .
 Quo
@@ -23523,6 +26737,7 @@ optumè
 vt
 solent
 .
+
 Dro
 .
 Dij
@@ -23536,6 +26751,7 @@ te
 potius
 perduint
 .
+
 Me
 seruaßint
 ,
@@ -23546,6 +26762,7 @@ Dro
 .
 quoniam
 nuncias
+
 Malum
 .
 Ama
@@ -23561,6 +26778,7 @@ est
 Dro
 .
 ain
+
 Verò
 quae
 dicis
@@ -23572,6 +26790,7 @@ redeo
 ,
 vt
 renunciem
+
 Pharoni
 .
 Dro
@@ -23583,6 +26802,7 @@ nobis
 .
 Deus
 .
+
 Amal
 .
 Nihil
@@ -23595,6 +26815,7 @@ obruimur
 tot
 malis
 ,
+
 Quando
 interim
 Israeli
@@ -23602,6 +26823,7 @@ sunt
 salua
 omnia
 .
+
 Dro
 .
 Videlicet
@@ -23609,6 +26831,7 @@ magno
 discrimine
 à
 suis
+
 Discernit
 nostros
 ,
@@ -23617,6 +26840,7 @@ illhic
 est
 Deus
 .
+
 Ama
 .
 Ibo
@@ -23629,6 +26853,7 @@ me
 exonerem
 nuncio
 .
+
 Tu
 ,
 quò
@@ -23642,6 +26867,7 @@ aedepol
 nisi
 domum
 .
+
 Scena
 9
 .
@@ -23650,8 +26876,10 @@ admistis
 Septenariis
 
 
+
 quibusdam
 .
+
 Moses
 .
 Aaron
@@ -23663,6 +26891,7 @@ Symbulus
 Magi
 3
 .
+
 Des
 frater
 ,
@@ -23673,6 +26902,7 @@ quod
 Dominus
 iubet
 .
+
 Nihil
 egimus
 hactenus
@@ -23682,6 +26912,7 @@ in
 pellendis
 vermibus
 Pharo
+
 Fidem
 datam
 seruauit
@@ -23691,6 +26922,7 @@ pecorum
 interitus
 animum
 illius
+
 Heu
 ,
 quicquam
@@ -23699,8 +26931,10 @@ mollijt
 Videmur
 potius
 addidisse
+
 3
 .
+
 Oleum
 camino
 ,
@@ -23711,6 +26945,7 @@ nos
 magis
 exaestuat
 .
+
 
 Aar
 .
@@ -23726,6 +26961,7 @@ si
 verberemus
 Cat
 .
+
 Lapidem
 .
 Mos
@@ -23738,6 +26974,7 @@ eamus
 vt
 quae
 praecipit
+
 Dominus
 .
 rursum
@@ -23748,6 +26985,7 @@ Aar
 aquam
 nos
 postulabimus
+
 E
 pumice
 .
@@ -23759,6 +26997,7 @@ ex
 iussu
 Domini
 volis
+
 Plenis
 fauillam
 de
@@ -23766,23 +27005,30 @@ calcaria
 fornace
 sumpsimus
 ,
+
 Quam
+
 Digitized
 by
 Googli
+
 45
+
 COMOEDIA
+
 Quam
 mittam
 in
 aerem
 praesente
 Pha
+
 In
 puluerem
 mutata
 generet
 pustulas
+
 Pariter
 atque
 hominibus
@@ -23791,6 +27037,7 @@ Aar
 .
 ita
 ii
+
 Saxa
 citius
 ,
@@ -23798,6 +27045,7 @@ quàm
 cor
 Pharonis
 mol
+
 Induratum
 est
 ,
@@ -23805,21 +27053,25 @@ vt
 non
 queat
 Deum
+
 Tamen
 hoc
 agamus
 :
 his
 portentis
+
 Dominus
 potentiam
 fremat
 Pha
+
 Deus
 his
 signis
 paulatim
 plebem
+
 Ellum
 tibi
 Pharo
@@ -23828,6 +27080,7 @@ suis
 .
 Mos
 .
+
 Sistamus
 nos
 coram
@@ -23836,11 +27089,13 @@ ipso
 vt
 si
 non
+
 Aegyptij
 manum
 nostri
 Elobim
 .
+
 Vos
 ?
 Mos
@@ -23854,6 +27109,7 @@ edita
 per
 manum
 Dei
+
 Nostri
 Israelis
 ad
@@ -23862,6 +27118,7 @@ Pharo
 iterum
 reuortimur
 ,
+
 Si
 fors
 queamus
@@ -23869,6 +27126,7 @@ abeundi
 impetrare
 gratiam
 .
+
 Pha
 .
 Nil
@@ -23879,6 +27137,7 @@ surdas
 iam
 pridem
 mihi
+
 Aures
 reddidistis
 .
@@ -23889,6 +27148,7 @@ posthac
 me
 obtundite
 .
+
 Mose
 .
 Quodcunque
@@ -23899,6 +27159,7 @@ delirat
 puniantur
 subditi
 .
+
 Hem
 ,
 mitte
@@ -23910,6 +27171,7 @@ vniuersam
 Aegyptum
 eat
 .
+
 Aar
 .
 Hem
@@ -23924,9 +27186,11 @@ coeat
 sanguis
 malus
 ,
+
 Senarij
 duo
 .
+
 Tabum
 ,
 pus
@@ -23936,6 +27200,7 @@ omne
 corpus
 occupet
 :
+
 Sint
 in
 iumentis
@@ -23946,6 +27211,7 @@ simul
 &
 mulieribus
 
+
 Vicera
 ,
 apostemata
@@ -23953,6 +27219,7 @@ apostemata
 suppurationes
 ab
 homine
+
 Vsque
 ad
 pecus
@@ -23968,9 +27235,12 @@ inuadit
 renes
 
 
+
 meos
 ?
+
 3
+
 Egon
 fiam
 nephriticus
@@ -23984,9 +27254,11 @@ quid
 malùm
 )
 istue
+
 sceleris
 est
 ?
+
 Hoi
 ,
 bei
@@ -24000,6 +27272,7 @@ malum
 vix
 suffero
 .
+
 Iamn
 .
 Hei
@@ -24017,9 +27290,11 @@ hui
 quantum
 
 
+
 hulcus
 hoc
 ?
+
 Pedem
 mouere
 non
@@ -24032,6 +27307,7 @@ Mercuri
 ,
 Senar
 .
+
 Istaeccine
 sunt
 incantamenta
@@ -24040,13 +27316,19 @@ Dij
 te
 perduint
 ,
+
 Teg
+
 52
 *
+
 oogle
+
 46
+
 TRAGICA
 .
+
 Teque
 enecet
 Serapis
@@ -24055,6 +27337,7 @@ venenato
 istoc
 fascino
 .
+
 Symb
 .
 Auferte
@@ -24070,6 +27353,7 @@ Iamn
 .
 au
 ,
+
 Dolor
 mihi
 maior
@@ -24081,6 +27365,7 @@ libeat
 quicquam
 versibus
 .
+
 Mamb
 .
 Equidem
@@ -24091,6 +27376,7 @@ nescio
 .
 pedibus
 consistere
+
 Vix
 ,
 heu
@@ -24108,6 +27394,7 @@ est
 qui
 me
 queas
+
 A
 proposito
 retrahere
@@ -24117,6 +27404,7 @@ stat
 mihi
 sententia
 ,
+
 Immota
 mens
 manet
@@ -24126,6 +27414,7 @@ incantent
 ,
 verberent
 ,
+
 Exurant
 ,
 mactentque
@@ -24136,11 +27425,13 @@ verba
 fiunt
 mortuo
 .
+
 Nusquam
 dimisero
 Israelem
 hem
 gladiatorio
+
 Animo
 affectant
 ad
@@ -24152,6 +27443,7 @@ tamen
 meam
 quod
 est
+
 Vi
 à
 me
@@ -24164,6 +27456,7 @@ est
 Vspiam
 silex
 ,
+
 Vel
 cantes
 (
@@ -24176,6 +27469,7 @@ animus
 Pharonis
 est
 .
+
 Sym
 .
 Nunquam
@@ -24188,6 +27482,7 @@ cesset
 hic
 dolor
 .
+
 Zoro
 .
 Vah
@@ -24200,6 +27495,7 @@ vno
 pressem
 digitulo
 ,
+
 Vomica
 mihi
 in
@@ -24214,6 +27510,7 @@ mihi
 ad
 manum
 siet
+
 Cauterium
 ,
 non
@@ -24223,6 +27520,7 @@ patiar
 continuò
 exurerem
 .
+
 Phar
 .
 Facite
@@ -24236,12 +27534,14 @@ ac
 me
 sequimini
 .
+
 Scena
 10
 .
 Trimetri
 Iambici
 .
+
 Moses
 .
 Pharo
@@ -24252,6 +27552,7 @@ Demarchus
 .
 Desmophylax
 .
+
 Cce
 Pharò
 ,
@@ -24261,6 +27562,7 @@ te
 nos
 reuertimur
 .
+
 Ph
 .
 Hem
@@ -24273,7 +27575,9 @@ tibi
 inquit
 noster
 Elobim
+
 A
+
 Hebraeorum
 Deus
 :
@@ -24281,6 +27585,7 @@ Sine
 hinc
 abeat
 meus
+
 Populus
 vt
 seruiat
@@ -24288,6 +27593,7 @@ mihi
 .
 Alioquinsi
 adhuc
+
 Repugnas
 obstinatus
 ,
@@ -24295,6 +27601,7 @@ nunc
 demum
 ego
 meos
+
 Omnes
 in
 cor
@@ -24306,12 +27613,14 @@ tuos
 ,
 &
 in
+
 Populum
 cogessero
 impetus
 ,
 &
 fecero
+
 Vt
 maximo
 malo
@@ -24319,6 +27628,7 @@ tuo
 discas
 ,
 mihi
+
 Nullum
 esse
 in
@@ -24327,28 +27637,38 @@ toto
 terrarum
 parem
 ,
+
 Non
+
 COMOEDIA
+
 ilium
 ,
 me
 qu
+
 ntuosque
 con
+
 ridem
 peste
+
 ipsum
+
 assem
 ac
 de
+
 vt
 meam
 potentiam
+
 c
 praedicetur
 nomen
 in
 vniuerso
+
 Orbe
 meum
 .
@@ -24357,6 +27677,7 @@ si
 itaque
 etiamnum
 volueris
+
 Populum
 meum
 impedire
@@ -24365,6 +27686,7 @@ nec
 hinc
 amittere
 ,
+
 Habeto
 sic
 :
@@ -24372,6 +27694,7 @@ Tantam
 tibi
 vim
 grandinis
+
 Pluam
 ,
 quanta
@@ -24381,6 +27704,7 @@ ab
 orbe
 condito
 .
+
 Phar
 .
 Istaec
@@ -24390,6 +27714,7 @@ est
 ,
 implicare
 cui
+
 Me
 sic
 conamini
@@ -24400,6 +27725,7 @@ in
 rem
 peßimam
 .
+
 Mose
 .
 Mitte
@@ -24410,6 +27736,7 @@ cogant
 pecus
 tuum
 .
+
 Et
 omne
 quod
@@ -24418,6 +27745,7 @@ sub
 dio
 pascitur
 .
+
 Nam
 homines
 &
@@ -24428,6 +27756,7 @@ mox
 tectum
 subierint
 ,
+
 Oppressa
 grandine
 introibunt
@@ -24435,6 +27764,7 @@ introibunt
 Dem
 .
 optime
+
 Mones
 ,
 domi
@@ -24444,6 +27774,7 @@ erit
 Desm
 .
 tutißimum
+
 Cuique
 asylum
 domus
@@ -24451,6 +27782,7 @@ est
 extra
 grandinem
 .
+
 Testudo
 tuta
 est
@@ -24459,6 +27791,7 @@ tegmen
 :
 tecta
 nos
+
 Vestrae
 isti
 grandini
@@ -24469,6 +27802,7 @@ fit
 ,
 opponimus
 .
+
 Phar
 .
 Abite
@@ -24478,6 +27812,7 @@ nisi
 vultis
 ante
 grandinem
+
 Me
 vestros
 grandiùs
@@ -24486,11 +27821,13 @@ gradus
 ,
 vt
 hinc
+
 Vestros
 repetatis
 cursus
 grallatorios
 .
+
 Aar
 .
 Abimus
@@ -24500,6 +27837,7 @@ abimus
 ,
 caeterùm
 malè
+
 Tibi
 metuo
 .
@@ -24510,6 +27848,7 @@ abimus
 non
 frustrà
 contempseris
+
 Verbum
 Domini
 .
@@ -24519,6 +27858,7 @@ post
 spretas
 minas
 ,
+
 In
 te
 Dei
@@ -24526,6 +27866,7 @@ nostri
 descendant
 cottabi
 .
+
 Desm
 .
 Collega
@@ -24537,6 +27878,7 @@ in
 septa
 nos
 pecus
+
 Nostrum
 cogamus
 &
@@ -24545,6 +27887,7 @@ mapalia
 ,
 ne
 occupet
+
 Nos
 inopinatò
 grando
@@ -24553,6 +27896,7 @@ mox
 Aegypto
 imminens
 .
+
 Video
 enim
 procul
@@ -24561,12 +27905,17 @@ Austro
 atras
 glomerarier
 
+
 Sept
 .
+
 Nubes
+
 TRAGICA
 .
+
 47
+
 Nubes
 :
 quod
@@ -24576,6 +27925,7 @@ non
 vanum
 erit
 .
+
 Dema
 .
 Hem
@@ -24587,6 +27937,7 @@ tubam
 trepidas
 ?
 satis
+
 Citò
 tum
 fecerimus
@@ -24596,17 +27947,20 @@ grando
 ipsa
 decidet
 .
+
 Complurium
 ego
 thriorum
 strepitum
 huiusmodi
+
 Audiui
 faciant
 meticulosi
 alij
 ,
 manum
+
 Non
 verterim
 istas
@@ -24617,6 +27971,7 @@ Des
 quando
 ita
 tibi
+
 Visum
 est
 ,
@@ -24629,6 +27984,7 @@ ego
 mihi
 prouidero
 .
+
 Desm
 .
 Vah
@@ -24643,12 +27999,14 @@ tempus
 es
 miser
 .
+
 Scena
 II
 .
 Vt
 superiores
 .
+
 Moses
 .
 Aaron
@@ -24657,6 +28015,7 @@ Desmophylax
 .
 Pharo
 .
+
 aron
 frater
 .
@@ -24671,6 +28030,7 @@ Mos
 Nunc
 quod
 iubet
+
 Dnns
 tempestiuum
 est
@@ -24679,7 +28039,9 @@ facessere
 Aa
 heu
 feros
+
 A
+
 Animos
 tot
 signis
@@ -24687,6 +28049,7 @@ vsque
 .
 ijs
 grauioribus
+
 Non
 flectier
 ,
@@ -24695,6 +28058,7 @@ tandem
 nihil
 resipiscere
 .
+
 Mos
 .
 Hoc
@@ -24704,6 +28068,7 @@ fieri
 permittet
 Elohim
 .
+
 Hem
 virgam
 extendo
@@ -24711,6 +28076,7 @@ iussu
 Israelis
 dei
 ,
+
 Et
 nomine
 Schadai
@@ -24719,6 +28085,7 @@ vt
 in
 Aegypto
 grandinet
+
 Horrendum
 .
 Pluuia
@@ -24729,6 +28096,7 @@ chasma
 .
 fulgur
 &
+
 Tonitru
 in
 homines
@@ -24737,6 +28105,7 @@ pariter
 in
 pecudes
 cadant
+
 Ruant
 ,
 feriant
@@ -24746,6 +28115,7 @@ prosternant
 rumpant
 omnia
 .
+
 Aar
 Sic
 impios
@@ -24755,12 +28125,14 @@ mentem
 reuocat
 Deus
 ,
+
 Vt
 fors
 his
 moti
 diuinam
 potentiam
+
 Queant
 agnoscere
 ,
@@ -24768,6 +28140,7 @@ vereri
 ,
 extimescere
 .
+
 Sed
 hui
 frater
@@ -24776,6 +28149,7 @@ quanta
 aeris
 inclementia
 ?
+
 Mos
 .
 Cedamus
@@ -24786,6 +28160,7 @@ ibi
 tutò
 fuerimus
 .
+
 Desm
 O
 superi
@@ -24797,6 +28172,7 @@ sancte
 ò
 luppiter
 ,
+
 Quae
 illaec
 est
@@ -24805,7 +28181,9 @@ caligo
 ?
 quis
 impetus
+
 )
+
 Heu
 ,
 grandinis
@@ -24814,12 +28192,16 @@ quanta
 elementorum
 est
 omnium
+
 Consud
+
 Digitized
 by
 Goog
+
 COMOEDIA
 .
+
 Confusio
 ?
 aera
@@ -24830,6 +28212,7 @@ aquam
 &
 solum
 simul
+
 Miscerier
 video
 .
@@ -24840,6 +28223,7 @@ at
 vt
 caelum
 subinde
+
 Intermicante
 fulgure
 candicat
@@ -24847,6 +28231,7 @@ candicat
 hei
 mihi
 ,
+
 Hoccine
 tonitru
 ?
@@ -24857,6 +28242,7 @@ saxa
 sunt
 mera
 .
+
 Prob
 ,
 iamne
@@ -24867,6 +28253,7 @@ vetustum
 ebeu
 ,
 solum
+
 Strepit
 ,
 caelum
@@ -24876,6 +28263,7 @@ coruscat
 ,
 fulminat
 ,
+
 Et
 mugit
 ,
@@ -24887,12 +28275,14 @@ nullum
 ego
 esse
 numinum
+
 Sub
 tartaro
 inferorum
 existimo
 relliquum
 :
+
 Tanta
 est
 procella
@@ -24900,18 +28290,21 @@ grandinis
 aer
 obsitus
 ,
+
 Tantis
 vbique
 impreßionibus
 ,
 &
 miser
+
 Cogor
 velim
 nolim
 Mosem
 huc
 accersere
+
 Per
 hanc
 caeli
@@ -24922,16 +28315,19 @@ eo
 ,
 sed
 vt
+
 Expendo
 hanc
 aetheris
 commotionem
 ,
 ego
+
 Quidem
 nouißimum
 imminere
 existumem
+
 Diem
 mortalibus
 .
@@ -24939,10 +28335,12 @@ tam
 enim
 horrendam
 aliàs
+
 Aegyptus
 nunquam
 tempestatis
 imaginem
+
 Vidit
 ,
 vel
@@ -24955,6 +28353,7 @@ primum
 ipsa
 condita
 .
+
 Sed
 eccos
 ,
@@ -24966,6 +28365,7 @@ adsunt
 quos
 volo
 .
+
 Moses
 ,
 in
@@ -24973,6 +28373,7 @@ summo
 rerum
 discrimine
 rogat
+
 Pharo
 rex
 ad
@@ -24984,6 +28385,7 @@ velis
 &
 quam
 potes
+
 Miseris
 salutem
 dare
@@ -24997,6 +28399,7 @@ sum
 tu
 praei
 ,
+
 Vt
 eò
 nos
@@ -25010,6 +28413,7 @@ egressus
 est
 foras
 .
+
 Aar
 .
 Accede
@@ -25025,6 +28429,7 @@ Pha
 saluete
 vos
 .
+
 Ab
 ,
 Moses
@@ -25034,6 +28439,7 @@ Aaron
 peccaui
 etiamnunc
 Deo
+
 Domino
 vestro
 :
@@ -25043,6 +28449,7 @@ iustus
 est
 ,
 ego
+
 Verò
 &
 populus
@@ -25051,12 +28458,14 @@ sumus
 impij
 .
 Proin
+
 Abundè
 satis
 est
 grandinis
 ,
 precamini
+
 Dominum
 .
 si
@@ -25065,6 +28474,7 @@ fuerint
 tonitrua
 ampliùs
 ,
+
 Si
 grando
 nulla
@@ -25073,6 +28483,7 @@ dimittam
 vos
 ilicò
 ,
+
 Nec
 est
 ,
@@ -25084,6 +28495,7 @@ maneatis
 sic
 fecero
 .
+
 Mose
 .
 Agè
@@ -25092,10 +28504,14 @@ vt
 denuò
 experiaris
 numinis
+
 Nostri
+
 bGoogle
+
 TRAGICA
 .
+
 Nostri
 potentiam
 ,
@@ -25103,17 +28519,20 @@ statim
 atque
 egressus
 vrbem
+
 Extendero
 manus
 ad
 Dominum
 ,
 tonitrua
+
 Cessabunt
 atque
 grandinare
 desinet
 .
+
 Hunc
 esse
 disces
@@ -25121,6 +28540,7 @@ terrae
 Dominum
 :
 quamlibes
+
 Sciam
 ,
 teque
@@ -25128,6 +28548,7 @@ teque
 tuos
 nondum
 reuererier
+
 Satis
 Deum
 .
@@ -25135,6 +28556,7 @@ Ista
 autem
 calamitas
 hordeum
+
 Tibi
 &
 linum
@@ -25145,6 +28567,7 @@ hoc
 siliquatum
 erat
 ,
+
 Et
 illud
 adhuc
@@ -25154,6 +28577,7 @@ herba
 Verùm
 non
 item
+
 Zeam
 ,
 nec
@@ -25163,6 +28587,7 @@ nam
 latuerant
 adhuc
 .
+
 Phar
 .
 Sic
@@ -25175,6 +28600,7 @@ istuc
 Moses
 face
 .
+
 Mose
 .
 Iam
@@ -25185,12 +28611,15 @@ postquam
 hinc
 discessero
 .
+
 Scena
 XII
 .
+
 Siphra
 sola
 .
+
 JAE
 magnus
 est
@@ -25199,6 +28628,7 @@ Deus
 nimis
 laudabilis
 ,
+
 Qui
 quos
 vult
@@ -25207,12 +28637,14 @@ affligit
 nec
 impios
 sinit
+
 Diu
 in
 suis
 erroribus
 persistere
 .
+
 Laudabilis
 est
 Dominus
@@ -25220,18 +28652,21 @@ noster
 Deus
 Israel
 ,
+
 Quem
 plurimi
 faciant
 nepotes
 Abrahae
 ,
+
 Qui
 nos
 ab
 impijs
 tanto
 discrimine
+
 Secreuit
 ,
 in
@@ -25242,6 +28677,7 @@ aut
 monstris
 potens
 .
+
 Hic
 est
 fiducia
@@ -25251,6 +28687,7 @@ nostrum
 ,
 hic
 suis
+
 Dulce
 est
 &
@@ -25258,18 +28695,21 @@ praesentißimum
 vsque
 rebus
 in
+
 Aduersis
 praesidium
 .
 Quare
 nihil
 etiam
+
 Timebimus
 ,
 moueatur
 terra
 quamlibet
 ,
+
 Ac
 transferantur
 montes
@@ -25277,6 +28717,7 @@ in
 medium
 mare
 .
+
 Vastatur
 Aegyptus
 ,
@@ -25286,6 +28727,7 @@ turbine
 ,
 grandine
 ,
+
 Tonitru
 ,
 fulmine
@@ -25295,49 +28737,67 @@ nostra
 incolumis
 est
 .
+
 G
+
 ed
 by
 Goog
+
 *
 .
 8
+
 2
 .
+
 1248
 
 
+
+
 Haec
+
 COMOEDIA
+
 Haec
 sancta
 habitatio
 Isr
 .
+
 lut
+
 cimus
 .
+
 Columbulae
 in
 petrae
 caue
+
 ur
 est
 .
+
 Nanque
 in
 silentio
 &
 spen
+
 Pharaonij
 affliguntur
 &
+
 ob
+
 Rebellionem
 puniuntur
 ,
 vt
 semel
+
 Ad
 mentem
 reuocentur
@@ -25346,6 +28806,7 @@ reuocentur
 ab
 insitis
 sibi
+
 Salebris
 tandem
 in
@@ -25356,6 +28817,7 @@ Sed
 vt
 autumo
 ,
+
 Non
 nisi
 perpeßi
@@ -25363,8 +28825,10 @@ extrema
 resipiscent
 serò
 .
+
 Scaz
 .
+
 Ita
 enim
 agit
@@ -25375,12 +28839,14 @@ Dominus
 qui
 mente
 sunt
+
 Praefracta
 ,
 vt
 veritatem
 admoniti
 saepiùs
+
 Si
 agnoscere
 nolint
@@ -25390,6 +28856,7 @@ se
 pacem
 quaeritent
 ,
+
 Nec
 vspiam
 inueniant
@@ -25400,14 +28867,17 @@ enim
 pax
 impijs
 .
+
 Sept
 .
+
 Huc
 prodeunt
 Israelitae
 nostri
 ,
 quibus
+
 Me
 adiungam
 ,
@@ -25417,6 +28887,7 @@ celebrem
 Dominum
 cantibus
 .
+
 Scena
 XIII
 .
@@ -25425,6 +28896,7 @@ generis
 vt
 sup
 .
+
 Iudas
 .
 Simeon
@@ -25433,16 +28905,19 @@ Henochus
 .
 Eliabus
 .
+
 Maria
 .
 Aminadabus
 .
+
 Portet
 hunc
 Pharonem
 esse
 sine
 pectore
+
 Corpus
 ,
 vel
@@ -25450,6 +28925,7 @@ certè
 Aegyptios
 ad
 miseriam
+
 Natos
 egregiè
 ,
@@ -25457,6 +28933,7 @@ si
 tot
 signis
 editis
+
 Nihil
 moueatur
 .
@@ -25469,6 +28946,7 @@ sic
 homo
 est
 .
+
 Reipsa
 modò
 comperi
@@ -25476,6 +28954,7 @@ comperi
 quod
 dudum
 propalàm
+
 Ad
 Aaronem
 dixit
@@ -25483,6 +28962,7 @@ Moses
 :
 nostrum
 Elohim
+
 Cor
 indurasse
 Pharonis
@@ -25492,12 +28972,14 @@ Hen
 nescio
 quidem
 ,
+
 Quis
 daemon
 Pharaoni
 mentem
 excantauerit
 .
+
 Portenta
 quae
 per
@@ -25505,10 +28987,12 @@ Mosem
 operatur
 Elobim
 ,
+
 Non
 mediocre
 Israelitis
 solatium
+
 Praestant
 .
 nulli
@@ -25519,6 +29003,7 @@ est
 quin
 Deus
 sui
+
 Promißi
 ad
 Abrahamum
@@ -25527,10 +29012,13 @@ memor
 ,
 ac
 velit
+
 Nos
 lia
+
 TRAGICA
 .
+
 Nos
 liberare
 de
@@ -25539,6 +29027,7 @@ Aegypto
 atque
 educere
 hinc
+
 Aliò
 ad
 terram
@@ -25546,6 +29035,7 @@ nostris
 promissam
 patribus
 ,
+
 Ad
 terram
 (
@@ -25554,6 +29044,7 @@ inquiunt
 )
 abundantem
 vndique
+
 Lacte
 &
 melle
@@ -25567,6 +29058,7 @@ ista
 verba
 animus
 mihi
+
 Exultat
 ?
 nunc
@@ -25575,6 +29067,7 @@ videre
 isthanc
 diem
 .
+
 Non
 dura
 iam
@@ -25583,6 +29076,7 @@ seruitus
 .
 iuuat
 etiam
+
 Per
 hos
 labores
@@ -25590,6 +29084,7 @@ proficisci
 ad
 solatia
 .
+
 Nil
 haesito
 ,
@@ -25598,12 +29093,14 @@ propediem
 hinc
 liberabimur
 .
+
 Potens
 in
 Aegypto
 manus
 Dei
 Israhel
+
 Facit
 prodigia
 ,
@@ -25612,12 +29109,14 @@ sibi
 nos
 aßerat
 ,
+
 Ac
 vindicet
 Pharonis
 de
 tyrannide
 .
+
 Nullum
 est
 ,
@@ -25629,6 +29128,7 @@ pecus
 quod
 non
 peßimo
+
 Laboret
 vlcere
 :
@@ -25638,6 +29138,7 @@ pecus
 ?
 homines
 habent
+
 Vlcera
 ,
 apostemata
@@ -25648,6 +29149,7 @@ flent
 ,
 eiulant
 ,
+
 Fremunt
 ,
 cruciantur
@@ -25657,12 +29159,14 @@ sanum
 Aegyptus
 fouet
 .
+
 Ad
 haec
 calamitas
 grandinis
 ,
 tonitrui
+
 Et
 fulguris
 faciem
@@ -25670,8 +29174,10 @@ Aegypti
 obsedit
 totam
 .
+
 Scag
 .
+
 Mar
 .
 Hoc
@@ -25683,12 +29189,14 @@ dudum
 vobis
 dixerim
 .
+
 Horum
 pertaesi
 Aegyptij
 ,
 confidite
 ,
+
 Mutabunt
 odium
 ,
@@ -25696,6 +29204,7 @@ odium
 aequiores
 multò
 erunt
+
 Nobis
 .
 audite
@@ -25703,6 +29212,7 @@ saltem
 ò
 Israel
 duces
+
 Vestros
 ,
 &
@@ -25711,6 +29221,7 @@ obtemperate
 in
 omnibus
 .
+
 Popul
 .
 Isr
@@ -25724,6 +29235,7 @@ Is
 his
 obtemperabimus
 .
+
 Mar
 .
 Ita
@@ -25737,6 +29249,7 @@ sequemur
 quolibet
 soror
 .
+
 Popul
 .
 Is
@@ -25749,7 +29262,9 @@ Amin
 .
 cantemus
 Deo
+
 "
+
 Domino
 Israelis
 in
@@ -25757,9 +29272,11 @@ choris
 &
 tripudijs
 ,
+
 tui
 2
 .
+
 Qui
 mirabilia
 in
@@ -25768,6 +29285,7 @@ perficit
 ,
 &
 hinc
+
 Qui
 educet
 Israelem
@@ -25775,306 +29293,389 @@ per
 validam
 manum
 .
+
 3
+
 i
+
 iug
 :
 
+
 (
 32
+
 Chorus
+
 G
 ij
+
 Dized
 by
 Google
+
 49
+
 3
+
 COMOEDI
+
 A
+
 Chorus
 4
 .
 siliorum
 Israelis
 .
+
 Ex
 psalmo
 104
 .
+
 Iamb
 .
 Dimet
 .
+
 Memor
 Deus
 erit
 foederis
 ,
+
 Quod
 ad
 Abraham
 locutus
+
 est
 .
+
 Promissa
 seruabit
 rata
+
 In
 mille
 stirpes
 perpetim
 .
+
 Quod
 iureiurando
 Ißaac
+
 Addixit
 ,
 ille
 meminerit
+
 In
 omne
 semper
 seculum
+
 Nam
 &
 obligauit
 se
+
 Israbel
+
 Eiusque
 deinceps
 semini
 ,
+
 Vt
 his
 Chananaeos
 daret
+
 Agros
 velut
 patrimonium
 .
+
 Hîc
 figerent
 sedes
 suas
 ,
+
 Hos
 poßiderent
 incolae
+
 Haereditario
 bono
 .
+
 Pusillus
 hic
 grex
 quamlibet
+
 Tum
 fuerit
 inhabitantium
 :
+
 Et
 singuli
 errarint
 locis
+
 In
 his
 vt
 exteri
 aduenae
 :
+
 Non
 siuit
 his
 à
 quopiam
+
 Fieri
 malum
 ,
 sed
 punijt
+
 Reges
 vel
 horum
 gratia
 .
+
 Vnctos
 meos
 nanque
 ,
 inquit
 is
+
 (
 ;
 -
 -
 2
+
 Ne
 vos
 velitis
 tangere
 :
+
 Nec
 ceu
 maligni
 aliquo
 modo
+
 Meis
 nocete
 vatibus
 .
+
 Post
 inde
 fixis
 sedibus
+
 Vocauit
 in
 terram
 famem
 ,
+
 Nec
 paGoogle
 
 
+
+
 zed
 by
+
 TRAGICA
 .
+
 Nec
 panis
 vspiam
 fuit
 .
+
 Posthaec
 Iosephus
 venditus
+
 Afratribus
 praemittitur
+
 Ad
 incolas
 Aegyptios
 :
+
 Hunc
 seruituti
 mancipant
 .
+
 Hîc
 captus
 in
 ferro
 innocens
+
 Constringitur
 ,
 dum
 rex
 Pharo
+
 Insomnium
 noctu
 videt
 .
+
 Hoc
 explicato
 praeficit
+
 Regno
 Iosephum
 rex
 Pharo
 .
+
 Ab
 rege
 fit
 secundus
 ac
+
 In
 omnia
 imperium
 tenet
 .
+
 Huic
 subiugantur
 satrapae
 ,
+
 In
 veritate
 numinis
+
 Vt
 erudiret
 Principes
 .
+
 Ingressus
 est
 huc
 Israhel
 ,
+
 Et
 vniuersa
 familia
 .
+
 Peregrinus
 in
 terra
 fuit
+
 Iacobus
 inde
 Chamea
 .
+
 Populum
 suum
 mox
 hîc
 Deus
+
 Sic
 auxit
 ,
 vt
 plures
 suis
+
 Se
 se
 viderent
 hostibus
 .
+
 Conuertit
 horum
 pectora
+
 In
 odiùm
 contra
 Israhel
 .
+
 Genus
 pium
 ac
 lectum
 Deo
+
 Quin
 insequuntur
 fraudibus
 .
+
 Minantur
 extrema
 omnia
 :
+
 Student
 Hebraeos
 ,
 si
 queant
 ,
+
 Miris
 modis
 excindere
 .
+
 G
 iij
+
 Actus
+
 50
+
 COMOEDIA
+
 Actus
 5
 .
 Scena
 I
 .
+
 Pharo
 .
 Symbulus
@@ -26082,12 +29683,14 @@ Symbulus
 Trimetri
 Iamb
 .
+
 TAE
 ego
 facilè
 credam
 nostros
 veneficos
+
 Minimè
 huc
 redituros
@@ -26098,6 +29701,7 @@ sane
 .
 siquidem
 bene
+
 Sapiunt
 .
 Pha
@@ -26108,6 +29712,7 @@ sum
 ne
 huc
 inferant
+
 Pedem
 ,
 neu
@@ -26117,6 +29722,7 @@ conspectum
 dehinc
 prodeant
 .
+
 Quod
 si
 tamen
@@ -26126,6 +29732,7 @@ morte
 perdam
 audaculos
 .
+
 Symb
 .
 Etiámne
@@ -26136,6 +29743,7 @@ locustas
 ,
 post
 sata
+
 Depasta
 ,
 post
@@ -26144,6 +29752,7 @@ vel
 tactiles
 manu
 ?
+
 Phar
 .
 Equidem
@@ -26153,6 +29762,7 @@ regis
 arbitror
 ,
 suos
+
 Sic
 regere
 ,
@@ -26161,6 +29771,7 @@ cuiquam
 cedere
 debeat
 ,
+
 Cogatur
 aut
 per
@@ -26170,6 +29781,7 @@ facere
 quod
 sit
 animo
+
 Aduorsum
 :
 par
@@ -26179,12 +29791,14 @@ vt
 metuant
 subditi
 .
+
 Veloderint
 ,
 agnoscant
 in
 regis
 manu
+
 Esse
 omnia
 .
@@ -26192,6 +29806,7 @@ Ab
 institutis
 maiorum
 Dijs
+
 Ego
 neutiquam
 discessero
@@ -26200,6 +29815,7 @@ Symb
 .
 sic
 fortiter
+
 Resistito
 ,
 vt
@@ -26210,12 +29826,14 @@ amabunt
 .
 nec
 sinas
+
 Te
 quoquam
 impellinouitij
 Dei
 minis
 ,
+
 Aut
 fascinato
 aere
@@ -26226,6 +29844,7 @@ Pol
 dicis
 optumè
 .
+
 Nam
 proh
 Deûm
@@ -26236,6 +29855,7 @@ aliua
 est
 ?
 Bonis
+
 Viris
 vt
 sacrificatum
@@ -26243,6 +29863,7 @@ ire
 hinc
 concesseram
 ,
+
 Percontor
 ,
 quinam
@@ -26252,6 +29873,7 @@ demum
 ituri
 forent
 :
+
 Responsitunt
 ,
 cum
@@ -26259,20 +29881,25 @@ iuuenibus
 ac
 senibus
 simul
+
 Omnes
 ,
 itemque
 pariter
 cum
 maioribus
+
 *
+
 Minoribusque
 pecudibus
 ,
 quòd
 acturi
+
 Scaz
 .
+
 Essent
 festum
 Deo
@@ -26285,6 +29912,7 @@ ego
 sic
 vobis
 Deus
+
 Adsit
 ,
 vos
@@ -26294,6 +29922,7 @@ vna
 cum
 paruulis
 .
+
 Iam
 iam
 vestra
@@ -26302,6 +29931,7 @@ satis
 spectatamalicia
 est
 .
+
 Symb
 .
 Probißimè
@@ -26313,9 +29943,12 @@ quin
 hoc
 vide
 ,
+
 Nete
+
 TRAGICA
 .
+
 Ne
 te
 pessundent
@@ -26327,6 +29960,7 @@ sit
 mihi
 .
 sinam
+
 Potius
 caput
 hoc
@@ -26335,6 +29969,7 @@ meaque
 omnia
 periclitarier
 ,
+
 Quàm
 ad
 vota
@@ -26342,6 +29977,7 @@ mihi
 rebellium
 concessero
 .
+
 Factitius
 ille
 Deus
@@ -26350,6 +29986,7 @@ sit
 ac
 Pharo
 ?
+
 Non
 ,
 si
@@ -26360,6 +29997,7 @@ vniuersa
 Symb
 .
 fac
+
 Istam
 teneas
 mentem
@@ -26368,6 +30006,7 @@ quocunque
 res
 cadat
 .
+
 Scena
 2
 .
@@ -26376,6 +30015,7 @@ Trimetri
 vt
 superiores
 .
+
 Moses
 .
 Aaron
@@ -26384,28 +30024,33 @@ Pharo
 .
 Symbulus
 .
+
 Tcunque
 frater
 nullis
 monitis
 poßiet
+
 Pharonis
 animus
 molliri
 :
 minimè
 tamen
+
 Verbi
 ministros
 desinere
 oportet
 .
 Deus
+
 Ipsum
 suo
 tempore
 castigabit
 nimis
+
 Grauiter
 .
 Quiduis
@@ -26415,6 +30060,7 @@ potius
 quàm
 ab
 impijs
+
 Si
 verbum
 suum
@@ -26426,6 +30072,7 @@ se
 aspernari
 sentiat
 .
+
 Huius
 enim
 ille
@@ -26436,12 +30083,14 @@ Aar
 .
 profectò
 plurimis
+
 Exemplis
 id
 iamdudum
 verè
 didicimus
 .
+
 Nam
 qui
 Dei
@@ -26450,6 +30099,7 @@ resistunt
 ,
 hos
 puto
+
 De
 genere
 Titanum
@@ -26457,12 +30107,14 @@ prognatos
 ,
 quos
 vocant
+
 Fraterculos
 gigantium
 :
 nec
 vero
 secus
+
 Cum
 istis
 agetur
@@ -26472,6 +30124,7 @@ qui
 fecere
 Babylon
 .
+
 Confundet
 hos
 Deus
@@ -26479,6 +30132,7 @@ in
 suis
 erroribus
 .
+
 Mos
 .
 Non
@@ -26489,6 +30143,7 @@ dubium
 quae
 pertinacia
 est
+
 Pharonis
 .
 ac
@@ -26497,6 +30152,7 @@ quid
 in
 me
 spiritus
+
 Domini
 loquatur
 ,
@@ -26505,18 +30161,21 @@ res
 euentura
 sit
 .
+
 Ille
 indies
 nostros
 facit
 ab
 Aegyptijs
+
 Inire
 magnam
 gratiam
 ,
 ingentem
 quoque
+
 Apud
 hos
 fauorem
@@ -26524,6 +30183,7 @@ nobis
 conciliat
 :
 magis
+
 Magisque
 nos
 verentur
@@ -26531,12 +30191,18 @@ ac
 amant
 ,
 nihil
+
 0
+
 G
 iiij
+
 Dum
+
 51
+
 COMOEDIA
+
 Dum
 est
 ,
@@ -26548,6 +30214,7 @@ aurea
 atque
 argentea
 ,
+
 Quae
 praecepto
 Dei
@@ -26555,6 +30222,7 @@ hinc
 simul
 exportabimus
 .
+
 Vnum
 tamen
 restat
@@ -26562,6 +30230,7 @@ restat
 ferientis
 vt
 manum
+
 Dei
 vltimò
 tandem
@@ -26569,8 +30238,10 @@ Pharo
 durus
 sentiat
 .
+
 Scag
 .
+
 Aar
 .
 Sanè
@@ -26581,6 +30252,7 @@ malum
 ferat
 ,
 donec
+
 Malum
 ipsus
 agnorit
@@ -26588,6 +30260,7 @@ suum
 ac
 resipuerit
 .
+
 Quanquam
 quae
 spes
@@ -26597,6 +30270,7 @@ fore
 frugi
 ,
 semel
+
 Quem
 Deus
 adeò
@@ -26607,6 +30281,7 @@ Eccum
 adest
 Pharo
 .
+
 Mose
 .
 Nos
@@ -26615,6 +30290,7 @@ reuersuros
 ad
 te
 Pharo
+
 Dudum
 dicebam
 :
@@ -26625,6 +30301,7 @@ nos
 vocat
 Deus
 .
+
 Audi
 itaque
 quid
@@ -26633,6 +30310,7 @@ illhic
 per
 nos
 tibi
+
 Loquatur
 :
 nec
@@ -26641,6 +30319,7 @@ tibi
 loquetur
 ampliùs
 .
+
 Phar
 .
 Hem
@@ -26654,12 +30333,14 @@ inquit
 )
 medium
 Aegyptios
+
 Obibo
 ,
 omnesque
 in
 Aegypto
 primogenitos
+
 Morte
 feriam
 durißima
@@ -26667,6 +30348,7 @@ durißima
 vel
 ab
 ipsius
+
 Pharonis
 qui
 sedet
@@ -26675,8 +30357,10 @@ solio
 ,
 ad
 primogenitum
+
 Sept
 .
+
 Huiusce
 seruae
 ,
@@ -26686,6 +30370,7 @@ ad
 molas
 trusatiles
 .
+
 His
 adde
 etiam
@@ -26695,6 +30380,7 @@ ac
 maior
 erit
 vndique
+
 Tumultus
 ,
 quàm
@@ -26705,6 +30391,7 @@ vel
 futurus
 est
 .
+
 Porrò
 autem
 in
@@ -26713,12 +30400,14 @@ nihil
 ,
 neque
 bipedum
+
 Neque
 quadrupedum
 omnino
 mouebitur
 ,
 adeò
+
 Vt
 ne
 canis
@@ -26727,6 +30416,7 @@ quicquam
 tibi
 mutiet
 .
+
 Idque
 vt
 sciatis
@@ -26734,10 +30424,12 @@ sciatis
 quantum
 Dominus
 fecerit
+
 Discrimen
 inter
 Israelitas
 suos
+
 Ac
 vos
 Aegyptios
@@ -26750,6 +30442,7 @@ inquam
 Pharo
 ,
 vt
+
 Tui
 isti
 populi
@@ -26758,6 +30451,7 @@ me
 descensuri
 sient
 ,
+
 Obnixè
 etiam
 rogaturi
@@ -26766,12 +30460,14 @@ vt
 cum
 omni
 simul
+
 Populo
 mihi
 commisso
 liberè
 exeam
 .
+
 Atque
 ego
 tum
@@ -26782,6 +30478,7 @@ iam
 vale
 Pharo
 .
+
 Symb
 .
 Vah
@@ -26795,6 +30492,7 @@ tenebras
 verba
 dat
 .
+
 Nihil
 tu
 moueare
@@ -26807,11 +30505,16 @@ mouear
 sic
 vt
 lapis
+
 Hic
+
 gle
+
 TRAGICA
 .
+
 52
+
 Hic
 .
 doleo
@@ -26823,6 +30526,7 @@ me
 vlciscier
 queam
 .
+
 Scena3
 .
 Septenarii
@@ -26831,12 +30535,14 @@ Octon
 .
 misti
 .
+
 Moses
 .
 Aaron
 .
 Elohim
 .
+
 IIs
 tot
 tantisque
@@ -26846,6 +30552,7 @@ Pharo
 ,
 tantum
 abest
+
 Vt
 ipsum
 existumem
@@ -26855,6 +30562,7 @@ mollirier
 vt
 mihi
 spus
+
 Iam
 suggerat
 hominem
@@ -26862,6 +30570,7 @@ magis
 induratum
 iri
 Deo
+
 Eius
 animum
 premente
@@ -26875,6 +30584,7 @@ satis
 certò
 scio
 .
+
 Eloh
 .
 Heus
@@ -26893,8 +30603,10 @@ quid
 fieri
 
 
+
 postulas
 ?
+
 Eloh
 .
 Hic
@@ -26907,6 +30619,7 @@ esto
 mensium
 caput
 .
+
 Quamobrem
 vos
 sic
@@ -26914,17 +30627,20 @@ ad
 vniuersam
 Israelis
 multitudinem
+
 Loquimini
 :
 Patresfamiliâs
 cuncti
 decimo
 die
+
 Huiusce
 mensis
 agnum
 mansionatim
 sibi
+
 Sumunto
 .
 Sin
@@ -26936,12 +30652,14 @@ agnum
 non
 sufficit
 ,
+
 Paterfamiliâs
 proximum
 vicinum
 adhibeto
 ,
 pro
+
 Ratione
 numeri
 eorum
@@ -26952,6 +30670,7 @@ esum
 agni
 suffecerint
 .
+
 Hic
 agnus
 integer
@@ -26964,6 +30683,7 @@ esto
 mas
 item
 &
+
 Anniculus
 hic
 esto
@@ -26974,6 +30694,7 @@ an
 hoedus
 nihil
 discriminis
+
 Habento
 .
 Qui
@@ -26983,6 +30704,7 @@ custodia
 detentus
 fuerit
 ad
+
 Diem
 huins
 mensis
@@ -26992,13 +30714,16 @@ quartum
 ab
 omni
 multitudine
+
 Israelitarum
 sub
 vesperem
 mactator
 .
+
 Cat
 .
+
 Tum
 postes
 ambo
@@ -27009,6 +30734,7 @@ aedium
 ,
 in
 quibus
+
 Comedetur
 ,
 eius
@@ -27017,6 +30743,7 @@ consperguntor
 .
 Sed
 caro
+
 Nocte
 illa
 comeditor
@@ -27027,6 +30754,7 @@ panes
 quos
 adhibebitis
 ,
+
 Infermentati
 sunto
 .
@@ -27036,6 +30764,7 @@ amaris
 herbis
 sumitor
 .
+
 Proinde
 ne
 quid
@@ -27045,6 +30774,7 @@ crudum
 neu
 elixum
 aqua
+
 Estote
 ,
 sed
@@ -27056,6 +30786,7 @@ cum
 capite
 ac
 cruribus
+
 Atque
 intestinis
 .
@@ -27065,20 +30796,26 @@ reliqui
 in
 posterum
 diem
+
 G
 iij
+
 Facitote
 :
+
 ed
 by
 Google
+
 COMOEDIA
+
 Facitote
 :
 ac
 siquid
 postridie
 reliqui
+
 Hoc
 autem
 habitu
@@ -27086,18 +30823,21 @@ comeditote
 :
 accinct
 .
+
 Induti
 calceos
 ,
 manibus
 tenentes
 bac
+
 Festinatim
 facitote
 :
 nam
 Domino
 hoc
+
 Ego
 verò
 tum
@@ -27107,11 +30847,13 @@ transibo
 perAegypti
 
 
+
 primogenita
 perimam
 ,
 tam
 in
+
 Ac
 ego
 Diis
@@ -27120,6 +30862,7 @@ sumam
 de
 cunctis
 D
+
 Sed
 illo
 sanguine
@@ -27129,6 +30872,7 @@ quo
 notatae
 erunt
 domus
+
 In
 quibus
 eritis
@@ -27140,12 +30884,14 @@ nec
 grassante
 me
 in
+
 Aegyptios
 perniciali
 vos
 vulnere
 afficiemini
 .
+
 Illius
 autem
 diei
@@ -27154,18 +30900,21 @@ memineritis
 ,
 quem
 item
+
 Celebrabitis
 festum
 Domino
 ,
 vestrisque
 liberis
+
 Vsque
 celebrandum
 solenni
 edicto
 indicabitis
 .
+
 Septem
 dies
 vescemini
@@ -27173,6 +30922,7 @@ non
 fermentatis
 panibus
 ,
+
 Statimque
 primo
 horum
@@ -27180,6 +30930,7 @@ dierum
 fermentum
 auferetis
 è
+
 Domibus
 vestris
 .
@@ -27191,11 +30942,13 @@ die
 vsque
 ad
 septimum
+
 Gustauerit
 fermentatum
 ,
 tollatur
 is
+
 De
 numero
 Israelitarum
@@ -27205,6 +30958,7 @@ autem
 primo
 &
 septimo
+
 Vobis
 erit
 sacra
@@ -27213,6 +30967,7 @@ conuocatio
 nec
 opus
 parabitis
+
 Vllum
 his
 diebus
@@ -27225,6 +30980,7 @@ cuique
 necessum
 erit
 ,
+
 Solum
 id
 licebit
@@ -27234,6 +30990,7 @@ Panes
 vos
 quidem
 seruabitis
+
 Sine
 fermento
 ,
@@ -27244,6 +31001,7 @@ die
 de
 Aegypto
 copias
+
 Eduxerim
 vestras
 ,
@@ -27253,6 +31011,7 @@ id
 perenni
 lege
 vos
+
 Vestris
 nepotibus
 sancibitis
@@ -27260,6 +31019,7 @@ sancibitis
 A
 diei
 vespera
+
 Decimi
 quarti
 mensis
@@ -27267,11 +31027,13 @@ primi
 vsque
 ad
 vesperam
+
 Vicesimi
 primi
 eiusdem
 mensis
 vescemini
+
 Non
 fermentatis
 ,
@@ -27280,6 +31042,7 @@ per
 illos
 septem
 dies
+
 Fermentum
 habebitis
 domi
@@ -27288,6 +31051,7 @@ ac
 quicunque
 tum
 gustauerit
+
 Fermentatum
 ,
 is
@@ -27295,6 +31059,7 @@ vobis
 ilicò
 tollatur
 ex
+
 Numero
 Israelis
 ,
@@ -27305,6 +31070,7 @@ indigena
 ille
 fuerit
 .
+
 Nihil
 (
 inquam
@@ -27315,20 +31081,25 @@ gustabitis
 :
 at
 vbi
+
 *
 *
 3
+
 Vbi
 deTRAGICA
 
 
+
 .
+
 Vbi
 degetis
 ,
 non
 fermentatis
 vescemini
+
 Mos
 .
 Sic
@@ -27338,6 +31109,7 @@ praecepero
 velis
 Domine
 tua
+
 Praesentia
 tutari
 dilectam
@@ -27345,6 +31117,7 @@ tibi
 ab
 orbe
 condito
+
 Ecclesiam
 .
 Eloh
@@ -27357,22 +31130,27 @@ deseram
 tu
 abi
 .
+
 Senar
 .
+
 Scena
 4
 .
 Trimetri
 .
+
 Demus
 .
 Amalechus
 .
+
 Ij
 immortales
 pol
 nobis
 maximoperè
+
 Succenseant
 ,
 si
@@ -27381,6 +31159,7 @@ sunt
 quae
 praedicas
 .
+
 Amaleche
 ain
 verò
@@ -27389,6 +31168,7 @@ Am
 totum
 per
 oppidum
+
 Iam
 rumor
 hic
@@ -27403,6 +31183,7 @@ quid
 Am
 illene
 ?
+
 Floccos
 non
 tam
@@ -27414,6 +31195,7 @@ ille
 omnia
 haec
 .
+
 Dem
 .
 Itan
@@ -27423,6 +31205,7 @@ salus
 suorum
 Principi
 ?
+
 Amal
 .
 Quàm
@@ -27434,6 +31217,7 @@ horum
 mea
 interest
 .
+
 Ille
 Pharo
 est
@@ -27445,6 +31229,7 @@ nos
 eius
 subditi
 .
+
 Verè
 Pharo
 est
@@ -27452,6 +31237,7 @@ est
 si
 libertatem
 subditis
+
 Suis
 parauerit
 ,
@@ -27465,6 +31251,7 @@ at
 hoc
 facit
 .
+
 Dem
 Non
 hac
@@ -27475,6 +31262,7 @@ si
 per
 stragem
 suarum
+
 Id
 efficere
 conatur
@@ -27483,11 +31271,13 @@ actum
 aget
 .
 Mihi
+
 Videtur
 hunc
 potius
 quandam
 tyrannidem
+
 Absoluere
 ,
 tantùm
@@ -27496,12 +31286,14 @@ abest
 molirier
 vt
 putem
+
 Quicquam
 hunc
 saluti
 nostrae
 consentaneum
 .
+
 Amal
 .
 Extra
@@ -27513,6 +31305,7 @@ istuc
 verè
 dixerim
 ,
+
 Pharo
 nimium
 crudelis
@@ -27520,6 +31313,7 @@ crudelis
 atque
 adeò
 nimis
+
 Est
 ipse
 durus
@@ -27528,12 +31322,14 @@ aequumque
 &
 bonum
 .
+
 Nam
 quid
 detrimenti
 ferat
 ,
 concesserit
+
 Si
 huic
 populo
@@ -27542,6 +31338,7 @@ ad
 triduanum
 iter
 ?
+
 Dem
 .
 Nihil
@@ -27555,6 +31352,7 @@ Amal
 populus
 non
 malus
+
 Est
 .
 tum
@@ -27565,12 +31363,17 @@ precij
 est
 ,
 homo
+
 Antia
+
 Digitized
 by
 Google
+
 53
+
 COMOEDIA
+
 Antiqua
 virtute
 ac
@@ -27578,6 +31381,7 @@ fide
 ,
 quem
 suspicit
+
 Meritò
 tota
 degyptus
@@ -27586,21 +31390,25 @@ Dem
 satis
 equidem
 scio
+
 Ifraeli
 multò
 esse
 propensißimos
+
 Nostros
 tribules
 ,
 ac
 mulierculas
 huic
+
 Omnem
 conceßisse
 supellectilem
 :
 attamen
+
 Miror
 quò
 euadat
@@ -27608,6 +31416,7 @@ regis
 obstinata
 mens
 .
+
 Amal
 .
 Solet
@@ -27615,6 +31424,7 @@ aliquo
 casu
 omnis
 pertinacia
+
 Frangi
 :
 nam
@@ -27624,6 +31434,7 @@ eam
 minimè
 ferunt
 .
+
 Sed
 non
 puto
@@ -27633,12 +31444,14 @@ cessauerit
 nisi
 ipsus
 &
+
 Potior
 Aegypti
 pars
 perierit
 funditus
 .
+
 Huc
 animum
 plus
@@ -27646,6 +31459,7 @@ satis
 insanum
 instigat
 magis
+
 Symbulus
 ,
 vt
@@ -27653,6 +31467,7 @@ illi
 noster
 Osiris
 suis
+
 Factis
 dignum
 exitium
@@ -27662,6 +31477,7 @@ Dem
 .
 Vesper
 ferè
+
 Nunc
 imminet
 ,
@@ -27670,6 +31486,7 @@ Amaleche
 domum
 si
 eiusmodi
+
 (
 Quod
 neutiquam
@@ -27680,6 +31497,7 @@ contingat
 ,
 vt
 mihi
+
 Narrasti
 ,
 quos
@@ -27690,6 +31508,7 @@ ego
 turbas
 dabo
 ?
+
 Sed
 inter
 spem
@@ -27698,6 +31517,7 @@ haerendum
 est
 ,
 donicum
+
 Res
 docuerit
 aliud
@@ -27710,18 +31530,21 @@ tu
 quoque
 vale
 .
+
 Scena
 5
 .
 Senarii
 Iamb
 .
+
 Ifraelitae
 .
 Moses
 .
 Aaron
 .
+
 Aciemus
 ita
 ,
@@ -27731,6 +31554,7 @@ fecimus
 viri
 duces
 :
+
 Deumque
 per
 vos
@@ -27738,6 +31562,7 @@ iam
 precamur
 supplices
 .
+
 Mose
 .
 Fratres
@@ -27748,17 +31573,20 @@ quibus
 Deus
 suam
 sibi
+
 Lectißimam
 inter
 hos
 errores
 &
 graues
+
 Motus
 ecclesiam
 constituit
 ,
 obsecro
+
 Audite
 Dominum
 vestrum
@@ -27768,22 +31596,28 @@ Sime
 immerso
 in
 sanguinem
+
 Caesi
 agni
 fasciculo
 hysopi
 en
 infecimus
+
 Vtrosque
 postes
 ac
 superna
 limina
 .
+
 Atqe
+
 byG
+
 TRAGICA
 .
+
 Atque
 hic
 ille
@@ -27794,6 +31628,7 @@ sic
 tostus
 vt
 Deus
+
 Voluit
 .
 Mos
@@ -27803,6 +31638,7 @@ rem
 vobis
 atque
 liberis
+
 Vestris
 solennem
 in
@@ -27811,6 +31647,7 @@ statuite
 .
 Cumque
 iam
+
 Ingreßi
 fueritis
 terram
@@ -27818,6 +31655,7 @@ illam
 ,
 quam
 dabit
+
 Dominus
 vobis
 ,
@@ -27826,6 +31664,7 @@ promisit
 ,
 hunc
 cultum
+
 Seruate
 .
 Deinde
@@ -27833,6 +31672,7 @@ si
 fors
 vestri
 liberi
+
 Rogauerint
 ,
 quis
@@ -27841,6 +31681,7 @@ ille
 sit
 ?
 ilico
+
 Vos
 respondebitis
 :
@@ -27848,6 +31689,7 @@ Phase
 haec
 mactatio
 est
+
 Domino
 ,
 qui
@@ -27856,30 +31698,36 @@ in
 Aegypto
 olim
 Aegyptios
+
 Caederet
 ,
 Israelitarum
 praeterierit
+
 Domos
 ac
 liberauerit
 .
 Proinde
 nunc
+
 Erecti
 sic
 cum
 baculis
 ,
 accinctique
+
 Catal
 .
+
 Hunc
 agnum
 transitus
 festinè
 comedite
 .
+
 Aar
 .
 Vultus
@@ -27888,6 +31736,7 @@ nostri
 Israelis
 sit
 super
+
 Ecclesiam
 suam
 .
@@ -27895,6 +31744,7 @@ Vos
 fratres
 sumite
 .
+
 Mos
 Iam
 pasti
@@ -27903,6 +31753,7 @@ agno
 gratias
 Deo
 Elohim
+
 Agimus
 ,
 qui
@@ -27911,12 +31762,14 @@ seruarit
 ab
 angelo
 suo
+
 Vastatore
 Aegypti
 nostrasque
 transierit
 domos
 .
+
 Sed
 haec
 Dei
@@ -27926,23 +31779,28 @@ Phase
 lex
 esto
 :
+
 Lex
 Phase
 .
 Dimetri
 Iamb
 .
+
 Extranens
 ne
 vescitor
 .
+
 Seruis
 quoque
 emptitijs
 modò
+
 Accisi
 fuerint
 vescier
+
 Fas
 esto
 .
@@ -27950,66 +31808,85 @@ Nec
 quis
 aduena
 ,
+
 Nec
 mercenarius
 ex
 eo
+
 Quicquam
 comesto
 .
 Denique
+
 Vnà
 in
 domo
 illud
 sumitor
 .
+
 Nec
 quippiam
 carnis
 domo
+
 Effertor
 aut
 os
 frangitor
 .
+
 Digitized
 by
 Google
+
 Hoc
+
 54
+
 Scaz
 .
+
 Sept
 .
+
 Scaz
 .
+
 COMOEDIA
+
 vt
 incolae
 .
+
 Praeputiatus
 vllus
 ex
+
 Illo
 prorsus
 ne
 vescitor
 .
+
 Peregrinis
 ac
 incolis
+
 Eadem
 esto
 lex
 ,
 si
 habitauerint
+
 Vos
 inter
 Israel
 simul
 .
+
 Isr
 .
 Legem
@@ -28019,6 +31896,7 @@ Iehonah
 de
 Phase
 ratam
+
 Seruabimus
 .
 Iud
@@ -28028,6 +31906,7 @@ in
 sempiternum
 sic
 ratam
+
 Seruabimus
 .
 Elia
@@ -28038,6 +31917,7 @@ Amin
 .
 seruabimus
 .
+
 Mos
 .
 Sic
@@ -28052,11 +31932,13 @@ hac
 eduxeDominus
 
 
+
 in
 terram
 diu
 promissam
 patribus
+
 Nostris
 .
 Isr
@@ -28067,6 +31949,7 @@ populum
 suum
 Deus
 Israhel
+
 Eduxerit
 ,
 ò
@@ -28076,6 +31959,7 @@ Mos
 .
 silete
 fit
+
 Trepidatio
 ,
 strepitus
@@ -28083,6 +31967,7 @@ strepitus
 tumultus
 &
 frequens
+
 Concursus
 in
 oppido
@@ -28090,6 +31975,7 @@ oppido
 clamorque
 virûm
 grauis
+
 Venit
 ad
 aures
@@ -28098,11 +31984,13 @@ meas
 Dominus
 Deus
 suam
+
 In
 primogenitis
 exerit
 potentiam
 .
+
 Hoc
 vulnus
 extremum
@@ -28112,12 +32000,14 @@ nunc
 hinc
 exibimus
 .
+
 Scena
 6
 .
 Eiusdem
 generis
 .
+
 Populus
 Aegyptius
 .
@@ -28127,10 +32017,12 @@ Pharo
 .
 Symbulus
 .
+
 Moses
 .
 Aaron
 .
+
 TTiamne
 illud
 restabat
@@ -28139,6 +32031,7 @@ Proh
 fidem
 Deûm
 .
+
 Eben
 dolor
 ,
@@ -28149,13 +32042,18 @@ perijmus
 quò
 ibimus
 ?
+
 –
+
 Quò
 ibiTRAGICA
 
 
+
 .
+
 55
+
 Quò
 ibimus
 vt
@@ -28166,6 +32064,7 @@ heu
 fata
 aspem
 .
+
 P
 .
 A
@@ -28178,6 +32077,7 @@ strages
 ?
 an
 domus
+
 Vlla
 est
 ,
@@ -28188,6 +32088,7 @@ conspiciat
 funus
 ?
 ab
+
 Crudelis
 imago
 mortis
@@ -28196,6 +32097,7 @@ peste
 qua
 excindimur
 ?
+
 Po
 B
 .
@@ -28205,6 +32107,7 @@ pulchrè
 mihi
 valebat
 vnicus
+
 Meus
 gnatus
 ?
@@ -28216,8 +32119,10 @@ est
 extinctus
 est
 .
+
 Sept
 .
+
 In
 quo
 me
@@ -28230,6 +32135,7 @@ quo
 spes
 ,
 opesque
+
 Omnes
 mihi
 erant
@@ -28238,12 +32144,14 @@ repostae
 denique
 qui
 meae
+
 Senectae
 erat
 vnicum
 solamen
 ,
 mortuus
+
 Iacet
 .
 ab
@@ -28254,6 +32162,7 @@ primogenite
 gnate
 mi
 ,
+
 Quis
 mihi
 det
@@ -28270,6 +32179,7 @@ non
 solus
 es
 ,
+
 Quem
 fata
 sic
@@ -28278,6 +32188,7 @@ premunt
 Commune
 malum
 minus
+
 Laedit
 .
 in
@@ -28289,6 +32200,7 @@ beu
 ,
 iacet
 .
+
 Dem
 .
 Horribilia
@@ -28299,6 +32211,7 @@ Aegyptus
 patitur
 indies
 .
+
 Hei
 mihi
 ,
@@ -28313,6 +32226,7 @@ clamem
 aut
 querar
 ?
+
 O
 coelum
 ,
@@ -28325,6 +32239,7 @@ superi
 atque
 inferi
 :
+
 Nihil
 ex
 primogenitis
@@ -28333,6 +32248,7 @@ est
 quin
 interierit
 .
+
 Hominis
 iuxtà
 ac
@@ -28341,8 +32257,10 @@ eadem
 conditio
 est
 .
+
 Cat
 .
+
 Omnes
 horribiliter
 morimur
@@ -28350,6 +32268,7 @@ morimur
 Agitè
 viri
 ,
+
 Nos
 impetu
 ad
@@ -28357,6 +32276,7 @@ Pharonem
 :
 si
 dimittere
+
 Nolit
 etiam
 nunc
@@ -28364,12 +32284,14 @@ Israelem
 ,
 ipsum
 simul
+
 Inuadamus
 ,
 satius
 est
 vnius
 caput
+
 Periclitarier
 ,
 quàm
@@ -28380,6 +32302,7 @@ Pop
 .
 hem
 .
+
 Quamus
 .
 Pha
@@ -28391,12 +32314,14 @@ heus
 vos
 ,
 cho
+
 Aegyptij
 festinate
 viri
 ,
 Mosen
 huc
+
 Et
 Aaronem
 vocate
@@ -28405,6 +32330,7 @@ me
 sine
 remora
 .
+
 Symbule
 quid
 nunc
@@ -28413,6 +32339,7 @@ egero
 me
 vicit
 Deus
+
 Ille
 Hebraeorum
 ,
@@ -28420,6 +32347,7 @@ inuitus
 herbam
 porrigo
 .
+
 Symbu
 .
 Quin
@@ -28431,6 +32359,7 @@ rem
 peßimam
 Pharo
 .
+
 Mitte
 fugitiuos
 ,
@@ -28438,6 +32367,7 @@ ne
 venefici
 hi
 suis
+
 Incantamentis
 nos
 quoque
@@ -28445,29 +32375,37 @@ enecent
 :
 scitum
 est
+
 Duobus
+
 ized
 by
 Google
+
 COMOEDIA
+
 3
+
 Duobus
 de
 malis
 quod
 minimi
+
 Popu
 .
 Dimitte
 Pharo
 rex
 Isra
+
 Morimur
 :
 dimitte
 ,
 si
 regnum
+
 Phar
 .
 Iam
@@ -28477,11 +32415,13 @@ dimisero
 venMos
 
 
+
 .
 Tibi
 Pharo
 nos
 adsumus
+
 Quin
 desinis
 tandem
@@ -28489,6 +32429,7 @@ pugnare
 cum
 Deo
 ,
+
 Tuosque
 sic
 conijcere
@@ -28496,6 +32437,7 @@ summum
 in
 periculum
 ?
+
 Agnosce
 manum
 Domini
@@ -28510,6 +32452,7 @@ potentior
 ,
 Oct
 .
+
 Ac
 etiam
 nunc
@@ -28519,8 +32462,10 @@ Pha
 resipisco
 ,
 omnium
+
 a
 2
+
 Quidem
 ,
 quae
@@ -28529,6 +32474,7 @@ feci
 ductus
 poenitudine
 .
+
 Nunc
 ergo
 surgite
@@ -28537,6 +32483,7 @@ exite
 è
 populo
 meo
+
 Et
 vos
 &
@@ -28545,8 +32492,10 @@ Israelitae
 ite
 ,
 sacrumque
+
 Scaz
 .
+
 Facite
 Domino
 arbitratu
@@ -28554,6 +32503,7 @@ vestro
 :
 quin
 greges
+
 Quoque
 ac
 vestra
@@ -28562,6 +32512,7 @@ hinc
 vobiscum
 abducite
 ,
+
 Vt
 postulastis
 :
@@ -28570,6 +32521,7 @@ sanè
 .
 Etiam
 mihi
+
 Sodes
 apud
 Dominum
@@ -28577,6 +32529,7 @@ vos
 bene
 precamini
 .
+
 Aar
 .
 Nos
@@ -28586,6 +32539,7 @@ ist
 haec
 quo
 discrimina
+
 Vocat
 Deus
 .
@@ -28594,14 +32548,17 @@ autem
 si
 fors
 offenderis
+
 Sept
 .
+
 (
 t
 certè
 saepius
 fecisti
 pertinacia
+
 Istac
 tua
 ,
@@ -28610,6 +32567,7 @@ tot
 insuper
 editis
 )
+
 Precor
 ,
 tibi
@@ -28620,6 +32578,7 @@ istum
 mutet
 animum
 .
+
 Mos
 .
 Nos
@@ -28629,6 +32588,7 @@ optata
 tibi
 sempor
 offerat
+
 Deus
 .
 Hunc
@@ -28638,12 +32598,14 @@ audisses
 &
 verbum
 Elobim
+
 Nostri
 non
 spreuisses
 ,
 eiusque
 ecclesiam
+
 Si
 in
 pace
@@ -28652,6 +32614,7 @@ misisses
 cum
 gratia
 ,
+
 Non
 tot
 iam
@@ -28659,6 +32622,7 @@ signa
 rebellionis
 in
 tua
+
 Aegypto
 extarent
 .
@@ -28668,6 +32632,7 @@ est
 :
 credito
 .
+
 Qui
 tangit
 hanc
@@ -28676,6 +32641,7 @@ suam
 ,
 is
 quidem
+
 Laedit
 pupillam
 oculi
@@ -28687,10 +32653,12 @@ haec
 passus
 est
 ,
+
 Voluitque
 acrioribus
 signis
 affligere
+
 Aegyptum
 ,
 vt
@@ -28699,10 +32667,14 @@ populusque
 tuus
 sciatis
 hunc
+
 Solum
+
 TRAGICA
 .
+
 56
+
 Solum
 Deum
 esse
@@ -28711,10 +32683,12 @@ nec
 potentiorem
 quempiam
 .
+
 Sept
 .
 2
 .
+
 Quanquam
 quid
 adhuc
@@ -28724,6 +32698,7 @@ sit
 docebit
 exitus
 .
+
 Pop
 .
 Dem
@@ -28737,6 +32712,7 @@ aut
 omnes
 peribimus
 .
+
 Phar
 .
 Abite
@@ -28748,17 +32724,20 @@ iam
 vt
 diximodò
 ,
+
 Precamini
 Dominum
 mihi
 fausta
 omnia
 .
+
 Scena
 7
 .
 Trimetri
 .
+
 Iudas
 .
 Simeon
@@ -28768,10 +32747,12 @@ Henochus
 Israelitae
 omnes
 .
+
 Moses
 .
 Aaron
 .
+
 Edeunt
 duces
 nostri
@@ -28779,6 +32760,7 @@ nostri
 audiamus
 quid
 ferant
+
 Responsi
 .
 Sim
@@ -28790,6 +32772,7 @@ audiamus
 Hen
 .
 obuiam
+
 NIllis
 eamus
 vltrò
@@ -28800,6 +32783,7 @@ principes
 viri
 ,
 &
+
 Fratres
 mei
 Israhel
@@ -28810,11 +32794,13 @@ ite
 nec
 mora
 ,
+
 Componite
 sarcinas
 ,
 viam
 capescite
+
 Quam
 Dominus
 monstrabit
@@ -28823,6 +32809,7 @@ praecedet
 is
 suos
 .
+
 Corradite
 aurum
 ,
@@ -28831,6 +32818,7 @@ vestes
 aliaque
 necessaria
 .
+
 Isr
 .
 En
@@ -28842,6 +32830,7 @@ corrasimus
 iussu
 Dei
 :
+
 Accinctos
 nos
 vides
@@ -28849,6 +32838,7 @@ itineri
 :
 duc
 bone
+
 Moses
 tuos
 quolibet
@@ -28857,6 +32847,7 @@ Henoch
 .
 euge
 optatißima
+
 Nox
 ,
 te
@@ -28864,6 +32855,7 @@ quibus
 caeremonijs
 celebrabimus
 ?
+
 Aar
 .
 Mirabilis
@@ -28873,6 +32865,7 @@ Dei
 ,
 laudemus
 hunc
+
 Semper
 :
 quia
@@ -28881,12 +32874,14 @@ est
 ,
 operaque
 plurima
+
 Illius
 excedunt
 numerum
 arenae
 maris
 .
+
 Isr
 .
 En
@@ -28897,6 +32892,7 @@ ducito
 .
 Sic
 condepsimus
+
 Massas
 nostras
 ,
@@ -28905,6 +32901,7 @@ fermento
 sic
 sufficit
 .
+
 Neque
 enim
 .
@@ -28917,6 +32914,7 @@ nimis
 vrgent
 Aegyptij
 .
+
 Mactras
 imponite
 humeris
@@ -28925,6 +32923,7 @@ onera
 subite
 .
 iam
+
 Iam
 tempus
 est
@@ -28933,6 +32932,7 @@ promissa
 quo
 Pominus
 sua
+
 Perficiet
 .
 hoc
@@ -28943,38 +32943,51 @@ Isaac
 ,
 hoc
 Israhel
+
 H
+
 itized
 by
 Google
+
 ExpeCOMOEDIA
 
 
 
+
+
 2a
+
 as
 iam
 nunc
 Aegyptias
+
 3
+
 rate
 &
 Dominum
 sequimini
 .
+
 olumna
 nos
 praeit
+
 itaque
 toto
 hinc
 agmine
+
 *
 *
+
 Ethamum
 prope
 solitudinem
 .
+
 Pop
 .
 Isr
@@ -28987,6 +33000,7 @@ dux
 ,
 praei
 .
+
 O
 quam
 mirabilia
@@ -28995,6 +33009,7 @@ tua
 opera
 Domine
 ?
+
 Quam
 magna
 sunt
@@ -29004,18 +33019,22 @@ vsque
 in
 Israhel
 ?
+
 6
 .
+
 Scena
 8
 .
 Similis
 farinae
 .
+
 Elohim
 .
 Moses
 .
+
 Oses
 eho
 ?
@@ -29028,6 +33047,7 @@ Domine
 quid
 imperas
 ?
+
 Eloh
 .
 Iube
@@ -29035,25 +33055,30 @@ Israelitas
 primogenita
 omnia
 
+
 Mihi
 consecrare
 ,
 quòd
 vos
 opprimentibus
+
 Aegyptijs
 primogenitum
 omne
 ceciderim
 .
 
+
 *
+
 Nam
 &
 quicquid
 Israelitarum
 est
 vspiam
+
 Quod
 vuluam
 aperiat
@@ -29064,6 +33089,7 @@ omne
 siue
 hominum
 siet
+
 Siue
 pecudum
 ,
@@ -29076,6 +33102,7 @@ facesso
 Domine
 ,
 quod
+
 Mihi
 praecipis
 .
@@ -29086,6 +33113,7 @@ iube
 iter
 reflectere
 ,
+
 Et
 ante
 Piahirotha
@@ -29093,6 +33121,7 @@ turrim
 inter
 Magdolo
 mare
+
 Cui
 ex
 aduerso
@@ -29100,6 +33129,7 @@ est
 Baalsephon
 castra
 facere
+
 Iuxta
 mare
 ,
@@ -29108,18 +33138,22 @@ Pharo
 arbitratus
 hos
 loci
+
 Ignaros
 hîc
 haerere
 ac
 solitudine
+
 Sept
 .
+
 Tenerier
 conclusos
 persequatur
 ilico
 .
+
 Nam
 huc
 ego
@@ -29131,6 +33165,7 @@ vt
 &
 ipsus
 &
+
 Exercitus
 illius
 omnis
@@ -29138,6 +33173,7 @@ mihi
 sit
 gloriae
 ,
+
 Discantque
 Aegyptij
 ,
@@ -29146,6 +33182,7 @@ sim
 ego
 Dominus
 .
+
 Mos
 .
 Sic
@@ -29156,6 +33193,7 @@ Elohim
 :
 nunquid
 aliud
+
 Vis
 ?
 Elob
@@ -29168,17 +33206,22 @@ adero
 ab
 omnibus
 hostibus
+
 SeruaueTRAGICA
 
 
+
 .
+
 57
+
 Seruauero
 :
 proinde
 nihil
 vereamini
 .
+
 Mos
 .
 Spes
@@ -29190,12 +33233,15 @@ te
 nos
 sperabimus
 .
+
 Scena
 9
 .
+
 Quadrati
 Iamb
 .
+
 Pharo
 .
 Symbulus
@@ -29208,10 +33254,12 @@ Pop
 .
 Israel
 .
+
 Moses
 .
 Aaron
 .
+
 In
 Symbule
 ?
@@ -29221,6 +33269,7 @@ haerent
 palantes
 septi
 solitudine
+
 Illinc
 ,
 &
@@ -29234,7 +33283,9 @@ sunt
 quónam
 eant
 .
+
 AI
+
 Facilè
 iam
 hos
@@ -29243,6 +33294,7 @@ atque
 de
 improuiso
 simul
+
 Omnes
 premamus
 .
@@ -29259,8 +33311,10 @@ Pop
 Aeg
 .
 rex
+
 (
 Pharo
+
 Cur
 fecimus
 hoc
@@ -29271,6 +33325,7 @@ dimiserimus
 ?
 vide
 ,
+
 Non
 verna
 ,
@@ -29283,6 +33338,7 @@ opes
 nostras
 amisimus
 .
+
 Phar
 .
 Ergóne
@@ -29294,6 +33350,7 @@ meque
 haberier
 ludibrio
 ?
+
 Meósne
 conqueri
 &
@@ -29304,6 +33361,7 @@ vagarier
 haud
 sinam
 .
+
 Symb
 .
 Facillimo
@@ -29313,6 +33371,7 @@ hos
 necabimus
 .
 Pharo
+
 Fera
 ,
 quam
@@ -29324,6 +33383,7 @@ casses
 incidit
 tuos
 .
+
 Phar
 .
 Arma
@@ -29336,6 +33396,7 @@ festinate
 cum
 curribus
 ,
+
 Properate
 quadrigarij
 ,
@@ -29347,6 +33408,7 @@ quamlibet
 .
 (
 currite
+
 Ministret
 arma
 furor
@@ -29364,6 +33426,7 @@ viri
 conMactemus
 
 
+
 hos
 ,
 trucidemus
@@ -29373,6 +33436,7 @@ errones
 Pha
 .
 moram
+
 Rumpite
 viri
 ,
@@ -29385,6 +33449,7 @@ agite
 ,
 cingite
 ,
+
 Rapite
 ,
 tundite
@@ -29395,6 +33460,7 @@ prosternite
 dispalate
 profugos
 .
+
 Sed
 heus
 ,
@@ -29405,6 +33471,7 @@ pugnemus
 parumper
 sistite
 .
+
 Mos
 .
 Viri
@@ -29413,6 +33480,7 @@ quaecunque
 Pominus
 fieri
 iusserit
+
 De
 phase
 ac
@@ -29424,6 +33492,7 @@ ille
 vos
 hinc
 duxerit
+
 In
 terram
 Chananaeam
@@ -29434,6 +33503,7 @@ Amorrhaeam
 ,
 Heuaeam
 simul
+
 Et
 Iebusaeam
 ,
@@ -29445,6 +33515,7 @@ melle
 ,
 vt
 diu
+
 Vobis
 daturum
 se
@@ -29453,6 +33524,7 @@ vltro
 vestris
 patribus
 .
+
 Pop
 .
 Isr
@@ -29467,37 +33539,49 @@ rogauerint
 fors
 vestri
 liberi
+
 H
 ij
+
 Quid
+
 Digitized
 by
 Google
+
 COMOE
+
 DIA
+
 Quid
 istuc
 sit
 caeremoniarum
 .
+
 Primogenitos
 Aegypti
 omnes
+
 15
 .
+
 Aar
 .
 Aequum
 est
 parere
 iußib
+
 llius
+
 Vel
 vitae
 periculo
 tueri
 ,
 quod
+
 Pop
 .
 Isr
@@ -29506,8 +33590,10 @@ Legem
 Dei
 tuebimur
 .
+
 tur
 .
+
 Po
 .
 B
@@ -29525,6 +33611,7 @@ atat
 ,
 arma
 eminus
+
 Sonant
 .
 Po
@@ -29544,8 +33631,10 @@ tota
 plaustra
 
 
+
 militum
 .
+
 Prô
 ,
 nos
@@ -29557,6 +33646,7 @@ in
 nos
 proruunt
 .
+
 Pharo
 ecce
 exercitum
@@ -29572,9 +33662,11 @@ est
 perijmus
 
 
+
 .
 δ
 .
+
 Mos
 .
 Silete
@@ -29591,10 +33683,12 @@ elabimur
 :
 omnes
 ,
+
 heu
 ,
 occidimur
 .
+
 Mos
 .
 Silete
@@ -29608,6 +33702,7 @@ silete
 ac
 fidite
 .
+
 Pop
 .
 Is
@@ -29622,9 +33717,12 @@ silebimus
 ?
 en
 hostis
+
 adest
 propè
+
 a
+
 Qui
 nos
 interficiat
@@ -29639,6 +33737,7 @@ quid
 nunc
 ?
 Deus
+
 Vbi
 est
 ?
@@ -29652,13 +33751,17 @@ modò
 manus
 Domini
 ?
+
 6
+
 heu
 dolor
 .
+
 2
 .
 7
+
 Mos
 .
 Au
@@ -29673,6 +33776,7 @@ in
 Domino
 .
 aderit
+
 Deus
 in
 se
@@ -29689,7 +33793,9 @@ nos
 vt
 in
 hanc
+
 scilicet
+
 Miseri
 impellamur
 lanienam
@@ -29701,10 +33807,13 @@ scopulos
 collida8
 
 
+
 .
+
 mur
 ?
 hinc
+
 Mari
 premimur
 ,
@@ -29715,6 +33824,7 @@ illinc
 instat
 hostis
 .
+
 An
 quasi
 sepulchra
@@ -29725,6 +33835,7 @@ Aegypto
 Moses
 in
 hanc
+
 Nos
 solitudinem
 ad
@@ -29734,6 +33845,7 @@ adduxisti
 cur
 autem
 tibi
+
 Visum
 fuit
 ,
@@ -29745,6 +33857,7 @@ educeres
 hócne
 illud
 est
+
 Quod
 dudum
 dicebamus
@@ -29752,6 +33865,7 @@ in
 Aegypto
 petentes
 plurimùm
+
 Vt
 nos
 seruire
@@ -29760,6 +33874,7 @@ permitteres
 ?
 illis
 enim
+
 Seruire
 praestat
 ,
@@ -29768,57 +33883,91 @@ hac
 quàm
 solitudine
 infoeliciter
+
 Mori
 .
+
 diby
 Go
+
 M
+
 Seruat
+
 Victor
 .
+
 Credite
 mil
 .
+
 Ipsus
 p
+
 ve
+
 Aar
 .
 Fi
+
 Anim
+
 Arma
 adu
+
 IndomitiMolirier
+
+
 
 
 Et
 cùm
+
 ibi
+
 Foelici
+
 ni
 ,
+
 Est
 mon
+
 nt
 .
+
 Pelluc
 .
+
 M
+
 Israeli
+
 Serua
+
 Ab
 p
+
 ori
+
 Mo
+
 te
+
 Et
 :
+
 El
+
 E
+
 I
+
 TRAGICA
 .
+
 58
+
 Mori
 .
 Mos
@@ -29830,6 +33979,7 @@ vereamini
 Domino
 confidite
 .
+
 Seruate
 vos
 ,
@@ -29839,8 +33989,10 @@ Elobim
 vobis
 dabit
 hodie
+
 Sept
 .
+
 Victoriam
 ,
 spectate
@@ -29851,8 +34003,10 @@ modò
 videtis
 hostes
 ,
+
 Cat
 .
+
 Credite
 mihi
 ,
@@ -29863,6 +34017,7 @@ videbitis
 :
 quin
 Elohim
+
 Ipsus
 pro
 vobis
@@ -29871,6 +34026,7 @@ conficiet
 hoc
 praelium
 .
+
 dar
 .
 Fratres
@@ -29887,6 +34043,7 @@ vt
 dixit
 ,
 obsecro
+
 Animum
 inducite
 .
@@ -29898,6 +34055,7 @@ dabit
 nam
 nulla
 sunt
+
 Arma
 aduersus
 Dominum
@@ -29908,6 +34066,7 @@ impij
 vsque
 instar
 maris
+
 Indomiti
 furiat
 ,
@@ -29916,6 +34075,7 @@ nouas
 res
 nunquam
 desinit
+
 Molirier
 ,
 ludit
@@ -29925,6 +34085,7 @@ studia
 iustus
 Deus
 :
+
 Et
 cùm
 sibi
@@ -29935,6 +34096,7 @@ videnturque
 esse
 vel
 omnium
+
 Foelicißimi
 ,
 eorum
@@ -29943,6 +34105,7 @@ breuis
 ac
 supra
 modum
+
 Est
 momentaneae
 ,
@@ -29952,8 +34115,10 @@ vitro
 quod
 quò
 magis
+
 Sept
 .
+
 Pellucet
 ,
 hoc
@@ -29961,13 +34126,16 @@ facilius
 rumpitur
 .
 –
+
 Octonarii
 vt
 supra
 .
+
 Scena
 10
 .
+
 Moses
 .
 Elohim
@@ -29980,13 +34148,16 @@ Pop
 .
 Aegyptius
 .
+
 Pop
 .
 Israelis
 .
+
 Mitißime
 ò
 Deus
+
 Israelitarum
 Elohim
 ,
@@ -29998,6 +34169,7 @@ has
 oro
 lachrymas
 ,
+
 Serua
 populum
 tuum
@@ -30008,6 +34180,7 @@ mitte
 exercitum
 tuum
 :
+
 Ah
 porrige
 dexteram
@@ -30018,6 +34191,7 @@ Schadai
 ,
 tange
 nunc
+
 Montes
 ,
 fumumque
@@ -30030,6 +34204,7 @@ iam
 coelos
 tuos
 ,
+
 Et
 interibunt
 hostes
@@ -30041,6 +34216,7 @@ facie
 solis
 fluit
 .
+
 Elob
 .
 Quid
@@ -30052,6 +34228,7 @@ iube
 Israelitas
 proficiscier
 .
+
 Et
 ne
 querantur
@@ -30063,6 +34240,7 @@ isthanc
 tuam
 in
 mare
+
 Extende
 ,
 illudque
@@ -30073,6 +34251,7 @@ Israelitae
 per
 medium
 mare
+
 Sicco
 pede
 ambulent
@@ -30083,6 +34262,7 @@ Aegyptij
 (
 inijciente
 me
+
 Eam
 in
 illos
@@ -30094,6 +34274,7 @@ consequentur
 vt
 mihi
 in
+
 Parhone
 ,
 eiusque
@@ -30104,14 +34285,19 @@ atque
 equitibus
 vel
 hoc
+
 PalmaH
 
 
+
 iij
+
 Digitized
 by
 Google
+
 COMOEDIA
+
 Palmarium
 feram
 :
@@ -30120,12 +34306,14 @@ vt
 ex
 tanto
 tamque
+
 Facto
 ego
 Dominus
 Aegyptijs
 ita
 demun
+
 Pop
 .
 Aeg
@@ -30137,9 +34325,12 @@ irruimus
 ?
 P
 .
+
 bule
 exercitum
+
 1os
+
 Prius
 instrue
 ,
@@ -30149,8 +34340,10 @@ inter
 principia
 ero
 .
+
 al
 .
+
 Cornu
 sinistrum
 ,
@@ -30158,6 +34351,7 @@ nos
 ad
 dextrum
 impreßion
+
 Faciemus
 nusquam
 hodie
@@ -30166,6 +34360,7 @@ nostras
 fugitiui
 euaserint
 .
+
 Mos
 .
 Spectate
@@ -30176,6 +34371,7 @@ viri
 videbitis
 modò
 gloriam
+
 Dni
 ,
 quanti
@@ -30193,6 +34389,7 @@ hostis
 ,
 au
 .
+
 Mos
 .
 Nolite
@@ -30203,6 +34400,7 @@ state
 in
 Domino
 fortiter
+
 Videte
 magnifica
 opera
@@ -30213,6 +34411,7 @@ sint
 quanta
 :
 inquio
+
 Fidite
 .
 Domini
@@ -30223,6 +34422,7 @@ est
 ,
 eius
 potentiam
+
 Spectabitis
 ,
 pugnabit
@@ -30231,6 +34431,7 @@ pro
 nobis
 quiescentibus
 .
+
 Sperate
 in
 Elohim
@@ -30242,6 +34443,7 @@ contra
 nos
 ,
 Deus
+
 Pro
 nobis
 si
@@ -30255,6 +34457,7 @@ vt
 vos
 huius
 loci
+
 Semper
 dieique
 memineritis
@@ -30265,6 +34468,7 @@ in
 nomine
 (
 mare
+
 Schadai
 mare
 vorsum
@@ -30279,6 +34483,7 @@ Is
 .
 etiam
 in
+
 Au
 ,
 quid
@@ -30296,6 +34501,7 @@ simul
 (
 mare
 ?
+
 Gradimur
 .
 dar
@@ -30309,6 +34515,7 @@ hinc
 &
 hinc
 fluctus
+
 Sistit
 ,
 vtrinque
@@ -30323,6 +34530,7 @@ incedimus
 .
 (
 maris
+
 Po
 .
 Aeg
@@ -30338,6 +34546,7 @@ pede
 tranant
 aequora
 .
+
 Quid
 agimus
 ?
@@ -30349,6 +34558,7 @@ insignem
 adeò
 in
 me
+
 Vt
 accipiam
 ?
@@ -30365,6 +34575,7 @@ ruamus
 in
 (
 quoque
+
 Medios
 hostes
 ,
@@ -30377,6 +34588,7 @@ gurgite
 ceßit
 mare
 .
+
 Impete
 sequamur
 .
@@ -30394,6 +34606,7 @@ nos
 De
 Elobim
 .
+
 Mos
 .
 Et
@@ -30411,6 +34624,7 @@ dnne
 Elo
 .
 Quin
+
 Virgam
 protende
 in
@@ -30421,6 +34635,7 @@ solito
 vadò
 data
 via
+
 Ruent
 procellae
 .
@@ -30430,6 +34645,7 @@ corpora
 ,
 mersosque
 obrue
+
 Currus
 ,
 testentur
@@ -30442,6 +34658,7 @@ meam
 Mos
 .
 modò
+
 Spectate
 filij
 :
@@ -30451,6 +34668,7 @@ videtis
 ,
 non
 erunt
+
 Amplius
 :
 accipite
@@ -30466,16 +34684,22 @@ Is
 Euge
 ,
 fluctibus
+
 12
 .
 22
+
 Simul
+
 d
 by
+
 TRAGICA
 .
+
 5
 .
+
 Simul
 inuoluuntur
 .
@@ -30485,6 +34709,7 @@ virûm
 tabulaeque
 curruum
 natant
+
 Per
 vndas
 .
@@ -30505,6 +34730,7 @@ hostes
 .
 Sym
 .
+
 ae
 Pop
 .
@@ -30516,6 +34742,7 @@ morimur
 ,
 ae
 .
+
 Pha
 .
 Vicisti
@@ -30531,6 +34758,7 @@ fidem
 ae
 .
 Sept
+
 Aar
 .
 Laudandus
@@ -30548,6 +34776,7 @@ similis
 nostro
 deo
 ?
+
 Aar
 .
 Victoriosus
@@ -30558,6 +34787,7 @@ omnes
 Deus
 Israhel
 ,
+
 Submersus
 est
 Pharo
@@ -30568,6 +34798,7 @@ equites
 submersi
 quadrigarij
 .
+
 Vis
 nulla
 quicquam
@@ -30582,6 +34813,7 @@ est
 Deus
 Israhel
 ,
+
 Hunc
 nos
 amabimus
@@ -30594,6 +34826,7 @@ gestabimus
 in
 sinu
 .
+
 Mos
 .
 Iòo
@@ -30604,6 +34837,7 @@ domino
 ,
 quod
 gratitudinem
+
 Testetur
 aliquam
 .
@@ -30619,8 +34853,10 @@ Mar
 Succinam
 ego
 cum
+
 tympano
 .
+
 Foemin
 .
 Is
@@ -30637,23 +34873,28 @@ tu
 carmen
 incipe
 .
+
 Carmen
 Mosis
 &
 Israelitarum
 .
+
 VArmen
 canamus
 laetitiae
 nouum
 :
+
 Deum
 canamus
 ,
 robore
 qui
 suo
+
 Q
+
 Currus
 ,
 equos
@@ -30661,11 +34902,13 @@ equos
 viros
 &
 arma
+
 In
 mare
 praecipitauit
 altum
 .
+
 Maria
 &
 foeminae
@@ -30673,37 +34916,46 @@ cum
 tympanis
 intercinunt
 .
+
 Dimetri
 .
+
 Cantate
 Iouam
 carmine
 :
+
 Cantate
 ,
 qui
 praestantia
+
 Sua
 marinis
 fluctibus
+
 Equites
 ,
 equosque
 merserit
 .
+
 Iehouan
+
 strum
 robur
 &
 hymnus
 est
 ,
+
 Nobis
 saluti
 qui
 fuit
 vnicus
 .
+
 Ille
 est
 Deus
@@ -30712,6 +34964,7 @@ quem
 extollo
 solum
 :
+
 Hic
 patrius
 Deus
@@ -30719,59 +34972,75 @@ Deus
 hunc
 celebro
 .
+
 Cantate
 Iouam
 ,
 etc
 .
+
 Vir
+
 H
 iiij
+
 –
+
 Dized
 by
 Googlem
+
 a
 4
 -
 
+
 COMOEDIA
+
 Vir
 be
+
 Quem
+
 Mersitque
 Erithraeum
 in
 mare
 Principes
 ,
+
 Lectißimos
 aut
 quos
 habuit
 Pharo
 .
+
 Vt
 saxa
 sidunt
 in
 profundum
 ,
+
 Fluctibus
 obruit
 hos
 marinis
 .
+
 Cantate
 Iouam
 ,
 etc
 .
+
 Isthaec
 patrasti
 tu
 tibi
 dextera
+
 Deus
 ,
 parasti
@@ -30780,19 +35049,23 @@ decus
 hoc
 tibi
 :
+
 Hostes
 tuos
 ira
 premente
+
 Fortiter
 vt
 stipulam
 excidisti
+
 Cantate
 Iouam
 ,
 etc
 .
+
 Quin
 ad
 furorem
@@ -30802,6 +35075,7 @@ fluitat
 ,
 tuum
 ,
+
 vnda
 ,
 ac
@@ -30809,21 +35083,26 @@ in
 cumulum
 stetit
 .
+
 Quieuit
+
 Iussu
 tuo
 maris
 vadosi
+
 In
 medio
 coiere
 fluctus
 .
+
 Cantate
 Iouam
 ,
 etc
 .
+
 Hostis
 ,
 praehendam
@@ -30832,6 +35111,7 @@ dixerat
 :
 haud
 sinam
+
 Hos
 persequi
 ,
@@ -30840,38 +35120,46 @@ hoc
 spolium
 feram
 :
+
 Explebo
 pectus
 ,
 ense
 stricto
+
 Atque
 manu
 perimam
 fugaces
 .
+
 Cantate
 ,
 etc
 .
+
 2
+
 Tuo
 sed
 Eurus
 numine
 quum
 mari
+
 Incumberet
 ,
 sunt
 fluctibus
 obruti
 .
+
 Sunt
 nobiles
 mersi
 sub
 vndis
+
 Non
 secus
 ,
@@ -30879,11 +35167,14 @@ occidit
 atque
 plumbum
 .
+
 Iouam
 ,
 etc
 .
+
 Cantat
+
 O
 quis
 Deorum
@@ -30891,53 +35182,66 @@ sit
 similis
 tibi
 ?
+
 Quis
+
 
 Digitized
 by
 Google
+
 I
+
 TRAGICA
 .
+
 60
+
 Quis
 comparandus
 sit
 tibi
 robore
+
 Deus
 ?
 nimis
 laudabilis
 tu
 ,
+
 Terribilis
 ,
 nimis
 es
 timendus
 .
+
 Cantate
 Iouam
 ,
 etc
 .
+
 Extenderes
 nam
 quum
 tibi
 dexteram
 ,
+
 Absorpsit
 hostes
 terra
 madens
 tuos
 .
+
 Clemens
 tuum
 populum
 redemptum
+
 Vi
 valida
 ad
@@ -30945,10 +35249,12 @@ loca
 sacra
 ducis
 .
+
 Cantate
 ,
 etc
 .
+
 Horrore
 gentes
 ,
@@ -30956,53 +35262,63 @@ ista
 vbi
 nouerint
 ,
+
 Graui
 occupentur
 ,
 atque
 Philistijm
 :
+
 Tremant
 duces
 Idumaeorum
 ,
+
 Ac
 trepidet
 Moabita
 fortis
 .
+
 Cantate
 Iouam
 ,
 etc
 .
+
 Reddantur
 omnes
 exanimes
 ,
 metu
+
 Demum
 Chananaeae
 paueant
 ,
 tuum
+
 Ad
 brachium
 vt
 cantes
 stupescant
 ,
+
 Dum
 populus
 tuus
 inde
 transit
 .
+
 Cantate
 Iouam
 ,
 etc
 .
+
 Dum
 transit
 illâc
@@ -31010,6 +35326,7 @@ hic
 populus
 tuus
 ,
+
 Quem
 comparasti
 tute
@@ -31017,10 +35334,12 @@ Deus
 tibi
 :
 in
+
 Montem
 tuae
 quem
 haereditatis
+
 Duxeris
 ,
 hoc
@@ -31028,43 +35347,51 @@ vti
 monte
 plantes
 .
+
 Cantate
 Iouam
 ,
 etc
 .
+
 Haec
 illa
 sedes
 est
 habitaculi
+
 Tui
 parasti
 quam
 manibus
 tuis
 .
+
 Hoc
 illud
 est
 sacrarium
 ,
 quod
+
 Ipse
 tibi
 Ioua
 condidisti
 .
+
 Cantate
 Iouam
 ,
 etc
 .
+
 In
 sempiternum
 regnet
 iò
 Deus
+
 Qui
 equos
 Pharonis
@@ -31072,33 +35399,43 @@ Pharonis
 curricula
 ac
 viros
+
 SubHP
+
+
 
 
 ized
 by
 Google
+
 COMDEDIA
+
 Smbmersit
 vndis
 ,
 quando
 siccus
+
 Per
 medium
 Israhel
 ambulauit
 .
+
 Cant
 .
+
 Epilogus
 ,
 seu
 Peroratio
 .
+
 Senarij
 Iamb
 .
+
 E
 expectetis
 dum
@@ -31106,19 +35443,23 @@ denuò
 illi
 huc
 exeant
+
 *
 -
+
 In
 solitudinem
 profecti
 iam
 nouas
+
 Sedes
 per
 infinitos
 errores
 petent
 .
+
 
 Nec
 huc
@@ -31128,7 +35469,9 @@ nisi
 post
 annos
 circiter
+
 -
+
 Quadraginta
 .
 proin
@@ -31137,6 +35480,7 @@ id
 expectare
 vos
 ,
+
 Vt
 longum
 foret
@@ -31146,7 +35490,9 @@ nec
 mea
 causa
 velim
+
 22
+
 Fieri
 .
 Vos
@@ -31155,6 +35501,7 @@ itaque
 spectatores
 optimi
 ,
+
 Iam
 nunc
 dimisero
@@ -31163,6 +35510,7 @@ si
 saltem
 adhuc
 plusculum
+
 Audieritis
 ,
 quod
@@ -31170,6 +35518,7 @@ in
 rem
 vestram
 maximam
+
 
 Fore
 arbitror
@@ -31179,6 +35528,7 @@ prorsum
 ex
 hoc
 spectaculo
+
 Vacui
 domum
 redeatis
@@ -31186,6 +35536,7 @@ redeatis
 Oportet
 nos
 enim
+
 Non
 tam
 oculos
@@ -31198,6 +35549,7 @@ quod
 maiu
 stypascere
 .
+
 Tum
 autem
 frustrà
@@ -31205,6 +35557,7 @@ vos
 spectasse
 hanc
 fabulam
+
 Reor
 ,
 ex
@@ -31213,6 +35566,7 @@ si
 nihilo
 meliores
 domum
+
 Redieritis
 .
 Hanc
@@ -31220,32 +35574,39 @@ igitur
 accipite
 coronidem
 ,
+
 Quae
 praetèr
 quandam
 anacephalaeosin
 ac
 breuem
+
 371
+
 Rerum
 omnium
 repetitionem
 ,
 addet
 etiam
+
 Earundem
 explicationem
 (
 vt
 nos
 quidem
+
 2
+
 Putamus
 )
 lucedisimam
 .
 Spectastis
 in
+
 Primo
 &
 secundo
@@ -31254,12 +35615,15 @@ atque
 in
 reliquis
 omnibus
+
 Qua
 seruitute
 Pharo
 Israelis
 filios
+
 *
+
 Germen
 Deo
 lectißimum
@@ -31267,9 +35631,12 @@ oppreßit
 ,
 vt
 vbiuis
+
 Hyper
 .
+
 22
+
 Potius
 quàm
 in
@@ -31277,19 +35644,25 @@ Aegypto
 tranquille
 vixerint
 .
+
 t
 .
+
 In
 Isete
 
 
+
 .
+
 TRAGICA
 .
+
 In
 Israelitis
 statuite
 ecclesiam
+
 Dei
 ,
 vt
@@ -31300,6 +35673,7 @@ quam
 nunquam
 cessat
 persequi
+
 Communis
 omnium
 hostis
@@ -31308,6 +35682,7 @@ diabolus
 Hanc
 premit
 ,
+
 Huic
 insidiatur
 ,
@@ -31315,6 +35690,7 @@ hanc
 studet
 in
 tyrannidem
+
 Suam
 corripere
 ,
@@ -31322,6 +35698,7 @@ hanc
 ipse
 pernox
 circuit
+
 Tanquam
 leo
 rugiens
@@ -31332,6 +35709,7 @@ ex
 hac
 deuoret
 .
+
 Colligite
 mecum
 ab
@@ -31341,6 +35719,7 @@ condito
 vsque
 ad
 haec
+
 Tempora
 ,
 quantis
@@ -31348,6 +35727,7 @@ concussa
 sit
 vsque
 ecclesia
+
 Dei
 miserijs
 ,
@@ -31357,6 +35737,7 @@ haec
 perpessa
 sit
 ,
+
 Vt
 nunc
 ferè
@@ -31366,6 +35747,7 @@ nunc
 in
 exiguo
 quidem
+
 Numero
 fuerit
 relicta
@@ -31373,6 +35755,7 @@ relicta
 vti
 in
 diluuio
+
 Noae
 familia
 :
@@ -31380,6 +35763,7 @@ pòst
 Abrahami
 &
 posteri
+
 Tantùm
 huius
 vsque
@@ -31388,6 +35772,7 @@ hanc
 praesentem
 historiam
 .
+
 Inde
 etiam
 in
@@ -31397,6 +35782,7 @@ Iudaea
 ,
 &
 quidem
+
 Non
 vniuersa
 :
@@ -31405,6 +35791,7 @@ rursum
 in
 Babylone
 inviris
+
 Aliquando
 vix
 decem
@@ -31412,6 +35799,7 @@ decem
 Nec
 vnquam
 libera
+
 Vel
 in
 his
@@ -31420,6 +35808,7 @@ ab
 aduersis
 tempestatibus
 :
+
 Semper
 aliqua
 oppressa
@@ -31427,6 +35816,7 @@ fuit
 seruitute
 .
 Sed
+
 Experta
 est
 vsque
@@ -31434,6 +35824,7 @@ Dei
 sui
 praesentiam
 ,
+
 Vt
 tot
 malis
@@ -31441,6 +35832,7 @@ nunquam
 succubuerit
 ,
 licet
+
 Pharo
 ille
 infernalis
@@ -31448,6 +35840,7 @@ id
 operam
 quàm
 maximè
+
 Dederit
 .
 Hic
@@ -31455,6 +35848,7 @@ enim
 aduersatur
 perpetuò
 Dei
+
 Et
 gloriae
 &
@@ -31463,22 +35857,26 @@ honori
 Videmus
 vel
 hodie
+
 Quantis
 &
 ipsa
 haereticorum
 fallacijs
 ,
+
 Quantis
 iactetur
 vsque
 tempestatibus
 ,
+
 Qua
 peccatorum
 seruitute
 non
 ea
+
 Prematur
 ,
 in
@@ -31486,6 +35884,7 @@ quem
 denique
 orbis
 angulum
+
 Propulsa
 sit
 .
@@ -31494,6 +35893,7 @@ haec
 ita
 fieri
 Deus
+
 Vult
 ,
 quando
@@ -31502,30 +35902,39 @@ omnia
 haec
 futura
 sic
+
 Praeuidit
 ,
 ac
 diuus
 Ioannes
 mulierem
+
 Fugientem
 in
 solitudinem
 :
 cuius
 quidem
+
 pogle
+
 Partum
+
 Cat
 .
+
 61
+
 COMOEDIA
+
 Partum
 vorandum
 expectabat
 noster
 Draco
 .
+
 At
 frustrà
 :
@@ -31535,6 +35944,7 @@ vobis
 in
 primo
 fabulae
+
 actu
 scitißimè
 ,
@@ -31543,6 +35953,7 @@ licuit
 ,
 depinximus
 :
+
 Nec
 omnino
 alienum
@@ -31551,6 +35962,7 @@ ab
 hac
 historia
 .
+
 In
 actu
 porrò
@@ -31558,6 +35970,7 @@ tertio
 ac
 quarto
 Dei
+
 Verbum
 contemnit
 ,
@@ -31566,17 +35979,20 @@ ac
 ludit
 Pharo
 ,
+
 Verbique
 ministros
 contumelia
 afficit
 ,
+
 Vnde
 horribiliter
 ipse
 plagis
 caeditur
 .
+
 Hîc
 principes
 monentur
@@ -31584,12 +36000,14 @@ reges
 ac
 duces
 ,
+
 Vt
 orthodoxam
 ecclesiam
 audiant
 ,
 ferant
+
 Verbi
 ministros
 &
@@ -31597,6 +36015,7 @@ bene
 monitis
 obtemperent
 :
+
 Ac
 tantum
 non
@@ -31605,28 +36024,33 @@ acquiescant
 ,
 ne
 velint
+
 Prorsus
 ψευδοδιδάκτοs
 audire
 ,
 qui
 suis
+
 Praestigijs
 ,
 πιθαναλονιοῖς
 ,
 sententijs
+
 Hinc
 inde
 frustulatim
 ex
 scriptura
 saera
+
 Pecerptis
 totas
 peruertunt
 Respublicas
 :
+
 Non
 aliter
 ac
@@ -31634,6 +36058,7 @@ Pharonem
 &
 Aegyptum
 Magi
+
 Dementarunt
 ,
 ne
@@ -31641,33 +36066,39 @@ Mosen
 &
 Aaronem
 bene
+
 Praecipientes
 audirent
 .
 Apud
 eiusmodi
+
 Profectò
 principes
 (
 qui
 veritatem
 agnoscere
+
 Recusant
 ,
 atque
 ecclesiam
 Dei
 sua
+
 Inusitata
 perturbant
 tyrannide
 )
+
 Sequuntur
 plagae
 ,
 seditiones
 ,
 schismata
+
 Gella
 ,
 haereses
@@ -31676,6 +36107,7 @@ vt
 testis
 est
 Germania
+
 Et
 Gallia
 ,
@@ -31683,6 +36115,7 @@ regna
 alioqui
 florentißima
 .
+
 Huc
 illud
 etiam
@@ -31690,12 +36123,14 @@ incommodum
 accedit
 :
 Deus
+
 Animos
 huiusmodi
 Ducum
 indurat
 ,
 queant
+
 Vt
 neutiquam
 ab
@@ -31703,6 +36138,7 @@ insito
 errore
 resipiscere
 .
+
 Hoc
 est
 ,
@@ -31711,12 +36147,14 @@ ipsos
 sic
 in
 posterum
+
 Laxis
 habenis
 in
 peiora
 labier
 ,
+
 Vt
 in
 extremam
@@ -31725,21 +36163,28 @@ perniciem
 caesi
 incidant
 .
+
 32
 .
 22432
 .
 7
+
 Catal
 .
+
 Sept
 .
+
 Sept
 .
+
 MemineTRAGICA
 
 
+
 .
+
 Meminerint
 itaque
 non
@@ -31747,12 +36192,14 @@ temerè
 fuisse
 dictum
 ,
+
 Imò
 vbique
 omninò
 seruent
 tanquam
 μωσίος
+
 Πλάκας
 :
 Quicunque
@@ -31761,6 +36208,7 @@ audierit
 ,
 is
 quidem
+
 Et
 me
 audiuerit
@@ -31771,6 +36219,7 @@ vos
 Spernit
 ,
 is
+
 Et
 me
 :
@@ -31782,6 +36231,7 @@ spernit
 spernit
 eum
 quoque
+
 Qui
 me
 misit
@@ -31793,10 +36243,12 @@ Ab
 fili
 ,
 neutiquam
+
 Sodes
 transgrediaris
 vetustos
 terminos
+
 Quos
 posuerunt
 tibi
@@ -31805,6 +36257,7 @@ tui
 .
 Quod
 si
+
 Factum
 fuisset
 ,
@@ -31812,10 +36265,12 @@ non
 iam
 sentiremus
 in
+
 Nostros
 fines
 propagatum
 Mahometicum
+
 Regnum
 ,
 aut
@@ -31825,6 +36280,7 @@ saeuiret
 noster
 Tharo
 ,
+
 Nec
 huc
 malorum
@@ -31832,6 +36288,7 @@ peruentum
 fuisset
 .
 Hoc
+
 Notant
 plagae
 decem
@@ -31839,12 +36296,14 @@ decem
 qui
 numerus
 omnium
+
 Malorum
 Iliada
 procul
 dubio
 complectitur
 .
+
 Iam
 vt
 ad
@@ -31853,11 +36312,13 @@ properemus
 ,
 ex
 tyrannide
+
 Pharonis
 liberatur
 ecclesia
 Dei
 ,
+
 Vt
 iam
 spectastis
@@ -31866,6 +36327,7 @@ ipsa
 fabulae
 catastrophe
 .
+
 Sed
 non
 quidem
@@ -31874,12 +36336,14 @@ leuiter
 nisi
 comesto
 prius
+
 Phase
 ac
 per
 insecutiones
 hostium
 .
+
 Quae
 omnia
 certè
@@ -31889,6 +36353,7 @@ magna
 continent
 mysteria
 ,
+
 Ac
 si
 studeamus
@@ -31897,6 +36362,7 @@ euoluere
 longum
 foret
 .
+
 Hoc
 autem
 discendum
@@ -31904,12 +36370,14 @@ venit
 :
 nunquam
 Deum
+
 Vel
 in
 medijs
 malis
 Ecclesiam
 suam
+
 Deserere
 ,
 vt
@@ -31920,6 +36388,7 @@ tot
 foedas
 haereses
 ,
+
 Tot
 opprobria
 (
@@ -31928,6 +36397,7 @@ penè
 conficitur
 modò
 )
+
 Et
 hanc
 praesentem
@@ -31935,6 +36405,7 @@ Ecclesiam
 demum
 à
 Deo
+
 Repurgatam
 iri
 :
@@ -31944,11 +36415,13 @@ finem
 &
 nos
 quidem
+
 Promißionis
 Phase
 intereà
 vescimur
 .
+
 Portamini
 (
 inquit
@@ -31959,6 +36432,7 @@ meo
 ,
 in
 mea
+
 Aluo
 gestamini
 ,
@@ -31967,6 +36441,7 @@ vestram
 vsque
 senectam
 ego
+
 Portabo
 vos
 .
@@ -31976,27 +36451,37 @@ est
 ego
 etiam
 Ecclesiam
+
 zed
 by
 Google
+
 Scaz
 .
+
 Sept
 .
+
 Sept
 .
+
 Senescen62
+
+
 
 
 COMOEDIA
 TRAGICA
 .
+
 ;
+
 Senescentem
 portauero
 ac
 seruauero
 ,
+
 Vt
 per
 mare
@@ -32006,6 +36491,7 @@ sedem
 ab
 orbe
 condito
+
 Sibi
 promissam
 perueniat
@@ -32013,11 +36499,13 @@ perueniat
 quod
 vt
 breui
+
 Fiat
 ,
 Deum
 precamur
 ardentißimis
+
 Votis
 ,
 Valete
@@ -32028,9 +36516,11 @@ videtur
 ,
 plaudite
 .
+
 Christo
 gloria
 .
+
 Tragica
 haec
 comoedia
@@ -32040,6 +36530,7 @@ habet
 quod
 aut
 fidem
+
 
 
 ,
@@ -32052,6 +36543,7 @@ modo
 turbare
 
 
+
 possit
 .
 Actum
@@ -32061,14 +36553,18 @@ hac
 .
 Augusti
 ,
+
 2
+
 Anno
 1562
 .
+
 L
 .
 Metsius
 .
+
 Fo
 .
 1
@@ -32108,6 +36604,7 @@ pa
 .
 1
 .
+
 li
 .
 29
@@ -32144,6 +36641,7 @@ li
 le
 .
 Iamnis
+
 fo
 .
 6
@@ -32184,6 +36682,7 @@ li
 .
 15
 .
+
 Resiscat
 .
 fo
@@ -32215,6 +36714,7 @@ nunquamne
 .
 fo
 .
+
 17
 .
 pa
@@ -32254,6 +36754,7 @@ li
 .
 le
 .
+
 Aëgyptium
 .
 pa
@@ -32280,6 +36781,7 @@ li
 30
 .
 lege
+
 obtutu
 .
 fo
@@ -32318,6 +36820,7 @@ pa
 .
 2
 .
+
 li
 .
 22
@@ -32350,6 +36853,7 @@ pa
 .
 1
 .
+
 li
 .
 13
@@ -32388,6 +36892,7 @@ li
 .
 le
 .
+
 dic
 .
 pa
@@ -32424,6 +36929,7 @@ li
 17
 .
 dele
+
 punctum
 .
 fo
@@ -32462,6 +36968,7 @@ li
 sequenti
 
 
+
 lege
 Pop
 .
@@ -32488,6 +36995,7 @@ fol
 .
 46
 .
+
 pa
 .
 1
@@ -32528,6 +37036,7 @@ le
 .
 semper
 .
+
 Attentus
 lector
 ,
@@ -32537,6 +37046,7 @@ obscuriora
 ,
 vel
 desiderata
+
 passim
 ,
 facilè
@@ -32545,10 +37055,14 @@ exprimet
 supplebitve
 .
 
+
 52
 
 
+
 N
+
 Digitized
 by
 Google
+

@@ -5,11 +5,12 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:35:13Z
+@dateWritten=2023-12-13T13:03:16Z
 
 Over
 dit
 boek
+
 Dit
 is
 een
@@ -36,6 +37,7 @@ door
 Google
 .
 Dat
+
 doen
 we
 omdat
@@ -49,6 +51,7 @@ beschikbaar
 willen
 maken
 .
+
 Dit
 boek
 is
@@ -78,6 +81,7 @@ dat
 tot
 het
 publieke
+
 domein
 behoort
 ,
@@ -104,6 +108,7 @@ Het
 kan
 per
 land
+
 verschillen
 of
 een
@@ -131,6 +136,7 @@ vormen
 een
 bron
 van
+
 geschiedenis
 ,
 cultuur
@@ -144,6 +150,7 @@ verkrijgen
 zou
 zijn
 .
+
 Aantekeningen
 ,
 opmerkingen
@@ -166,6 +173,7 @@ als
 herinnering
 aan
 de
+
 lange
 reis
 die
@@ -184,8 +192,10 @@ naar
 uRichtlijnen
 
 
+
 voor
 gebruik
+
 Google
 werkt
 samen
@@ -208,6 +218,7 @@ beschikbaar
 wordt
 .
 Boeken
+
 uit
 het
 publieke
@@ -236,6 +247,7 @@ dienst
 te
 kunnen
 blijven
+
 leveren
 ,
 hebben
@@ -257,9 +269,11 @@ van
 technische
 beperkingen
 op
+
 automatisch
 zoeken
 .
+
 Verder
 vragen
 we
@@ -267,6 +281,7 @@ u
 het
 volgende
 :
+
 Gebruik
 de
 bestanden
@@ -287,6 +302,7 @@ ontworpen
 voor
 gebruik
 door
+
 individuen
 .
 We
@@ -305,6 +321,7 @@ niet
 commerciêle
 doeleinden
 .
+
 Voer
 geen
 geautomatiseerde
@@ -323,6 +340,7 @@ Google
 Als
 u
 onderzoek
+
 doet
 naar
 computervertalingen
@@ -340,6 +358,7 @@ heest
 tot
 grote
 hoeveelheden
+
 
 
 tekst
@@ -368,11 +387,13 @@ en
 kunnen
 u
 misschien
+
 hiermee
 van
 dienst
 zijn
 .
+
 Laai
 de
 eigendomsverklaring
@@ -395,6 +416,7 @@ mensen
 informatie
 over
 het
+
 project
 te
 geven
@@ -419,6 +441,7 @@ dit
 watermerk
 niet
 .
+
 Houd
 u
 aan
@@ -450,6 +473,7 @@ is
 .
 Ukunt
 er
+
 niet
 van
 uitgaan
@@ -475,6 +499,7 @@ ook
 publiek
 domein
 is
+
 voor
 gebruikers
 in
@@ -504,6 +529,7 @@ u
 in
 uw
 geval
+
 met
 een
 bepaald
@@ -530,6 +556,7 @@ gebruiken
 ,
 wanneer
 het
+
 eenmaal
 in
 Zoeken
@@ -548,6 +575,7 @@ is
 behoorlijk
 streng
 .
+
 Informatie
 over
 Zoeken
@@ -555,6 +583,7 @@ naar
 boeken
 met
 Google
+
 Het
 doel
 van
@@ -579,6 +608,7 @@ helpt
 lezers
 boeken
 uit
+
 allerlei
 landen
 te
@@ -604,33 +634,49 @@ van
 dit
 boek
 doorzoeken
+
 op
 het
 veb
 viaE
+
 Digitized
 by
+
 gl
+
 6
+
 A
 2
+
 24
 .
 
+
 -
 5
+
 LVV
+
 P
+
 .
+
 8
+
 Digitized
 by
 Google
+
 Ills
 
+
 L
+
 NYMPHAE
 GANDENSI
+
 Meliori
 ambitione
 suos
@@ -638,6 +684,7 @@ ad
 honores
 excitanti
 .
+
 Mpia
 Bellorum
 genitrix
@@ -645,6 +692,7 @@ genitrix
 foecunda
 malorum
 ,
+
 AExitiique
 parens
 ;
@@ -655,12 +703,14 @@ odiumque
 ,
 timorque
 ,
+
 Curaeque
 ,
 irarumque
 agmen
 comitantur
 euntem
+
 Ambitio
 ,
 quo
@@ -668,6 +718,7 @@ non
 mortalia
 pectora
 cogis
+
 Indomitas
 facibus
 subdens
@@ -675,6 +726,7 @@ in
 viscera
 flammas
 ?
+
 Proiice
 tela
 manu
@@ -684,6 +736,7 @@ adhuc
 fera
 bella
 minaris
+
 Crudelis
 ?
 nondum
@@ -691,6 +744,7 @@ innocui
 satis
 arva
 biberunt
+
 Sanguinis
 ?
 effuso
@@ -701,6 +755,7 @@ precor
 satiare
 cruore
 .
+
 Vana
 queror
 ;
@@ -711,6 +766,7 @@ furens
 &
 sedibus
 imis
+
 Evulsum
 armorum
 rabie
@@ -718,6 +774,7 @@ rabie
 atque
 innixa
 suorum
+
 Viribus
 ,
 implevit
@@ -725,6 +782,7 @@ geminum
 terroribus
 orbem
 .
+
 Quin
 etiam
 in
@@ -732,6 +790,7 @@ proprios
 agitat
 malefida
 parentes
+
 Adversos
 natorum
 animos
@@ -739,6 +798,7 @@ animos
 socia
 arma
 cruentis
+
 Cladibus
 ,
 &
@@ -748,12 +808,14 @@ cognataque
 funera
 miscet
 .
+
 Cernitis
 ?
 infausti
 stimulis
 agitatus
 honoris
+
 Absalon
 ,
 &
@@ -763,6 +825,7 @@ ante
 diem
 inflammatus
 amore
+
 Imperii
 ,
 documenta
@@ -772,6 +835,7 @@ quam
 dira
 superbos
 ,
+
 Tarda
 licet
 ,
@@ -782,6 +846,7 @@ En
 ,
 triste
 parenti
+
 Dum
 parat
 exitium
@@ -789,6 +854,7 @@ infelix
 ,
 formidine
 cladis
+
 Ex
 mediâ
 fugere
@@ -798,6 +864,7 @@ acie
 &
 subducere
 vitam
+
 Cogitur
 ;
 instantis
@@ -805,6 +872,7 @@ formidans
 tela
 Joabi
 .
+
 Nil
 agis
 ,
@@ -814,6 +882,7 @@ caput
 :
 imminet
 ultrix
+
 A
 tergo
 Nemesis
@@ -821,6 +890,7 @@ Nemesis
 scelerum
 vindicta
 fugacem
+
 Insequitur
 propiore
 gradu
@@ -829,19 +899,26 @@ aut
 si
 terra
 recuset
+
 Digitized
 bys
+
 Sup
+
 pliI
 
 
+
+
 g
+
 Supplicium
 ,
 caelo
 vindex
 ultricia
 sparget
+
 Fulmina
 ,
 quod
@@ -850,6 +927,7 @@ novit
 moderamine
 Numen
 ,
+
 Parcere
 subjectis
 ,
@@ -857,7 +935,9 @@ subjectis
 debellare
 superbos
 .
+
 .
+
 
 Dum
 loquor
@@ -866,6 +946,7 @@ ramos
 circum
 arboris
 altae
+
 Caesarie
 ,
 coelumque
@@ -874,6 +955,7 @@ inter
 terramque
 ,
 trementem
+
 Conspicor
 ,
 &
@@ -885,6 +967,7 @@ sua
 facta
 dolentem
 .
+
 Hoc
 decus
 ,
@@ -896,6 +979,7 @@ tantisque
 laboribus
 empta
 est
+
 Gloria
 ;
 sic
@@ -906,6 +990,7 @@ sua
 praemia
 ,
 mortem
+
 Ambitio
 ;
 haec
@@ -914,6 +999,7 @@ quaesita
 ardore
 trophaea
 .
+
 Nec
 levior
 te
@@ -922,6 +1008,7 @@ manet
 ,
 quicumque
 superbo
+
 Scandis
 ad
 astra
@@ -932,6 +1019,7 @@ ruiturum
 tollit
 in
 altum
+
 Ambitus
 ,
 evectumque
@@ -940,6 +1028,7 @@ mox
 destinat
 orco
 .
+
 Sed
 si
 tantus
@@ -949,6 +1038,7 @@ Laudis
 non
 sola
 gradivi
+
 Castra
 ,
 perennantem
@@ -957,6 +1047,7 @@ per
 saecula
 famam
 .
+
 Et
 sua
 phoebeo
@@ -965,6 +1056,7 @@ est
 gloria
 :
 lauro
+
 Musarum
 quoque
 Phoebus
@@ -972,6 +1064,7 @@ amat
 decorare
 clientes
 .
+
 Ipsa
 etiam
 licet
@@ -979,6 +1072,7 @@ arma
 manu
 Mavortia
 vibret
+
 Pallas
 ,
 &
@@ -988,6 +1082,7 @@ in
 fera
 praelia
 donis
+
 Laudum
 avidos
 heroum
@@ -995,6 +1090,7 @@ animos
 ;
 ardentior
 illi
+
 Cura
 ,
 trium
@@ -1002,6 +1098,7 @@ phales
 vatum
 circumdare
 palmas
+
 Temporibus
 ,
 pulchri
@@ -1010,6 +1107,7 @@ calcar
 pretiumque
 laboris
 :
+
 Tu
 quoque
 ,
@@ -1022,6 +1120,7 @@ tu
 Ganda
 ,
 gradivo
+
 Sacra
 licet
 ,
@@ -1031,6 +1130,7 @@ celebrata
 per
 orbem
 ,
+
 Musarum
 magè
 castra
@@ -1038,6 +1138,7 @@ colis
 ;
 donisque
 juventam
+
 Extimulas
 ,
 clarorum
@@ -1045,6 +1146,7 @@ imitantem
 exempla
 parentum
 .
+
 O
 benè
 !
@@ -1054,6 +1156,7 @@ Phaebi
 in
 certamina
 alumnos
+
 Sollicitas
 ,
 coelo
@@ -1062,6 +1165,7 @@ tua
 gloria
 surgit
 ,
+
 Quam
 dum
 ,
@@ -1072,11 +1176,15 @@ ad
 bella
 leones
 ,
+
 IllustresDigitized
+
 
 
 by
 Google
+
+
 
 
 Illustresque
@@ -1087,6 +1195,7 @@ in
 nomen
 ituras
 ,
+
 In
 pulchtam
 promissa
@@ -1095,6 +1204,7 @@ per
 praemia
 Mörtem
 .
+
 Ergo
 age
 ,
@@ -1106,6 +1216,7 @@ haud
 segnibus
 urge
 ;
+
 Vtque
 facis
 ,
@@ -1115,6 +1226,7 @@ natis
 ,
 succendere
 honorum
+
 Flagrantes
 ardore
 animos
@@ -1122,12 +1234,14 @@ animos
 nec
 grandia
 docto
+
 Praemia
 victori
 pigeat
 posuisse
 ;
 refundet
+
 Haec
 Patriae
 ,
@@ -1137,6 +1251,7 @@ mox
 adoleverit
 aetas
 ,
+
 Officiique
 memor
 reddet
@@ -1144,6 +1259,7 @@ cum
 faenore
 lucrum
 :
+
 Illa
 dies
 veniet
@@ -1154,7 +1270,9 @@ super
 aethera
 vectam
 ,
+
 5
+
 Magnanimosque
 tuos
 heroas
@@ -1162,6 +1280,7 @@ heroas
 &
 inclyta
 bello
+
 Pectora
 ,
 maturi
@@ -1169,6 +1288,7 @@ celebrabunt
 carmine
 vates
 .
+
 Huc
 placidos
 ,
@@ -1180,6 +1300,7 @@ en
 ,
 certa
 futurae
+
 Omina
 virtutis
 spirant
@@ -1187,6 +1308,7 @@ spirant
 micat
 acribus
 ignis
+
 Luminibus
 :
 produnt
@@ -1194,6 +1316,7 @@ animorum
 semina
 vultus
 .
+
 Idem
 omnes
 facer
@@ -1202,6 +1325,7 @@ amor
 ;
 superare
 labores
+
 Immensos
 ,
 tenuis
@@ -1211,6 +1335,7 @@ Labor
 :
 omnia
 vincit
+
 Vivida
 spes
 laudum
@@ -1220,6 +1345,7 @@ quaerendi
 nominis
 ardor
 .
+
 Ite
 ergo
 invictum
@@ -1230,6 +1356,7 @@ genus
 ;
 ite
 calentes
+
 Phaebo
 animae
 ,
@@ -1237,6 +1364,7 @@ fervens
 circum
 praecordia
 sanguis
+
 Dum
 viget
 ;
@@ -1248,6 +1376,7 @@ quos
 vexit
 ad
 altas
+
 Musarum
 ,
 Phoebique
@@ -1255,6 +1384,7 @@ arces
 ,
 detrudere
 alumnos
+
 Haud
 solet
 ;
@@ -1262,6 +1392,7 @@ intrepidè
 Parnassia
 scandite
 Phoebi
+
 Culmina
 ;
 non
@@ -1271,6 +1402,7 @@ hic
 fulmina
 montes
 .
+
 Ite
 alacres
 ,
@@ -1280,6 +1412,7 @@ palmis
 magnae
 aemula
 Romae
+
 Curia
 ;
 quo
@@ -1288,6 +1421,7 @@ urbis
 ,
 sanctusque
 Senatus
+
 Vos
 vocat
 ,
@@ -1297,17 +1431,24 @@ nomen
 transcribite
 olympo
 .
+
 S3
+
 6
+
 i
 .
+
 Digitized
 by
 GoC
+
 34
 2
+
 ARGUMENTUM
 .
+
 Bsalon
 post
 exilium
@@ -1317,12 +1458,14 @@ patris
 receptus
 
 
+
 regno
 ejusdem
 inhians
 ,
 illud
 in
+
 vadere
 nititur
 ,
@@ -1330,6 +1473,7 @@ fingitque
 se
 voto
 obligari
+
 persoluendo
 in
 HEBRON
@@ -1338,6 +1482,7 @@ ubi
 invalescit
 conspiratio
 :
+
 Absalon
 ibidem
 rex
@@ -1345,6 +1490,7 @@ proclamatur
 ,
 perfertur
 nuntius
+
 
 
 ad
@@ -1356,11 +1502,13 @@ ex
 urbe
 profugit
 .
+
 Absalon
 regnum
 adeptus
 auctore
 Achitophele
+
 bellum
 infert
 patri
@@ -1370,12 +1518,14 @@ congressus
 interficitur
 
 
+
 .
 David
 mortem
 Absalonis
 admodum
 deplorat
+
 2
 .
 regum
@@ -1390,17 +1540,23 @@ c
 .
 18
 .
+
 6
+
 5
+
 Dited
 b
 GooglACTUS
+
 ACTUS
 I
 .
+
 SCENA
 I
 .
+
 BSALON
 excitat
 se
@@ -1408,12 +1564,14 @@ ad
 vindictam
 in
 fratrem
+
 Amnonem
 ab
 violatam
 Sororis
 pudicitiam
 ,
+
 &
 cumque
 in
@@ -1423,6 +1581,7 @@ ad
 quod
 fratres
 omnes
+
 (
 S
 convocarat
@@ -1430,17 +1589,21 @@ convocarat
 occidi
 jubet
 .
+
 INTERLUDIVM
 .
+
 Ratrum
 quoque
 gratia
 rara
 est
 .
+
 SCENA
 II
 .
+
 AVID
 applaudens
 sibi
@@ -1450,6 +1613,7 @@ concordia
 ut
 putat
 ,
+
 filiorum
 suorum
 ,
@@ -1458,6 +1622,7 @@ necem
 Amnonis
 ,
 &
+
 execratur
 scelus
 ABSALONLS
@@ -1467,28 +1632,36 @@ ex
 regno
 fugit
 .
+
 I
 2
+
 A
+
 CHORUS
 .
+
 Stendit
 quam
 graviter
 fratricidae
 puniantur
 .
+
 ACTUS
 II
 .
+
 SCENA
 I
+
 ESALON
 per
 Ioabum
 DANIDI
 reconciliatur
 ,
+
 Q
 &
 cum
@@ -1496,8 +1669,10 @@ plausu
 reducitur
 Jerosolymam
 .
+
 INTERLUDIVM
 .
+
 Lauda
 patrum
 segnes
@@ -1506,13 +1681,17 @@ indulgentia
 natos
 juuen
 .
+
 SCENA
+
 Digitized
 by
 Google
+
 ISCENA
 II
 .
+
 BSALON
 tot
 beneficiorum
@@ -1520,6 +1699,7 @@ immemor
 ,
 deliberat
 ,
+
 AAnum
 patrem
 solio
@@ -1528,6 +1708,7 @@ velit
 ,
 tandem
 nimia
+
 ambitione
 inflammatus
 ,
@@ -1536,15 +1717,21 @@ nesas
 decernit
 exequi
 .
+
 9y
 .
+
 CHOR
+
 3
+
 ,
 2
 22
+
 A
 4
+
 Ivina
 justitia
 ostendit
@@ -1553,37 +1740,51 @@ esse
 AmbitioE242
 
 
+
+
 nem
 .
+
 ACTUS
 TII
 .
+
 6
 .
 
+
 3P
+
+
 
 
 SCENA
 I
 .
+
 4
 
+
 S
+
 BSALONpergit
 in
 Hebron
 ,
 ubi
 universus
+
 Jsrael
+
 instigante
 Achitophele
 ad
 aras
 conjurat
 contra
+
 DAVIDEM
+
 
 
 ,
@@ -1592,29 +1793,39 @@ in
 regem
 inauguratur
 .
+
 4
 .
+
 A
 .
 -
+
 5
+
 i
 b
 53
+
 4
 .
 EVISL
+
 *
+
 3
+
 SLENA
 II
 .
+
 BSALON
 fugientem
 ex
 urbe
 DAVIDEM
 per
+
 LAsequitur
 ,
 &
@@ -1624,7 +1835,9 @@ patris
 necem
 hortatur
 ,
+
 Fit
+
 pugna
 ;
 &
@@ -1636,11 +1849,14 @@ tribus
 hastis
 à
 Joab
+
 confoditur
 .
+
 SCENA
 IIJ
 .
+
 AVID
 audita
 ABSALONIS
@@ -1650,11 +1866,15 @@ morte
 pluri8
 
 
+
+
 mum
 dolet
 .
+
 EPILOGVS
 .
+
 Ivina
 Justitia
 de
@@ -1663,6 +1883,7 @@ triumphat
 ac
 patrem
 ,
+
 &
 filium
 omnibus
@@ -1671,22 +1892,30 @@ exemplum
 proponit
 .
 
+
 12
+
 Ad
 Majorem
 Dei
 gloram
 .
+
 itized
 by
 Google
+
 Ee
+
 Digitized
 by
 Googl
+
 4
+
 ISCENAII
 .
+
 BSALON
 tot
 beneficiorum
@@ -1694,6 +1923,7 @@ immemor
 ,
 deliberat
 ,
+
 AAnum
 patrem
 solio
@@ -1702,6 +1932,7 @@ velit
 ,
 tandem
 nimia
+
 ambitione
 inflammatus
 ,
@@ -1710,15 +1941,23 @@ nesas
 decernit
 exequi
 .
+
 Qiom
+
 6
+
 CHOR
+
 4
+
 *
 2
+
 2
+
 32
 2
+
 PIvina
 justitia
 ostendit
@@ -1728,25 +1967,35 @@ Ambitionem
 
 
 
+
 .
+
 AV
 .
+
 ACTUS
 III
 .
+
 .
+
 5
+
 SCENA
 I
 .
+
 2
+
 Sm
+
 BSALONpergit
 in
 Hebron
 ubi
 universus
 Jsraël
+
 instigante
 Achitophele
 ad
@@ -1756,6 +2005,8 @@ contia
 DA.
 
 
+
+
 VIDEM
 ,
 &
@@ -1763,6 +2014,7 @@ in
 regem
 inauguratur
 .
+
 67
 ,
 ep
@@ -1771,24 +2023,30 @@ ep
 '
 .
 1
+
 1
 .
 EIL
+
 
 ca
 2
 .
 
+
 SENA
 II
 .
+
 BSALON
 fugientem
 ex
 urbe
 DAVIDEM
 per
+
 Fit
+
 AA
 sequitur
 ,
@@ -1799,6 +2057,7 @@ patris
 necem
 hortatur
 .
+
 pugna
 ;
 &
@@ -1810,12 +2069,16 @@ tribus
 hastis
 à
 Joab
+
 13
+
 confoditur
 .
+
 SCENA
 IIJ
 .
+
 AVID
 audita
 ABSALONIS
@@ -1826,12 +2089,16 @@ pluri23
 
 
 
+
 4
+
 mum
 dolet
 .
+
 EPILOGVS
 .
+
 Ivina
 Justitia
 de
@@ -1841,8 +2108,10 @@ triumphat
 ac
 patrem
 ,
+
 65
 .
+
 &
 filium
 omnibus
@@ -1851,24 +2120,34 @@ exemplum
 proponit
 .
 
+
 Ad
 Majorem
 Dei
 gloram
 .
+
 12
+
 Dized
 by
 Google
+
 18
+
 Digitized
 by
+
 gi
+
 5
+
 5
+
 ISCENA
 TI
 .
+
 BSALON
 tot
 beneficiorum
@@ -1876,6 +2155,7 @@ immemor
 ,
 deliberat
 ,
+
 num
 patrem
 solio
@@ -1884,6 +2164,7 @@ velit
 ,
 tandem
 nimia
+
 ambitione
 inflammatus
 ,
@@ -1892,17 +2173,26 @@ nesas
 decernit
 exequi
 .
+
 B
 .
 2
+
 7
+
 4
+
 CHOR
+
 5
+
 82
 
+
 2
+
 v
+
 Ivina
 justitia
 ostendit
@@ -1911,33 +2201,47 @@ esse
 Ambitio.
 
 
+
 .
 .
 .
+
 nem
 .
+
 B5
 .
+
 ACTUS
 III
 .
+
 2
+
 3
+
 i
+
 5
+
 
 SCENA
 I
 .
+
 Eτ
+
 frael
+
 BSALONpeigit
 in
 Hebron
 ,
 ubi
 universus
+
 DAinstigante
+
 
 
 Achitophele
@@ -1945,7 +2249,9 @@ ad
 aras
 conjurat
 contia
+
 Pi
+
 VIDEM
 ,
 &
@@ -1953,23 +2259,32 @@ in
 regem
 inauguratur
 .
+
 .
 1
+
 I
+
 .
 I
+
 5
+
 0
+
 SCENA
 II
 .
+
 IBSALON
 fugientem
 ex
 urbe
 DAVIDEM
 per
+
 Fit
+
 LA
 sequitur
 ,
@@ -1980,6 +2295,7 @@ patris
 necem
 hortatur
 .
+
 pugna
 ;
 &
@@ -1991,12 +2307,16 @@ tribus
 hastis
 à
 Joab
+
 confoditur
 .
+
 A2
+
 SCENA
 III
 .
+
 AVID
 audita
 ABSALONIS
@@ -2007,12 +2327,16 @@ pluriC
 
 
 
+
 I4
+
 mum
 dolet
 .
+
 EPILOGVS
 .
+
 Ivina
 Justitia
 de
@@ -2022,8 +2346,10 @@ triumphat
 ac
 patrem
 ,
+
 6
 .
+
 &
 filium
 omnibus
@@ -2031,24 +2357,32 @@ in
 exemplum
 proponit
 .
+
 4
+
 Ad
 Majorem
 Dei
 gloram
 .
 
+
 gitized
 by
 Google
+
 6
+
 Digitized
 by
+
 gi
+
 
 ISCENA
 II
 .
+
 BSALON
 tot
 beneficiorum
@@ -2056,6 +2390,7 @@ immemor
 ,
 deliberat
 ,
+
 AAnum
 patrem
 solio
@@ -2063,6 +2398,7 @@ exturbare
 velit
 tandem
 nimia
+
 ambitione
 inflammatus
 ,
@@ -2071,15 +2407,23 @@ nesas
 decernit
 exequi
 .
+
 à
 2
+
 2
+
 4
+
 CHORO
+
 V2
 .
+
 2
+
 I
+
 Ivina
 justitia
 ostendit
@@ -2088,23 +2432,33 @@ esse
 Ambitio4
 
 
+
+
 Lnem
 .
+
 BY
+
 ACTUS
 III
 .
+
 Ex
+
 F
 .
 2
 
+
 SCENA
 I
 .
+
 G
 
+
 242
+
 BSALONpergit
 in
 Hebron
@@ -2112,6 +2466,7 @@ Hebron
 ubi
 universus
 Jfraël
+
 instigante
 Achitophele
 ad
@@ -2121,6 +2476,8 @@ contia
 DA4
 
 
+
+
 VIDEM
 ,
 &
@@ -2128,26 +2485,34 @@ in
 regem
 inauguratur
 .
+
 I
 -
 4
+
 c
 5
 .
 E
+
 3
 2
+
 o
+
 CENA
 II
 .
+
 IBSALON
 fugientem
 ex
 urbe
 DAVIDEM
 per
+
 Fit
+
 LAsequitur
 ,
 &
@@ -2157,6 +2522,7 @@ patris
 necem
 hortatur
 ,
+
 pugna
 ;
 &
@@ -2168,11 +2534,14 @@ tribus
 hastis
 à
 Joab
+
 confoditur
 .
+
 SCENA
 III
 .
+
 AVID
 audita
 ABSALONIS
@@ -2182,14 +2551,19 @@ morte
 pluriA
 
 
+
+
 S4
+
 mum
 dolet
 .
+
 EPILOGV
 .
 S
 .
+
 Ivina
 Justitia
 de
@@ -2199,8 +2573,10 @@ triumphat
 ac
 patrem
 ,
+
 2
 „
+
 &
 filium
 omnibus
@@ -2208,26 +2584,37 @@ in
 exemplum
 proponit
 .
+
 4
+
 Ad
 Majorem
 Dei
 gloram
 .
+
 2
+
 itized
 by
 Google
 
+
 13
+
 Digitized
 by
+
 gi
+
 EEE
+
 SCENA
 II
 .
+
 I
+
 BSALON
 tot
 beneficiorum
@@ -2235,6 +2622,7 @@ immemor
 ,
 deliberat
 ,
+
 AAnum
 patrem
 solio
@@ -2243,6 +2631,7 @@ velit
 ,
 tandem
 nimia
+
 ambitione
 inflammatus
 ,
@@ -2251,17 +2640,26 @@ nesas
 decernit
 exequi
 .
+
 I2
+
 a
+
 CHOR
+
 b3
+
 o
 44
+
 4
 2
+
 .
 1
+
 Y
+
 Ivina
 justitia
 ostendit
@@ -2270,34 +2668,47 @@ esse
 Ambitio.
 
 
+
 .
+
 Dnem
 .
+
 ri
 .
+
 ACTV
 III
 .
+
 FV
 .
 .
+
 .
 5
+
 6
+
 D
+
 SCENA
 I
 .
 
 
+
 Jsrael
+
 BSALONpergit
 in
 Hebron
 ,
 ubi
 universus
+
 DAinstigante
+
 
 
 Achitophele
@@ -2305,8 +2716,10 @@ ad
 aras
 conjurat
 contra
+
 A
 .
+
 VIDEM
 ,
 &
@@ -2314,25 +2727,33 @@ in
 regem
 inauguratur
 .
+
 I
 .
 -
 -
 "
+
 VILVSLL
+
 2
 
+
 o
+
 SCENA
 II
 .
+
 IBSALON
 fugientem
 ex
 urbe
 DAVIDEM
 per
+
 Fit
+
 LAsequitur
 ,
 &
@@ -2342,6 +2763,7 @@ patris
 necem
 hortatur
 ,
+
 pugna
 ;
 &
@@ -2353,12 +2775,16 @@ tribus
 hastis
 à
 Joab
+
 confoditur
 .
+
 3
+
 SCENA
 III
 .
+
 AVID
 audita
 ABSALONIS
@@ -2370,11 +2796,15 @@ pluri3
 
 
 
+
+
 mum
 dolet
 .
+
 EPILOGVS
 .
+
 Ivina
 Justitia
 de
@@ -2384,6 +2814,7 @@ triumphat
 ac
 patrem
 ,
+
 &
 filium
 omnibus
@@ -2391,26 +2822,38 @@ in
 exemplum
 proponit
 .
+
 A
+
 Ad
 Majorem
 Dei
 gloram
 .
+
 4
+
 gitized
 by
 Google
+
 a
+
 f2
+
 Digitized
 by
+
 gi
+
 2
+
 5
+
 ISCENA
 II
 .
+
 BSALON
 tot
 beneficiorum
@@ -2418,6 +2861,7 @@ immemor
 ,
 deliberat
 ,
+
 num
 patrem
 solio
@@ -2426,6 +2870,7 @@ velit
 ,
 tandem
 nimia
+
 ambitione
 inflammatus
 ,
@@ -2434,23 +2879,31 @@ nesas
 decernit
 exequi
 .
+
 P
 .
 -
 L
+
 3
 .
+
 CHORV
+
 "
 a
 (
 .
+
 4
+
 .
 32
 .
 .
+
 7
+
 Ivina
 justitia
 ostendit
@@ -2459,30 +2912,41 @@ esse
 Ambitio.
 
 
+
 .
 .
 2
 .
+
 2
 .
+
 nem
 .
+
 25
 .
+
 ACTUS
 III
 .
+
 F
 .
 .
 4
 .
+
 e
+
 G
+
 SCENA
 I
 .
+
 6
+
 BSALONpergit
 in
 Hebron
@@ -2490,6 +2954,7 @@ Hebron
 ubi
 universus
 Jfrael
+
 instigante
 Achitophele
 ad
@@ -2499,6 +2964,7 @@ contia
 DAVIDEM
 
 
+
 ,
 &
 in
@@ -2506,18 +2972,23 @@ regem
 inauguratur
 .
 
+
 .
 è52
+
 o
+
 SENA
 II
 .
+
 BSALON
 fugientem
 ex
 urbe
 DAVIDEM
 per
+
 IA
 sequitur
 ,
@@ -2529,6 +3000,7 @@ necem
 hortatur
 .
 Ft
+
 pugna
 ;
 &
@@ -2540,11 +3012,14 @@ tribus
 hastis
 à
 Joab
+
 confoditur
 .
+
 SCENA
 IIJ
 .
+
 AVID
 audita
 ABSALONIS
@@ -2554,14 +3029,20 @@ morte
 pluriA
 
 
+
+
 4
+
 I
 .
+
 mum
 dolet
 .
+
 EPILOGVS
 .
+
 Ivina
 Justitia
 de
@@ -2571,6 +3052,7 @@ triumphat
 ac
 patrem
 ,
+
 &
 filium
 omnibus
@@ -2579,23 +3061,32 @@ exemplum
 proponit
 .
 
+
 Ad
 Majorem
 Dei
 gloram
 .
+
 2
+
 gitized
 by
 Google
+
 fè
+
 Digitized
 by
+
 gi
+
 372
+
 SCENA
 TI
 .
+
 BSALON
 tot
 beneficiorum
@@ -2603,6 +3094,7 @@ immemor
 ,
 deliberat
 ,
+
 IAnum
 patrem
 solio
@@ -2611,6 +3103,7 @@ velit
 ,
 tandem
 nimia
+
 ambitione
 inflammatus
 ,
@@ -2619,16 +3112,24 @@ nesas
 decernit
 exequi
 .
+
 4
 1
 40
+
 CHOR
+
 63
+
 .
 42
+
 4
+
 23
+
 5Ivina
+
 
 
 justitia
@@ -2638,30 +3139,43 @@ esse
 Ambitio38
 
 
+
 .
+
 Dnem
 .
+
 
 ACTUS
 III
 .
+
 222
+
 c
+
 5
+
 4
+
 SCENA
 I
 .
+
 X
 
+
 srael
+
 BSALONpergit
 in
 Hebron
 ,
 ubi
 universus
+
 DAinstigante
+
 
 
 Achitophele
@@ -2669,6 +3183,7 @@ ad
 aras
 conjurat
 contia
+
 VIDEM
 ,
 &
@@ -2676,24 +3191,31 @@ in
 regem
 inauguratur
 .
+
 4
+
 4
 ,
 I
+
 "SENA
+
 
 
 
 
 II
 .
+
 IBSALON
 fugientem
 ex
 urbe
 DAVIDEM
 per
+
 Fit
+
 LA
 sequitur
 ,
@@ -2704,6 +3226,7 @@ patris
 necem
 hortatur
 .
+
 pugna
 ;
 &
@@ -2715,12 +3238,15 @@ tribus
 hastis
 à
 Joab
+
 confoditur
 .
+
 
 SCENA
 FIJ
 .
+
 AVID
 audita
 ABSALONIS
@@ -2731,12 +3257,17 @@ pluri4
 
 
 
+
+
 17
+
 mum
 dolet
 .
+
 EPILOGVS
 .
+
 Ivina
 Justitia
 de
@@ -2746,7 +3277,9 @@ triumphat
 ac
 patrem
 ,
+
 23
+
 &
 filium
 omnibus
@@ -2755,23 +3288,32 @@ exemplum
 proponit
 .
 
+
 Ad
 Majorem
 Dei
 gloram
 .
+
 2
+
 gitized
 by
 Google
+
 6
+
 Digitized
 by
+
 gi
+
 2
+
 ISCENA
 II
 .
+
 BSALON
 tot
 beneficiorum
@@ -2779,6 +3321,7 @@ immemor
 ,
 deliberat
 ,
+
 IAnum
 patrem
 solio
@@ -2787,6 +3330,7 @@ velit
 ,
 tandem
 nimia
+
 ambitione
 inflammatus
 ,
@@ -2795,16 +3339,24 @@ nesas
 decernit
 exequi
 .
+
 734
+
 4
+
 CHOR
+
 2
+
 4
+
 ,
 2
 2
 3
+
 C
+
 Ivina
 justitia
 ostendit
@@ -2813,30 +3365,42 @@ esse
 AmbitioE
 
 
+
 .
 2
+
 nem
 .
+
 ACTUS
 III
 .
+
 AV
 .
+
 3
 5
+
 6
+
 SCENA
 I
 .
+
 G
+
 Jfrael
+
 BSALONpergit
 in
 Hebron
 ,
 ubi
 universus
+
 DAinstigante
+
 
 
 Achitophele
@@ -2844,8 +3408,11 @@ ad
 aras
 conjurat
 contia
+
 C41
+
 8
+
 VIDEM
 ,
 &
@@ -2853,24 +3420,34 @@ in
 regem
 inauguratur
 .
+
 -
 -
+
 3
+
 .
 EN
+
 2
+
 4
+
 0
+
 SENA
 II
 .
+
 ABSALON
 fugientem
 ex
 urbe
 DAVIDEM
 per
+
 Fit
+
 LAsequitur
 ,
 &
@@ -2880,6 +3457,7 @@ patris
 necem
 hortatur
 ,
+
 pugna
 ;
 &
@@ -2891,13 +3469,18 @@ tribus
 hastis
 à
 Joab
+
 1
+
 confoditur
 .
+
 8
+
 SCENA
 FIJ
 .
+
 PAVID
 audita
 ABSALONIS
@@ -2907,14 +3490,19 @@ morte
 pluriV
 
 
+
+
 I
 .
+
 
 mum
 dolet
 .
+
 EPILOGVS
 .
+
 )
 Ivina
 Justitia
@@ -2925,6 +3513,7 @@ triumphat
 ac
 patrem
 ,
+
 &
 filium
 omnibus
@@ -2933,26 +3522,37 @@ exemplum
 proponit
 .
 
+
 Ad
 Majorem
 Dei
 gloram
 .
+
 P
+
 gitized
 by
 Google
+
 33
 .
+
 13
+
 Digitized
 by
+
 gi
+
 5
+
 SCENA
 II
 .
+
 I
+
 BSALON
 tot
 beneficiorum
@@ -2960,6 +3560,7 @@ immemor
 ,
 deliberat
 ,
+
 AAnum
 patrem
 solio
@@ -2967,6 +3568,7 @@ exturbare
 velit
 tandem
 nimia
+
 ambitione
 inflammatus
 ,
@@ -2975,19 +3577,29 @@ nesas
 decernit
 exequi
 .
+
 74
+
 CHOR
+
 41
+
 A
 "
 a
 44
+
 3
+
 2
+
 I3
+
 t
 ;
+
 am
+
 Ivina
 justitia
 ostendit
@@ -2997,32 +3609,44 @@ AmbitioDnem
 
 
 
+
 .
+
 5
 .
+
 AGTUS
 III
 .
+
 L
+
 5
 .
+
 
 SCENA
 I
 .
+
 lel
 .
 513
 ,
+
 X
+
 S
+
 frael
+
 BSALONpergit
 in
 Hebron
 ,
 ubi
 universus
+
 instigante
 Achitophele
 ad
@@ -3032,7 +3656,9 @@ contia
 DA9
 
 
+
 .
+
 VIDEM
 ,
 &
@@ -3040,26 +3666,36 @@ in
 regem
 inauguratur
 .
+
 -
 a
+
 3
 .
+
 .
 IIS
+
 3
+
 4
+
 0
 p
+
 SENA
 I2
 .
+
 BSALON
 fugientem
 ex
 urbe
 DAVIDEM
 per
+
 Fit
+
 AA
 sequitur
 ,
@@ -3070,6 +3706,7 @@ patris
 necem
 hortatur
 ,
+
 pugna
 ;
 &
@@ -3081,12 +3718,16 @@ tribus
 hastis
 à
 Joab
+
 confoditur
 .
+
 1
+
 SCENA
 IIJ
 .
+
 BAVID
 audita
 ABSALONIS
@@ -3097,13 +3738,18 @@ pluri4
 
 
 
+
+
 I
 .
+
 mum
 dolet
 .
+
 EPILOGVS
 .
+
 Ivina
 Justitia
 de
@@ -3113,7 +3759,9 @@ triumphat
 ac
 patrem
 ,
+
 e5
+
 &
 filium
 omnibus
@@ -3121,25 +3769,36 @@ in
 exemplum
 proponit
 .
+
 AA
+
 Ad
 Majorem
 Dei
 gloram
 .
+
 23
+
 gitized
 by
 Google
+
 45
+
 f2
+
 Digitized
 by
+
 gi
+
 52
+
 ISCENA
 II
 .
+
 BSALON
 tot
 beneficiorum
@@ -3147,6 +3806,7 @@ immemor
 ,
 deliberat
 ,
+
 AAnum
 patrem
 solio
@@ -3155,6 +3815,7 @@ velit
 ,
 tandem
 nimia
+
 ambitione
 inflammatus
 ,
@@ -3163,16 +3824,24 @@ nesas
 decernit
 exequi
 .
+
 4
+
 2
+
 CHOR
 
+
 b3
+
 F5
+
 4
 4
+
 2
 5
+
 
 Ivina
 justitia
@@ -3182,32 +3851,44 @@ esse
 Ambitio222
 
 
+
 4224
 .
+
 Lnem
 .
+
 11
+
 
 AGTS
 III
 .
+
 2
 5
 
+
 4
+
 SCENA
 I
 .
+
 X
 
+
 frael
+
 BSALONpergit
 in
 Hebron
 ,
 ubi
 universus
+
 DAinstigante
+
 
 
 Achitophele
@@ -3215,7 +3896,9 @@ ad
 aras
 conjurat
 contra
+
 A
+
 VIDEM
 ,
 &
@@ -3223,30 +3906,38 @@ in
 regem
 inauguratur
 .
+
 .
 -
 -
 4
+
 p
 1
 .
 CI
 .
 
+
 e
 4
+
 2
 o
+
 SENA
 II
 .
+
 IBSALON
 fugientem
 ex
 urbe
 DAVIDEM
 per
+
 Fit
+
 A
 sequitur
 ,
@@ -3257,7 +3948,9 @@ patris
 necem
 hortatur
 ,
+
 Joab
+
 pugna
 ;
 &
@@ -3268,13 +3961,18 @@ pendulus
 tribus
 hastis
 à
+
 4
+
 confoditur
 .
+
 B
+
 SCENA
 FIJ
 .
+
 DAVID
 audita
 ABSALONIS
@@ -3285,12 +3983,16 @@ pluriI
 
 
 
+
 .
+
 mum
 dolet
 .
+
 EPILOGVS
 .
+
 Ivina
 Justitia
 de
@@ -3300,8 +4002,11 @@ triumphat
 ac
 patrem
 ,
+
 2
+
 6
+
 &
 filium
 omnibus
@@ -3310,14 +4015,19 @@ exemplum
 proponit
 .
 
+
 Ad
 Majorem
 Dei
 gloram
 .
+
 5
 4
+
 gitized
 by
 Google
+
 fiu
+

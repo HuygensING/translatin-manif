@@ -4,10 +4,10 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:34:54Z
+@dateWritten=2023-12-13T13:02:58Z
 
-1-26965	token
-26966	doc
-26967-31233	line
-31234-31388	page
-31389-31754	region
+1-31223	token
+31224	doc
+31225-35491	line
+35492-35646	page
+35647-36012	region

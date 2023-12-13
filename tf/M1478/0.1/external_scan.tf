@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:35:13Z
+@dateWritten=2023-12-13T13:03:16Z
 
-316	http://anet.ua.ac.be/desktop/anet/core/index.phtml?language=&euser=&session=&service=opacua&robot=&deskservice=desktop&desktop=anet&workstation=&extra=
+398	http://anet.ua.ac.be/desktop/anet/core/index.phtml?language=&euser=&session=&service=opacua&robot=&deskservice=desktop&desktop=anet&workstation=&extra=

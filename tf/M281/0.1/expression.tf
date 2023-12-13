@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:34:56Z
+@dateWritten=2023-12-13T13:03:01Z
 
-142160	E199
+169508	E199

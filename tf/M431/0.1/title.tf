@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:35:11Z
+@dateWritten=2023-12-13T13:03:14Z
 
-13176	loots  pompeius.pdf
+15550	loots  pompeius.pdf

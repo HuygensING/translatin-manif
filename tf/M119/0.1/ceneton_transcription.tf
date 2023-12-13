@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:34:40Z
+@dateWritten=2023-12-13T13:02:46Z
 
-10488	https://www.let.leidenuniv.nl/Dutch/Ceneton/MacropediusJesus1556.html
+12250	https://www.let.leidenuniv.nl/Dutch/Ceneton/MacropediusJesus1556.html

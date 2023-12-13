@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:34:53Z
+@dateWritten=2023-12-13T13:02:57Z
 
-9787	1615-01-01
+11909	1615-01-01

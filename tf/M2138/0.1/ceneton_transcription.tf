@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-12T17:35:14Z
+@dateWritten=2023-12-13T13:03:17Z
 
-2558	https://www.let.leidenuniv.nl/Dutch/Ceneton/Molanus69Salomon.html
+2935	https://www.let.leidenuniv.nl/Dutch/Ceneton/Molanus69Salomon.html
