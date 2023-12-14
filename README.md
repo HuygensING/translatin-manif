@@ -24,6 +24,9 @@ The following employees are involved preparing the data for the project:
     *   Bram Buitendijk (text plus annotations preparation and middleware)
     *   Dirk Roorda (pre-processing with Text-fabric)
 
+    The current status of the website can be followed
+    [here](https://translatin-tav.tt.di.huc.knaw.nl/).
+
     For more details, see [team](docs/team.md).
 
 The Translatin documents are printed pages and are considered to be *manifestations* of
