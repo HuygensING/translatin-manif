@@ -68,7 +68,7 @@ There is no legal reason not to publish them, only reasons of practicality:
 
 *   we are currently preparing a publishable representation of that data, and the
     results of that are in this public repo and will be used for a public website;
-*   It is a lot of material that does not fit neatly into a git system.
+*   it is a lot of material, and it does not fit neatly into a git system.
 *   We do not process all the material, see the overview of material kinds and sizes
     below:
 

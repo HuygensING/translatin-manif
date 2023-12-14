@@ -42,7 +42,8 @@ cd ~/code.huc.knaw.nl/tt/translatin
 
 (instead of `dirkr` pass your own user name on the remote machine).
 
-You see the material pop up in 
+You see the material pop up in the public repo, but note that it ends up in
+a directory that is not tracked by git and not pushed to the online repo.
 
 ```
 ~/gitlab.huc.knaw.nl/translatin/corpus/local
@@ -68,6 +69,14 @@ You could also break this up into two steps:
 ./make.sh data
 ```
 
+You see the material pop up in the public repo, again in a directory that is not
+tracked by git and not pushed to the online repo.
+
+```
+~/gitlab.huc.knaw.nl/translatin/corpus/organized
+~/gitlab.huc.knaw.nl/translatin/corpus/meta
+```
+
 **begin 🆔**
 
 It is a good idea to put this organized data back to the source, into a separate
@@ -88,21 +97,14 @@ cd ~/code.huc.knaw.nl/tt/translatin
 ./getorganized.sh dirkr
 ```
 
-You see the material pop-up in
-
-```
-~/gitlab.huc.knaw.nl/translatin/corpus/organized
-~/gitlab.huc.knaw.nl/translatin/corpus/meta
-```
-
 **end 🆔**
 
 Back in the open, you have access to all data:
 
-*   the source data in `local`
-*   the organized data in `organized`
-*   the produced text-fabric data in `tf`
-*   the produced Text/AnnoRepo data in `watm`
+*   the source data in `local` (never pushed online)
+*   the organized data in `organized` (never pushed online)
+*   the produced text-fabric data in `tf` (will be pushed online)
+*   the produced Text/AnnoRepo data in `watm` (will be pushed online)
 
 You can also regenerate the TF and WATM data by means of the same `make.sh` script:
 
