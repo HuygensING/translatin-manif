@@ -70,7 +70,8 @@ The files in the dataset are *features*. The provide values for nodes.
 Nodes are numbers that stand for the tokens, lines, text-regions and pages in the
 document, and there is a node for the document itself.
 
-An overview of the nodes is in the file `otype.tf`. For example, manifestion `M6` has:
+An overview of the nodes is in the file `otype.tf`. For example, in manifestion `M6`
+[otype](tf/M6/0.1/otype.tf) has this content:
 
 ```
 @node
@@ -88,7 +89,7 @@ An overview of the nodes is in the file `otype.tf`. For example, manifestion `M6
 43257-43650	region
 ```
 
-And the feature `author.tf` has this content:
+And the feature [author](tf/M6/0.1/author.tf) has this content:
 
 ```
 @node
@@ -109,7 +110,7 @@ In the translatin datasets, most features are like this: they contain metadata o
 document. But there are also features that contain the raw text and logical text
 of all tokens, and the coordinates of the bounding boxes of lines.
 
-Here is the beginning of feature `h.tf` (height):
+Here is the beginning of feature [h](tf/M6/0.1/h.tf) (height):
 
 ```
 @node
@@ -137,8 +138,8 @@ It assigns height `48` to node `37466`, which is indeed the first line.
 And then it assigns height `46` to the next node, `37467`, which is indeed the
 next line, and so on.
 
-Likewise, there are features `w.tf` for width, and `x.tf` for the left-most coordinate
-of the box and `y.tf` for the top coordinate of the box.
+Likewise, there are features `w` for width, and `x` for the left-most coordinate
+of the box and `y` for the top coordinate of the box.
 
 ### Directory [app](app)
 
