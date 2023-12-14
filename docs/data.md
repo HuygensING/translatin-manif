@@ -138,8 +138,13 @@ It assigns height `48` to node `37466`, which is indeed the first line.
 And then it assigns height `46` to the next node, `37467`, which is indeed the
 next line, and so on.
 
-Likewise, there are features `w` for width, and `x` for the left-most coordinate
-of the box and `y` for the top coordinate of the box.
+Likewise, there are features
+[w](tf/M6/0.1/w.tf)
+for width, and
+[x](tf/M6/0.1/x.tf)
+for the left-most coordinate of the box and
+[y](tf/M6/0.1/y.tf)
+for the top coordinate of the box.
 
 ### Directory [app](app)
 
@@ -166,7 +171,7 @@ You can also get a local browser interface on `M6`.
 
 ```
 cd ~/gitlab.knaw.nl/translatin/corpus
-tf --relative=tf/M95
+tf --relative=tf/M6
 ```
 
 All in all, TF is a fully decomposed representation of the textual building blocks
@@ -184,7 +189,7 @@ Organized by manifestation.
 Two json files per manifestation, e.g.
 [M6](watm/0.1/M6):
 
-*   `text.json`: the list of all tokens in the text:
+*   [text.json](watm/0.1/M6/text.json): the list of all tokens in the text:
 
     ```
     ...
@@ -215,8 +220,8 @@ Two json files per manifestation, e.g.
     ...
     ```
 
-*   `anno.json`: all annotations on those tokens, which represents
-    the information of the PageXML file.
+*   [anno.json](watm/0.1/M6/anno.json): all annotations on those tokens, which
+    represents the information of the PageXML file.
 
     ```
     "a049834": [
