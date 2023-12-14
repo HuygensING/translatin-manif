@@ -31,7 +31,7 @@ into YAML format.
 The keys correspond to the column names; excessively long column names have
 been abbreviated, and the original long names are stored in the
 file
-[fields.yaml](metat/0.1/sheets/fields.yaml).
+[fields.yaml](meta/0.1/sheets/fields.yaml).
 
 No data transformation is directly based on these sheets, we keep them for reference.
 
