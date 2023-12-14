@@ -22,7 +22,7 @@
 ## Bram Buitendijk
 
 *   picks up the text+annotation files, processes them further and
-    stores them in the backend infrastructre of Team-Text: *TextRepo* and *AnnoRepo*.
+    stores them in the backend infrastructure of Team-Text: *TextRepo* and *AnnoRepo*.
 
 
 ## Dirk Roorda
@@ -34,7 +34,7 @@
     repos for translatin;
 *   has written the scripts to transport and transform the data from source to
     text+annotations, using his own
-    [Text-Fabric](https://github.com/annotation/text-fabric/tree/master)
+    [Text-Fabric](https://github.com/annotation/text-fabric)
     and Marijn Koolen's
     [pagexml tools](https://github.com/knaw-huc/pagexml);
 *   makes sure that the Text-Fabric data of Translatin can be used directly by

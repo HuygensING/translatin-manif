@@ -66,9 +66,18 @@ There is no legal reason not to publish them, only reasons of practicality:
 *   we are currently preparing a publishable representation of that data, and the
     results of that are in this public repo and will be used for a public website;
 *   It is a lot of material that does not fit neatly into a git system.
-*   The source material is 15 GB, of which we use 7 GB, which, after
-    reorganization takes up 5.3 GB, out of which we produce 0.068 GB Text-Fabric data
-    and 0.3 GB Text/AnnoRepo data.
+*   We do not process all the material, see the overview of material kinds and sizes
+    below:
+
+where | kind | size (MB)
+--- | --- | ---:
+source (everything) | zip | 15,000
+source (what we use) | zip | 6,800
+organized | all | 5,300
+organized | scans | 4,960
+organized | pagexml | 324
+text-fabric | tf | 68
+text+annotations | json | 323
 
 In [trans](docs/trans.md) we describe how to get the full data and produce a
 publishable subset of it.

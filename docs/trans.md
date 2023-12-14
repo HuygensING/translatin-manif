@@ -28,7 +28,9 @@ git clone http://code.huc.knaw.nl/tt/translatin.git
 cd translatin
 ```
 
-In the file `source.yaml` you see the machine where the source data is.
+In the file
+[source.yaml](source.yaml)
+you see the machine where the source data is.
 Ensure you have a login on that machine and that you can `ssh` into it.
 
 Now you can use the script `get.sh` to get the source data:
@@ -38,7 +40,7 @@ cd ~/code.huc.knaw.nl/tt/translatin
 ./get.sh dirkr
 ```
 
-(instead of dirkr pass your own user name on the remote machine).
+(instead of `dirkr` pass your own user name on the remote machine).
 
 You see the material pop up in 
 

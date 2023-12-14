@@ -4,7 +4,7 @@
 
 Shell script to read the postgres SQL export and deliver all tables as TSV.
 
-## [make.py](programs/make.py?ref_type=heads)
+## [make.py](programs/make.py)
 
 Python script to carry out the organizing and production of data and metadata.
 
