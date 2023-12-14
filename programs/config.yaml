@@ -10,6 +10,7 @@ langMap:
   Spanish: es
 
 metadata:
+  fieldInfo: fields.yaml
   file: metadata.xml
   otherFiles:
     - mets.xml

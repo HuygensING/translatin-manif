@@ -1,35 +1,35 @@
 W1:
   expressions:
+    E72:
+      manifestations:
+      - M395
+      - M2037
     E69:
       manifestations:
       - M371
       - M1020
       - M1899
       - M2129
-    E72:
-      manifestations:
-      - M395
-      - M2037
 W2:
   expressions:
-    E630:
-      manifestations:
-      - M921
     E78:
       manifestations:
       - M414
       - M474
       - M1363
+    E630:
+      manifestations:
+      - M921
 W3:
   expressions:
-    E96:
-      manifestations:
-      - M595
-      - M764
     E90:
       manifestations:
       - M589
       - M712
+    E96:
+      manifestations:
+      - M595
+      - M764
 W4:
   expressions:
     E91:
@@ -52,14 +52,14 @@ W5:
       - M716
 W6:
   expressions:
-    E93:
-      manifestations:
-      - M592
-      - M718
     E99:
       manifestations:
       - M598
       - M768
+    E93:
+      manifestations:
+      - M592
+      - M718
 W7:
   expressions:
     E94:
@@ -72,14 +72,14 @@ W7:
       - M769
 W8:
   expressions:
-    E95:
-      manifestations:
-      - M594
-      - M722
     E101:
       manifestations:
       - M601
       - M772
+    E95:
+      manifestations:
+      - M594
+      - M722
 W9:
   expressions:
     E106:
@@ -91,31 +91,31 @@ W9:
       - M1995
 W10:
   expressions:
+    E727:
+      manifestations:
+      - M1024
     E109:
       manifestations:
       - M1014
       - M1750
-    E727:
-      manifestations:
-      - M1024
 W11:
   expressions:
+    E1723:
+      manifestations:
+      - M2123
     E119:
       manifestations:
       - M1264
       - M1762
-    E1723:
-      manifestations:
-      - M2123
 W12:
   expressions:
-    E1191:
-      manifestations:
-      - M1534
     E133:
       manifestations:
       - M1507
       - M1533
+    E1191:
+      manifestations:
+      - M1534
 W13:
   expressions:
     E165:
@@ -126,28 +126,28 @@ W13:
       - M131
 W14:
   expressions:
-    E503:
-      manifestations:
-      - M762
     E502:
       manifestations:
       - M761
+    E503:
+      manifestations:
+      - M762
 W15:
   expressions:
-    E515:
-      manifestations:
-      - M786
     E1443:
       manifestations:
       - M1818
+    E515:
+      manifestations:
+      - M786
 W16:
   expressions:
-    E1221:
-      manifestations:
-      - M1567
     E617:
       manifestations:
       - M906
+    E1221:
+      manifestations:
+      - M1567
 W17:
   expressions:
     E843:
@@ -166,20 +166,20 @@ W18:
       - M1922
 W19:
   expressions:
-    E713:
-      manifestations:
-      - M1008
     E712:
       manifestations:
       - M1007
+    E713:
+      manifestations:
+      - M1008
 W20:
   expressions:
-    E1126:
-      manifestations:
-      - M1465
     E719:
       manifestations:
       - M1015
+    E1126:
+      manifestations:
+      - M1465
 W21:
   expressions:
     E742:
@@ -198,39 +198,39 @@ W22:
       - M2068
 W23:
   expressions:
-    E770:
-      manifestations:
-      - M1069
     E771:
       manifestations:
       - M1070
+    E770:
+      manifestations:
+      - M1069
 W24:
   expressions:
+    E879:
+      manifestations:
+      - M1189
     E1086:
       manifestations:
       - M1420
     E1005:
       manifestations:
       - M1330
-    E879:
-      manifestations:
-      - M1189
 W25:
   expressions:
-    E925:
-      manifestations:
-      - M1238
     E907:
       manifestations:
       - M1219
+    E925:
+      manifestations:
+      - M1238
 W26:
   expressions:
-    E1134:
-      manifestations:
-      - M1473
     E1135:
       manifestations:
       - M1474
+    E1134:
+      manifestations:
+      - M1473
 W27:
   expressions:
     E1136:
@@ -249,20 +249,20 @@ W28:
       - M1615
 W29:
   expressions:
-    E1269:
-      manifestations:
-      - M1618
     E1270:
       manifestations:
       - M1619
+    E1269:
+      manifestations:
+      - M1618
 W30:
   expressions:
-    E1844:
-      manifestations:
-      - M2251
     E1302:
       manifestations:
       - M1655
+    E1844:
+      manifestations:
+      - M2251
 W31:
   expressions:
     E1315:
@@ -273,12 +273,12 @@ W31:
       - M1956
 W32:
   expressions:
-    E1418:
-      manifestations:
-      - M1788
     E1417:
       manifestations:
       - M1787
+    E1418:
+      manifestations:
+      - M1788
 W33:
   expressions:
     E1430:
@@ -289,20 +289,20 @@ W33:
       - M1806
 W34:
   expressions:
-    E1442:
-      manifestations:
-      - M1817
     E1568:
       manifestations:
       - M1951
+    E1442:
+      manifestations:
+      - M1817
 W35:
   expressions:
-    E1459:
-      manifestations:
-      - M1835
     E1458:
       manifestations:
       - M1834
+    E1459:
+      manifestations:
+      - M1835
 W36:
   expressions:
     E1464:
@@ -313,20 +313,20 @@ W36:
       - M1838
 W37:
   expressions:
-    E1640:
-      manifestations:
-      - M2030
     E1485:
       manifestations:
       - M1862
+    E1640:
+      manifestations:
+      - M2030
 W38:
   expressions:
-    E1597:
-      manifestations:
-      - M1984
     E1645:
       manifestations:
       - M2035
+    E1597:
+      manifestations:
+      - M1984
 W39:
   expressions:
     E1662:

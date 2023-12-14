@@ -23,6 +23,7 @@ from tf.core.files import (
     getCwd,
     chDir,
     dirRemove,
+    fileCopy,
     getLocation,
 )
 
@@ -377,6 +378,10 @@ class Make:
     def compileMetaSheets(self):
         console("Convert Excel sheets to yaml files ...")
 
+        cfg = self.cfg
+        locations = cfg.locations
+        repoBase = locations.repoBase
+        fieldInfo = cfg.metadata.fieldInfo
         inDir = self.localMetaSheetDir
         outDir = self.repoMetaSheetDir
         initTree(outDir, fresh=False)
@@ -393,6 +398,8 @@ class Make:
             (data, columns, rows) = readSheet(name, f"{inDir}/{f}")
             writeYaml(data, asFile=f"{outDir}/{name}.yaml")
             console(f"{columns} columns, {rows} rows")
+
+        fileCopy(f"{repoBase}/{fieldInfo}", f"{outDir}/{fieldInfo}")
 
     def compileMetaTables(self):
         inDir = self.localMetaTableDir

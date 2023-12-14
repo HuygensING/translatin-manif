@@ -1299,7 +1299,7 @@ M42:
   title@la: Ovis perdita
   certainty@la: Certain
   author: Jacobus Zovitius
-  publisher: Wed. Martinus Caesar, Joannes Coccius
+  publisher: Joannes Coccius, Wed. Martinus Caesar
   place: Antwerpen, Antwerpen
   expression: E14
   work: W53
@@ -1765,7 +1765,7 @@ M57:
   title@la: Didascalus
   certainty@la: Certain
   author: Jacobus Zovitius
-  publisher: Aegidius Copenius, Antonius Dumaeus
+  publisher: Antonius Dumaeus, Aegidius Copenius
   place: Antwerpen, Antwerpen
   expression: E5
   work: W44
@@ -3101,7 +3101,7 @@ M101:
   title@la: Christus Patiens
   certainty@la: Certain
   author: Fabricius Ruremundanus
-  publisher: Joannes Steelsius, Joannes Latius
+  publisher: Joannes Latius, Joannes Steelsius
   place: Antwerpen, Antwerpen
   expression: E158
   work: W178
@@ -4902,7 +4902,7 @@ M159:
   title@la: Lazarus mendicus
   certainty@la: Certain
   author: Georgius Macropedius
-  publisher: Johannes Hofmannus, Christophorus Lochnerus
+  publisher: Christophorus Lochnerus, Johannes Hofmannus
   place: Nürnberg, Nürnberg
   expression: E16
   work: W55
@@ -7330,7 +7330,7 @@ M237:
   title@la: Voor-reden ende tusschen-spraken van Fabula comica; in commendationem
     aedificii, egenis senibus Harlemi extruendi
   certainty@la: Certain
-  author: Cornelius Schonaeus, Haarlemse rederijker
+  author: Haarlemse rederijker, Cornelius Schonaeus
   publisher: Zacharias Heyns
   place: Zwolle
   expression: E184
@@ -10579,7 +10579,7 @@ M341:
   title@la: Christus patiens
   certainty@la: Certain
   author: Hugo Grotius
-  publisher: Cornelius Leysserius, Erven Johannes Hertsroy
+  publisher: Erven Johannes Hertsroy, Cornelius Leysserius
   place: München, München
   expression: E47
   work: W86
@@ -12988,7 +12988,7 @@ M418:
   link_bll: unspecified
   title@la: Chosroes
   certainty@la: Certain
-  author: Ludovicus Cellotius, Jesuits of Paris
+  author: Jesuits of Paris, Ludovicus Cellotius
   publisher: Joannes Cnobbarus
   place: Antwerpen
   expression: E284
@@ -13206,7 +13206,7 @@ M425:
   link_bll: unspecified
   title@la: s. Adrianvs martyr
   certainty@la: Certain
-  author: Ludovicus Cellotius, Jesuits of Paris
+  author: Jesuits of Paris, Ludovicus Cellotius
   publisher: Joannes Cnobbarus
   place: Antwerpen
   expression: E291
@@ -13237,7 +13237,7 @@ M426:
   link_bll: unspecified
   title@la: Sapor Admonitvs
   certainty@la: Certain
-  author: Ludovicus Cellotius, Jesuits of Paris
+  author: Jesuits of Paris, Ludovicus Cellotius
   publisher: Joannes Cnobbarus
   place: Antwerpen
   expression: E292
@@ -16028,7 +16028,7 @@ M515:
   title@la: Christus patiens
   certainty@la: Certain
   author: Hugo Grotius
-  publisher: R. Hodgskinson, G. Emerson
+  publisher: G. Emerson, R. Hodgskinson
   place: London, London
   expression: E47
   work: W86
@@ -16059,7 +16059,7 @@ M516:
   title@la: Sophompaneas
   certainty@la: Certain
   author: Hugo Grotius
-  publisher: R. Hodgskinson, G. Emerson
+  publisher: G. Emerson, R. Hodgskinson
   place: London, London
   expression: E79
   work: W115
@@ -18309,7 +18309,7 @@ M589:
   title@nl: Adelphi
   certainty@nl: Certain
   author: Henricus Zwaerdecroon
-  publisher: Johannes Naeranus, Pieter van Waesberge (I)
+  publisher: Pieter van Waesberge (I), Johannes Naeranus
   place: Rotterdam, Rotterdam
   expression: E90
   work: W3
@@ -18340,7 +18340,7 @@ M590:
   title@nl: Andria
   certainty@nl: Certain
   author: Henricus Zwaerdecroon
-  publisher: Johannes Naeranus, Pieter van Waesberge (I)
+  publisher: Pieter van Waesberge (I), Johannes Naeranus
   place: Rotterdam, Rotterdam
   expression: E91
   work: W4
@@ -18371,7 +18371,7 @@ M591:
   title@nl: Eunuchus
   certainty@nl: Certain
   author: Henricus Zwaerdecroon
-  publisher: Johannes Naeranus, Pieter van Waesberge (I)
+  publisher: Pieter van Waesberge (I), Johannes Naeranus
   place: Rotterdam, Rotterdam
   expression: E92
   work: W5
@@ -18402,7 +18402,7 @@ M592:
   title@nl: Heautontimorumenos
   certainty@nl: Certain
   author: Henricus Zwaerdecroon
-  publisher: Johannes Naeranus, Pieter van Waesberge (I)
+  publisher: Pieter van Waesberge (I), Johannes Naeranus
   place: Rotterdam, Rotterdam
   expression: E93
   work: W6
@@ -18433,7 +18433,7 @@ M593:
   title@nl: Hecyra
   certainty@nl: Certain
   author: Henricus Zwaerdecroon
-  publisher: Johannes Naeranus, Pieter van Waesberge (I)
+  publisher: Pieter van Waesberge (I), Johannes Naeranus
   place: Rotterdam, Rotterdam
   expression: E94
   work: W7
@@ -18464,7 +18464,7 @@ M594:
   title@nl: Phormio
   certainty@nl: Certain
   author: Henricus Zwaerdecroon
-  publisher: Johannes Naeranus, Pieter van Waesberge (I)
+  publisher: Pieter van Waesberge (I), Johannes Naeranus
   place: Rotterdam, Rotterdam
   expression: E95
   work: W8
@@ -19843,7 +19843,7 @@ M640:
   title@la: Conradinus
   certainty@la: Certain
   author: Nicolaus Vernulaeus
-  publisher: Hieronymus Nempaeus, Petrus Sassenus
+  publisher: Petrus Sassenus, Hieronymus Nempaeus
   place: Leuven, Leuven
   expression: E63
   work: W102
@@ -19874,7 +19874,7 @@ M641:
   title@la: Crispus
   certainty@la: Certain
   author: Nicolaus Vernulaeus
-  publisher: Hieronymus Nempaeus, Petrus Sassenus
+  publisher: Petrus Sassenus, Hieronymus Nempaeus
   place: Leuven, Leuven
   expression: E64
   work: W103
@@ -19936,7 +19936,7 @@ M643:
   title@la: Eustachius
   certainty@la: Certain
   author: Nicolaus Vernulaeus
-  publisher: Hieronymus Nempaeus, Petrus Sassenus
+  publisher: Petrus Sassenus, Hieronymus Nempaeus
   place: Leuven, Leuven
   expression: E70
   work: W108
@@ -19967,7 +19967,7 @@ M644:
   title@la: Fritlandus
   certainty@la: Certain
   author: Nicolaus Vernulaeus
-  publisher: Hieronymus Nempaeus, Petrus Sassenus
+  publisher: Petrus Sassenus, Hieronymus Nempaeus
   place: Leuven, Leuven
   expression: E81
   work: W117
@@ -19998,7 +19998,7 @@ M645:
   title@la: Gorcomienses sive Fidei exilium
   certainty@la: Certain
   author: Nicolaus Vernulaeus
-  publisher: Hieronymus Nempaeus, Petrus Sassenus
+  publisher: Petrus Sassenus, Hieronymus Nempaeus
   place: Leuven, Leuven
   expression: E50
   work: W89
@@ -20029,7 +20029,7 @@ M646:
   title@la: Henricus Octavus seu schisma Anglicarum
   certainty@la: Certain
   author: Nicolaus Vernulaeus
-  publisher: Hieronymus Nempaeus, Petrus Sassenus
+  publisher: Petrus Sassenus, Hieronymus Nempaeus
   place: Leuven, Leuven
   expression: E61
   work: W100
@@ -20060,7 +20060,7 @@ M647:
   title@la: Hermenegildus
   certainty@la: Certain
   author: Nicolaus Vernulaeus
-  publisher: Hieronymus Nempaeus, Petrus Sassenus
+  publisher: Petrus Sassenus, Hieronymus Nempaeus
   place: Leuven, Leuven
   expression: E410
   work: W428
@@ -20091,7 +20091,7 @@ M648:
   title@la: Ioanna Darcia
   certainty@la: Certain
   author: Nicolaus Vernulaeus
-  publisher: Hieronymus Nempaeus, Petrus Sassenus
+  publisher: Petrus Sassenus, Hieronymus Nempaeus
   place: Leuven, Leuven
   expression: E71
   work: W109
@@ -20185,7 +20185,7 @@ M651:
   title@la: Lambertus
   certainty@la: Certain
   author: Nicolaus Vernulaeus
-  publisher: Hieronymus Nempaeus, Petrus Sassenus
+  publisher: Petrus Sassenus, Hieronymus Nempaeus
   place: Leuven, Leuven
   expression: E413
   work: W431
@@ -20216,7 +20216,7 @@ M652:
   title@la: Maximus
   certainty@la: Certain
   author: Nicolaus Vernulaeus
-  publisher: Hieronymus Nempaeus, Petrus Sassenus
+  publisher: Petrus Sassenus, Hieronymus Nempaeus
   place: Leuven, Leuven
   expression: E68
   work: W107
@@ -20247,7 +20247,7 @@ M653:
   title@la: Ottocarus Bohemiae rex
   certainty@la: Certain
   author: Nicolaus Vernulaeus
-  publisher: Hieronymus Nempaeus, Petrus Sassenus
+  publisher: Petrus Sassenus, Hieronymus Nempaeus
   place: Leuven, Leuven
   expression: E62
   work: W101
@@ -20278,7 +20278,7 @@ M654:
   title@la: Stanislaus
   certainty@la: Certain
   author: Nicolaus Vernulaeus
-  publisher: Hieronymus Nempaeus, Petrus Sassenus
+  publisher: Petrus Sassenus, Hieronymus Nempaeus
   place: Leuven, Leuven
   expression: E74
   work: W111
@@ -20309,7 +20309,7 @@ M655:
   title@la: Theodoricus
   certainty@la: Certain
   author: Nicolaus Vernulaeus
-  publisher: Hieronymus Nempaeus, Petrus Sassenus
+  publisher: Petrus Sassenus, Hieronymus Nempaeus
   place: Leuven, Leuven
   expression: E75
   work: W112
@@ -20340,7 +20340,7 @@ M656:
   title@la: Thomas Cantuariensis
   certainty@la: Certain
   author: Nicolaus Vernulaeus
-  publisher: Hieronymus Nempaeus, Petrus Sassenus
+  publisher: Petrus Sassenus, Hieronymus Nempaeus
   place: Leuven, Leuven
   expression: E76
   work: W113
@@ -35455,7 +35455,7 @@ M1142:
   link_bll: unspecified
   title@la: Philotas sive perfidia punita
   certainty@la: Certain
-  author: Jesuits, Franciscus Noël
+  author: Franciscus Noël, Jesuits
   publisher: unspecified
   place: unspecified
   expression: E836

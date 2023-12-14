@@ -1,0 +1,78 @@
+fields:
+  manifestation:
+    vingerafdruk: >-
+      jaar en formaat,
+      positie van de eerste en laatste signatuur van het voorwerk,
+      het hoofdwerk en het nawerk
+    katernopbouw: >-
+      formaat, dubbele punt; collatie, puntkomma; aantal pagina’s
+      (tussen [], tenzij genummerd), punt.
+      Als de collatie deel uitmaakt van een groter geheel,
+      wordt dit aangegeven met ƒ + het eerste blad-het laatste blad.
+    artesis-KC: >-
+      MTOD-TV-
+    bnf: >-
+      Bibliothèque Nationale de France, Parijs
+    bsm: >-
+      Bayerische StaatsBibliothek München
+    ehc: >-
+      Erfgoedcentrum Hendrik Conscience
+    url_ceneton_facs: >-
+      Adres op http://www.let.leidenuniv.nl/Dutch/Ceneton/Facsimiles/
+    url_ceneton: >-
+      Adres op http://www.let.leidenuniv.nl/Dutch/Ceneton/
+    dordrecht: >-
+      G.A. Dordrecht, met Diversa Sed Una
+    gbr: >-
+      GB Rotterdam
+    illustrations_internal: >-
+      Illustraties binnen de collatie.
+    illustrations_external: >-
+      Illustraties buiten de collatie.
+    eerste_vier_verzen1: >-
+      afkorting voor de personages als er een sprekerswisseling is;
+      bij proza eerste zin (ongeveer 40 woorden);
+      bij niet-dramatische teksten eerste inhoudelijke zin.
+    eerste_vier_verzen2: >-
+      afkorting voor de personages als er een sprekerswisseling is;
+      bij proza eerste zin (ongeveer 40 woorden);
+      bij niet-dramatische teksten eerste inhoudelijke zin.
+    habw: >-
+      Herzog August Bibliothek Wolffenbüttel
+    kgv: >-
+      Kortrijk GV = Fonds Goethals-Vercruysse,
+      Openbare Bibliotheek der Stad Kortrijk
+    titel_vz: >-
+      Titel van het verzamelwerk waar het toneelstuk in voorkomt
+    pbz: >-
+      Provinciale Bibliotheek Zeeland, Middelburg
+    ceneton_ppp: >-
+      Ceneton_Place_of_Printing_ or_Publication (contains errors)
+    auteur: >-
+      (Voornaam Achternaam) (naar het Oorspr. taal van Voornaam oorspr. auteur Achternaam oorspr. auteur)
+    ub_gent: >-
+      (Accroissement, Belles Lettres, Gandavensia, Heremans)
+    vijftiende_bibliotheek: >-
+      wordt alleen ingevuld als in de eerste veertien bibliotheken geen exemplaren bekend zijn
+    titel: >-
+        In dit bestand vindt u gegevens over alle edities en handschriften van
+        Nederlandse toneelstukken, die tot en met 1803 zijn geschreven of
+        gepubliceerd. U vindt titelbeschrijvingen, signaturen, gegevens over het
+        voorwerk en de inhoud. Op deze kaart vindt u van alle relevante velden
+        een voorbeeld; door naar “” te zoeken komt u hier weer terug. Als u op de
+        veldnamen “Auteur”, “Korte titel” of  “Jaar” klikt, wordt op dat veld
+        gesorteerd. Door op de veldnaam “Titel” te klikken komt u bij een
+        quasi-facsimile van de titelpagina. De overige veldnamen leiden tot een
+        bepaalde lay-out.
+
+        Linksboven staat een volgnummer: “Ceneton” en vijf cijfers. Geef dit volgnummer op bij het doorgeven van aanvullingen en verbeteringen.
+        Commentaar gaarne bij Ton Harmsen (Opleiding Nederlands, 071-5272117).
+        Probeer en leer!
+
+  printer_publisher:
+    name: >-
+      Standardized Name Printer Publisher1
+
+  author:
+    name: >-
+      Standardized Literal Name
