@@ -1,17 +1,19 @@
 import json
 
-from tf.core.files import initTree, dirContents, expanduser as ex
 from tf.core.helpers import console
+from tf.core.files import initTree, dirContents, expanduser as ex
 from tf.core.timestamp import DEEP
 from tf.parameters import OTYPE, OSLOTS
 from tf.app import use
-
 
 TT_NAME = "watm"
 
 NS_TF = "tf"
 NS_PAGEXML = "pagexml"
+NS_TEI = "tei"
 NS_NLP = "nlp"
+NS_TT = "tt"
+NS_NONE = "tf"
 
 NS_FROM_OTYPE = dict(
     doc=NS_TF,
@@ -31,12 +33,16 @@ NS_FROM_FEAT = dict(
 KIND_NODE = "node"
 KIND_EDGE = "edge"
 KIND_ELEM = "element"
+KIND_PI = "pi"
 KIND_ATTR = "attribute"
+KIND_FMT = "format"
+KIND_ANNO = "anno"
 
 
 class WATM:
-    def __init__(self, app):
+    def __init__(self, app, skipMeta=False):
         self.app = app
+        self.skipMeta = skipMeta
         api = app.api
         self.L = api.L
         self.E = api.E
@@ -46,6 +52,8 @@ class WATM:
         self.slotType = self.F.otype.slotType
         self.otypes = self.F.otype.all
         self.info = app.info
+        self.warning = app.warning
+        self.repoLocation = app.repoLocation
 
         Fall = api.Fall
         Eall = api.Eall
@@ -56,6 +64,7 @@ class WATM:
     def makeText(self):
         F = self.F
         slotType = self.slotType
+        skipMeta = self.skipMeta
 
         text = []
         tlFromTf = {}
@@ -64,6 +73,8 @@ class WATM:
         self.tlFromTf = tlFromTf
 
         for s in F.otype.s(slotType):
+            if skipMeta and F.is_meta.v(s):
+                continue
             value = F.rstr.v(s)
             if value is None:
                 value = F.str.v(s) or ''
@@ -92,7 +103,7 @@ class WATM:
             The target of the annotation.
         """
         annos = self.annos
-        aId = f"a{len(annos):>06}"
+        aId = f"a{len(annos):>08}"
         annos.append((kind, aId, ns, body, target))
         return aId
 
@@ -105,6 +116,7 @@ class WATM:
         edgeFeatures = self.edgeFeatures
         slotType = self.slotType
         otypes = self.otypes
+        skipMeta = self.skipMeta
 
         tlFromTf = self.tlFromTf
 
@@ -119,11 +131,15 @@ class WATM:
 
             for n in F.otype.s(otype):
                 if isSlot:
+                    if skipMeta and F.is_meta.v(n):
+                        continue
                     t = tlFromTf[n]
                     target = f"{t}-{t + 1}"
                     self.mkAnno(KIND_NODE, NS_TF, n, target)
                 else:
                     ws = E.oslots.s(n)
+                    if skipMeta and (F.is_meta.v(ws[0]) or F.is_meta.v(ws[-1])):
+                        continue
                     start = tlFromTf[ws[0]]
                     end = tlFromTf[ws[-1]]
                     if end < start:
@@ -150,6 +166,8 @@ class WATM:
             ns = NS_FROM_FEAT.get(feat, NS_PAGEXML)
 
             for fromNode, toNodes in Es(feat).items():
+                if skipMeta and F.is_meta.v(fromNode):
+                    continue
                 fromT = tlFromTf.get(fromNode, None)
                 if fromT is None:
                     continue
@@ -159,6 +177,8 @@ class WATM:
 
                 if type(toNodes) is dict:
                     for toNode, val in toNodes.items():
+                        if skipMeta and F.is_meta.v(toNode):
+                            continue
                         toT = tlFromTf.get(toNode, None)
                         if toT is None:
                             continue
@@ -170,11 +190,20 @@ class WATM:
                         aId = self.mkAnno(KIND_EDGE, ns, f"{feat}={val}", target)
                 else:
                     for toNode in toNodes:
+                        if skipMeta and F.is_meta.v(toNode):
+                            continue
                         toT = tlFromTf.get(toNode, None)
                         if toT is None:
                             continue
                         target = f"{fromT}->{toT}"
                         aId = self.mkAnno(KIND_EDGE, ns, feat, target)
+
+        extra = {}
+
+        for n, value in extra.items():
+            t = tlFromTf[n]
+            target = f"{t}-{t + 1}" if F.otype.v(n) == slotType else t
+            aId = self.mkAnno(KIND_ANNO, NS_TT, str(value), target)
 
         if len(wrongTargets):
             print(f"WARNING: wrong targets, {len(wrongTargets)}x")
@@ -185,31 +214,83 @@ class WATM:
 
     def writeAll(self):
         app = self.app
+        info = self.info
+        warning = self.warning
         text = self.text
         annos = self.annos
 
-        repoLocation = app.repoLocation
+        baseDir = self.repoLocation
         relative = app.context.relative
         version = app.version
         wRelative = relative.replace("/tf/", f"/{TT_NAME}/{version}/")
-        resultDir = f"{repoLocation}{wRelative}"
+        resultDir = f"{baseDir}{wRelative}"
         textFile = f"{resultDir}/text.json"
-        annoFile = f"{resultDir}/anno.json"
 
         self.textFile = textFile
-        self.annoFile = annoFile
 
         initTree(resultDir, fresh=True)
 
         with open(textFile, "w") as fh:
             json.dump(dict(_ordered_segments=text), fh, ensure_ascii=False, indent=1)
 
-        with open(annoFile, "w") as fh:
-            annoStore = {}
-            for kind, aId, ns, body, target in annos:
-                annoStore[aId] = (kind, ns, body, target)
-            json.dump(annoStore, fh, ensure_ascii=False, indent=1)
-        console(f"{len(text):>7} tokens {len(annos):>8} annos")
+        info(f"Text file: {len(text):>7} segments to {textFile}", tm=False)
+
+        annoStore = {}
+
+        for kind, aId, ns, body, target in annos:
+            annoStore[aId] = (kind, ns, body, target)
+
+        aIdSorted = sorted(annoStore.keys())
+
+        annoFile = f"{resultDir}/anno.tsv"
+
+        if False:
+            with open(annoFile, "w") as fh:
+                for aId in aIdSorted:
+                    (kind, ns, body, target) = annoStore[aId]
+                    fh.write(f"{aId}\t{kind}\t{ns}\t{body}\t{target}\n")
+
+        thisAnnoStore = {}
+        thisA = 1
+        annoFiles = []
+        self.annoFiles = annoFiles
+
+        LIMIT = 400000
+        j = 0
+        total = 0
+
+        def writeThis():
+            annoFile = f"{resultDir}/anno-{thisA:>01}.json"
+            annoFiles.append(annoFile)
+
+            with open(annoFile, "w") as fh:
+                json.dump(thisAnnoStore, fh, ensure_ascii=False, indent=1)
+
+            info(f"{j:>6} annotations written to {annoFile}")
+
+        for aId in aIdSorted:
+            if j >= LIMIT:
+                writeThis()
+                thisA += 1
+                thisAnnoStore = {}
+                total += j
+                j = 0
+
+            thisAnnoStore[aId] = annoStore[aId]
+            j += 1
+
+        if len(thisAnnoStore):
+            writeThis()
+            total += j
+
+        if len(annos) != total:
+            info(f"Sum of batches : {total:>8}", tm=False)
+            info(f"All annotations: {len(annoStore):>8}", tm=False)
+            warning("Mismatch in number of annotations", tm=False)
+        info(
+            f"Anno files: {len(annos):>7} annotations to {len(annoFiles)} files",
+            tm=False,
+        )
 
 
 class WATMS:
