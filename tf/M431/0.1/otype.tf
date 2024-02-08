@@ -4,7 +4,7 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-13T13:03:14Z
+@dateWritten=2024-02-08T13:52:05Z
 
 1-15549	token
 15550	doc

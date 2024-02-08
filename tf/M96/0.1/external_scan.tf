@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-13T13:02:46Z
+@dateWritten=2024-02-08T13:51:39Z
 
 5587	http://books.google.nl/books?id=0r5bAAAAQAAJ&printsec=frontcover&hl=nl#v=onepage&q&f=false

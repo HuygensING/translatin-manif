@@ -29,10 +29,9 @@ from tf.core.files import (
 
 # from tf.app import use
 from tf.convert.pagexml import PageXML
+from tf.convert.watm import WATMS
 
 # from tf.advanced.helpers import dm
-
-from watm import WATMS
 
 
 HELP = """Transport and transform the translatin data.
@@ -831,7 +830,7 @@ class Make:
         repo = self.repo
 
         console("Producing WATM")
-        W = WATMS(org, repo, backend)
+        W = WATMS(org, repo, backend, "pagexml")
         W.produce()
 
     def run(self, tasks):

@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-13T13:03:01Z
+@dateWritten=2024-02-08T13:51:53Z
 
 169508	http://books.google.be/books?id=sLcTAAAAQAAJ&pg=PA146&dq=patrisfamilias+surius&hl=nl&sa=X&ei=2XFtUvOQDYmO0AX3zYG4Cg&ved=0CG0Q6AEwCA#v=onepage&q=patrisfamilias%20surius&f=false
