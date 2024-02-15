@@ -5,7 +5,7 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2024-02-08T13:51:59Z
+@dateWritten=2024-02-15T15:35:27Z
 
 4	\n
 31	\n

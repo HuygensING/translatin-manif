@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2024-02-08T13:52:07Z
+@dateWritten=2024-02-15T15:35:34Z
 
 105	https://books.google.be/books?id=bPxLAAAAcAAJ&printsec=frontcover&dq=Ganda+ethnica,+catholica,+Hispanica&hl=nl&sa=X&ved=0ahUKEwjLgOvj65fTAhVrIcAKHRfTBicQ6AEIHjAA#v=onepage&q=Ganda%20ethnica%2C%20catholica%2C%20Hispanica&f=false

@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2024-02-08T13:51:59Z
+@dateWritten=2024-02-15T15:35:26Z
 
 50732	https://books.google.nl/books?id=3Wg-AAAAcAAJ&printsec=frontcover&dq=Bustum+Sodomae&hl=nl&sa=X&ved=0ahUKEwiFx8jSzorTAhViKcAKHYNAChMQ6AEIVDAI#v=onepage&q&f=false

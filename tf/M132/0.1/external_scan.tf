@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2024-02-08T13:51:41Z
+@dateWritten=2024-02-15T15:35:09Z
 
 11180	https://books.google.nl/books?id=r9RJmlyPBVkC&printsec=frontcover&hl=nl&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false

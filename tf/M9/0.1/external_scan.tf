@@ -5,6 +5,6 @@
 @project=TransLatin
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2024-02-08T13:51:34Z
+@dateWritten=2024-02-15T15:35:02Z
 
 2472	https://gallica.bnf.fr/ark:/12148/bpt6k310125q/f1.item.r=acolastus

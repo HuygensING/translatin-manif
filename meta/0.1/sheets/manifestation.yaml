@@ -15467,9 +15467,9 @@ M657:
   type_edition: Synopsis
   ceneton_printer_publisher: Jacob Mesens
   printer_publisher1: Jacob Mesens
-  kbb: 'CL 12.401 A 13 (RP)
-
-    CL 12.401 A 13 (RP) (bis)'
+  kbb: |-
+    CL 12.401 A 13 (RP)
+    CL 12.401 A 13 (RP) (bis)
   oorspr_taal: o
   ceneton_ppp: Antwerpen
   place_of_printing__or_publication1: Antwerpen
@@ -27313,11 +27313,10 @@ M2099:
   latest_date: '1773-12-31'
   vanderhaeghen: Van Aerde 196
   katernopbouw: '4°: π2'
-  diverse_bibliotheken_x000b_nypl_=_new_york_public_library: 'SA Mechelen M 5843 (a)
-
+  diverse_bibliotheken_x000b_nypl_=_new_york_public_library: |-
+    SA Mechelen M 5843 (a)
     Namur Bibl. Univ. Moretus Plantin, Litt. Lat. 12 16.762 : 17
-
-    Namur Bibl. Univ. Moretus Plantin, Litt. Lat. 12 16.762 : 18'
+    Namur Bibl. Univ. Moretus Plantin, Litt. Lat. 12 16.762 : 18
   ceneton_druk: Synopsis (gedrukt)
   edition: Synopsis (printed)
   type_edition: Synopsis
@@ -39494,17 +39493,13 @@ M5:
   printer_publisher1: Petrus Caesar
   ceneton_genre: Treurspel
   genre: Tragedy
-  eerste_vier_verzen1: 'Pro! quanta vobis forsan admiratio
-
+  eerste_vier_verzen1: |-
+    Pro! quanta vobis forsan admiratio
     Erit: quod atris angelus sit vestibus:
-
     Et qui repostus candide vestis color.
-
     Venio tonantis missus eterno polo:
-
     Ubi refulgent siderum tot lampades:
-
-    Et quo profundas respicit terras pater.'
+    Et quo profundas respicit terras pater.
   beschrijving_van_de_inhoud_van_ieder_blad.: 'A1r: titelpagina; A1r-A1v: prosopopeia
     Paschalij; A2r-F7v: het spel; F7v: aan de lezer; F8r: brief van Pachalius Zoutterus;
     F8v: drukkersvignet Petrus Caesar Gandavensis en colophon.'

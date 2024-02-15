@@ -69,6 +69,15 @@ FLAGS
 --help
     Print this help text
 
+--silent
+    To run a bit more silent
+
+ARGS
+
+tfversion
+    Any arg that contains a . is considered to be the tf version number.
+    If no version is passed, we resort to the hard coded default.
+
 TASKS
 
 meta
@@ -101,6 +110,8 @@ TASKS = set(
     watm
 """.strip().split()
 )
+
+TF_VERSION = "0.1"
 
 CONFIG_FILE = "config.yaml"
 
@@ -283,12 +294,15 @@ def readSheet(table, fileName):
 
 
 class Make:
-    def __init__(self):
+    def __init__(self, tfVersion):
+        self.tfVersion = tfVersion
+
         programsDir = dirNm(abspath(__file__))
 
         self.programsDir = programsDir
 
         self.good = True
+        self.silent = False
 
         configFile = f"{programsDir}/{CONFIG_FILE}"
         cfg = readYaml(asFile=configFile)
@@ -375,7 +389,10 @@ class Make:
         self.repoMetaSheetDir = f"{repoMetaDir}/sheets"
 
     def compileMetaSheets(self):
-        console("Convert Excel sheets to yaml files ...")
+        silent = self.silent
+
+        if not silent:
+            console("Convert Excel sheets to yaml files ...")
 
         cfg = self.cfg
         locations = cfg.locations
@@ -384,7 +401,8 @@ class Make:
         inDir = self.localMetaSheetDir
         outDir = self.repoMetaSheetDir
         initTree(outDir, fresh=False)
-        console("Reading spreadsheets ...")
+        if not silent:
+            console("Reading spreadsheets ...")
 
         EXCEL_RE = re.compile(r"""^transLatin_([a-z0-9_]+)\.xlsx$""", re.I)
 
@@ -393,14 +411,17 @@ class Make:
             if not m:
                 continue
             name = m.group(1).lower()[0:-1]
-            console(f"reading {name} ...", newline=False)
+            if not silent:
+                console(f"reading {name} ...", newline=False)
             (data, columns, rows) = readSheet(name, f"{inDir}/{f}")
             writeYaml(data, asFile=f"{outDir}/{name}.yaml")
-            console(f"{columns} columns, {rows} rows")
+            if not silent:
+                console(f"{columns} columns, {rows} rows")
 
         fileCopy(f"{repoBase}/{fieldInfo}", f"{outDir}/{fieldInfo}")
 
     def compileMetaTables(self):
+        silent = self.silent
         inDir = self.localMetaTableDir
         outDir = self.repoMetaTableDir
         initTree(outDir, fresh=False)
@@ -408,13 +429,15 @@ class Make:
         idMap = {}
         lastId = 0
 
-        console("Sanitize postgres tsv files ...")
+        if not silent:
+            console("Sanitize postgres tsv files ...")
 
         for file in sorted(dirContents(inDir)[0]):
             if not file.endswith(".tsv"):
                 continue
 
-            console(f"{file} ...", newline=False)
+            if not silent:
+                console(f"{file} ...", newline=False)
 
             outRows = []
 
@@ -453,9 +476,11 @@ class Make:
                 for row in outRows:
                     fh.write(("\t".join(row)) + "\n")
 
-            console(f" {len(outRows):>5} rows")
+            if not silent:
+                console(f" {len(outRows):>5} rows")
 
     def compileMetaUsable(self, metaSkip=False):
+        silent = self.silent
         cfg = self.cfg
         langMap = cfg.langMap
         sourceTables = cfg.metadata.sourceTables
@@ -469,16 +494,18 @@ class Make:
             self.manifestations = readYaml(asFile=inFile)
             return
 
-        console("Distil usable manifestation metadata into yaml files ...")
+        if not silent:
+            console("Distil usable manifestation metadata into yaml files ...")
 
         tables = dict(main={}, cross={}, extra={})
 
         for table in sourceTables:
             readTsv(table, f"{inDir}/{table}.tsv", tables)
 
-        for kind, tbs in tables.items():
-            for tb in tbs:
-                console(f"{kind:<10} {tb}")
+        if not silent:
+            for kind, tbs in tables.items():
+                for tb in tbs:
+                    console(f"{kind:<10} {tb}")
 
         for (table, field), data in tables["extra"].items():
             mainData = tables["main"][table]
@@ -498,8 +525,11 @@ class Make:
         if len(unknownLangs):
             self.good = False
             console(
-                "Unknown languages:\n"
-                + "".join(f"\t{lan}\n" for lan in sorted(unknownLangs))
+                (
+                    "Unknown languages:\n"
+                    + "".join(f"\t{lan}\n" for lan in sorted(unknownLangs))
+                ),
+                error=True,
             )
             return
 
@@ -603,14 +633,18 @@ class Make:
         for data, name in ((orderedW, "works"), (orderedM, "manifestations")):
             outFile = f"{outFileBase}/{name}.yaml"
             writeYaml(data, asFile=outFile)
-            console(f"Data written to {ux(outFile)}")
+            if not silent:
+                console(f"Data written to {ux(outFile)}")
 
         self.manifestations = manifestations
 
     def organizeData(self, tasks):
+        silent = self.silent
         good = self.good
+
         if not good:
-            console("Skipping 'organize data' because of an error condition")
+            if not silent:
+                console("Skipping 'organize data' because of an error condition")
             return
 
         console("Making data")
@@ -683,19 +717,24 @@ class Make:
             title = meta.get(
                 "title@la", meta.get("title@nl", meta.get("title", "no title"))
             )
-            console(f"{man:<20} {title[0:40]:<40} ... ", newline=False)
+            if not silent:
+                console(f"{man:<20} {title[0:40]:<40} ... ", newline=False)
             if self.organizeManifestation(sourceVersion, man, manInfo):
                 done += 1
             else:
                 failed += 1
 
-        console(f"Manifestations transported: {done:>4}")
-        console(f"               failed     : {failed:>4}")
+        if not silent:
+            console(f"Manifestations transported: {done:>4}")
+            console(f"               failed     : {failed:>4}")
 
     def organizeManifestation(self, version, man, manInfo):
         good = self.good
+        silent = self.silent
+
         if not good:
-            console("Skipping 'organize data' because of an error condition")
+            if not silent:
+                console("Skipping 'organize data' because of an error condition")
             return False
 
         dbMeta = manInfo["meta"]
@@ -750,7 +789,8 @@ class Make:
             dirRemove(dstTxDir)
             dirRemove(dstImDir)
             dirRemove(dstSpDir)
-            console("--   no pages")
+            if not silent:
+                console("--   no pages")
             return False
 
         chDir(curDir)
@@ -760,7 +800,8 @@ class Make:
         meta = {}
 
         if not isFile(metaPath):
-            console("?? no filemeta ... ", newline=False)
+            if not silent:
+                console("?? no filemeta ... ", newline=False)
         else:
             with open(metaPath) as fh:
                 metaText = fh.read()
@@ -770,7 +811,8 @@ class Make:
             for fld in metadataFields:
                 value = getContent(metaText, fld)
                 if value is None:
-                    console(f" (no {fld}) ", newline=False)
+                    if not silent:
+                        console(f" (no {fld}) ", newline=False, error=True)
                     good = False
                     continue
 
@@ -784,45 +826,65 @@ class Make:
             meta[k] = v or NONE
 
         writeYaml(meta, asFile=replaceExt(metaPath, "yaml"), sorted=True)
-        console(f"{kinds['page']:>4} pages")
+        if not silent:
+            console(f"{kinds['page']:>4} pages")
         return True
 
     def produceTf(self):
         good = self.good
+        silent = self.silent
+
         if not good:
-            console("Skipping 'produce TF' because of an error condition")
+            if not silent:
+                console("Skipping 'produce TF' because of an error condition")
             return
 
+        tfVersion = self.tfVersion
         cfg = self.cfg
         locations = cfg.locations
         repoBase = locations.repoBase
         sourceDir = f"{repoBase}/organized/source"
+
         console("Producing TF")
 
-        P = PageXML(sourceDir, repoBase, verbose=1, source=0, tf="0.1")
+        verbose = -1 if silent else 0
 
-        console("Converting PageXML to TF ...")
+        P = PageXML(sourceDir, repoBase, verbose=verbose, source=0, tf=tfVersion)
 
-        if not P.task(convert=True, verbose=-1):
+        if not silent:
+            console("Converting PageXML to TF ...")
+
+        if not P.task(convert=True, verbose=verbose):
             self.good = False
+            return
 
-        console("Precomputing and loading TF ...")
+        if not silent:
+            console("Precomputing and loading TF ...")
 
-        if not P.task(load=True, verbose=-1):
+        console("Loading TF")
+
+        if not P.task(load=True, verbose=verbose):
             self.good = False
+            return
 
-        console("Set up TF-app ...")
+        if not silent:
+            console("Set up TF-app ...")
 
-        if not P.task(app=True, verbose=1):
+        if not P.task(app=True, verbose=verbose):
             self.good = False
+            return
 
         if not P.good:
             self.good = False
+            return
 
     def produceWatm(self):
         good = self.good
+        silent = self.silent
+
         if not good:
-            console("Skipping 'produce WATM' because of an error condition")
+            if not silent:
+                console("Skipping 'produce WATM' because of an error condition")
             return
 
         backend = self.backend
@@ -830,10 +892,13 @@ class Make:
         repo = self.repo
 
         console("Producing WATM")
-        W = WATMS(org, repo, backend, "pagexml")
+
+        W = WATMS(org, repo, backend, "pagexml", silent=silent)
         W.produce()
 
-    def run(self, tasks):
+    def run(self, tasks, silent):
+        self.silent = silent
+
         if "meta" in tasks:
             console("Making metadata")
             self.compileMetaSheets()
@@ -860,9 +925,13 @@ def main(cargs=sys.argv[1:]):
 
     unrecognized = set()
     tasks = set()
+    silent = False
+    version = None
 
     for carg in cargs:
-        if carg == "all":
+        if carg == "--silent":
+            silent = True
+        elif carg == "all":
             for task in TASKS:
                 tasks.add(task)
         elif carg == "organize":
@@ -873,8 +942,15 @@ def main(cargs=sys.argv[1:]):
                 tasks.add(task)
         elif carg in TASKS:
             tasks.add(carg)
+        elif "." in carg:
+            version = carg
         else:
             unrecognized.add(carg)
+
+    if version is None:
+        console(f"No version for the TF data given. Using default: {TF_VERSION}")
+    else:
+        console(f"Using TF version: {version}")
 
     if len(unrecognized):
         console(HELP)
@@ -885,8 +961,8 @@ def main(cargs=sys.argv[1:]):
         console("Nothing to do")
         return 0
 
-    Mk = Make()
-    return Mk.run(tasks)
+    Mk = Make(version)
+    return Mk.run(tasks, silent)
 
 
 if __name__ == "__main__":
