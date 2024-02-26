@@ -102,14 +102,12 @@ all
     Only compile the metadata
 """
 
-TASKS = set(
-    """
+TASKS = """
     meta
     data
     tf
     watm
 """.strip().split()
-)
 
 TF_VERSION = "0.1"
 
@@ -963,6 +961,10 @@ def main(cargs=sys.argv[1:]):
 
     Mk = Make(version)
     return Mk.run(tasks, silent)
+
+
+def run(cmdLine):
+    main(cargs=cmdLine.split())
 
 
 if __name__ == "__main__":

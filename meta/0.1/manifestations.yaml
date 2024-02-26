@@ -739,7 +739,7 @@ M24:
   title@la: Joseph
   certainty@la: Certain
   author: Cornelius Crocus
-  publisher: Joannes Steelsius, Joannes Grapheus
+  publisher: Joannes Grapheus, Joannes Steelsius
   place: Antwerpen, Antwerpen
   expression: E8
   work: W47
@@ -925,7 +925,7 @@ M30:
   title@la: Joseph
   certainty@la: Certain
   author: Cornelius Crocus
-  publisher: Joannes Steelsius, Joannes Grapheus
+  publisher: Joannes Grapheus, Joannes Steelsius
   place: Antwerpen, Antwerpen
   expression: E8
   work: W47
@@ -1049,7 +1049,7 @@ M34:
   title@la: Joseph
   certainty@la: Certain
   author: Cornelius Crocus
-  publisher: Joannes Steelsius, Joannes Grapheus
+  publisher: Joannes Grapheus, Joannes Steelsius
   place: Antwerpen, Antwerpen
   expression: E8
   work: W47
@@ -1299,7 +1299,7 @@ M42:
   title@la: Ovis perdita
   certainty@la: Certain
   author: Jacobus Zovitius
-  publisher: Wed. Martinus Caesar, Joannes Coccius
+  publisher: Joannes Coccius, Wed. Martinus Caesar
   place: Antwerpen, Antwerpen
   expression: E14
   work: W53
@@ -3101,7 +3101,7 @@ M101:
   title@la: Christus Patiens
   certainty@la: Certain
   author: Fabricius Ruremundanus
-  publisher: Joannes Steelsius, Joannes Latius
+  publisher: Joannes Latius, Joannes Steelsius
   place: Antwerpen, Antwerpen
   expression: E158
   work: W178
@@ -7330,7 +7330,7 @@ M237:
   title@la: Voor-reden ende tusschen-spraken van Fabula comica; in commendationem
     aedificii, egenis senibus Harlemi extruendi
   certainty@la: Certain
-  author: Cornelius Schonaeus, Haarlemse rederijker
+  author: Haarlemse rederijker, Cornelius Schonaeus
   publisher: Zacharias Heyns
   place: Zwolle
   expression: E184
@@ -7709,7 +7709,7 @@ M249:
   title@fr: Albert, cardinal et evesque de Liège
   certainty@fr: Certain
   author: Jesuits of Brussel
-  publisher: Hubertus Antonius Velpius (I), Rutgerus Velpius
+  publisher: Rutgerus Velpius, Hubertus Antonius Velpius (I)
   place: Brussel, Brussel
   expression: E189
   work: W207
@@ -7771,7 +7771,7 @@ M251:
   title@fr: Comedie Isabelle= fille d'Andre ii. Roy d'Hongrie=
   certainty@fr: Certain
   author: Jesuits of Brussel
-  publisher: Hubertus Antonius Velpius (I), Rutgerus Velpius
+  publisher: Rutgerus Velpius, Hubertus Antonius Velpius (I)
   place: Brussel, Brussel
   expression: E190
   work: W208
@@ -12988,7 +12988,7 @@ M418:
   link_bll: unspecified
   title@la: Chosroes
   certainty@la: Certain
-  author: Jesuits of Paris, Ludovicus Cellotius
+  author: Ludovicus Cellotius, Jesuits of Paris
   publisher: Joannes Cnobbarus
   place: Antwerpen
   expression: E284
@@ -13206,7 +13206,7 @@ M425:
   link_bll: unspecified
   title@la: s. Adrianvs martyr
   certainty@la: Certain
-  author: Jesuits of Paris, Ludovicus Cellotius
+  author: Ludovicus Cellotius, Jesuits of Paris
   publisher: Joannes Cnobbarus
   place: Antwerpen
   expression: E291
@@ -13237,7 +13237,7 @@ M426:
   link_bll: unspecified
   title@la: Sapor Admonitvs
   certainty@la: Certain
-  author: Jesuits of Paris, Ludovicus Cellotius
+  author: Ludovicus Cellotius, Jesuits of Paris
   publisher: Joannes Cnobbarus
   place: Antwerpen
   expression: E292
@@ -16028,7 +16028,7 @@ M515:
   title@la: Christus patiens
   certainty@la: Certain
   author: Hugo Grotius
-  publisher: R. Hodgskinson, G. Emerson
+  publisher: G. Emerson, R. Hodgskinson
   place: London, London
   expression: E47
   work: W86
@@ -16059,7 +16059,7 @@ M516:
   title@la: Sophompaneas
   certainty@la: Certain
   author: Hugo Grotius
-  publisher: R. Hodgskinson, G. Emerson
+  publisher: G. Emerson, R. Hodgskinson
   place: London, London
   expression: E79
   work: W115
@@ -17565,8 +17565,8 @@ M565:
   title@la: Ananias
   certainty@la: Certain
   author: Cornelius Schonaeus
-  publisher: Henricus Laurentius, Guilielmus vander Hoeve
-  place: Amsterdam, Gouda
+  publisher: Guilielmus vander Hoeve, Henricus Laurentius
+  place: Gouda, Amsterdam
   expression: E41
   work: W80
 M566:
@@ -17596,8 +17596,8 @@ M566:
   title@la: Baptistes
   certainty@la: Certain
   author: Cornelius Schonaeus
-  publisher: Henricus Laurentius, Guilielmus vander Hoeve
-  place: Amsterdam, Gouda
+  publisher: Guilielmus vander Hoeve, Henricus Laurentius
+  place: Gouda, Amsterdam
   expression: E44
   work: W83
 M567:
@@ -17627,8 +17627,8 @@ M567:
   title@la: Cunae
   certainty@la: Certain
   author: Cornelius Schonaeus
-  publisher: Henricus Laurentius, Guilielmus vander Hoeve
-  place: Amsterdam, Gouda
+  publisher: Guilielmus vander Hoeve, Henricus Laurentius
+  place: Gouda, Amsterdam
   expression: E36
   work: W75
 M568:
@@ -17658,8 +17658,8 @@ M568:
   title@la: Daniel
   certainty@la: Certain
   author: Cornelius Schonaeus
-  publisher: Henricus Laurentius, Guilielmus vander Hoeve
-  place: Amsterdam, Gouda
+  publisher: Guilielmus vander Hoeve, Henricus Laurentius
+  place: Gouda, Amsterdam
   expression: E35
   work: W74
 M569:
@@ -17689,8 +17689,8 @@ M569:
   title@la: Dyscoli
   certainty@la: Certain
   author: Cornelius Schonaeus
-  publisher: Henricus Laurentius, Guilielmus vander Hoeve
-  place: Amsterdam, Gouda
+  publisher: Guilielmus vander Hoeve, Henricus Laurentius
+  place: Gouda, Amsterdam
   expression: E45
   work: W84
 M570:
@@ -17720,8 +17720,8 @@ M570:
   title@la: Iosephus
   certainty@la: Certain
   author: Cornelius Schonaeus
-  publisher: Henricus Laurentius, Guilielmus vander Hoeve
-  place: Amsterdam, Gouda
+  publisher: Guilielmus vander Hoeve, Henricus Laurentius
+  place: Gouda, Amsterdam
   expression: E31
   work: W70
 M571:
@@ -17751,8 +17751,8 @@ M571:
   title@la: Iuditha
   certainty@la: Certain
   author: Cornelius Schonaeus
-  publisher: Henricus Laurentius, Guilielmus vander Hoeve
-  place: Amsterdam, Gouda
+  publisher: Guilielmus vander Hoeve, Henricus Laurentius
+  place: Gouda, Amsterdam
   expression: E32
   work: W71
 M572:
@@ -17782,8 +17782,8 @@ M572:
   title@la: Naaman
   certainty@la: Certain
   author: Cornelius Schonaeus
-  publisher: Henricus Laurentius, Guilielmus vander Hoeve
-  place: Amsterdam, Gouda
+  publisher: Guilielmus vander Hoeve, Henricus Laurentius
+  place: Gouda, Amsterdam
   expression: E26
   work: W65
 M573:
@@ -17813,8 +17813,8 @@ M573:
   title@la: Nehemias
   certainty@la: Certain
   author: Cornelius Schonaeus
-  publisher: Henricus Laurentius, Guilielmus vander Hoeve
-  place: Amsterdam, Gouda
+  publisher: Guilielmus vander Hoeve, Henricus Laurentius
+  place: Gouda, Amsterdam
   expression: E23
   work: W62
 M574:
@@ -17844,8 +17844,8 @@ M574:
   title@la: Pentecoste
   certainty@la: Certain
   author: Cornelius Schonaeus
-  publisher: Henricus Laurentius, Guilielmus vander Hoeve
-  place: Amsterdam, Gouda
+  publisher: Guilielmus vander Hoeve, Henricus Laurentius
+  place: Gouda, Amsterdam
   expression: E42
   work: W81
 M575:
@@ -17875,8 +17875,8 @@ M575:
   title@la: Pseudostratiotae
   certainty@la: Certain
   author: Cornelius Schonaeus
-  publisher: Henricus Laurentius, Guilielmus vander Hoeve
-  place: Amsterdam, Gouda
+  publisher: Guilielmus vander Hoeve, Henricus Laurentius
+  place: Gouda, Amsterdam
   expression: E33
   work: W72
 M576:
@@ -17906,8 +17906,8 @@ M576:
   title@la: Saulus
   certainty@la: Certain
   author: Cornelius Schonaeus
-  publisher: Henricus Laurentius, Guilielmus vander Hoeve
-  place: Amsterdam, Gouda
+  publisher: Guilielmus vander Hoeve, Henricus Laurentius
+  place: Gouda, Amsterdam
   expression: E34
   work: W73
 M577:
@@ -17937,8 +17937,8 @@ M577:
   title@la: Susanna
   certainty@la: Certain
   author: Cornelius Schonaeus
-  publisher: Henricus Laurentius, Guilielmus vander Hoeve
-  place: Amsterdam, Gouda
+  publisher: Guilielmus vander Hoeve, Henricus Laurentius
+  place: Gouda, Amsterdam
   expression: E37
   work: W76
 M578:
@@ -17968,8 +17968,8 @@ M578:
   title@la: Tobaeus
   certainty@la: Certain
   author: Cornelius Schonaeus
-  publisher: Henricus Laurentius, Guilielmus vander Hoeve
-  place: Amsterdam, Gouda
+  publisher: Guilielmus vander Hoeve, Henricus Laurentius
+  place: Gouda, Amsterdam
   expression: E25
   work: W64
 M579:
@@ -17999,8 +17999,8 @@ M579:
   title@la: Triumphus Christi
   certainty@la: Certain
   author: Cornelius Schonaeus
-  publisher: Henricus Laurentius, Guilielmus vander Hoeve
-  place: Amsterdam, Gouda
+  publisher: Guilielmus vander Hoeve, Henricus Laurentius
+  place: Gouda, Amsterdam
   expression: E38
   work: W77
 M580:
@@ -18030,8 +18030,8 @@ M580:
   title@la: Typhlus
   certainty@la: Certain
   author: Cornelius Schonaeus
-  publisher: Henricus Laurentius, Guilielmus vander Hoeve
-  place: Amsterdam, Gouda
+  publisher: Guilielmus vander Hoeve, Henricus Laurentius
+  place: Gouda, Amsterdam
   expression: E43
   work: W82
 M581:
@@ -18061,8 +18061,8 @@ M581:
   title@la: Vitulus
   certainty@la: Certain
   author: Cornelius Schonaeus
-  publisher: Henricus Laurentius, Guilielmus vander Hoeve
-  place: Amsterdam, Gouda
+  publisher: Guilielmus vander Hoeve, Henricus Laurentius
+  place: Gouda, Amsterdam
   expression: E39
   work: W78
 M582:
@@ -18309,7 +18309,7 @@ M589:
   title@nl: Adelphi
   certainty@nl: Certain
   author: Henricus Zwaerdecroon
-  publisher: Pieter van Waesberge (I), Johannes Naeranus
+  publisher: Johannes Naeranus, Pieter van Waesberge (I)
   place: Rotterdam, Rotterdam
   expression: E90
   work: W3
@@ -18340,7 +18340,7 @@ M590:
   title@nl: Andria
   certainty@nl: Certain
   author: Henricus Zwaerdecroon
-  publisher: Pieter van Waesberge (I), Johannes Naeranus
+  publisher: Johannes Naeranus, Pieter van Waesberge (I)
   place: Rotterdam, Rotterdam
   expression: E91
   work: W4
@@ -18371,7 +18371,7 @@ M591:
   title@nl: Eunuchus
   certainty@nl: Certain
   author: Henricus Zwaerdecroon
-  publisher: Pieter van Waesberge (I), Johannes Naeranus
+  publisher: Johannes Naeranus, Pieter van Waesberge (I)
   place: Rotterdam, Rotterdam
   expression: E92
   work: W5
@@ -18402,7 +18402,7 @@ M592:
   title@nl: Heautontimorumenos
   certainty@nl: Certain
   author: Henricus Zwaerdecroon
-  publisher: Pieter van Waesberge (I), Johannes Naeranus
+  publisher: Johannes Naeranus, Pieter van Waesberge (I)
   place: Rotterdam, Rotterdam
   expression: E93
   work: W6
@@ -18433,7 +18433,7 @@ M593:
   title@nl: Hecyra
   certainty@nl: Certain
   author: Henricus Zwaerdecroon
-  publisher: Pieter van Waesberge (I), Johannes Naeranus
+  publisher: Johannes Naeranus, Pieter van Waesberge (I)
   place: Rotterdam, Rotterdam
   expression: E94
   work: W7
@@ -18464,7 +18464,7 @@ M594:
   title@nl: Phormio
   certainty@nl: Certain
   author: Henricus Zwaerdecroon
-  publisher: Pieter van Waesberge (I), Johannes Naeranus
+  publisher: Johannes Naeranus, Pieter van Waesberge (I)
   place: Rotterdam, Rotterdam
   expression: E95
   work: W8
@@ -20967,7 +20967,7 @@ M676:
     souverains de Boheme
   certainty@fr: Certain
   author: Jesuits of Lille
-  publisher: Ignace de Rache, Nicolas de Rache
+  publisher: Nicolas de Rache, Ignace de Rache
   place: Lille, Lille
   expression: E433
   work: W451
@@ -26844,8 +26844,8 @@ M865:
     vande Scholen der eerw: PP. vande Societeyt Jesu binnen Brugge.'
   certainty@nl: Certain
   author: Jesuits of Brugge
-  publisher: Petrus van Pee, Wed. Alexander Michiels
-  place: unspecified, Brugge
+  publisher: Wed. Alexander Michiels, Petrus van Pee
+  place: Brugge, unspecified
   expression: E577
   work: W592
 M866:
@@ -26878,8 +26878,8 @@ M866:
     Processie gheviert binnen Brugghe op den 3. van Mey 1686.
   certainty@nl: Certain
   author: Jesuits of Brugge
-  publisher: Petrus van Pee, Wed. Alexander Michiels
-  place: unspecified, Brugge
+  publisher: Wed. Alexander Michiels, Petrus van Pee
+  place: Brugge, unspecified
   expression: E578
   work: W593
 M867:
@@ -31733,7 +31733,7 @@ M1020:
   title@la: Phoenissae
   certainty@la: Certain
   author: Hugo Grotius
-  publisher: Smith, Walford
+  publisher: Walford, Smith
   place: London, London
   expression: E69
   work: W1
@@ -35455,7 +35455,7 @@ M1142:
   link_bll: unspecified
   title@la: Philotas sive perfidia punita
   certainty@la: Certain
-  author: Franciscus Noël, Jesuits
+  author: Jesuits, Franciscus Noël
   publisher: unspecified
   place: unspecified
   expression: E836
@@ -39045,7 +39045,7 @@ M1257:
   title@la: Revolutio imperii Sinarum ad Tartoros facta circa 1644
   certainty@la: Certain
   author: Oratorians of Ronse
-  publisher: Dominicus van der Ween, Franciscus-Hieronymus
+  publisher: Franciscus-Hieronymus, Dominicus van der Ween
   place: Gent, Gent
   expression: E943
   work: W942
@@ -66026,7 +66026,7 @@ M2129:
   title@la: Phoenissae
   certainty@la: Certain
   author: Hugo Grotius
-  publisher: Samuel Luchtmans, Joannes Luchtmans
+  publisher: Joannes Luchtmans, Samuel Luchtmans
   place: Leiden, Leiden
   expression: E69
   work: W1
