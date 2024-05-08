@@ -4902,7 +4902,7 @@ M159:
   title@la: Lazarus mendicus
   certainty@la: Certain
   author: Georgius Macropedius
-  publisher: Johannes Hofmannus, Christophorus Lochnerus
+  publisher: Christophorus Lochnerus, Johannes Hofmannus
   place: Nürnberg, Nürnberg
   expression: E16
   work: W55
@@ -7330,7 +7330,7 @@ M237:
   title@la: Voor-reden ende tusschen-spraken van Fabula comica; in commendationem
     aedificii, egenis senibus Harlemi extruendi
   certainty@la: Certain
-  author: Haarlemse rederijker, Cornelius Schonaeus
+  author: Cornelius Schonaeus, Haarlemse rederijker
   publisher: Zacharias Heyns
   place: Zwolle
   expression: E184
@@ -10233,7 +10233,7 @@ M330:
   link_bll: unspecified
   title@la: Absalon
   certainty@la: Certain
-  author: Jesuits of Gent, Jacobus Cornelius Lummenaeus a Marca
+  author: Jacobus Cornelius Lummenaeus a Marca, Jesuits of Gent
   publisher: Jan vanden Kerchove
   place: Gent
   expression: E234
@@ -10579,7 +10579,7 @@ M341:
   title@la: Christus patiens
   certainty@la: Certain
   author: Hugo Grotius
-  publisher: Cornelius Leysserius, Erven Johannes Hertsroy
+  publisher: Erven Johannes Hertsroy, Cornelius Leysserius
   place: München, München
   expression: E47
   work: W86
@@ -10861,8 +10861,8 @@ M350:
   title@la: Ananias
   certainty@la: Certain
   author: Cornelius Schonaeus
-  publisher: Henricus Laurentius, Petrus Iansonius Campensis
-  place: Amsterdam, Hoorn
+  publisher: Petrus Iansonius Campensis, Henricus Laurentius
+  place: Hoorn, Amsterdam
   expression: E41
   work: W80
 M351:
@@ -10923,8 +10923,8 @@ M352:
   title@la: Daniel
   certainty@la: Certain
   author: Cornelius Schonaeus
-  publisher: Henricus Laurentius, Petrus Iansonius Campensis
-  place: Amsterdam, Hoorn
+  publisher: Petrus Iansonius Campensis, Henricus Laurentius
+  place: Hoorn, Amsterdam
   expression: E35
   work: W74
 M353:
@@ -11078,8 +11078,8 @@ M357:
   title@la: Pentecoste
   certainty@la: Certain
   author: Cornelius Schonaeus
-  publisher: Henricus Laurentius, Petrus Iansonius Campensis
-  place: Amsterdam, Hoorn
+  publisher: Petrus Iansonius Campensis, Henricus Laurentius
+  place: Hoorn, Amsterdam
   expression: E42
   work: W81
 M358:
@@ -11202,8 +11202,8 @@ M361:
   title@la: Susanna
   certainty@la: Certain
   author: Cornelius Schonaeus
-  publisher: Henricus Laurentius, Petrus Iansonius Campensis
-  place: Amsterdam, Hoorn
+  publisher: Petrus Iansonius Campensis, Henricus Laurentius
+  place: Hoorn, Amsterdam
   expression: E37
   work: W76
 M362:
@@ -11233,8 +11233,8 @@ M362:
   title@la: Triumphus Christi
   certainty@la: Certain
   author: Cornelius Schonaeus
-  publisher: Henricus Laurentius, Petrus Iansonius Campensis
-  place: Amsterdam, Hoorn
+  publisher: Petrus Iansonius Campensis, Henricus Laurentius
+  place: Hoorn, Amsterdam
   expression: E38
   work: W77
 M363:
@@ -11264,8 +11264,8 @@ M363:
   title@la: Typhlus
   certainty@la: Certain
   author: Cornelius Schonaeus
-  publisher: Henricus Laurentius, Petrus Iansonius Campensis
-  place: Amsterdam, Hoorn
+  publisher: Petrus Iansonius Campensis, Henricus Laurentius
+  place: Hoorn, Amsterdam
   expression: E43
   work: W82
 M364:
@@ -12174,8 +12174,8 @@ M392:
   title@nl: Daniel in de kuyl der leeuwen
   certainty@nl: Certain
   author: Augustinians of Gent
-  publisher: Dominicus van der Ween, Franciscus van der Ween
-  place: unspecified, Gent
+  publisher: Franciscus van der Ween, Dominicus van der Ween
+  place: Gent, unspecified
   expression: E266
   work: W284
 M393:
@@ -15842,7 +15842,7 @@ M509:
   title@la: Susanna
   certainty@la: Certain
   author: Cornelius Schonaeus
-  publisher: Henricus Laurentius, Arnoldus Benier
+  publisher: Arnoldus Benier, Henricus Laurentius
   place: Kampen, Kampen
   expression: E37
   work: W76
@@ -18309,7 +18309,7 @@ M589:
   title@nl: Adelphi
   certainty@nl: Certain
   author: Henricus Zwaerdecroon
-  publisher: Johannes Naeranus, Pieter van Waesberge (I)
+  publisher: Pieter van Waesberge (I), Johannes Naeranus
   place: Rotterdam, Rotterdam
   expression: E90
   work: W3
@@ -18340,7 +18340,7 @@ M590:
   title@nl: Andria
   certainty@nl: Certain
   author: Henricus Zwaerdecroon
-  publisher: Johannes Naeranus, Pieter van Waesberge (I)
+  publisher: Pieter van Waesberge (I), Johannes Naeranus
   place: Rotterdam, Rotterdam
   expression: E91
   work: W4
@@ -18371,7 +18371,7 @@ M591:
   title@nl: Eunuchus
   certainty@nl: Certain
   author: Henricus Zwaerdecroon
-  publisher: Johannes Naeranus, Pieter van Waesberge (I)
+  publisher: Pieter van Waesberge (I), Johannes Naeranus
   place: Rotterdam, Rotterdam
   expression: E92
   work: W5
@@ -18402,7 +18402,7 @@ M592:
   title@nl: Heautontimorumenos
   certainty@nl: Certain
   author: Henricus Zwaerdecroon
-  publisher: Johannes Naeranus, Pieter van Waesberge (I)
+  publisher: Pieter van Waesberge (I), Johannes Naeranus
   place: Rotterdam, Rotterdam
   expression: E93
   work: W6
@@ -18433,7 +18433,7 @@ M593:
   title@nl: Hecyra
   certainty@nl: Certain
   author: Henricus Zwaerdecroon
-  publisher: Johannes Naeranus, Pieter van Waesberge (I)
+  publisher: Pieter van Waesberge (I), Johannes Naeranus
   place: Rotterdam, Rotterdam
   expression: E94
   work: W7
@@ -18464,7 +18464,7 @@ M594:
   title@nl: Phormio
   certainty@nl: Certain
   author: Henricus Zwaerdecroon
-  publisher: Johannes Naeranus, Pieter van Waesberge (I)
+  publisher: Pieter van Waesberge (I), Johannes Naeranus
   place: Rotterdam, Rotterdam
   expression: E95
   work: W8
@@ -20967,7 +20967,7 @@ M676:
     souverains de Boheme
   certainty@fr: Certain
   author: Jesuits of Lille
-  publisher: Nicolas de Rache, Ignace de Rache
+  publisher: Ignace de Rache, Nicolas de Rache
   place: Lille, Lille
   expression: E433
   work: W451
@@ -26027,8 +26027,8 @@ M839:
   title@la: Christus patiens
   certainty@la: Certain
   author: Hugo Grotius
-  publisher: Joannes Caspar Bencard, Joannes Federle
-  place: unspecified, Dillingen
+  publisher: Joannes Federle, Joannes Caspar Bencard
+  place: Dillingen, unspecified
   expression: E47
   work: W86
 M840:
@@ -26590,7 +26590,7 @@ M857:
   link_bll: unspecified
   title@la: Absalon rebellis in patrem
   certainty@la: Certain
-  author: Jesuits of Gent, Jacobus Cornelius Lummenaeus a Marca
+  author: Jacobus Cornelius Lummenaeus a Marca, Jesuits of Gent
   publisher: Wed. Baudouin Manilius
   place: Gent
   expression: E570
@@ -34517,7 +34517,7 @@ M1112:
   title@la: Subacta impietas, sive Clodoaldus
   certainty@la: Certain
   author: Augustinians of Gent
-  publisher: Dominicus van der Ween, Franciscus van der Ween
+  publisher: Franciscus van der Ween, Dominicus van der Ween
   place: Gent, Gent
   expression: E807
   work: W810
@@ -34548,7 +34548,7 @@ M1113:
   title@la: Avaritia
   certainty@la: Certain
   author: Augustinians of Gent
-  publisher: Dominicus van der Ween, Franciscus van der Ween
+  publisher: Franciscus van der Ween, Dominicus van der Ween
   place: Gent, Gent
   expression: E808
   work: W811
@@ -35145,7 +35145,7 @@ M1132:
   title@la: Eugenius triumphans
   certainty@la: Certain
   author: Augustinians of Gent
-  publisher: Dominicus van der Ween, Franciscus van der Ween
+  publisher: Franciscus van der Ween, Dominicus van der Ween
   place: Gent, Gent
   expression: E826
   work: W829
@@ -35455,7 +35455,7 @@ M1142:
   link_bll: unspecified
   title@la: Philotas sive perfidia punita
   certainty@la: Certain
-  author: Jesuits, Franciscus Noël
+  author: Franciscus Noël, Jesuits
   publisher: unspecified
   place: unspecified
   expression: E836
@@ -36330,7 +36330,7 @@ M1170:
   title@la: Daniel in lacu leonum
   certainty@la: Certain
   author: Augustinians of Gent
-  publisher: Dominicus van der Ween, Franciscus van der Ween
+  publisher: Franciscus van der Ween, Dominicus van der Ween
   place: Gent, Gent
   expression: E861
   work: W863
@@ -37519,7 +37519,7 @@ M1208:
   title@la: Athanasius inter varias calamitates
   certainty@la: Certain
   author: Augustinians of Gent
-  publisher: Dominicus van der Ween, Franciscus van der Ween
+  publisher: Franciscus van der Ween, Dominicus van der Ween
   place: Gent, Gent
   expression: E896
   work: W897
@@ -38921,7 +38921,7 @@ M1253:
   title@nl: Ontrauwige arglistigheyt verandert in zegenpralende loosheyt
   certainty@nl: Uncertain
   author: Augustinians of Gent
-  publisher: Dominicus van der Ween, Franciscus van der Ween
+  publisher: Franciscus van der Ween, Dominicus van der Ween
   place: Gent, Gent
   expression: E939
   work: W938
@@ -39231,7 +39231,7 @@ M1263:
   title@la: Stratagema perfidiae
   certainty@la: Certain
   author: Augustinians of Gent
-  publisher: Dominicus van der Ween, Franciscus van der Ween
+  publisher: Franciscus van der Ween, Dominicus van der Ween
   place: Gent, Gent
   expression: E948
   work: W947
@@ -55439,7 +55439,7 @@ M1786:
   title@nl: Abraham vermaent tot den slacht-offer
   certainty@nl: Certain
   author: Jesuits of Gent
-  publisher: Petrus Franciscus de Goesin (II), Wed. Petrus Franciscus de Goesin (I)
+  publisher: Wed. Petrus Franciscus de Goesin (I), Petrus Franciscus de Goesin (II)
   place: Gent, Gent
   expression: E1416
   work: W1400
@@ -55939,7 +55939,7 @@ M1802:
   title@la: Jonathas
   certainty@la: Certain
   author: Jesuits of Gent
-  publisher: Petrus Franciscus de Goesin (II), Wed. Petrus Franciscus de Goesin (I)
+  publisher: Wed. Petrus Franciscus de Goesin (I), Petrus Franciscus de Goesin (II)
   place: Gent, Gent
   expression: E1430
   work: W33
@@ -56066,7 +56066,7 @@ M1806:
   title@nl: Jonathas
   certainty@nl: Certain
   author: Jesuits of Gent
-  publisher: Petrus Franciscus de Goesin (II), Wed. Petrus Franciscus de Goesin (I)
+  publisher: Wed. Petrus Franciscus de Goesin (I), Petrus Franciscus de Goesin (II)
   place: Gent, Gent
   expression: E1432
   work: W33
@@ -56097,7 +56097,7 @@ M1807:
   title@la: Michael et Linus
   certainty@la: Certain
   author: Jesuits of Gent
-  publisher: Petrus Franciscus de Goesin (II), Wed. Petrus Franciscus de Goesin (I)
+  publisher: Wed. Petrus Franciscus de Goesin (I), Petrus Franciscus de Goesin (II)
   place: Gent, Gent
   expression: E1433
   work: W1413
@@ -56440,7 +56440,7 @@ M1818:
   title@nl: Eustachius
   certainty@nl: Uncertain
   author: Jesuits of Gent
-  publisher: Petrus Franciscus de Goesin (II), Wed. Petrus Franciscus de Goesin (I)
+  publisher: Wed. Petrus Franciscus de Goesin (I), Petrus Franciscus de Goesin (II)
   place: Gent, Gent
   expression: E1443
   work: W15
@@ -56472,7 +56472,7 @@ M1819:
   title@nl: Jephtias
   certainty@nl: Certain
   author: Jesuits of Gent
-  publisher: Petrus Franciscus de Goesin (II), Wed. Petrus Franciscus de Goesin (I)
+  publisher: Wed. Petrus Franciscus de Goesin (I), Petrus Franciscus de Goesin (II)
   place: Gent, Gent
   expression: E1444
   work: W1422
@@ -56534,7 +56534,7 @@ M1821:
   title@la: Laurentius animi virtute vincens
   certainty@la: Certain
   author: Oratorians of Ronse
-  publisher: Petrus Franciscus de Goesin (II), Wed. Petrus Franciscus de Goesin (I)
+  publisher: Wed. Petrus Franciscus de Goesin (I), Petrus Franciscus de Goesin (II)
   place: Gent, Gent
   expression: E1446
   work: W1424
@@ -56628,7 +56628,7 @@ M1824:
   title@la: 'Agatha et tres ejus filii: Joannes, Michael, Ignatius'
   certainty@la: Certain
   author: Jesuits of Gent
-  publisher: Petrus Franciscus de Goesin (II), Wed. Petrus Franciscus de Goesin (I)
+  publisher: Wed. Petrus Franciscus de Goesin (I), Petrus Franciscus de Goesin (II)
   place: Gent, Gent
   expression: E1449
   work: W1427
@@ -56721,7 +56721,7 @@ M1827:
   title@la: Heliodorus
   certainty@la: Certain
   author: Jesuits of Gent
-  publisher: Petrus Franciscus de Goesin (II), Wed. Petrus Franciscus de Goesin (I)
+  publisher: Wed. Petrus Franciscus de Goesin (I), Petrus Franciscus de Goesin (II)
   place: Gent, Gent
   expression: E1452
   work: W1430
@@ -56814,7 +56814,7 @@ M1830:
   title@la: Prusias
   certainty@la: Certain
   author: Jesuits of Gent
-  publisher: Petrus Franciscus de Goesin (II), Wed. Petrus Franciscus de Goesin (I)
+  publisher: Wed. Petrus Franciscus de Goesin (I), Petrus Franciscus de Goesin (II)
   place: Gent, Gent
   expression: E1455
   work: W1433
@@ -56909,7 +56909,7 @@ M1834:
   title@nl: Titus ende Domitianus
   certainty@nl: Certain
   author: Jesuits of Gent
-  publisher: Petrus Franciscus de Goesin (II), Wed. Petrus Franciscus de Goesin (I)
+  publisher: Wed. Petrus Franciscus de Goesin (I), Petrus Franciscus de Goesin (II)
   place: Gent, Gent
   expression: E1458
   work: W35
@@ -56941,7 +56941,7 @@ M1835:
   title@la: Titus et Domitianus
   certainty@la: Certain
   author: Jesuits of Gent
-  publisher: Petrus Franciscus de Goesin (II), Wed. Petrus Franciscus de Goesin (I)
+  publisher: Wed. Petrus Franciscus de Goesin (I), Petrus Franciscus de Goesin (II)
   place: Gent, Gent
   expression: E1459
   work: W35
@@ -57066,7 +57066,7 @@ M1839:
   title@la: Avari comoedia
   certainty@la: Certain
   author: Jesuits of Gent
-  publisher: Petrus Franciscus de Goesin (II), Wed. Petrus Franciscus de Goesin (I)
+  publisher: Wed. Petrus Franciscus de Goesin (I), Petrus Franciscus de Goesin (II)
   place: Gent, Gent
   expression: E1463
   work: W1438
@@ -57159,7 +57159,7 @@ M1842:
   title@la: Danaus
   certainty@la: Certain
   author: Jesuits of Gent
-  publisher: Petrus Franciscus de Goesin (II), Wed. Petrus Franciscus de Goesin (I)
+  publisher: Wed. Petrus Franciscus de Goesin (I), Petrus Franciscus de Goesin (II)
   place: Gent, Gent
   expression: E1466
   work: W1440
@@ -57190,7 +57190,7 @@ M1843:
   title@la: Dardannus
   certainty@la: Certain
   author: Jesuits of Gent
-  publisher: Petrus Franciscus de Goesin (II), Wed. Petrus Franciscus de Goesin (I)
+  publisher: Wed. Petrus Franciscus de Goesin (I), Petrus Franciscus de Goesin (II)
   place: Gent, Gent
   expression: E1467
   work: W1441
@@ -57221,7 +57221,7 @@ M1844:
   title@la: Divina misericordia in Absalone
   certainty@la: Certain
   author: Jesuits of Gent
-  publisher: Petrus Franciscus de Goesin (II), Wed. Petrus Franciscus de Goesin (I)
+  publisher: Wed. Petrus Franciscus de Goesin (I), Petrus Franciscus de Goesin (II)
   place: Gent, Gent
   expression: E1468
   work: W1442
@@ -57346,7 +57346,7 @@ M1848:
   title@la: Judicium Manlianum
   certainty@la: Certain
   author: Jesuits of Gent
-  publisher: Petrus Franciscus de Goesin (II), Wed. Petrus Franciscus de Goesin (I)
+  publisher: Wed. Petrus Franciscus de Goesin (I), Petrus Franciscus de Goesin (II)
   place: Gent, Gent
   expression: E1471
   work: W1445
@@ -57439,7 +57439,7 @@ M1851:
   title@la: Pseudolus
   certainty@la: Certain
   author: Jesuits of Gent
-  publisher: Petrus Franciscus de Goesin (II), Wed. Petrus Franciscus de Goesin (I)
+  publisher: Wed. Petrus Franciscus de Goesin (I), Petrus Franciscus de Goesin (II)
   place: Gent, Gent
   expression: E1474
   work: W1448
@@ -57470,7 +57470,7 @@ M1852:
   title@la: Stephana conversus
   certainty@la: Certain
   author: Jesuits of Gent
-  publisher: Petrus Franciscus de Goesin (II), Wed. Petrus Franciscus de Goesin (I)
+  publisher: Wed. Petrus Franciscus de Goesin (I), Petrus Franciscus de Goesin (II)
   place: Gent, Gent
   expression: E1475
   work: W1449
@@ -57596,7 +57596,7 @@ M1856:
   title@la: Amor filii Dei in genus humanum in Mesae filio adumbratus
   certainty@la: Certain
   author: Jesuits of Gent
-  publisher: Petrus Franciscus de Goesin (II), Wed. Petrus Franciscus de Goesin (I)
+  publisher: Wed. Petrus Franciscus de Goesin (I), Petrus Franciscus de Goesin (II)
   place: Gent, Gent
   expression: E1479
   work: W1453
@@ -57658,7 +57658,7 @@ M1858:
   title@la: Infida regni societas sub Caracalla et Geta imperatoribus
   certainty@la: Certain
   author: Jesuits of Gent
-  publisher: Petrus Franciscus de Goesin (II), Wed. Petrus Franciscus de Goesin (I)
+  publisher: Wed. Petrus Franciscus de Goesin (I), Petrus Franciscus de Goesin (II)
   place: Gent, Gent
   expression: E1481
   work: W1455
@@ -57689,7 +57689,7 @@ M1859:
   title@la: Mithridates
   certainty@la: Certain
   author: Jesuits of Gent
-  publisher: Petrus Franciscus de Goesin (II), Wed. Petrus Franciscus de Goesin (I)
+  publisher: Wed. Petrus Franciscus de Goesin (I), Petrus Franciscus de Goesin (II)
   place: Gent, Gent
   expression: E1482
   work: W1456
@@ -57721,7 +57721,7 @@ M1860:
   title@la: Nobilis imaginarius
   certainty@la: Certain
   author: Jesuits of Gent
-  publisher: Petrus Franciscus de Goesin (II), Wed. Petrus Franciscus de Goesin (I)
+  publisher: Wed. Petrus Franciscus de Goesin (I), Petrus Franciscus de Goesin (II)
   place: Gent, Gent
   expression: E1483
   work: W1457
@@ -57907,7 +57907,7 @@ M1866:
   title@la: Baltassar
   certainty@la: Certain
   author: Jesuits of Gent
-  publisher: Petrus Franciscus de Goesin (II), Wed. Petrus Franciscus de Goesin (I)
+  publisher: Wed. Petrus Franciscus de Goesin (I), Petrus Franciscus de Goesin (II)
   place: Gent, Gent
   expression: E1488
   work: W1461
@@ -62542,8 +62542,8 @@ M2014:
   title@la: Inopia et Copia Samariae sub rege Joram
   certainty@la: Certain
   author: Oratorians of Ronse
-  publisher: Petrus Franciscus de Goesin (II), Wed. Petrus Franciscus de Goesin (I)
-  place: unspecified, Gent
+  publisher: Wed. Petrus Franciscus de Goesin (I), Petrus Franciscus de Goesin (II)
+  place: Gent, unspecified
   expression: E1624
   work: W1591
 M2015:
@@ -66026,7 +66026,7 @@ M2129:
   title@la: Phoenissae
   certainty@la: Certain
   author: Hugo Grotius
-  publisher: Joannes Luchtmans, Samuel Luchtmans
+  publisher: Samuel Luchtmans, Joannes Luchtmans
   place: Leiden, Leiden
   expression: E69
   work: W1
@@ -67265,7 +67265,7 @@ M2169:
   link_bll: unspecified
   title@la: Dives epulo
   certainty@la: Certain
-  author: Jesuits of Gent, Jacobus Cornelius Lummenaeus a Marca
+  author: Jacobus Cornelius Lummenaeus a Marca, Jesuits of Gent
   publisher: unspecified
   place: unspecified
   expression: E1763

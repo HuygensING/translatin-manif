@@ -1,0 +1,6776 @@
+{
+ "a00000000": [
+  "element",
+  "tf",
+  "doc",
+  "0:0-479"
+ ],
+ "a00000001": [
+  "element",
+  "tf",
+  "page",
+  "0:0-68"
+ ],
+ "a00000002": [
+  "element",
+  "tf",
+  "page",
+  "0:68-247"
+ ],
+ "a00000003": [
+  "element",
+  "tf",
+  "page",
+  "0:247-372"
+ ],
+ "a00000004": [
+  "element",
+  "tf",
+  "page",
+  "0:372-479"
+ ],
+ "a00000005": [
+  "element",
+  "pagexml",
+  "region",
+  "0:0-68"
+ ],
+ "a00000006": [
+  "element",
+  "pagexml",
+  "region",
+  "0:68-223"
+ ],
+ "a00000007": [
+  "element",
+  "pagexml",
+  "region",
+  "0:223-247"
+ ],
+ "a00000008": [
+  "element",
+  "pagexml",
+  "region",
+  "0:247-372"
+ ],
+ "a00000009": [
+  "element",
+  "pagexml",
+  "region",
+  "0:372-374"
+ ],
+ "a00000010": [
+  "element",
+  "pagexml",
+  "region",
+  "0:374-479"
+ ],
+ "a00000011": [
+  "element",
+  "pagexml",
+  "line",
+  "0:0-2"
+ ],
+ "a00000012": [
+  "element",
+  "pagexml",
+  "line",
+  "0:2-8"
+ ],
+ "a00000013": [
+  "element",
+  "pagexml",
+  "line",
+  "0:8-10"
+ ],
+ "a00000014": [
+  "element",
+  "pagexml",
+  "line",
+  "0:10-13"
+ ],
+ "a00000015": [
+  "element",
+  "pagexml",
+  "line",
+  "0:13-17"
+ ],
+ "a00000016": [
+  "element",
+  "pagexml",
+  "line",
+  "0:17-19"
+ ],
+ "a00000017": [
+  "element",
+  "pagexml",
+  "line",
+  "0:19-24"
+ ],
+ "a00000018": [
+  "element",
+  "pagexml",
+  "line",
+  "0:24-28"
+ ],
+ "a00000019": [
+  "element",
+  "pagexml",
+  "line",
+  "0:28-31"
+ ],
+ "a00000020": [
+  "element",
+  "pagexml",
+  "line",
+  "0:31-33"
+ ],
+ "a00000021": [
+  "element",
+  "pagexml",
+  "line",
+  "0:33-35"
+ ],
+ "a00000022": [
+  "element",
+  "pagexml",
+  "line",
+  "0:35-42"
+ ],
+ "a00000023": [
+  "element",
+  "pagexml",
+  "line",
+  "0:42-44"
+ ],
+ "a00000024": [
+  "element",
+  "pagexml",
+  "line",
+  "0:44-47"
+ ],
+ "a00000025": [
+  "element",
+  "pagexml",
+  "line",
+  "0:47-49"
+ ],
+ "a00000026": [
+  "element",
+  "pagexml",
+  "line",
+  "0:49-51"
+ ],
+ "a00000027": [
+  "element",
+  "pagexml",
+  "line",
+  "0:51"
+ ],
+ "a00000028": [
+  "element",
+  "pagexml",
+  "line",
+  "0:52-54"
+ ],
+ "a00000029": [
+  "element",
+  "pagexml",
+  "line",
+  "0:54-56"
+ ],
+ "a00000030": [
+  "element",
+  "pagexml",
+  "line",
+  "0:56"
+ ],
+ "a00000031": [
+  "element",
+  "pagexml",
+  "line",
+  "0:57-60"
+ ],
+ "a00000032": [
+  "element",
+  "pagexml",
+  "line",
+  "0:60-62"
+ ],
+ "a00000033": [
+  "element",
+  "pagexml",
+  "line",
+  "0:62-64"
+ ],
+ "a00000034": [
+  "element",
+  "pagexml",
+  "line",
+  "0:64-67"
+ ],
+ "a00000035": [
+  "element",
+  "pagexml",
+  "line",
+  "0:67"
+ ],
+ "a00000036": [
+  "element",
+  "pagexml",
+  "line",
+  "0:68-70"
+ ],
+ "a00000037": [
+  "element",
+  "pagexml",
+  "line",
+  "0:70-73"
+ ],
+ "a00000038": [
+  "element",
+  "pagexml",
+  "line",
+  "0:73-79"
+ ],
+ "a00000039": [
+  "element",
+  "pagexml",
+  "line",
+  "0:79"
+ ],
+ "a00000040": [
+  "element",
+  "pagexml",
+  "line",
+  "0:80-86"
+ ],
+ "a00000041": [
+  "element",
+  "pagexml",
+  "line",
+  "0:86-95"
+ ],
+ "a00000042": [
+  "element",
+  "pagexml",
+  "line",
+  "0:95-102"
+ ],
+ "a00000043": [
+  "element",
+  "pagexml",
+  "line",
+  "0:102-108"
+ ],
+ "a00000044": [
+  "element",
+  "pagexml",
+  "line",
+  "0:108-114"
+ ],
+ "a00000045": [
+  "element",
+  "pagexml",
+  "line",
+  "0:114-123"
+ ],
+ "a00000046": [
+  "element",
+  "pagexml",
+  "line",
+  "0:123-130"
+ ],
+ "a00000047": [
+  "element",
+  "pagexml",
+  "line",
+  "0:130-138"
+ ],
+ "a00000048": [
+  "element",
+  "pagexml",
+  "line",
+  "0:138-146"
+ ],
+ "a00000049": [
+  "element",
+  "pagexml",
+  "line",
+  "0:146-154"
+ ],
+ "a00000050": [
+  "element",
+  "pagexml",
+  "line",
+  "0:154-163"
+ ],
+ "a00000051": [
+  "element",
+  "pagexml",
+  "line",
+  "0:163-173"
+ ],
+ "a00000052": [
+  "element",
+  "pagexml",
+  "line",
+  "0:173-182"
+ ],
+ "a00000053": [
+  "element",
+  "pagexml",
+  "line",
+  "0:182-192"
+ ],
+ "a00000054": [
+  "element",
+  "pagexml",
+  "line",
+  "0:192-196"
+ ],
+ "a00000055": [
+  "element",
+  "pagexml",
+  "line",
+  "0:196-198"
+ ],
+ "a00000056": [
+  "element",
+  "pagexml",
+  "line",
+  "0:198-200"
+ ],
+ "a00000057": [
+  "element",
+  "pagexml",
+  "line",
+  "0:200-202"
+ ],
+ "a00000058": [
+  "element",
+  "pagexml",
+  "line",
+  "0:202-204"
+ ],
+ "a00000059": [
+  "element",
+  "pagexml",
+  "line",
+  "0:204-206"
+ ],
+ "a00000060": [
+  "element",
+  "pagexml",
+  "line",
+  "0:206-208"
+ ],
+ "a00000061": [
+  "element",
+  "pagexml",
+  "line",
+  "0:208-217"
+ ],
+ "a00000062": [
+  "element",
+  "pagexml",
+  "line",
+  "0:217-223"
+ ],
+ "a00000063": [
+  "element",
+  "pagexml",
+  "line",
+  "0:223-225"
+ ],
+ "a00000064": [
+  "element",
+  "pagexml",
+  "line",
+  "0:225-227"
+ ],
+ "a00000065": [
+  "element",
+  "pagexml",
+  "line",
+  "0:227-230"
+ ],
+ "a00000066": [
+  "element",
+  "pagexml",
+  "line",
+  "0:230-232"
+ ],
+ "a00000067": [
+  "element",
+  "pagexml",
+  "line",
+  "0:232-234"
+ ],
+ "a00000068": [
+  "element",
+  "pagexml",
+  "line",
+  "0:234-236"
+ ],
+ "a00000069": [
+  "element",
+  "pagexml",
+  "line",
+  "0:236-238"
+ ],
+ "a00000070": [
+  "element",
+  "pagexml",
+  "line",
+  "0:238-240"
+ ],
+ "a00000071": [
+  "element",
+  "pagexml",
+  "line",
+  "0:240-243"
+ ],
+ "a00000072": [
+  "element",
+  "pagexml",
+  "line",
+  "0:243-245"
+ ],
+ "a00000073": [
+  "element",
+  "pagexml",
+  "line",
+  "0:245-247"
+ ],
+ "a00000074": [
+  "element",
+  "pagexml",
+  "line",
+  "0:247-249"
+ ],
+ "a00000075": [
+  "element",
+  "pagexml",
+  "line",
+  "0:249-251"
+ ],
+ "a00000076": [
+  "element",
+  "pagexml",
+  "line",
+  "0:251-258"
+ ],
+ "a00000077": [
+  "element",
+  "pagexml",
+  "line",
+  "0:258-262"
+ ],
+ "a00000078": [
+  "element",
+  "pagexml",
+  "line",
+  "0:262-273"
+ ],
+ "a00000079": [
+  "element",
+  "pagexml",
+  "line",
+  "0:273-276"
+ ],
+ "a00000080": [
+  "element",
+  "pagexml",
+  "line",
+  "0:276-280"
+ ],
+ "a00000081": [
+  "element",
+  "pagexml",
+  "line",
+  "0:280-290"
+ ],
+ "a00000082": [
+  "element",
+  "pagexml",
+  "line",
+  "0:290-298"
+ ],
+ "a00000083": [
+  "element",
+  "pagexml",
+  "line",
+  "0:298-302"
+ ],
+ "a00000084": [
+  "element",
+  "pagexml",
+  "line",
+  "0:302-308"
+ ],
+ "a00000085": [
+  "element",
+  "pagexml",
+  "line",
+  "0:308-312"
+ ],
+ "a00000086": [
+  "element",
+  "pagexml",
+  "line",
+  "0:312-316"
+ ],
+ "a00000087": [
+  "element",
+  "pagexml",
+  "line",
+  "0:316-323"
+ ],
+ "a00000088": [
+  "element",
+  "pagexml",
+  "line",
+  "0:323-332"
+ ],
+ "a00000089": [
+  "element",
+  "pagexml",
+  "line",
+  "0:332-339"
+ ],
+ "a00000090": [
+  "element",
+  "pagexml",
+  "line",
+  "0:339-343"
+ ],
+ "a00000091": [
+  "element",
+  "pagexml",
+  "line",
+  "0:343-348"
+ ],
+ "a00000092": [
+  "element",
+  "pagexml",
+  "line",
+  "0:348-350"
+ ],
+ "a00000093": [
+  "element",
+  "pagexml",
+  "line",
+  "0:350-353"
+ ],
+ "a00000094": [
+  "element",
+  "pagexml",
+  "line",
+  "0:353-357"
+ ],
+ "a00000095": [
+  "element",
+  "pagexml",
+  "line",
+  "0:357-363"
+ ],
+ "a00000096": [
+  "element",
+  "pagexml",
+  "line",
+  "0:363-367"
+ ],
+ "a00000097": [
+  "element",
+  "pagexml",
+  "line",
+  "0:367-372"
+ ],
+ "a00000098": [
+  "element",
+  "pagexml",
+  "line",
+  "0:372-374"
+ ],
+ "a00000099": [
+  "element",
+  "pagexml",
+  "line",
+  "0:374-376"
+ ],
+ "a00000100": [
+  "element",
+  "pagexml",
+  "line",
+  "0:376-378"
+ ],
+ "a00000101": [
+  "element",
+  "pagexml",
+  "line",
+  "0:378-381"
+ ],
+ "a00000102": [
+  "element",
+  "pagexml",
+  "line",
+  "0:381-391"
+ ],
+ "a00000103": [
+  "element",
+  "pagexml",
+  "line",
+  "0:391-400"
+ ],
+ "a00000104": [
+  "element",
+  "pagexml",
+  "line",
+  "0:400-404"
+ ],
+ "a00000105": [
+  "element",
+  "pagexml",
+  "line",
+  "0:404-408"
+ ],
+ "a00000106": [
+  "element",
+  "pagexml",
+  "line",
+  "0:408-413"
+ ],
+ "a00000107": [
+  "element",
+  "pagexml",
+  "line",
+  "0:413-415"
+ ],
+ "a00000108": [
+  "element",
+  "pagexml",
+  "line",
+  "0:415-419"
+ ],
+ "a00000109": [
+  "element",
+  "pagexml",
+  "line",
+  "0:419-427"
+ ],
+ "a00000110": [
+  "element",
+  "pagexml",
+  "line",
+  "0:427-433"
+ ],
+ "a00000111": [
+  "element",
+  "pagexml",
+  "line",
+  "0:433-437"
+ ],
+ "a00000112": [
+  "element",
+  "pagexml",
+  "line",
+  "0:437-444"
+ ],
+ "a00000113": [
+  "element",
+  "pagexml",
+  "line",
+  "0:444-448"
+ ],
+ "a00000114": [
+  "element",
+  "pagexml",
+  "line",
+  "0:448-458"
+ ],
+ "a00000115": [
+  "element",
+  "pagexml",
+  "line",
+  "0:458-462"
+ ],
+ "a00000116": [
+  "element",
+  "pagexml",
+  "line",
+  "0:462-469"
+ ],
+ "a00000117": [
+  "element",
+  "pagexml",
+  "line",
+  "0:469-472"
+ ],
+ "a00000118": [
+  "element",
+  "pagexml",
+  "line",
+  "0:472-475"
+ ],
+ "a00000119": [
+  "element",
+  "pagexml",
+  "line",
+  "0:475-479"
+ ],
+ "a00000120": [
+  "attribute",
+  "pagexml",
+  "author=Jesuits of Antwerpen",
+  "a00000000"
+ ],
+ "a00000121": [
+  "attribute",
+  "pagexml",
+  "ceneton_scan=unspecified",
+  "a00000000"
+ ],
+ "a00000122": [
+  "attribute",
+  "pagexml",
+  "ceneton_transcription=unspecified",
+  "a00000000"
+ ],
+ "a00000123": [
+  "attribute",
+  "pagexml",
+  "certainty=unspecified",
+  "a00000000"
+ ],
+ "a00000124": [
+  "attribute",
+  "pagexml",
+  "certainty@es=unspecified",
+  "a00000000"
+ ],
+ "a00000125": [
+  "attribute",
+  "pagexml",
+  "certainty@fr=unspecified",
+  "a00000000"
+ ],
+ "a00000126": [
+  "attribute",
+  "pagexml",
+  "certainty@la=Certain",
+  "a00000000"
+ ],
+ "a00000127": [
+  "attribute",
+  "pagexml",
+  "certainty@nl=unspecified",
+  "a00000000"
+ ],
+ "a00000128": [
+  "attribute",
+  "pagexml",
+  "colId=13484",
+  "a00000000"
+ ],
+ "a00000129": [
+  "attribute",
+  "tf",
+  "doc=M478",
+  "a00000000"
+ ],
+ "a00000130": [
+  "attribute",
+  "pagexml",
+  "docId=325084",
+  "a00000000"
+ ],
+ "a00000131": [
+  "attribute",
+  "pagexml",
+  "earliest=1639-01-01",
+  "a00000000"
+ ],
+ "a00000132": [
+  "attribute",
+  "pagexml",
+  "expression=E332",
+  "a00000000"
+ ],
+ "a00000133": [
+  "attribute",
+  "pagexml",
+  "external_scan=unspecified",
+  "a00000000"
+ ],
+ "a00000134": [
+  "attribute",
+  "pagexml",
+  "external_transcription=f",
+  "a00000000"
+ ],
+ "a00000135": [
+  "attribute",
+  "pagexml",
+  "form=Synopsis",
+  "a00000000"
+ ],
+ "a00000136": [
+  "attribute",
+  "pagexml",
+  "form_type=Synopsis",
+  "a00000000"
+ ],
+ "a00000137": [
+  "attribute",
+  "pagexml",
+  "genre=unspecified",
+  "a00000000"
+ ],
+ "a00000138": [
+  "attribute",
+  "pagexml",
+  "h=185",
+  "a00000011"
+ ],
+ "a00000139": [
+  "attribute",
+  "pagexml",
+  "h=156",
+  "a00000012"
+ ],
+ "a00000140": [
+  "attribute",
+  "pagexml",
+  "h=281",
+  "a00000013"
+ ],
+ "a00000141": [
+  "attribute",
+  "pagexml",
+  "h=235",
+  "a00000014"
+ ],
+ "a00000142": [
+  "attribute",
+  "pagexml",
+  "h=234",
+  "a00000015"
+ ],
+ "a00000143": [
+  "attribute",
+  "pagexml",
+  "h=136",
+  "a00000016"
+ ],
+ "a00000144": [
+  "attribute",
+  "pagexml",
+  "h=181",
+  "a00000017"
+ ],
+ "a00000145": [
+  "attribute",
+  "pagexml",
+  "h=169",
+  "a00000018"
+ ],
+ "a00000146": [
+  "attribute",
+  "pagexml",
+  "h=213",
+  "a00000019"
+ ],
+ "a00000147": [
+  "attribute",
+  "pagexml",
+  "h=131",
+  "a00000020"
+ ],
+ "a00000148": [
+  "attribute",
+  "pagexml",
+  "h=106",
+  "a00000021"
+ ],
+ "a00000149": [
+  "attribute",
+  "pagexml",
+  "h=192",
+  "a00000022"
+ ],
+ "a00000150": [
+  "attribute",
+  "pagexml",
+  "h=153",
+  "a00000023"
+ ],
+ "a00000151": [
+  "attribute",
+  "pagexml",
+  "h=137",
+  "a00000024"
+ ],
+ "a00000152": [
+  "attribute",
+  "pagexml",
+  "h=102",
+  "a00000025"
+ ],
+ "a00000153": [
+  "attribute",
+  "pagexml",
+  "h=128",
+  "a00000026"
+ ],
+ "a00000154": [
+  "attribute",
+  "pagexml",
+  "h=271",
+  "a00000027"
+ ],
+ "a00000155": [
+  "attribute",
+  "pagexml",
+  "h=119",
+  "a00000028"
+ ],
+ "a00000156": [
+  "attribute",
+  "pagexml",
+  "h=211",
+  "a00000029"
+ ],
+ "a00000157": [
+  "attribute",
+  "pagexml",
+  "h=142",
+  "a00000030"
+ ],
+ "a00000158": [
+  "attribute",
+  "pagexml",
+  "h=108",
+  "a00000031"
+ ],
+ "a00000159": [
+  "attribute",
+  "pagexml",
+  "h=152",
+  "a00000032"
+ ],
+ "a00000160": [
+  "attribute",
+  "pagexml",
+  "h=123",
+  "a00000033"
+ ],
+ "a00000161": [
+  "attribute",
+  "pagexml",
+  "h=229",
+  "a00000034"
+ ],
+ "a00000162": [
+  "attribute",
+  "pagexml",
+  "h=162",
+  "a00000035"
+ ],
+ "a00000163": [
+  "attribute",
+  "pagexml",
+  "h=152",
+  "a00000036"
+ ],
+ "a00000164": [
+  "attribute",
+  "pagexml",
+  "h=260",
+  "a00000037"
+ ],
+ "a00000165": [
+  "attribute",
+  "pagexml",
+  "h=291",
+  "a00000038"
+ ],
+ "a00000166": [
+  "attribute",
+  "pagexml",
+  "h=243",
+  "a00000039"
+ ],
+ "a00000167": [
+  "attribute",
+  "pagexml",
+  "h=250",
+  "a00000040"
+ ],
+ "a00000168": [
+  "attribute",
+  "pagexml",
+  "h=240",
+  "a00000041"
+ ],
+ "a00000169": [
+  "attribute",
+  "pagexml",
+  "h=264",
+  "a00000042"
+ ],
+ "a00000170": [
+  "attribute",
+  "pagexml",
+  "h=255",
+  "a00000043"
+ ],
+ "a00000171": [
+  "attribute",
+  "pagexml",
+  "h=242",
+  "a00000044"
+ ],
+ "a00000172": [
+  "attribute",
+  "pagexml",
+  "h=193",
+  "a00000045"
+ ],
+ "a00000173": [
+  "attribute",
+  "pagexml",
+  "h=211",
+  "a00000046"
+ ],
+ "a00000174": [
+  "attribute",
+  "pagexml",
+  "h=225",
+  "a00000047"
+ ],
+ "a00000175": [
+  "attribute",
+  "pagexml",
+  "h=197",
+  "a00000048"
+ ],
+ "a00000176": [
+  "attribute",
+  "pagexml",
+  "h=165",
+  "a00000049"
+ ],
+ "a00000177": [
+  "attribute",
+  "pagexml",
+  "h=224",
+  "a00000050"
+ ],
+ "a00000178": [
+  "attribute",
+  "pagexml",
+  "h=170",
+  "a00000051"
+ ],
+ "a00000179": [
+  "attribute",
+  "pagexml",
+  "h=167",
+  "a00000052"
+ ],
+ "a00000180": [
+  "attribute",
+  "pagexml",
+  "h=143",
+  "a00000053"
+ ],
+ "a00000181": [
+  "attribute",
+  "pagexml",
+  "h=174",
+  "a00000054"
+ ],
+ "a00000182": [
+  "attribute",
+  "pagexml",
+  "h=142",
+  "a00000055"
+ ],
+ "a00000183": [
+  "attribute",
+  "pagexml",
+  "h=159",
+  "a00000056"
+ ],
+ "a00000184": [
+  "attribute",
+  "pagexml",
+  "h=138",
+  "a00000057"
+ ],
+ "a00000185": [
+  "attribute",
+  "pagexml",
+  "h=109",
+  "a00000058"
+ ],
+ "a00000186": [
+  "attribute",
+  "pagexml",
+  "h=164",
+  "a00000059"
+ ],
+ "a00000187": [
+  "attribute",
+  "pagexml",
+  "h=99",
+  "a00000060"
+ ],
+ "a00000188": [
+  "attribute",
+  "pagexml",
+  "h=176",
+  "a00000061"
+ ],
+ "a00000189": [
+  "attribute",
+  "pagexml",
+  "h=160",
+  "a00000062"
+ ],
+ "a00000190": [
+  "attribute",
+  "pagexml",
+  "h=124",
+  "a00000063"
+ ],
+ "a00000191": [
+  "attribute",
+  "pagexml",
+  "h=124",
+  "a00000064"
+ ],
+ "a00000192": [
+  "attribute",
+  "pagexml",
+  "h=160",
+  "a00000065"
+ ],
+ "a00000193": [
+  "attribute",
+  "pagexml",
+  "h=133",
+  "a00000066"
+ ],
+ "a00000194": [
+  "attribute",
+  "pagexml",
+  "h=109",
+  "a00000067"
+ ],
+ "a00000195": [
+  "attribute",
+  "pagexml",
+  "h=138",
+  "a00000068"
+ ],
+ "a00000196": [
+  "attribute",
+  "pagexml",
+  "h=110",
+  "a00000069"
+ ],
+ "a00000197": [
+  "attribute",
+  "pagexml",
+  "h=146",
+  "a00000070"
+ ],
+ "a00000198": [
+  "attribute",
+  "pagexml",
+  "h=119",
+  "a00000071"
+ ],
+ "a00000199": [
+  "attribute",
+  "pagexml",
+  "h=96",
+  "a00000072"
+ ],
+ "a00000200": [
+  "attribute",
+  "pagexml",
+  "h=144",
+  "a00000073"
+ ],
+ "a00000201": [
+  "attribute",
+  "pagexml",
+  "h=186",
+  "a00000074"
+ ],
+ "a00000202": [
+  "attribute",
+  "pagexml",
+  "h=242",
+  "a00000075"
+ ],
+ "a00000203": [
+  "attribute",
+  "pagexml",
+  "h=252",
+  "a00000076"
+ ],
+ "a00000204": [
+  "attribute",
+  "pagexml",
+  "h=179",
+  "a00000077"
+ ],
+ "a00000205": [
+  "attribute",
+  "pagexml",
+  "h=214",
+  "a00000078"
+ ],
+ "a00000206": [
+  "attribute",
+  "pagexml",
+  "h=149",
+  "a00000079"
+ ],
+ "a00000207": [
+  "attribute",
+  "pagexml",
+  "h=162",
+  "a00000080"
+ ],
+ "a00000208": [
+  "attribute",
+  "pagexml",
+  "h=175",
+  "a00000081"
+ ],
+ "a00000209": [
+  "attribute",
+  "pagexml",
+  "h=164",
+  "a00000082"
+ ],
+ "a00000210": [
+  "attribute",
+  "pagexml",
+  "h=157",
+  "a00000083"
+ ],
+ "a00000211": [
+  "attribute",
+  "pagexml",
+  "h=159",
+  "a00000084"
+ ],
+ "a00000212": [
+  "attribute",
+  "pagexml",
+  "h=201",
+  "a00000085"
+ ],
+ "a00000213": [
+  "attribute",
+  "pagexml",
+  "h=165",
+  "a00000086"
+ ],
+ "a00000214": [
+  "attribute",
+  "pagexml",
+  "h=188",
+  "a00000087"
+ ],
+ "a00000215": [
+  "attribute",
+  "pagexml",
+  "h=124",
+  "a00000088"
+ ],
+ "a00000216": [
+  "attribute",
+  "pagexml",
+  "h=140",
+  "a00000089"
+ ],
+ "a00000217": [
+  "attribute",
+  "pagexml",
+  "h=147",
+  "a00000090"
+ ],
+ "a00000218": [
+  "attribute",
+  "pagexml",
+  "h=176",
+  "a00000091"
+ ],
+ "a00000219": [
+  "attribute",
+  "pagexml",
+  "h=114",
+  "a00000092"
+ ],
+ "a00000220": [
+  "attribute",
+  "pagexml",
+  "h=121",
+  "a00000093"
+ ],
+ "a00000221": [
+  "attribute",
+  "pagexml",
+  "h=164",
+  "a00000094"
+ ],
+ "a00000222": [
+  "attribute",
+  "pagexml",
+  "h=189",
+  "a00000095"
+ ],
+ "a00000223": [
+  "attribute",
+  "pagexml",
+  "h=175",
+  "a00000096"
+ ],
+ "a00000224": [
+  "attribute",
+  "pagexml",
+  "h=159",
+  "a00000097"
+ ],
+ "a00000225": [
+  "attribute",
+  "pagexml",
+  "h=257",
+  "a00000098"
+ ],
+ "a00000226": [
+  "attribute",
+  "pagexml",
+  "h=124",
+  "a00000099"
+ ],
+ "a00000227": [
+  "attribute",
+  "pagexml",
+  "h=214",
+  "a00000100"
+ ],
+ "a00000228": [
+  "attribute",
+  "pagexml",
+  "h=254",
+  "a00000101"
+ ],
+ "a00000229": [
+  "attribute",
+  "pagexml",
+  "h=338",
+  "a00000102"
+ ],
+ "a00000230": [
+  "attribute",
+  "pagexml",
+  "h=172",
+  "a00000103"
+ ],
+ "a00000231": [
+  "attribute",
+  "pagexml",
+  "h=201",
+  "a00000104"
+ ],
+ "a00000232": [
+  "attribute",
+  "pagexml",
+  "h=134",
+  "a00000105"
+ ],
+ "a00000233": [
+  "attribute",
+  "pagexml",
+  "h=139",
+  "a00000106"
+ ],
+ "a00000234": [
+  "attribute",
+  "pagexml",
+  "h=56",
+  "a00000107"
+ ],
+ "a00000235": [
+  "attribute",
+  "pagexml",
+  "h=166",
+  "a00000108"
+ ],
+ "a00000236": [
+  "attribute",
+  "pagexml",
+  "h=222",
+  "a00000109"
+ ],
+ "a00000237": [
+  "attribute",
+  "pagexml",
+  "h=162",
+  "a00000110"
+ ],
+ "a00000238": [
+  "attribute",
+  "pagexml",
+  "h=166",
+  "a00000111"
+ ],
+ "a00000239": [
+  "attribute",
+  "pagexml",
+  "h=175",
+  "a00000112"
+ ],
+ "a00000240": [
+  "attribute",
+  "pagexml",
+  "h=177",
+  "a00000113"
+ ],
+ "a00000241": [
+  "attribute",
+  "pagexml",
+  "h=156",
+  "a00000114"
+ ],
+ "a00000242": [
+  "attribute",
+  "pagexml",
+  "h=151",
+  "a00000115"
+ ],
+ "a00000243": [
+  "attribute",
+  "pagexml",
+  "h=242",
+  "a00000116"
+ ],
+ "a00000244": [
+  "attribute",
+  "pagexml",
+  "h=138",
+  "a00000117"
+ ],
+ "a00000245": [
+  "attribute",
+  "pagexml",
+  "h=186",
+  "a00000118"
+ ],
+ "a00000246": [
+  "attribute",
+  "pagexml",
+  "h=191",
+  "a00000119"
+ ],
+ "a00000247": [
+  "attribute",
+  "pagexml",
+  "h=3505",
+  "a00000001"
+ ],
+ "a00000248": [
+  "attribute",
+  "pagexml",
+  "h=3505",
+  "a00000002"
+ ],
+ "a00000249": [
+  "attribute",
+  "pagexml",
+  "h=3505",
+  "a00000003"
+ ],
+ "a00000250": [
+  "attribute",
+  "pagexml",
+  "h=3505",
+  "a00000004"
+ ],
+ "a00000251": [
+  "attribute",
+  "pagexml",
+  "h=2918",
+  "a00000005"
+ ],
+ "a00000252": [
+  "attribute",
+  "pagexml",
+  "h=2992",
+  "a00000006"
+ ],
+ "a00000253": [
+  "attribute",
+  "pagexml",
+  "h=1753",
+  "a00000007"
+ ],
+ "a00000254": [
+  "attribute",
+  "pagexml",
+  "h=2949",
+  "a00000008"
+ ],
+ "a00000255": [
+  "attribute",
+  "pagexml",
+  "h=167",
+  "a00000009"
+ ],
+ "a00000256": [
+  "attribute",
+  "pagexml",
+  "h=2871",
+  "a00000010"
+ ],
+ "a00000257": [
+  "attribute",
+  "pagexml",
+  "has_dramaweb_scan=t",
+  "a00000000"
+ ],
+ "a00000258": [
+  "attribute",
+  "pagexml",
+  "has_dramaweb_transcription=t",
+  "a00000000"
+ ],
+ "a00000259": [
+  "attribute",
+  "pagexml",
+  "id=r1l1",
+  "a00000011"
+ ],
+ "a00000260": [
+  "attribute",
+  "pagexml",
+  "id=r1l2",
+  "a00000012"
+ ],
+ "a00000261": [
+  "attribute",
+  "pagexml",
+  "id=r1l3",
+  "a00000013"
+ ],
+ "a00000262": [
+  "attribute",
+  "pagexml",
+  "id=r1l4",
+  "a00000014"
+ ],
+ "a00000263": [
+  "attribute",
+  "pagexml",
+  "id=r1l5",
+  "a00000015"
+ ],
+ "a00000264": [
+  "attribute",
+  "pagexml",
+  "id=r1l6",
+  "a00000016"
+ ],
+ "a00000265": [
+  "attribute",
+  "pagexml",
+  "id=r1l7",
+  "a00000017"
+ ],
+ "a00000266": [
+  "attribute",
+  "pagexml",
+  "id=r1l8",
+  "a00000018"
+ ],
+ "a00000267": [
+  "attribute",
+  "pagexml",
+  "id=r1l9",
+  "a00000019"
+ ],
+ "a00000268": [
+  "attribute",
+  "pagexml",
+  "id=r1l10",
+  "a00000020"
+ ],
+ "a00000269": [
+  "attribute",
+  "pagexml",
+  "id=r1l11",
+  "a00000021"
+ ],
+ "a00000270": [
+  "attribute",
+  "pagexml",
+  "id=r1l12",
+  "a00000022"
+ ],
+ "a00000271": [
+  "attribute",
+  "pagexml",
+  "id=r1l13",
+  "a00000023"
+ ],
+ "a00000272": [
+  "attribute",
+  "pagexml",
+  "id=r1l14",
+  "a00000024"
+ ],
+ "a00000273": [
+  "attribute",
+  "pagexml",
+  "id=r1l15",
+  "a00000025"
+ ],
+ "a00000274": [
+  "attribute",
+  "pagexml",
+  "id=r1l16",
+  "a00000026"
+ ],
+ "a00000275": [
+  "attribute",
+  "pagexml",
+  "id=r1l17",
+  "a00000027"
+ ],
+ "a00000276": [
+  "attribute",
+  "pagexml",
+  "id=r1l18",
+  "a00000028"
+ ],
+ "a00000277": [
+  "attribute",
+  "pagexml",
+  "id=r1l19",
+  "a00000029"
+ ],
+ "a00000278": [
+  "attribute",
+  "pagexml",
+  "id=r1l20",
+  "a00000030"
+ ],
+ "a00000279": [
+  "attribute",
+  "pagexml",
+  "id=r1l21",
+  "a00000031"
+ ],
+ "a00000280": [
+  "attribute",
+  "pagexml",
+  "id=r1l22",
+  "a00000032"
+ ],
+ "a00000281": [
+  "attribute",
+  "pagexml",
+  "id=r1l23",
+  "a00000033"
+ ],
+ "a00000282": [
+  "attribute",
+  "pagexml",
+  "id=r1l24",
+  "a00000034"
+ ],
+ "a00000283": [
+  "attribute",
+  "pagexml",
+  "id=r1l25",
+  "a00000035"
+ ],
+ "a00000284": [
+  "attribute",
+  "pagexml",
+  "id=r1l1",
+  "a00000036"
+ ],
+ "a00000285": [
+  "attribute",
+  "pagexml",
+  "id=r1l2",
+  "a00000037"
+ ],
+ "a00000286": [
+  "attribute",
+  "pagexml",
+  "id=r1l3",
+  "a00000038"
+ ],
+ "a00000287": [
+  "attribute",
+  "pagexml",
+  "id=r1l4",
+  "a00000039"
+ ],
+ "a00000288": [
+  "attribute",
+  "pagexml",
+  "id=r1l5",
+  "a00000040"
+ ],
+ "a00000289": [
+  "attribute",
+  "pagexml",
+  "id=r1l6",
+  "a00000041"
+ ],
+ "a00000290": [
+  "attribute",
+  "pagexml",
+  "id=r1l7",
+  "a00000042"
+ ],
+ "a00000291": [
+  "attribute",
+  "pagexml",
+  "id=r1l8",
+  "a00000043"
+ ],
+ "a00000292": [
+  "attribute",
+  "pagexml",
+  "id=r1l9",
+  "a00000044"
+ ],
+ "a00000293": [
+  "attribute",
+  "pagexml",
+  "id=r1l10",
+  "a00000045"
+ ],
+ "a00000294": [
+  "attribute",
+  "pagexml",
+  "id=r1l11",
+  "a00000046"
+ ],
+ "a00000295": [
+  "attribute",
+  "pagexml",
+  "id=r1l12",
+  "a00000047"
+ ],
+ "a00000296": [
+  "attribute",
+  "pagexml",
+  "id=r1l13",
+  "a00000048"
+ ],
+ "a00000297": [
+  "attribute",
+  "pagexml",
+  "id=r1l14",
+  "a00000049"
+ ],
+ "a00000298": [
+  "attribute",
+  "pagexml",
+  "id=r1l15",
+  "a00000050"
+ ],
+ "a00000299": [
+  "attribute",
+  "pagexml",
+  "id=r1l16",
+  "a00000051"
+ ],
+ "a00000300": [
+  "attribute",
+  "pagexml",
+  "id=r1l17",
+  "a00000052"
+ ],
+ "a00000301": [
+  "attribute",
+  "pagexml",
+  "id=r1l18",
+  "a00000053"
+ ],
+ "a00000302": [
+  "attribute",
+  "pagexml",
+  "id=r1l19",
+  "a00000054"
+ ],
+ "a00000303": [
+  "attribute",
+  "pagexml",
+  "id=r1l20",
+  "a00000055"
+ ],
+ "a00000304": [
+  "attribute",
+  "pagexml",
+  "id=r1l21",
+  "a00000056"
+ ],
+ "a00000305": [
+  "attribute",
+  "pagexml",
+  "id=r1l22",
+  "a00000057"
+ ],
+ "a00000306": [
+  "attribute",
+  "pagexml",
+  "id=r1l23",
+  "a00000058"
+ ],
+ "a00000307": [
+  "attribute",
+  "pagexml",
+  "id=r1l24",
+  "a00000059"
+ ],
+ "a00000308": [
+  "attribute",
+  "pagexml",
+  "id=r1l25",
+  "a00000060"
+ ],
+ "a00000309": [
+  "attribute",
+  "pagexml",
+  "id=r1l26",
+  "a00000061"
+ ],
+ "a00000310": [
+  "attribute",
+  "pagexml",
+  "id=r1l27",
+  "a00000062"
+ ],
+ "a00000311": [
+  "attribute",
+  "pagexml",
+  "id=r2l1",
+  "a00000063"
+ ],
+ "a00000312": [
+  "attribute",
+  "pagexml",
+  "id=r2l2",
+  "a00000064"
+ ],
+ "a00000313": [
+  "attribute",
+  "pagexml",
+  "id=r2l3",
+  "a00000065"
+ ],
+ "a00000314": [
+  "attribute",
+  "pagexml",
+  "id=r2l4",
+  "a00000066"
+ ],
+ "a00000315": [
+  "attribute",
+  "pagexml",
+  "id=r2l5",
+  "a00000067"
+ ],
+ "a00000316": [
+  "attribute",
+  "pagexml",
+  "id=r2l6",
+  "a00000068"
+ ],
+ "a00000317": [
+  "attribute",
+  "pagexml",
+  "id=r2l7",
+  "a00000069"
+ ],
+ "a00000318": [
+  "attribute",
+  "pagexml",
+  "id=r2l8",
+  "a00000070"
+ ],
+ "a00000319": [
+  "attribute",
+  "pagexml",
+  "id=r2l9",
+  "a00000071"
+ ],
+ "a00000320": [
+  "attribute",
+  "pagexml",
+  "id=r2l10",
+  "a00000072"
+ ],
+ "a00000321": [
+  "attribute",
+  "pagexml",
+  "id=r2l11",
+  "a00000073"
+ ],
+ "a00000322": [
+  "attribute",
+  "pagexml",
+  "id=r1l1",
+  "a00000074"
+ ],
+ "a00000323": [
+  "attribute",
+  "pagexml",
+  "id=r1l2",
+  "a00000075"
+ ],
+ "a00000324": [
+  "attribute",
+  "pagexml",
+  "id=r1l3",
+  "a00000076"
+ ],
+ "a00000325": [
+  "attribute",
+  "pagexml",
+  "id=r1l4",
+  "a00000077"
+ ],
+ "a00000326": [
+  "attribute",
+  "pagexml",
+  "id=r1l5",
+  "a00000078"
+ ],
+ "a00000327": [
+  "attribute",
+  "pagexml",
+  "id=r1l6",
+  "a00000079"
+ ],
+ "a00000328": [
+  "attribute",
+  "pagexml",
+  "id=r1l7",
+  "a00000080"
+ ],
+ "a00000329": [
+  "attribute",
+  "pagexml",
+  "id=r1l8",
+  "a00000081"
+ ],
+ "a00000330": [
+  "attribute",
+  "pagexml",
+  "id=r1l9",
+  "a00000082"
+ ],
+ "a00000331": [
+  "attribute",
+  "pagexml",
+  "id=r1l10",
+  "a00000083"
+ ],
+ "a00000332": [
+  "attribute",
+  "pagexml",
+  "id=r1l11",
+  "a00000084"
+ ],
+ "a00000333": [
+  "attribute",
+  "pagexml",
+  "id=r1l12",
+  "a00000085"
+ ],
+ "a00000334": [
+  "attribute",
+  "pagexml",
+  "id=r1l13",
+  "a00000086"
+ ],
+ "a00000335": [
+  "attribute",
+  "pagexml",
+  "id=r1l14",
+  "a00000087"
+ ],
+ "a00000336": [
+  "attribute",
+  "pagexml",
+  "id=r1l15",
+  "a00000088"
+ ],
+ "a00000337": [
+  "attribute",
+  "pagexml",
+  "id=r1l16",
+  "a00000089"
+ ],
+ "a00000338": [
+  "attribute",
+  "pagexml",
+  "id=r1l17",
+  "a00000090"
+ ],
+ "a00000339": [
+  "attribute",
+  "pagexml",
+  "id=r1l18",
+  "a00000091"
+ ],
+ "a00000340": [
+  "attribute",
+  "pagexml",
+  "id=r1l19",
+  "a00000092"
+ ],
+ "a00000341": [
+  "attribute",
+  "pagexml",
+  "id=r1l20",
+  "a00000093"
+ ],
+ "a00000342": [
+  "attribute",
+  "pagexml",
+  "id=r1l21",
+  "a00000094"
+ ],
+ "a00000343": [
+  "attribute",
+  "pagexml",
+  "id=r1l22",
+  "a00000095"
+ ],
+ "a00000344": [
+  "attribute",
+  "pagexml",
+  "id=r1l23",
+  "a00000096"
+ ],
+ "a00000345": [
+  "attribute",
+  "pagexml",
+  "id=r1l24",
+  "a00000097"
+ ],
+ "a00000346": [
+  "attribute",
+  "pagexml",
+  "id=r1l1",
+  "a00000098"
+ ],
+ "a00000347": [
+  "attribute",
+  "pagexml",
+  "id=r2l1",
+  "a00000099"
+ ],
+ "a00000348": [
+  "attribute",
+  "pagexml",
+  "id=r2l2",
+  "a00000100"
+ ],
+ "a00000349": [
+  "attribute",
+  "pagexml",
+  "id=r2l3",
+  "a00000101"
+ ],
+ "a00000350": [
+  "attribute",
+  "pagexml",
+  "id=r2l4",
+  "a00000102"
+ ],
+ "a00000351": [
+  "attribute",
+  "pagexml",
+  "id=r2l5",
+  "a00000103"
+ ],
+ "a00000352": [
+  "attribute",
+  "pagexml",
+  "id=r2l6",
+  "a00000104"
+ ],
+ "a00000353": [
+  "attribute",
+  "pagexml",
+  "id=r2l7",
+  "a00000105"
+ ],
+ "a00000354": [
+  "attribute",
+  "pagexml",
+  "id=r2l8",
+  "a00000106"
+ ],
+ "a00000355": [
+  "attribute",
+  "pagexml",
+  "id=r2l9",
+  "a00000107"
+ ],
+ "a00000356": [
+  "attribute",
+  "pagexml",
+  "id=r2l10",
+  "a00000108"
+ ],
+ "a00000357": [
+  "attribute",
+  "pagexml",
+  "id=r2l11",
+  "a00000109"
+ ],
+ "a00000358": [
+  "attribute",
+  "pagexml",
+  "id=r2l12",
+  "a00000110"
+ ],
+ "a00000359": [
+  "attribute",
+  "pagexml",
+  "id=r2l13",
+  "a00000111"
+ ],
+ "a00000360": [
+  "attribute",
+  "pagexml",
+  "id=r2l14",
+  "a00000112"
+ ],
+ "a00000361": [
+  "attribute",
+  "pagexml",
+  "id=r2l15",
+  "a00000113"
+ ],
+ "a00000362": [
+  "attribute",
+  "pagexml",
+  "id=r2l16",
+  "a00000114"
+ ],
+ "a00000363": [
+  "attribute",
+  "pagexml",
+  "id=r2l17",
+  "a00000115"
+ ],
+ "a00000364": [
+  "attribute",
+  "pagexml",
+  "id=r2l18",
+  "a00000116"
+ ],
+ "a00000365": [
+  "attribute",
+  "pagexml",
+  "id=r2l19",
+  "a00000117"
+ ],
+ "a00000366": [
+  "attribute",
+  "pagexml",
+  "id=r2l20",
+  "a00000118"
+ ],
+ "a00000367": [
+  "attribute",
+  "pagexml",
+  "id=r2l21",
+  "a00000119"
+ ],
+ "a00000368": [
+  "attribute",
+  "pagexml",
+  "id=0001_3331_001-0001.jpg",
+  "a00000001"
+ ],
+ "a00000369": [
+  "attribute",
+  "pagexml",
+  "id=0002_3331_001-0002.jpg",
+  "a00000002"
+ ],
+ "a00000370": [
+  "attribute",
+  "pagexml",
+  "id=0003_3331_001-0003.jpg",
+  "a00000003"
+ ],
+ "a00000371": [
+  "attribute",
+  "pagexml",
+  "id=0004_3331_001-0004.jpg",
+  "a00000004"
+ ],
+ "a00000372": [
+  "attribute",
+  "pagexml",
+  "id=r1",
+  "a00000005"
+ ],
+ "a00000373": [
+  "attribute",
+  "pagexml",
+  "id=r1",
+  "a00000006"
+ ],
+ "a00000374": [
+  "attribute",
+  "pagexml",
+  "id=r2",
+  "a00000007"
+ ],
+ "a00000375": [
+  "attribute",
+  "pagexml",
+  "id=r1",
+  "a00000008"
+ ],
+ "a00000376": [
+  "attribute",
+  "pagexml",
+  "id=r1",
+  "a00000009"
+ ],
+ "a00000377": [
+  "attribute",
+  "pagexml",
+  "id=r2",
+  "a00000010"
+ ],
+ "a00000378": [
+  "attribute",
+  "pagexml",
+  "is_anonymous=f",
+  "a00000000"
+ ],
+ "a00000379": [
+  "attribute",
+  "pagexml",
+  "latest=1639-12-31",
+  "a00000000"
+ ],
+ "a00000380": [
+  "attribute",
+  "tf",
+  "line=1",
+  "a00000011"
+ ],
+ "a00000381": [
+  "attribute",
+  "tf",
+  "line=2",
+  "a00000012"
+ ],
+ "a00000382": [
+  "attribute",
+  "tf",
+  "line=3",
+  "a00000013"
+ ],
+ "a00000383": [
+  "attribute",
+  "tf",
+  "line=4",
+  "a00000014"
+ ],
+ "a00000384": [
+  "attribute",
+  "tf",
+  "line=5",
+  "a00000015"
+ ],
+ "a00000385": [
+  "attribute",
+  "tf",
+  "line=6",
+  "a00000016"
+ ],
+ "a00000386": [
+  "attribute",
+  "tf",
+  "line=7",
+  "a00000017"
+ ],
+ "a00000387": [
+  "attribute",
+  "tf",
+  "line=8",
+  "a00000018"
+ ],
+ "a00000388": [
+  "attribute",
+  "tf",
+  "line=9",
+  "a00000019"
+ ],
+ "a00000389": [
+  "attribute",
+  "tf",
+  "line=10",
+  "a00000020"
+ ],
+ "a00000390": [
+  "attribute",
+  "tf",
+  "line=11",
+  "a00000021"
+ ],
+ "a00000391": [
+  "attribute",
+  "tf",
+  "line=12",
+  "a00000022"
+ ],
+ "a00000392": [
+  "attribute",
+  "tf",
+  "line=13",
+  "a00000023"
+ ],
+ "a00000393": [
+  "attribute",
+  "tf",
+  "line=14",
+  "a00000024"
+ ],
+ "a00000394": [
+  "attribute",
+  "tf",
+  "line=15",
+  "a00000025"
+ ],
+ "a00000395": [
+  "attribute",
+  "tf",
+  "line=16",
+  "a00000026"
+ ],
+ "a00000396": [
+  "attribute",
+  "tf",
+  "line=17",
+  "a00000027"
+ ],
+ "a00000397": [
+  "attribute",
+  "tf",
+  "line=18",
+  "a00000028"
+ ],
+ "a00000398": [
+  "attribute",
+  "tf",
+  "line=19",
+  "a00000029"
+ ],
+ "a00000399": [
+  "attribute",
+  "tf",
+  "line=20",
+  "a00000030"
+ ],
+ "a00000400": [
+  "attribute",
+  "tf",
+  "line=21",
+  "a00000031"
+ ],
+ "a00000401": [
+  "attribute",
+  "tf",
+  "line=22",
+  "a00000032"
+ ],
+ "a00000402": [
+  "attribute",
+  "tf",
+  "line=23",
+  "a00000033"
+ ],
+ "a00000403": [
+  "attribute",
+  "tf",
+  "line=24",
+  "a00000034"
+ ],
+ "a00000404": [
+  "attribute",
+  "tf",
+  "line=25",
+  "a00000035"
+ ],
+ "a00000405": [
+  "attribute",
+  "tf",
+  "line=1",
+  "a00000036"
+ ],
+ "a00000406": [
+  "attribute",
+  "tf",
+  "line=2",
+  "a00000037"
+ ],
+ "a00000407": [
+  "attribute",
+  "tf",
+  "line=3",
+  "a00000038"
+ ],
+ "a00000408": [
+  "attribute",
+  "tf",
+  "line=4",
+  "a00000039"
+ ],
+ "a00000409": [
+  "attribute",
+  "tf",
+  "line=5",
+  "a00000040"
+ ],
+ "a00000410": [
+  "attribute",
+  "tf",
+  "line=6",
+  "a00000041"
+ ],
+ "a00000411": [
+  "attribute",
+  "tf",
+  "line=7",
+  "a00000042"
+ ],
+ "a00000412": [
+  "attribute",
+  "tf",
+  "line=8",
+  "a00000043"
+ ],
+ "a00000413": [
+  "attribute",
+  "tf",
+  "line=9",
+  "a00000044"
+ ],
+ "a00000414": [
+  "attribute",
+  "tf",
+  "line=10",
+  "a00000045"
+ ],
+ "a00000415": [
+  "attribute",
+  "tf",
+  "line=11",
+  "a00000046"
+ ],
+ "a00000416": [
+  "attribute",
+  "tf",
+  "line=12",
+  "a00000047"
+ ],
+ "a00000417": [
+  "attribute",
+  "tf",
+  "line=13",
+  "a00000048"
+ ],
+ "a00000418": [
+  "attribute",
+  "tf",
+  "line=14",
+  "a00000049"
+ ],
+ "a00000419": [
+  "attribute",
+  "tf",
+  "line=15",
+  "a00000050"
+ ],
+ "a00000420": [
+  "attribute",
+  "tf",
+  "line=16",
+  "a00000051"
+ ],
+ "a00000421": [
+  "attribute",
+  "tf",
+  "line=17",
+  "a00000052"
+ ],
+ "a00000422": [
+  "attribute",
+  "tf",
+  "line=18",
+  "a00000053"
+ ],
+ "a00000423": [
+  "attribute",
+  "tf",
+  "line=19",
+  "a00000054"
+ ],
+ "a00000424": [
+  "attribute",
+  "tf",
+  "line=20",
+  "a00000055"
+ ],
+ "a00000425": [
+  "attribute",
+  "tf",
+  "line=21",
+  "a00000056"
+ ],
+ "a00000426": [
+  "attribute",
+  "tf",
+  "line=22",
+  "a00000057"
+ ],
+ "a00000427": [
+  "attribute",
+  "tf",
+  "line=23",
+  "a00000058"
+ ],
+ "a00000428": [
+  "attribute",
+  "tf",
+  "line=24",
+  "a00000059"
+ ],
+ "a00000429": [
+  "attribute",
+  "tf",
+  "line=25",
+  "a00000060"
+ ],
+ "a00000430": [
+  "attribute",
+  "tf",
+  "line=26",
+  "a00000061"
+ ],
+ "a00000431": [
+  "attribute",
+  "tf",
+  "line=27",
+  "a00000062"
+ ],
+ "a00000432": [
+  "attribute",
+  "tf",
+  "line=28",
+  "a00000063"
+ ],
+ "a00000433": [
+  "attribute",
+  "tf",
+  "line=29",
+  "a00000064"
+ ],
+ "a00000434": [
+  "attribute",
+  "tf",
+  "line=30",
+  "a00000065"
+ ],
+ "a00000435": [
+  "attribute",
+  "tf",
+  "line=31",
+  "a00000066"
+ ],
+ "a00000436": [
+  "attribute",
+  "tf",
+  "line=32",
+  "a00000067"
+ ],
+ "a00000437": [
+  "attribute",
+  "tf",
+  "line=33",
+  "a00000068"
+ ],
+ "a00000438": [
+  "attribute",
+  "tf",
+  "line=34",
+  "a00000069"
+ ],
+ "a00000439": [
+  "attribute",
+  "tf",
+  "line=35",
+  "a00000070"
+ ],
+ "a00000440": [
+  "attribute",
+  "tf",
+  "line=36",
+  "a00000071"
+ ],
+ "a00000441": [
+  "attribute",
+  "tf",
+  "line=37",
+  "a00000072"
+ ],
+ "a00000442": [
+  "attribute",
+  "tf",
+  "line=38",
+  "a00000073"
+ ],
+ "a00000443": [
+  "attribute",
+  "tf",
+  "line=1",
+  "a00000074"
+ ],
+ "a00000444": [
+  "attribute",
+  "tf",
+  "line=2",
+  "a00000075"
+ ],
+ "a00000445": [
+  "attribute",
+  "tf",
+  "line=3",
+  "a00000076"
+ ],
+ "a00000446": [
+  "attribute",
+  "tf",
+  "line=4",
+  "a00000077"
+ ],
+ "a00000447": [
+  "attribute",
+  "tf",
+  "line=5",
+  "a00000078"
+ ],
+ "a00000448": [
+  "attribute",
+  "tf",
+  "line=6",
+  "a00000079"
+ ],
+ "a00000449": [
+  "attribute",
+  "tf",
+  "line=7",
+  "a00000080"
+ ],
+ "a00000450": [
+  "attribute",
+  "tf",
+  "line=8",
+  "a00000081"
+ ],
+ "a00000451": [
+  "attribute",
+  "tf",
+  "line=9",
+  "a00000082"
+ ],
+ "a00000452": [
+  "attribute",
+  "tf",
+  "line=10",
+  "a00000083"
+ ],
+ "a00000453": [
+  "attribute",
+  "tf",
+  "line=11",
+  "a00000084"
+ ],
+ "a00000454": [
+  "attribute",
+  "tf",
+  "line=12",
+  "a00000085"
+ ],
+ "a00000455": [
+  "attribute",
+  "tf",
+  "line=13",
+  "a00000086"
+ ],
+ "a00000456": [
+  "attribute",
+  "tf",
+  "line=14",
+  "a00000087"
+ ],
+ "a00000457": [
+  "attribute",
+  "tf",
+  "line=15",
+  "a00000088"
+ ],
+ "a00000458": [
+  "attribute",
+  "tf",
+  "line=16",
+  "a00000089"
+ ],
+ "a00000459": [
+  "attribute",
+  "tf",
+  "line=17",
+  "a00000090"
+ ],
+ "a00000460": [
+  "attribute",
+  "tf",
+  "line=18",
+  "a00000091"
+ ],
+ "a00000461": [
+  "attribute",
+  "tf",
+  "line=19",
+  "a00000092"
+ ],
+ "a00000462": [
+  "attribute",
+  "tf",
+  "line=20",
+  "a00000093"
+ ],
+ "a00000463": [
+  "attribute",
+  "tf",
+  "line=21",
+  "a00000094"
+ ],
+ "a00000464": [
+  "attribute",
+  "tf",
+  "line=22",
+  "a00000095"
+ ],
+ "a00000465": [
+  "attribute",
+  "tf",
+  "line=23",
+  "a00000096"
+ ],
+ "a00000466": [
+  "attribute",
+  "tf",
+  "line=24",
+  "a00000097"
+ ],
+ "a00000467": [
+  "attribute",
+  "tf",
+  "line=1",
+  "a00000098"
+ ],
+ "a00000468": [
+  "attribute",
+  "tf",
+  "line=2",
+  "a00000099"
+ ],
+ "a00000469": [
+  "attribute",
+  "tf",
+  "line=3",
+  "a00000100"
+ ],
+ "a00000470": [
+  "attribute",
+  "tf",
+  "line=4",
+  "a00000101"
+ ],
+ "a00000471": [
+  "attribute",
+  "tf",
+  "line=5",
+  "a00000102"
+ ],
+ "a00000472": [
+  "attribute",
+  "tf",
+  "line=6",
+  "a00000103"
+ ],
+ "a00000473": [
+  "attribute",
+  "tf",
+  "line=7",
+  "a00000104"
+ ],
+ "a00000474": [
+  "attribute",
+  "tf",
+  "line=8",
+  "a00000105"
+ ],
+ "a00000475": [
+  "attribute",
+  "tf",
+  "line=9",
+  "a00000106"
+ ],
+ "a00000476": [
+  "attribute",
+  "tf",
+  "line=10",
+  "a00000107"
+ ],
+ "a00000477": [
+  "attribute",
+  "tf",
+  "line=11",
+  "a00000108"
+ ],
+ "a00000478": [
+  "attribute",
+  "tf",
+  "line=12",
+  "a00000109"
+ ],
+ "a00000479": [
+  "attribute",
+  "tf",
+  "line=13",
+  "a00000110"
+ ],
+ "a00000480": [
+  "attribute",
+  "tf",
+  "line=14",
+  "a00000111"
+ ],
+ "a00000481": [
+  "attribute",
+  "tf",
+  "line=15",
+  "a00000112"
+ ],
+ "a00000482": [
+  "attribute",
+  "tf",
+  "line=16",
+  "a00000113"
+ ],
+ "a00000483": [
+  "attribute",
+  "tf",
+  "line=17",
+  "a00000114"
+ ],
+ "a00000484": [
+  "attribute",
+  "tf",
+  "line=18",
+  "a00000115"
+ ],
+ "a00000485": [
+  "attribute",
+  "tf",
+  "line=19",
+  "a00000116"
+ ],
+ "a00000486": [
+  "attribute",
+  "tf",
+  "line=20",
+  "a00000117"
+ ],
+ "a00000487": [
+  "attribute",
+  "tf",
+  "line=21",
+  "a00000118"
+ ],
+ "a00000488": [
+  "attribute",
+  "tf",
+  "line=22",
+  "a00000119"
+ ],
+ "a00000489": [
+  "attribute",
+  "pagexml",
+  "link_bll=unspecified",
+  "a00000000"
+ ],
+ "a00000490": [
+  "attribute",
+  "pagexml",
+  "link_bnf=unspecified",
+  "a00000000"
+ ],
+ "a00000491": [
+  "attribute",
+  "pagexml",
+  "link_google=unspecified",
+  "a00000000"
+ ],
+ "a00000492": [
+  "attribute",
+  "pagexml",
+  "link_kb=unspecified",
+  "a00000000"
+ ],
+ "a00000493": [
+  "attribute",
+  "pagexml",
+  "link_kbb=unspecified",
+  "a00000000"
+ ],
+ "a00000494": [
+  "attribute",
+  "pagexml",
+  "link_ub_antwerp=unspecified",
+  "a00000000"
+ ],
+ "a00000495": [
+  "attribute",
+  "pagexml",
+  "link_ub_gent=unspecified",
+  "a00000000"
+ ],
+ "a00000496": [
+  "attribute",
+  "tf",
+  "page=1",
+  "a00000001"
+ ],
+ "a00000497": [
+  "attribute",
+  "tf",
+  "page=2",
+  "a00000002"
+ ],
+ "a00000498": [
+  "attribute",
+  "tf",
+  "page=3",
+  "a00000003"
+ ],
+ "a00000499": [
+  "attribute",
+  "tf",
+  "page=4",
+  "a00000004"
+ ],
+ "a00000500": [
+  "attribute",
+  "pagexml",
+  "place=unspecified",
+  "a00000000"
+ ],
+ "a00000501": [
+  "attribute",
+  "pagexml",
+  "publisher=unspecified",
+  "a00000000"
+ ],
+ "a00000502": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:1"
+ ],
+ "a00000503": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:7"
+ ],
+ "a00000504": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:9"
+ ],
+ "a00000505": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:12"
+ ],
+ "a00000506": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:16"
+ ],
+ "a00000507": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:18"
+ ],
+ "a00000508": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:23"
+ ],
+ "a00000509": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:27"
+ ],
+ "a00000510": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:30"
+ ],
+ "a00000511": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:32"
+ ],
+ "a00000512": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:34"
+ ],
+ "a00000513": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:41"
+ ],
+ "a00000514": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:43"
+ ],
+ "a00000515": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:46"
+ ],
+ "a00000516": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:48"
+ ],
+ "a00000517": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:50"
+ ],
+ "a00000518": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:51"
+ ],
+ "a00000519": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:53"
+ ],
+ "a00000520": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:55"
+ ],
+ "a00000521": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:56"
+ ],
+ "a00000522": [
+  "attribute",
+  "tf",
+  "rafter=",
+  "0:57"
+ ],
+ "a00000523": [
+  "attribute",
+  "tf",
+  "rafter=",
+  "0:58"
+ ],
+ "a00000524": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:59"
+ ],
+ "a00000525": [
+  "attribute",
+  "tf",
+  "rafter=",
+  "0:60"
+ ],
+ "a00000526": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:61"
+ ],
+ "a00000527": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:63"
+ ],
+ "a00000528": [
+  "attribute",
+  "tf",
+  "rafter=",
+  "0:64"
+ ],
+ "a00000529": [
+  "attribute",
+  "tf",
+  "rafter=",
+  "0:65"
+ ],
+ "a00000530": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:66"
+ ],
+ "a00000531": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:67"
+ ],
+ "a00000532": [
+  "attribute",
+  "tf",
+  "rafter=",
+  "0:68"
+ ],
+ "a00000533": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:69"
+ ],
+ "a00000534": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:72"
+ ],
+ "a00000535": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:78"
+ ],
+ "a00000536": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:79"
+ ],
+ "a00000537": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:85"
+ ],
+ "a00000538": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:94"
+ ],
+ "a00000539": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:101"
+ ],
+ "a00000540": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:107"
+ ],
+ "a00000541": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:113"
+ ],
+ "a00000542": [
+  "attribute",
+  "tf",
+  "rafter=",
+  "0:120"
+ ],
+ "a00000543": [
+  "attribute",
+  "tf",
+  "rafter=",
+  "0:121"
+ ],
+ "a00000544": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:122"
+ ],
+ "a00000545": [
+  "attribute",
+  "tf",
+  "rafter= ",
+  "0:123"
+ ],
+ "a00000546": [
+  "attribute",
+  "tf",
+  "rafter=",
+  "0:127"
+ ],
+ "a00000547": [
+  "attribute",
+  "tf",
+  "rafter=",
+  "0:128"
+ ],
+ "a00000548": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:129"
+ ],
+ "a00000549": [
+  "attribute",
+  "tf",
+  "rafter= ",
+  "0:130"
+ ],
+ "a00000550": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:137"
+ ],
+ "a00000551": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:145"
+ ],
+ "a00000552": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:153"
+ ],
+ "a00000553": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:162"
+ ],
+ "a00000554": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:172"
+ ],
+ "a00000555": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:181"
+ ],
+ "a00000556": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:191"
+ ],
+ "a00000557": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:195"
+ ],
+ "a00000558": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:197"
+ ],
+ "a00000559": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:199"
+ ],
+ "a00000560": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:201"
+ ],
+ "a00000561": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:203"
+ ],
+ "a00000562": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:205"
+ ],
+ "a00000563": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:207"
+ ],
+ "a00000564": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:216"
+ ],
+ "a00000565": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:222"
+ ],
+ "a00000566": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:224"
+ ],
+ "a00000567": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:226"
+ ],
+ "a00000568": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:229"
+ ],
+ "a00000569": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:231"
+ ],
+ "a00000570": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:233"
+ ],
+ "a00000571": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:235"
+ ],
+ "a00000572": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:237"
+ ],
+ "a00000573": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:239"
+ ],
+ "a00000574": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:242"
+ ],
+ "a00000575": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:244"
+ ],
+ "a00000576": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:246"
+ ],
+ "a00000577": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:248"
+ ],
+ "a00000578": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:250"
+ ],
+ "a00000579": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:257"
+ ],
+ "a00000580": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:261"
+ ],
+ "a00000581": [
+  "attribute",
+  "tf",
+  "rafter=",
+  "0:270"
+ ],
+ "a00000582": [
+  "attribute",
+  "tf",
+  "rafter=",
+  "0:271"
+ ],
+ "a00000583": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:272"
+ ],
+ "a00000584": [
+  "attribute",
+  "tf",
+  "rafter=",
+  "0:273"
+ ],
+ "a00000585": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:275"
+ ],
+ "a00000586": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:279"
+ ],
+ "a00000587": [
+  "attribute",
+  "tf",
+  "rafter=",
+  "0:287"
+ ],
+ "a00000588": [
+  "attribute",
+  "tf",
+  "rafter=",
+  "0:288"
+ ],
+ "a00000589": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:289"
+ ],
+ "a00000590": [
+  "attribute",
+  "tf",
+  "rafter=",
+  "0:290"
+ ],
+ "a00000591": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:297"
+ ],
+ "a00000592": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:301"
+ ],
+ "a00000593": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:307"
+ ],
+ "a00000594": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:311"
+ ],
+ "a00000595": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:315"
+ ],
+ "a00000596": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:322"
+ ],
+ "a00000597": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:331"
+ ],
+ "a00000598": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:338"
+ ],
+ "a00000599": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:342"
+ ],
+ "a00000600": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:347"
+ ],
+ "a00000601": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:349"
+ ],
+ "a00000602": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:352"
+ ],
+ "a00000603": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:356"
+ ],
+ "a00000604": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:362"
+ ],
+ "a00000605": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:366"
+ ],
+ "a00000606": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:371"
+ ],
+ "a00000607": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:373"
+ ],
+ "a00000608": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:375"
+ ],
+ "a00000609": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:377"
+ ],
+ "a00000610": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:380"
+ ],
+ "a00000611": [
+  "attribute",
+  "tf",
+  "rafter=",
+  "0:388"
+ ],
+ "a00000612": [
+  "attribute",
+  "tf",
+  "rafter=",
+  "0:389"
+ ],
+ "a00000613": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:390"
+ ],
+ "a00000614": [
+  "attribute",
+  "tf",
+  "rafter=",
+  "0:391"
+ ],
+ "a00000615": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:399"
+ ],
+ "a00000616": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:403"
+ ],
+ "a00000617": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:407"
+ ],
+ "a00000618": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:412"
+ ],
+ "a00000619": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:414"
+ ],
+ "a00000620": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:418"
+ ],
+ "a00000621": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:426"
+ ],
+ "a00000622": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:432"
+ ],
+ "a00000623": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:436"
+ ],
+ "a00000624": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:443"
+ ],
+ "a00000625": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:447"
+ ],
+ "a00000626": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:457"
+ ],
+ "a00000627": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:461"
+ ],
+ "a00000628": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:468"
+ ],
+ "a00000629": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:471"
+ ],
+ "a00000630": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:474"
+ ],
+ "a00000631": [
+  "attribute",
+  "tf",
+  "rafter=\n",
+  "0:478"
+ ],
+ "a00000632": [
+  "attribute",
+  "pagexml",
+  "remarks=unspecified",
+  "a00000000"
+ ],
+ "a00000633": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:1"
+ ],
+ "a00000634": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:7"
+ ],
+ "a00000635": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:9"
+ ],
+ "a00000636": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:12"
+ ],
+ "a00000637": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:16"
+ ],
+ "a00000638": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:18"
+ ],
+ "a00000639": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:23"
+ ],
+ "a00000640": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:27"
+ ],
+ "a00000641": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:30"
+ ],
+ "a00000642": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:32"
+ ],
+ "a00000643": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:34"
+ ],
+ "a00000644": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:41"
+ ],
+ "a00000645": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:43"
+ ],
+ "a00000646": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:46"
+ ],
+ "a00000647": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:48"
+ ],
+ "a00000648": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:50"
+ ],
+ "a00000649": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:51"
+ ],
+ "a00000650": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:53"
+ ],
+ "a00000651": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:55"
+ ],
+ "a00000652": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:56"
+ ],
+ "a00000653": [
+  "attribute",
+  "tf",
+  "rstr=εες",
+  "0:57"
+ ],
+ "a00000654": [
+  "attribute",
+  "tf",
+  "rstr=¬",
+  "0:58"
+ ],
+ "a00000655": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:59"
+ ],
+ "a00000656": [
+  "attribute",
+  "tf",
+  "rstr=ρsωnς",
+  "0:60"
+ ],
+ "a00000657": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:61"
+ ],
+ "a00000658": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:63"
+ ],
+ "a00000659": [
+  "attribute",
+  "tf",
+  "rstr=Te",
+  "0:64"
+ ],
+ "a00000660": [
+  "attribute",
+  "tf",
+  "rstr=¬",
+  "0:65"
+ ],
+ "a00000661": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:66"
+ ],
+ "a00000662": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:67"
+ ],
+ "a00000663": [
+  "attribute",
+  "tf",
+  "rstr=OD",
+  "0:68"
+ ],
+ "a00000664": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:69"
+ ],
+ "a00000665": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:72"
+ ],
+ "a00000666": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:78"
+ ],
+ "a00000667": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:79"
+ ],
+ "a00000668": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:85"
+ ],
+ "a00000669": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:94"
+ ],
+ "a00000670": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:101"
+ ],
+ "a00000671": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:107"
+ ],
+ "a00000672": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:113"
+ ],
+ "a00000673": [
+  "attribute",
+  "tf",
+  "rstr=catenisur",
+  "0:120"
+ ],
+ "a00000674": [
+  "attribute",
+  "tf",
+  "rstr=¬",
+  "0:121"
+ ],
+ "a00000675": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:122"
+ ],
+ "a00000676": [
+  "attribute",
+  "tf",
+  "rstr=genteis",
+  "0:123"
+ ],
+ "a00000677": [
+  "attribute",
+  "tf",
+  "rstr=Agaba",
+  "0:127"
+ ],
+ "a00000678": [
+  "attribute",
+  "tf",
+  "rstr=¬",
+  "0:128"
+ ],
+ "a00000679": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:129"
+ ],
+ "a00000680": [
+  "attribute",
+  "tf",
+  "rstr=na",
+  "0:130"
+ ],
+ "a00000681": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:137"
+ ],
+ "a00000682": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:145"
+ ],
+ "a00000683": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:153"
+ ],
+ "a00000684": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:162"
+ ],
+ "a00000685": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:172"
+ ],
+ "a00000686": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:181"
+ ],
+ "a00000687": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:191"
+ ],
+ "a00000688": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:195"
+ ],
+ "a00000689": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:197"
+ ],
+ "a00000690": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:199"
+ ],
+ "a00000691": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:201"
+ ],
+ "a00000692": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:203"
+ ],
+ "a00000693": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:205"
+ ],
+ "a00000694": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:207"
+ ],
+ "a00000695": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:216"
+ ],
+ "a00000696": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:222"
+ ],
+ "a00000697": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:224"
+ ],
+ "a00000698": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:226"
+ ],
+ "a00000699": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:229"
+ ],
+ "a00000700": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:231"
+ ],
+ "a00000701": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:233"
+ ],
+ "a00000702": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:235"
+ ],
+ "a00000703": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:237"
+ ],
+ "a00000704": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:239"
+ ],
+ "a00000705": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:242"
+ ],
+ "a00000706": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:244"
+ ],
+ "a00000707": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:246"
+ ],
+ "a00000708": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:248"
+ ],
+ "a00000709": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:250"
+ ],
+ "a00000710": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:257"
+ ],
+ "a00000711": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:261"
+ ],
+ "a00000712": [
+  "attribute",
+  "tf",
+  "rstr=de",
+  "0:270"
+ ],
+ "a00000713": [
+  "attribute",
+  "tf",
+  "rstr=¬",
+  "0:271"
+ ],
+ "a00000714": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:272"
+ ],
+ "a00000715": [
+  "attribute",
+  "tf",
+  "rstr=gemitur",
+  "0:273"
+ ],
+ "a00000716": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:275"
+ ],
+ "a00000717": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:279"
+ ],
+ "a00000718": [
+  "attribute",
+  "tf",
+  "rstr=de",
+  "0:287"
+ ],
+ "a00000719": [
+  "attribute",
+  "tf",
+  "rstr=¬",
+  "0:288"
+ ],
+ "a00000720": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:289"
+ ],
+ "a00000721": [
+  "attribute",
+  "tf",
+  "rstr=lentriumphum",
+  "0:290"
+ ],
+ "a00000722": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:297"
+ ],
+ "a00000723": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:301"
+ ],
+ "a00000724": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:307"
+ ],
+ "a00000725": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:311"
+ ],
+ "a00000726": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:315"
+ ],
+ "a00000727": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:322"
+ ],
+ "a00000728": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:331"
+ ],
+ "a00000729": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:338"
+ ],
+ "a00000730": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:342"
+ ],
+ "a00000731": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:347"
+ ],
+ "a00000732": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:349"
+ ],
+ "a00000733": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:352"
+ ],
+ "a00000734": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:356"
+ ],
+ "a00000735": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:362"
+ ],
+ "a00000736": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:366"
+ ],
+ "a00000737": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:371"
+ ],
+ "a00000738": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:373"
+ ],
+ "a00000739": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:375"
+ ],
+ "a00000740": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:377"
+ ],
+ "a00000741": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:380"
+ ],
+ "a00000742": [
+  "attribute",
+  "tf",
+  "rstr=uio",
+  "0:388"
+ ],
+ "a00000743": [
+  "attribute",
+  "tf",
+  "rstr=¬",
+  "0:389"
+ ],
+ "a00000744": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:390"
+ ],
+ "a00000745": [
+  "attribute",
+  "tf",
+  "rstr=parcat",
+  "0:391"
+ ],
+ "a00000746": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:399"
+ ],
+ "a00000747": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:403"
+ ],
+ "a00000748": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:407"
+ ],
+ "a00000749": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:412"
+ ],
+ "a00000750": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:414"
+ ],
+ "a00000751": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:418"
+ ],
+ "a00000752": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:426"
+ ],
+ "a00000753": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:432"
+ ],
+ "a00000754": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:436"
+ ],
+ "a00000755": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:443"
+ ],
+ "a00000756": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:447"
+ ],
+ "a00000757": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:457"
+ ],
+ "a00000758": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:461"
+ ],
+ "a00000759": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:468"
+ ],
+ "a00000760": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:471"
+ ],
+ "a00000761": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:474"
+ ],
+ "a00000762": [
+  "attribute",
+  "tf",
+  "rstr=",
+  "0:478"
+ ],
+ "a00000763": [
+  "attribute",
+  "pagexml",
+  "subgenre=unspecified",
+  "a00000000"
+ ],
+ "a00000764": [
+  "attribute",
+  "pagexml",
+  "title=3331 001",
+  "a00000000"
+ ],
+ "a00000765": [
+  "attribute",
+  "pagexml",
+  "title@es=unspecified",
+  "a00000000"
+ ],
+ "a00000766": [
+  "attribute",
+  "pagexml",
+  "title@fr=unspecified",
+  "a00000000"
+ ],
+ "a00000767": [
+  "attribute",
+  "pagexml",
+  "title@la=Arsaces Armeniae rex",
+  "a00000000"
+ ],
+ "a00000768": [
+  "attribute",
+  "pagexml",
+  "title@nl=unspecified",
+  "a00000000"
+ ],
+ "a00000769": [
+  "attribute",
+  "pagexml",
+  "uploader=robinbuning@undisclosed",
+  "a00000000"
+ ],
+ "a00000770": [
+  "attribute",
+  "pagexml",
+  "url=https://files.transkribus.eu/Get?fileType=view&id=JDEGYXEIGLIOLSORGUJNCSUY",
+  "a00000000"
+ ],
+ "a00000771": [
+  "attribute",
+  "pagexml",
+  "w=672",
+  "a00000011"
+ ],
+ "a00000772": [
+  "attribute",
+  "pagexml",
+  "w=360",
+  "a00000012"
+ ],
+ "a00000773": [
+  "attribute",
+  "pagexml",
+  "w=1588",
+  "a00000013"
+ ],
+ "a00000774": [
+  "attribute",
+  "pagexml",
+  "w=1566",
+  "a00000014"
+ ],
+ "a00000775": [
+  "attribute",
+  "pagexml",
+  "w=1337",
+  "a00000015"
+ ],
+ "a00000776": [
+  "attribute",
+  "pagexml",
+  "w=187",
+  "a00000016"
+ ],
+ "a00000777": [
+  "attribute",
+  "pagexml",
+  "w=1640",
+  "a00000017"
+ ],
+ "a00000778": [
+  "attribute",
+  "pagexml",
+  "w=976",
+  "a00000018"
+ ],
+ "a00000779": [
+  "attribute",
+  "pagexml",
+  "w=1331",
+  "a00000019"
+ ],
+ "a00000780": [
+  "attribute",
+  "pagexml",
+  "w=882",
+  "a00000020"
+ ],
+ "a00000781": [
+  "attribute",
+  "pagexml",
+  "w=122",
+  "a00000021"
+ ],
+ "a00000782": [
+  "attribute",
+  "pagexml",
+  "w=708",
+  "a00000022"
+ ],
+ "a00000783": [
+  "attribute",
+  "pagexml",
+  "w=36",
+  "a00000023"
+ ],
+ "a00000784": [
+  "attribute",
+  "pagexml",
+  "w=315",
+  "a00000024"
+ ],
+ "a00000785": [
+  "attribute",
+  "pagexml",
+  "w=533",
+  "a00000025"
+ ],
+ "a00000786": [
+  "attribute",
+  "pagexml",
+  "w=574",
+  "a00000026"
+ ],
+ "a00000787": [
+  "attribute",
+  "pagexml",
+  "w=929",
+  "a00000027"
+ ],
+ "a00000788": [
+  "attribute",
+  "pagexml",
+  "w=653",
+  "a00000028"
+ ],
+ "a00000789": [
+  "attribute",
+  "pagexml",
+  "w=1090",
+  "a00000029"
+ ],
+ "a00000790": [
+  "attribute",
+  "pagexml",
+  "w=554",
+  "a00000030"
+ ],
+ "a00000791": [
+  "attribute",
+  "pagexml",
+  "w=378",
+  "a00000031"
+ ],
+ "a00000792": [
+  "attribute",
+  "pagexml",
+  "w=347",
+  "a00000032"
+ ],
+ "a00000793": [
+  "attribute",
+  "pagexml",
+  "w=334",
+  "a00000033"
+ ],
+ "a00000794": [
+  "attribute",
+  "pagexml",
+  "w=523",
+  "a00000034"
+ ],
+ "a00000795": [
+  "attribute",
+  "pagexml",
+  "w=403",
+  "a00000035"
+ ],
+ "a00000796": [
+  "attribute",
+  "pagexml",
+  "w=93",
+  "a00000036"
+ ],
+ "a00000797": [
+  "attribute",
+  "pagexml",
+  "w=1294",
+  "a00000037"
+ ],
+ "a00000798": [
+  "attribute",
+  "pagexml",
+  "w=1426",
+  "a00000038"
+ ],
+ "a00000799": [
+  "attribute",
+  "pagexml",
+  "w=95",
+  "a00000039"
+ ],
+ "a00000800": [
+  "attribute",
+  "pagexml",
+  "w=1422",
+  "a00000040"
+ ],
+ "a00000801": [
+  "attribute",
+  "pagexml",
+  "w=1424",
+  "a00000041"
+ ],
+ "a00000802": [
+  "attribute",
+  "pagexml",
+  "w=1747",
+  "a00000042"
+ ],
+ "a00000803": [
+  "attribute",
+  "pagexml",
+  "w=1736",
+  "a00000043"
+ ],
+ "a00000804": [
+  "attribute",
+  "pagexml",
+  "w=1741",
+  "a00000044"
+ ],
+ "a00000805": [
+  "attribute",
+  "pagexml",
+  "w=1744",
+  "a00000045"
+ ],
+ "a00000806": [
+  "attribute",
+  "pagexml",
+  "w=1752",
+  "a00000046"
+ ],
+ "a00000807": [
+  "attribute",
+  "pagexml",
+  "w=1763",
+  "a00000047"
+ ],
+ "a00000808": [
+  "attribute",
+  "pagexml",
+  "w=1779",
+  "a00000048"
+ ],
+ "a00000809": [
+  "attribute",
+  "pagexml",
+  "w=1759",
+  "a00000049"
+ ],
+ "a00000810": [
+  "attribute",
+  "pagexml",
+  "w=1786",
+  "a00000050"
+ ],
+ "a00000811": [
+  "attribute",
+  "pagexml",
+  "w=1778",
+  "a00000051"
+ ],
+ "a00000812": [
+  "attribute",
+  "pagexml",
+  "w=1787",
+  "a00000052"
+ ],
+ "a00000813": [
+  "attribute",
+  "pagexml",
+  "w=1788",
+  "a00000053"
+ ],
+ "a00000814": [
+  "attribute",
+  "pagexml",
+  "w=686",
+  "a00000054"
+ ],
+ "a00000815": [
+  "attribute",
+  "pagexml",
+  "w=255",
+  "a00000055"
+ ],
+ "a00000816": [
+  "attribute",
+  "pagexml",
+  "w=158",
+  "a00000056"
+ ],
+ "a00000817": [
+  "attribute",
+  "pagexml",
+  "w=121",
+  "a00000057"
+ ],
+ "a00000818": [
+  "attribute",
+  "pagexml",
+  "w=528",
+  "a00000058"
+ ],
+ "a00000819": [
+  "attribute",
+  "pagexml",
+  "w=961",
+  "a00000059"
+ ],
+ "a00000820": [
+  "attribute",
+  "pagexml",
+  "w=62",
+  "a00000060"
+ ],
+ "a00000821": [
+  "attribute",
+  "pagexml",
+  "w=1766",
+  "a00000061"
+ ],
+ "a00000822": [
+  "attribute",
+  "pagexml",
+  "w=1322",
+  "a00000062"
+ ],
+ "a00000823": [
+  "attribute",
+  "pagexml",
+  "w=93",
+  "a00000063"
+ ],
+ "a00000824": [
+  "attribute",
+  "pagexml",
+  "w=89",
+  "a00000064"
+ ],
+ "a00000825": [
+  "attribute",
+  "pagexml",
+  "w=163",
+  "a00000065"
+ ],
+ "a00000826": [
+  "attribute",
+  "pagexml",
+  "w=176",
+  "a00000066"
+ ],
+ "a00000827": [
+  "attribute",
+  "pagexml",
+  "w=111",
+  "a00000067"
+ ],
+ "a00000828": [
+  "attribute",
+  "pagexml",
+  "w=124",
+  "a00000068"
+ ],
+ "a00000829": [
+  "attribute",
+  "pagexml",
+  "w=138",
+  "a00000069"
+ ],
+ "a00000830": [
+  "attribute",
+  "pagexml",
+  "w=141",
+  "a00000070"
+ ],
+ "a00000831": [
+  "attribute",
+  "pagexml",
+  "w=115",
+  "a00000071"
+ ],
+ "a00000832": [
+  "attribute",
+  "pagexml",
+  "w=100",
+  "a00000072"
+ ],
+ "a00000833": [
+  "attribute",
+  "pagexml",
+  "w=127",
+  "a00000073"
+ ],
+ "a00000834": [
+  "attribute",
+  "pagexml",
+  "w=521",
+  "a00000074"
+ ],
+ "a00000835": [
+  "attribute",
+  "pagexml",
+  "w=809",
+  "a00000075"
+ ],
+ "a00000836": [
+  "attribute",
+  "pagexml",
+  "w=1090",
+  "a00000076"
+ ],
+ "a00000837": [
+  "attribute",
+  "pagexml",
+  "w=839",
+  "a00000077"
+ ],
+ "a00000838": [
+  "attribute",
+  "pagexml",
+  "w=1631",
+  "a00000078"
+ ],
+ "a00000839": [
+  "attribute",
+  "pagexml",
+  "w=208",
+  "a00000079"
+ ],
+ "a00000840": [
+  "attribute",
+  "pagexml",
+  "w=824",
+  "a00000080"
+ ],
+ "a00000841": [
+  "attribute",
+  "pagexml",
+  "w=1632",
+  "a00000081"
+ ],
+ "a00000842": [
+  "attribute",
+  "pagexml",
+  "w=1699",
+  "a00000082"
+ ],
+ "a00000843": [
+  "attribute",
+  "pagexml",
+  "w=773",
+  "a00000083"
+ ],
+ "a00000844": [
+  "attribute",
+  "pagexml",
+  "w=931",
+  "a00000084"
+ ],
+ "a00000845": [
+  "attribute",
+  "pagexml",
+  "w=1610",
+  "a00000085"
+ ],
+ "a00000846": [
+  "attribute",
+  "pagexml",
+  "w=742",
+  "a00000086"
+ ],
+ "a00000847": [
+  "attribute",
+  "pagexml",
+  "w=1701",
+  "a00000087"
+ ],
+ "a00000848": [
+  "attribute",
+  "pagexml",
+  "w=1725",
+  "a00000088"
+ ],
+ "a00000849": [
+  "attribute",
+  "pagexml",
+  "w=1313",
+  "a00000089"
+ ],
+ "a00000850": [
+  "attribute",
+  "pagexml",
+  "w=832",
+  "a00000090"
+ ],
+ "a00000851": [
+  "attribute",
+  "pagexml",
+  "w=1385",
+  "a00000091"
+ ],
+ "a00000852": [
+  "attribute",
+  "pagexml",
+  "w=276",
+  "a00000092"
+ ],
+ "a00000853": [
+  "attribute",
+  "pagexml",
+  "w=305",
+  "a00000093"
+ ],
+ "a00000854": [
+  "attribute",
+  "pagexml",
+  "w=872",
+  "a00000094"
+ ],
+ "a00000855": [
+  "attribute",
+  "pagexml",
+  "w=890",
+  "a00000095"
+ ],
+ "a00000856": [
+  "attribute",
+  "pagexml",
+  "w=839",
+  "a00000096"
+ ],
+ "a00000857": [
+  "attribute",
+  "pagexml",
+  "w=1126",
+  "a00000097"
+ ],
+ "a00000858": [
+  "attribute",
+  "pagexml",
+  "w=258",
+  "a00000098"
+ ],
+ "a00000859": [
+  "attribute",
+  "pagexml",
+  "w=76",
+  "a00000099"
+ ],
+ "a00000860": [
+  "attribute",
+  "pagexml",
+  "w=196",
+  "a00000100"
+ ],
+ "a00000861": [
+  "attribute",
+  "pagexml",
+  "w=820",
+  "a00000101"
+ ],
+ "a00000862": [
+  "attribute",
+  "pagexml",
+  "w=1679",
+  "a00000102"
+ ],
+ "a00000863": [
+  "attribute",
+  "pagexml",
+  "w=1316",
+  "a00000103"
+ ],
+ "a00000864": [
+  "attribute",
+  "pagexml",
+  "w=1552",
+  "a00000104"
+ ],
+ "a00000865": [
+  "attribute",
+  "pagexml",
+  "w=812",
+  "a00000105"
+ ],
+ "a00000866": [
+  "attribute",
+  "pagexml",
+  "w=792",
+  "a00000106"
+ ],
+ "a00000867": [
+  "attribute",
+  "pagexml",
+  "w=78",
+  "a00000107"
+ ],
+ "a00000868": [
+  "attribute",
+  "pagexml",
+  "w=806",
+  "a00000108"
+ ],
+ "a00000869": [
+  "attribute",
+  "pagexml",
+  "w=1731",
+  "a00000109"
+ ],
+ "a00000870": [
+  "attribute",
+  "pagexml",
+  "w=769",
+  "a00000110"
+ ],
+ "a00000871": [
+  "attribute",
+  "pagexml",
+  "w=912",
+  "a00000111"
+ ],
+ "a00000872": [
+  "attribute",
+  "pagexml",
+  "w=1354",
+  "a00000112"
+ ],
+ "a00000873": [
+  "attribute",
+  "pagexml",
+  "w=873",
+  "a00000113"
+ ],
+ "a00000874": [
+  "attribute",
+  "pagexml",
+  "w=1692",
+  "a00000114"
+ ],
+ "a00000875": [
+  "attribute",
+  "pagexml",
+  "w=868",
+  "a00000115"
+ ],
+ "a00000876": [
+  "attribute",
+  "pagexml",
+  "w=1752",
+  "a00000116"
+ ],
+ "a00000877": [
+  "attribute",
+  "pagexml",
+  "w=311",
+  "a00000117"
+ ],
+ "a00000878": [
+  "attribute",
+  "pagexml",
+  "w=570",
+  "a00000118"
+ ],
+ "a00000879": [
+  "attribute",
+  "pagexml",
+  "w=604",
+  "a00000119"
+ ],
+ "a00000880": [
+  "attribute",
+  "pagexml",
+  "w=2480",
+  "a00000001"
+ ],
+ "a00000881": [
+  "attribute",
+  "pagexml",
+  "w=2480",
+  "a00000002"
+ ],
+ "a00000882": [
+  "attribute",
+  "pagexml",
+  "w=2480",
+  "a00000003"
+ ],
+ "a00000883": [
+  "attribute",
+  "pagexml",
+  "w=2480",
+  "a00000004"
+ ],
+ "a00000884": [
+  "attribute",
+  "pagexml",
+  "w=1886",
+  "a00000005"
+ ],
+ "a00000885": [
+  "attribute",
+  "pagexml",
+  "w=1823",
+  "a00000006"
+ ],
+ "a00000886": [
+  "attribute",
+  "pagexml",
+  "w=170",
+  "a00000007"
+ ],
+ "a00000887": [
+  "attribute",
+  "pagexml",
+  "w=1733",
+  "a00000008"
+ ],
+ "a00000888": [
+  "attribute",
+  "pagexml",
+  "w=208",
+  "a00000009"
+ ],
+ "a00000889": [
+  "attribute",
+  "pagexml",
+  "w=1830",
+  "a00000010"
+ ],
+ "a00000890": [
+  "attribute",
+  "pagexml",
+  "work=W350",
+  "a00000000"
+ ],
+ "a00000891": [
+  "attribute",
+  "pagexml",
+  "x=1395",
+  "a00000011"
+ ],
+ "a00000892": [
+  "attribute",
+  "pagexml",
+  "x=1762",
+  "a00000012"
+ ],
+ "a00000893": [
+  "attribute",
+  "pagexml",
+  "x=388",
+  "a00000013"
+ ],
+ "a00000894": [
+  "attribute",
+  "pagexml",
+  "x=399",
+  "a00000014"
+ ],
+ "a00000895": [
+  "attribute",
+  "pagexml",
+  "x=497",
+  "a00000015"
+ ],
+ "a00000896": [
+  "attribute",
+  "pagexml",
+  "x=1034",
+  "a00000016"
+ ],
+ "a00000897": [
+  "attribute",
+  "pagexml",
+  "x=381",
+  "a00000017"
+ ],
+ "a00000898": [
+  "attribute",
+  "pagexml",
+  "x=688",
+  "a00000018"
+ ],
+ "a00000899": [
+  "attribute",
+  "pagexml",
+  "x=508",
+  "a00000019"
+ ],
+ "a00000900": [
+  "attribute",
+  "pagexml",
+  "x=697",
+  "a00000020"
+ ],
+ "a00000901": [
+  "attribute",
+  "pagexml",
+  "x=498",
+  "a00000021"
+ ],
+ "a00000902": [
+  "attribute",
+  "pagexml",
+  "x=1117",
+  "a00000022"
+ ],
+ "a00000903": [
+  "attribute",
+  "pagexml",
+  "x=701",
+  "a00000023"
+ ],
+ "a00000904": [
+  "attribute",
+  "pagexml",
+  "x=729",
+  "a00000024"
+ ],
+ "a00000905": [
+  "attribute",
+  "pagexml",
+  "x=448",
+  "a00000025"
+ ],
+ "a00000906": [
+  "attribute",
+  "pagexml",
+  "x=523",
+  "a00000026"
+ ],
+ "a00000907": [
+  "attribute",
+  "pagexml",
+  "x=1169",
+  "a00000027"
+ ],
+ "a00000908": [
+  "attribute",
+  "pagexml",
+  "x=419",
+  "a00000028"
+ ],
+ "a00000909": [
+  "attribute",
+  "pagexml",
+  "x=1159",
+  "a00000029"
+ ],
+ "a00000910": [
+  "attribute",
+  "pagexml",
+  "x=583",
+  "a00000030"
+ ],
+ "a00000911": [
+  "attribute",
+  "pagexml",
+  "x=627",
+  "a00000031"
+ ],
+ "a00000912": [
+  "attribute",
+  "pagexml",
+  "x=1943",
+  "a00000032"
+ ],
+ "a00000913": [
+  "attribute",
+  "pagexml",
+  "x=1147",
+  "a00000033"
+ ],
+ "a00000914": [
+  "attribute",
+  "pagexml",
+  "x=1472",
+  "a00000034"
+ ],
+ "a00000915": [
+  "attribute",
+  "pagexml",
+  "x=1578",
+  "a00000035"
+ ],
+ "a00000916": [
+  "attribute",
+  "pagexml",
+  "x=513",
+  "a00000036"
+ ],
+ "a00000917": [
+  "attribute",
+  "pagexml",
+  "x=740",
+  "a00000037"
+ ],
+ "a00000918": [
+  "attribute",
+  "pagexml",
+  "x=761",
+  "a00000038"
+ ],
+ "a00000919": [
+  "attribute",
+  "pagexml",
+  "x=672",
+  "a00000039"
+ ],
+ "a00000920": [
+  "attribute",
+  "pagexml",
+  "x=769",
+  "a00000040"
+ ],
+ "a00000921": [
+  "attribute",
+  "pagexml",
+  "x=766",
+  "a00000041"
+ ],
+ "a00000922": [
+  "attribute",
+  "pagexml",
+  "x=451",
+  "a00000042"
+ ],
+ "a00000923": [
+  "attribute",
+  "pagexml",
+  "x=457",
+  "a00000043"
+ ],
+ "a00000924": [
+  "attribute",
+  "pagexml",
+  "x=459",
+  "a00000044"
+ ],
+ "a00000925": [
+  "attribute",
+  "pagexml",
+  "x=461",
+  "a00000045"
+ ],
+ "a00000926": [
+  "attribute",
+  "pagexml",
+  "x=460",
+  "a00000046"
+ ],
+ "a00000927": [
+  "attribute",
+  "pagexml",
+  "x=451",
+  "a00000047"
+ ],
+ "a00000928": [
+  "attribute",
+  "pagexml",
+  "x=461",
+  "a00000048"
+ ],
+ "a00000929": [
+  "attribute",
+  "pagexml",
+  "x=450",
+  "a00000049"
+ ],
+ "a00000930": [
+  "attribute",
+  "pagexml",
+  "x=452",
+  "a00000050"
+ ],
+ "a00000931": [
+  "attribute",
+  "pagexml",
+  "x=452",
+  "a00000051"
+ ],
+ "a00000932": [
+  "attribute",
+  "pagexml",
+  "x=438",
+  "a00000052"
+ ],
+ "a00000933": [
+  "attribute",
+  "pagexml",
+  "x=440",
+  "a00000053"
+ ],
+ "a00000934": [
+  "attribute",
+  "pagexml",
+  "x=1199",
+  "a00000054"
+ ],
+ "a00000935": [
+  "attribute",
+  "pagexml",
+  "x=786",
+  "a00000055"
+ ],
+ "a00000936": [
+  "attribute",
+  "pagexml",
+  "x=668",
+  "a00000056"
+ ],
+ "a00000937": [
+  "attribute",
+  "pagexml",
+  "x=542",
+  "a00000057"
+ ],
+ "a00000938": [
+  "attribute",
+  "pagexml",
+  "x=796",
+  "a00000058"
+ ],
+ "a00000939": [
+  "attribute",
+  "pagexml",
+  "x=834",
+  "a00000059"
+ ],
+ "a00000940": [
+  "attribute",
+  "pagexml",
+  "x=1929",
+  "a00000060"
+ ],
+ "a00000941": [
+  "attribute",
+  "pagexml",
+  "x=508",
+  "a00000061"
+ ],
+ "a00000942": [
+  "attribute",
+  "pagexml",
+  "x=426",
+  "a00000062"
+ ],
+ "a00000943": [
+  "attribute",
+  "pagexml",
+  "x=2221",
+  "a00000063"
+ ],
+ "a00000944": [
+  "attribute",
+  "pagexml",
+  "x=2232",
+  "a00000064"
+ ],
+ "a00000945": [
+  "attribute",
+  "pagexml",
+  "x=2253",
+  "a00000065"
+ ],
+ "a00000946": [
+  "attribute",
+  "pagexml",
+  "x=2247",
+  "a00000066"
+ ],
+ "a00000947": [
+  "attribute",
+  "pagexml",
+  "x=2292",
+  "a00000067"
+ ],
+ "a00000948": [
+  "attribute",
+  "pagexml",
+  "x=2263",
+  "a00000068"
+ ],
+ "a00000949": [
+  "attribute",
+  "pagexml",
+  "x=2283",
+  "a00000069"
+ ],
+ "a00000950": [
+  "attribute",
+  "pagexml",
+  "x=2278",
+  "a00000070"
+ ],
+ "a00000951": [
+  "attribute",
+  "pagexml",
+  "x=2293",
+  "a00000071"
+ ],
+ "a00000952": [
+  "attribute",
+  "pagexml",
+  "x=2316",
+  "a00000072"
+ ],
+ "a00000953": [
+  "attribute",
+  "pagexml",
+  "x=2301",
+  "a00000073"
+ ],
+ "a00000954": [
+  "attribute",
+  "pagexml",
+  "x=362",
+  "a00000074"
+ ],
+ "a00000955": [
+  "attribute",
+  "pagexml",
+  "x=498",
+  "a00000075"
+ ],
+ "a00000956": [
+  "attribute",
+  "pagexml",
+  "x=210",
+  "a00000076"
+ ],
+ "a00000957": [
+  "attribute",
+  "pagexml",
+  "x=504",
+  "a00000077"
+ ],
+ "a00000958": [
+  "attribute",
+  "pagexml",
+  "x=221",
+  "a00000078"
+ ],
+ "a00000959": [
+  "attribute",
+  "pagexml",
+  "x=172",
+  "a00000079"
+ ],
+ "a00000960": [
+  "attribute",
+  "pagexml",
+  "x=488",
+  "a00000080"
+ ],
+ "a00000961": [
+  "attribute",
+  "pagexml",
+  "x=223",
+  "a00000081"
+ ],
+ "a00000962": [
+  "attribute",
+  "pagexml",
+  "x=174",
+  "a00000082"
+ ],
+ "a00000963": [
+  "attribute",
+  "pagexml",
+  "x=517",
+  "a00000083"
+ ],
+ "a00000964": [
+  "attribute",
+  "pagexml",
+  "x=204",
+  "a00000084"
+ ],
+ "a00000965": [
+  "attribute",
+  "pagexml",
+  "x=196",
+  "a00000085"
+ ],
+ "a00000966": [
+  "attribute",
+  "pagexml",
+  "x=594",
+  "a00000086"
+ ],
+ "a00000967": [
+  "attribute",
+  "pagexml",
+  "x=187",
+  "a00000087"
+ ],
+ "a00000968": [
+  "attribute",
+  "pagexml",
+  "x=169",
+  "a00000088"
+ ],
+ "a00000969": [
+  "attribute",
+  "pagexml",
+  "x=167",
+  "a00000089"
+ ],
+ "a00000970": [
+  "attribute",
+  "pagexml",
+  "x=564",
+  "a00000090"
+ ],
+ "a00000971": [
+  "attribute",
+  "pagexml",
+  "x=529",
+  "a00000091"
+ ],
+ "a00000972": [
+  "attribute",
+  "pagexml",
+  "x=217",
+  "a00000092"
+ ],
+ "a00000973": [
+  "attribute",
+  "pagexml",
+  "x=160",
+  "a00000093"
+ ],
+ "a00000974": [
+  "attribute",
+  "pagexml",
+  "x=563",
+  "a00000094"
+ ],
+ "a00000975": [
+  "attribute",
+  "pagexml",
+  "x=217",
+  "a00000095"
+ ],
+ "a00000976": [
+  "attribute",
+  "pagexml",
+  "x=518",
+  "a00000096"
+ ],
+ "a00000977": [
+  "attribute",
+  "pagexml",
+  "x=212",
+  "a00000097"
+ ],
+ "a00000978": [
+  "attribute",
+  "pagexml",
+  "x=161",
+  "a00000098"
+ ],
+ "a00000979": [
+  "attribute",
+  "pagexml",
+  "x=849",
+  "a00000099"
+ ],
+ "a00000980": [
+  "attribute",
+  "pagexml",
+  "x=588",
+  "a00000100"
+ ],
+ "a00000981": [
+  "attribute",
+  "pagexml",
+  "x=987",
+  "a00000101"
+ ],
+ "a00000982": [
+  "attribute",
+  "pagexml",
+  "x=533",
+  "a00000102"
+ ],
+ "a00000983": [
+  "attribute",
+  "pagexml",
+  "x=454",
+  "a00000103"
+ ],
+ "a00000984": [
+  "attribute",
+  "pagexml",
+  "x=579",
+  "a00000104"
+ ],
+ "a00000985": [
+  "attribute",
+  "pagexml",
+  "x=954",
+  "a00000105"
+ ],
+ "a00000986": [
+  "attribute",
+  "pagexml",
+  "x=615",
+  "a00000106"
+ ],
+ "a00000987": [
+  "attribute",
+  "pagexml",
+  "x=596",
+  "a00000107"
+ ],
+ "a00000988": [
+  "attribute",
+  "pagexml",
+  "x=964",
+  "a00000108"
+ ],
+ "a00000989": [
+  "attribute",
+  "pagexml",
+  "x=505",
+  "a00000109"
+ ],
+ "a00000990": [
+  "attribute",
+  "pagexml",
+  "x=418",
+  "a00000110"
+ ],
+ "a00000991": [
+  "attribute",
+  "pagexml",
+  "x=877",
+  "a00000111"
+ ],
+ "a00000992": [
+  "attribute",
+  "pagexml",
+  "x=508",
+  "a00000112"
+ ],
+ "a00000993": [
+  "attribute",
+  "pagexml",
+  "x=935",
+  "a00000113"
+ ],
+ "a00000994": [
+  "attribute",
+  "pagexml",
+  "x=507",
+  "a00000114"
+ ],
+ "a00000995": [
+  "attribute",
+  "pagexml",
+  "x=906",
+  "a00000115"
+ ],
+ "a00000996": [
+  "attribute",
+  "pagexml",
+  "x=504",
+  "a00000116"
+ ],
+ "a00000997": [
+  "attribute",
+  "pagexml",
+  "x=402",
+  "a00000117"
+ ],
+ "a00000998": [
+  "attribute",
+  "pagexml",
+  "x=746",
+  "a00000118"
+ ],
+ "a00000999": [
+  "attribute",
+  "pagexml",
+  "x=1327",
+  "a00000119"
+ ],
+ "a00001000": [
+  "attribute",
+  "pagexml",
+  "x=0",
+  "a00000001"
+ ],
+ "a00001001": [
+  "attribute",
+  "pagexml",
+  "x=0",
+  "a00000002"
+ ],
+ "a00001002": [
+  "attribute",
+  "pagexml",
+  "x=0",
+  "a00000003"
+ ],
+ "a00001003": [
+  "attribute",
+  "pagexml",
+  "x=0",
+  "a00000004"
+ ],
+ "a00001004": [
+  "attribute",
+  "pagexml",
+  "x=393",
+  "a00000005"
+ ],
+ "a00001005": [
+  "attribute",
+  "pagexml",
+  "x=438",
+  "a00000006"
+ ],
+ "a00001006": [
+  "attribute",
+  "pagexml",
+  "x=2241",
+  "a00000007"
+ ],
+ "a00001007": [
+  "attribute",
+  "pagexml",
+  "x=171",
+  "a00000008"
+ ],
+ "a00001008": [
+  "attribute",
+  "pagexml",
+  "x=188",
+  "a00000009"
+ ],
+ "a00001009": [
+  "attribute",
+  "pagexml",
+  "x=414",
+  "a00000010"
+ ],
+ "a00001010": [
+  "attribute",
+  "pagexml",
+  "y=223",
+  "a00000011"
+ ],
+ "a00001011": [
+  "attribute",
+  "pagexml",
+  "y=379",
+  "a00000012"
+ ],
+ "a00001012": [
+  "attribute",
+  "pagexml",
+  "y=803",
+  "a00000013"
+ ],
+ "a00001013": [
+  "attribute",
+  "pagexml",
+  "y=1062",
+  "a00000014"
+ ],
+ "a00001014": [
+  "attribute",
+  "pagexml",
+  "y=1288",
+  "a00000015"
+ ],
+ "a00001015": [
+  "attribute",
+  "pagexml",
+  "y=1477",
+  "a00000016"
+ ],
+ "a00001016": [
+  "attribute",
+  "pagexml",
+  "y=1632",
+  "a00000017"
+ ],
+ "a00001017": [
+  "attribute",
+  "pagexml",
+  "y=1775",
+  "a00000018"
+ ],
+ "a00001018": [
+  "attribute",
+  "pagexml",
+  "y=1978",
+  "a00000019"
+ ],
+ "a00001019": [
+  "attribute",
+  "pagexml",
+  "y=2173",
+  "a00000020"
+ ],
+ "a00001020": [
+  "attribute",
+  "pagexml",
+  "y=2317",
+  "a00000021"
+ ],
+ "a00001021": [
+  "attribute",
+  "pagexml",
+  "y=2282",
+  "a00000022"
+ ],
+ "a00001022": [
+  "attribute",
+  "pagexml",
+  "y=2309",
+  "a00000023"
+ ],
+ "a00001023": [
+  "attribute",
+  "pagexml",
+  "y=2315",
+  "a00000024"
+ ],
+ "a00001024": [
+  "attribute",
+  "pagexml",
+  "y=2435",
+  "a00000025"
+ ],
+ "a00001025": [
+  "attribute",
+  "pagexml",
+  "y=2512",
+  "a00000026"
+ ],
+ "a00001026": [
+  "attribute",
+  "pagexml",
+  "y=2459",
+  "a00000027"
+ ],
+ "a00001027": [
+  "attribute",
+  "pagexml",
+  "y=2595",
+  "a00000028"
+ ],
+ "a00001028": [
+  "attribute",
+  "pagexml",
+  "y=2618",
+  "a00000029"
+ ],
+ "a00001029": [
+  "attribute",
+  "pagexml",
+  "y=2681",
+  "a00000030"
+ ],
+ "a00001030": [
+  "attribute",
+  "pagexml",
+  "y=2789",
+  "a00000031"
+ ],
+ "a00001031": [
+  "attribute",
+  "pagexml",
+  "y=2772",
+  "a00000032"
+ ],
+ "a00001032": [
+  "attribute",
+  "pagexml",
+  "y=2810",
+  "a00000033"
+ ],
+ "a00001033": [
+  "attribute",
+  "pagexml",
+  "y=2822",
+  "a00000034"
+ ],
+ "a00001034": [
+  "attribute",
+  "pagexml",
+  "y=2990",
+  "a00000035"
+ ],
+ "a00001035": [
+  "attribute",
+  "pagexml",
+  "y=-3",
+  "a00000036"
+ ],
+ "a00001036": [
+  "attribute",
+  "pagexml",
+  "y=220",
+  "a00000037"
+ ],
+ "a00001037": [
+  "attribute",
+  "pagexml",
+  "y=402",
+  "a00000038"
+ ],
+ "a00001038": [
+  "attribute",
+  "pagexml",
+  "y=412",
+  "a00000039"
+ ],
+ "a00001039": [
+  "attribute",
+  "pagexml",
+  "y=547",
+  "a00000040"
+ ],
+ "a00001040": [
+  "attribute",
+  "pagexml",
+  "y=693",
+  "a00000041"
+ ],
+ "a00001041": [
+  "attribute",
+  "pagexml",
+  "y=802",
+  "a00000042"
+ ],
+ "a00001042": [
+  "attribute",
+  "pagexml",
+  "y=939",
+  "a00000043"
+ ],
+ "a00001043": [
+  "attribute",
+  "pagexml",
+  "y=1070",
+  "a00000044"
+ ],
+ "a00001044": [
+  "attribute",
+  "pagexml",
+  "y=1220",
+  "a00000045"
+ ],
+ "a00001045": [
+  "attribute",
+  "pagexml",
+  "y=1340",
+  "a00000046"
+ ],
+ "a00001046": [
+  "attribute",
+  "pagexml",
+  "y=1468",
+  "a00000047"
+ ],
+ "a00001047": [
+  "attribute",
+  "pagexml",
+  "y=1618",
+  "a00000048"
+ ],
+ "a00001048": [
+  "attribute",
+  "pagexml",
+  "y=1757",
+  "a00000049"
+ ],
+ "a00001049": [
+  "attribute",
+  "pagexml",
+  "y=1852",
+  "a00000050"
+ ],
+ "a00001050": [
+  "attribute",
+  "pagexml",
+  "y=2005",
+  "a00000051"
+ ],
+ "a00001051": [
+  "attribute",
+  "pagexml",
+  "y=2150",
+  "a00000052"
+ ],
+ "a00001052": [
+  "attribute",
+  "pagexml",
+  "y=2302",
+  "a00000053"
+ ],
+ "a00001053": [
+  "attribute",
+  "pagexml",
+  "y=2518",
+  "a00000054"
+ ],
+ "a00001054": [
+  "attribute",
+  "pagexml",
+  "y=2501",
+  "a00000055"
+ ],
+ "a00001055": [
+  "attribute",
+  "pagexml",
+  "y=2505",
+  "a00000056"
+ ],
+ "a00001056": [
+  "attribute",
+  "pagexml",
+  "y=2581",
+  "a00000057"
+ ],
+ "a00001057": [
+  "attribute",
+  "pagexml",
+  "y=2613",
+  "a00000058"
+ ],
+ "a00001058": [
+  "attribute",
+  "pagexml",
+  "y=2688",
+  "a00000059"
+ ],
+ "a00001059": [
+  "attribute",
+  "pagexml",
+  "y=2778",
+  "a00000060"
+ ],
+ "a00001060": [
+  "attribute",
+  "pagexml",
+  "y=2802",
+  "a00000061"
+ ],
+ "a00001061": [
+  "attribute",
+  "pagexml",
+  "y=2954",
+  "a00000062"
+ ],
+ "a00001062": [
+  "attribute",
+  "pagexml",
+  "y=689",
+  "a00000063"
+ ],
+ "a00001063": [
+  "attribute",
+  "pagexml",
+  "y=789",
+  "a00000064"
+ ],
+ "a00001064": [
+  "attribute",
+  "pagexml",
+  "y=987",
+  "a00000065"
+ ],
+ "a00001065": [
+  "attribute",
+  "pagexml",
+  "y=1120",
+  "a00000066"
+ ],
+ "a00001066": [
+  "attribute",
+  "pagexml",
+  "y=1381",
+  "a00000067"
+ ],
+ "a00001067": [
+  "attribute",
+  "pagexml",
+  "y=1531",
+  "a00000068"
+ ],
+ "a00001068": [
+  "attribute",
+  "pagexml",
+  "y=1838",
+  "a00000069"
+ ],
+ "a00001069": [
+  "attribute",
+  "pagexml",
+  "y=1916",
+  "a00000070"
+ ],
+ "a00001070": [
+  "attribute",
+  "pagexml",
+  "y=2035",
+  "a00000071"
+ ],
+ "a00001071": [
+  "attribute",
+  "pagexml",
+  "y=2274",
+  "a00000072"
+ ],
+ "a00001072": [
+  "attribute",
+  "pagexml",
+  "y=2351",
+  "a00000073"
+ ],
+ "a00001073": [
+  "attribute",
+  "pagexml",
+  "y=162",
+  "a00000074"
+ ],
+ "a00001074": [
+  "attribute",
+  "pagexml",
+  "y=170",
+  "a00000075"
+ ],
+ "a00001075": [
+  "attribute",
+  "pagexml",
+  "y=354",
+  "a00000076"
+ ],
+ "a00001076": [
+  "attribute",
+  "pagexml",
+  "y=480",
+  "a00000077"
+ ],
+ "a00001077": [
+  "attribute",
+  "pagexml",
+  "y=633",
+  "a00000078"
+ ],
+ "a00001078": [
+  "attribute",
+  "pagexml",
+  "y=823",
+  "a00000079"
+ ],
+ "a00001079": [
+  "attribute",
+  "pagexml",
+  "y=846",
+  "a00000080"
+ ],
+ "a00001080": [
+  "attribute",
+  "pagexml",
+  "y=1001",
+  "a00000081"
+ ],
+ "a00001081": [
+  "attribute",
+  "pagexml",
+  "y=1118",
+  "a00000082"
+ ],
+ "a00001082": [
+  "attribute",
+  "pagexml",
+  "y=1246",
+  "a00000083"
+ ],
+ "a00001083": [
+  "attribute",
+  "pagexml",
+  "y=1377",
+  "a00000084"
+ ],
+ "a00001084": [
+  "attribute",
+  "pagexml",
+  "y=1499",
+  "a00000085"
+ ],
+ "a00001085": [
+  "attribute",
+  "pagexml",
+  "y=1660",
+  "a00000086"
+ ],
+ "a00001086": [
+  "attribute",
+  "pagexml",
+  "y=1771",
+  "a00000087"
+ ],
+ "a00001087": [
+  "attribute",
+  "pagexml",
+  "y=1941",
+  "a00000088"
+ ],
+ "a00001088": [
+  "attribute",
+  "pagexml",
+  "y=2054",
+  "a00000089"
+ ],
+ "a00001089": [
+  "attribute",
+  "pagexml",
+  "y=2174",
+  "a00000090"
+ ],
+ "a00001090": [
+  "attribute",
+  "pagexml",
+  "y=2291",
+  "a00000091"
+ ],
+ "a00001091": [
+  "attribute",
+  "pagexml",
+  "y=2291",
+  "a00000092"
+ ],
+ "a00001092": [
+  "attribute",
+  "pagexml",
+  "y=2391",
+  "a00000093"
+ ],
+ "a00001093": [
+  "attribute",
+  "pagexml",
+  "y=2500",
+  "a00000094"
+ ],
+ "a00001094": [
+  "attribute",
+  "pagexml",
+  "y=2627",
+  "a00000095"
+ ],
+ "a00001095": [
+  "attribute",
+  "pagexml",
+  "y=2805",
+  "a00000096"
+ ],
+ "a00001096": [
+  "attribute",
+  "pagexml",
+  "y=2960",
+  "a00000097"
+ ],
+ "a00001097": [
+  "attribute",
+  "pagexml",
+  "y=-22",
+  "a00000098"
+ ],
+ "a00001098": [
+  "attribute",
+  "pagexml",
+  "y=6",
+  "a00000099"
+ ],
+ "a00001099": [
+  "attribute",
+  "pagexml",
+  "y=-17",
+  "a00000100"
+ ],
+ "a00001100": [
+  "attribute",
+  "pagexml",
+  "y=27",
+  "a00000101"
+ ],
+ "a00001101": [
+  "attribute",
+  "pagexml",
+  "y=264",
+  "a00000102"
+ ],
+ "a00001102": [
+  "attribute",
+  "pagexml",
+  "y=401",
+  "a00000103"
+ ],
+ "a00001103": [
+  "attribute",
+  "pagexml",
+  "y=558",
+  "a00000104"
+ ],
+ "a00001104": [
+  "attribute",
+  "pagexml",
+  "y=744",
+  "a00000105"
+ ],
+ "a00001105": [
+  "attribute",
+  "pagexml",
+  "y=891",
+  "a00000106"
+ ],
+ "a00001106": [
+  "attribute",
+  "pagexml",
+  "y=994",
+  "a00000107"
+ ],
+ "a00001107": [
+  "attribute",
+  "pagexml",
+  "y=1080",
+  "a00000108"
+ ],
+ "a00001108": [
+  "attribute",
+  "pagexml",
+  "y=1244",
+  "a00000109"
+ ],
+ "a00001109": [
+  "attribute",
+  "pagexml",
+  "y=1355",
+  "a00000110"
+ ],
+ "a00001110": [
+  "attribute",
+  "pagexml",
+  "y=1508",
+  "a00000111"
+ ],
+ "a00001111": [
+  "attribute",
+  "pagexml",
+  "y=1653",
+  "a00000112"
+ ],
+ "a00001112": [
+  "attribute",
+  "pagexml",
+  "y=1817",
+  "a00000113"
+ ],
+ "a00001113": [
+  "attribute",
+  "pagexml",
+  "y=1974",
+  "a00000114"
+ ],
+ "a00001114": [
+  "attribute",
+  "pagexml",
+  "y=2107",
+  "a00000115"
+ ],
+ "a00001115": [
+  "attribute",
+  "pagexml",
+  "y=2261",
+  "a00000116"
+ ],
+ "a00001116": [
+  "attribute",
+  "pagexml",
+  "y=2355",
+  "a00000117"
+ ],
+ "a00001117": [
+  "attribute",
+  "pagexml",
+  "y=2699",
+  "a00000118"
+ ],
+ "a00001118": [
+  "attribute",
+  "pagexml",
+  "y=2732",
+  "a00000119"
+ ],
+ "a00001119": [
+  "attribute",
+  "pagexml",
+  "y=0",
+  "a00000001"
+ ],
+ "a00001120": [
+  "attribute",
+  "pagexml",
+  "y=0",
+  "a00000002"
+ ],
+ "a00001121": [
+  "attribute",
+  "pagexml",
+  "y=0",
+  "a00000003"
+ ],
+ "a00001122": [
+  "attribute",
+  "pagexml",
+  "y=0",
+  "a00000004"
+ ],
+ "a00001123": [
+  "attribute",
+  "pagexml",
+  "y=196",
+  "a00000005"
+ ],
+ "a00001124": [
+  "attribute",
+  "pagexml",
+  "y=90",
+  "a00000006"
+ ],
+ "a00001125": [
+  "attribute",
+  "pagexml",
+  "y=728",
+  "a00000007"
+ ],
+ "a00001126": [
+  "attribute",
+  "pagexml",
+  "y=149",
+  "a00000008"
+ ],
+ "a00001127": [
+  "attribute",
+  "pagexml",
+  "y=0",
+  "a00000009"
+ ],
+ "a00001128": [
+  "attribute",
+  "pagexml",
+  "y=14",
+  "a00000010"
+ ]
+}

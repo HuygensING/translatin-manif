@@ -1,6 +1,3 @@
-locations:
-  repoBase: ~/gitlab.huc.knaw.nl/translatin/corpus
-
 sourceVersion: "0.1"
 
 langMap:

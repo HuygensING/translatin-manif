@@ -8,7 +8,7 @@ from zipfile import ZipFile
 
 from tf.core.helpers import console
 from tf.core.files import (
-    baseNm,
+    fileNm,
     dirNm,
     splitExt,
     replaceExt,
@@ -17,28 +17,18 @@ from tf.core.files import (
     dirContents,
     readYaml,
     writeYaml,
-    expanduser as ex,
     unexpanduser as ux,
     initTree,
     getCwd,
     chDir,
     dirRemove,
     fileCopy,
-    getLocation,
 )
 
-# from tf.app import use
-from tf.convert.pagexml import PageXML
-from tf.convert.watm import WATMS
-
-# from tf.advanced.helpers import dm
+from tf.convert.makewatm import MakeWATM
 
 
-HELP = """Transport and transform the translatin data.
-
-USAGE
-
-python make.py tasks
+INTRO = """Transport and transform the translatin data.
 
 Transports data and metadata from the source location and produces
 the next stages of processed data: TF and WATM.
@@ -64,52 +54,7 @@ rsync -va . user@subdomain.diginfra.net:/data/translatin/scan/
 For details, see the internal repositorys
 https://code.huc.knaw.nl/tt/translatin/-/blob/main/source.yaml .
 
-FLAGS
-
---help
-    Print this help text
-
---silent
-    To run a bit more silent
-
-ARGS
-
-tfversion
-    Any arg that contains a . is considered to be the tf version number.
-    If no version is passed, we resort to the hard coded default.
-
-TASKS
-
-meta
-    Get all metadata organized
-data
-    Get all data organized
-tf
-    Produce text-fabric data
-watm
-    Produce text/anno repo data
-organize
-    Shorthand for: meta data
-produce
-    Shorthand for: tf watm
-all
-    Shorthand for: organize produce
-
---metaskip
-    Skip the compilation of the metadata, assume there is a file manifestations.yaml
-
---metaonly
-    Only compile the metadata
 """
-
-TASKS = """
-    meta
-    data
-    tf
-    watm
-""".strip().split()
-
-TF_VERSION = "0.1"
 
 CONFIG_FILE = "config.yaml"
 
@@ -160,7 +105,7 @@ def emailObfuscate(path, metaOnly=False):
 
 
 def parseFileName(path, metaFiles):
-    file = baseNm(path).lower()
+    file = fileNm(path).lower()
 
     if file in META_FILES:
         return ("meta", file)
@@ -291,37 +236,21 @@ def readSheet(table, fileName):
     return (data, len(header), len(data))
 
 
-class Make:
-    def __init__(self, tfVersion):
-        self.tfVersion = tfVersion
+class Make(MakeWATM):
+    def __init__(self, fileLoc):
+        super().__init__(fileLoc)
 
         programsDir = dirNm(abspath(__file__))
 
         self.programsDir = programsDir
-
-        self.good = True
-        self.silent = False
-
         configFile = f"{programsDir}/{CONFIG_FILE}"
         cfg = readYaml(asFile=configFile)
         self.cfg = cfg
 
-        locations = cfg.locations
         sourceVersion = cfg.sourceVersion
-        repoBase = locations.repoBase
+        repoBase = self.repoBase
         localBase = f"{repoBase}/local"
-        locations.localBase = localBase
-
-        for k, v in locations.items():
-            locations[k] = ex(v)
-
-        repoBase = locations.repoBase
-        localBase = locations.localBase
-
-        (backend, org, repo, relative) = getLocation(targetDir=repoBase)
-        self.backend = backend
-        self.org = org
-        self.repo = repo
+        self.localBase = localBase
 
         if not len(cfg):
             console(f"Missing config: {ux(configFile)}", error=True)
@@ -387,14 +316,13 @@ class Make:
         self.repoMetaSheetDir = f"{repoMetaDir}/sheets"
 
     def compileMetaSheets(self):
-        silent = self.silent
+        silent = self.flag_silent
 
         if not silent:
             console("Convert Excel sheets to yaml files ...")
 
+        repoBase = self.repoBase
         cfg = self.cfg
-        locations = cfg.locations
-        repoBase = locations.repoBase
         fieldInfo = cfg.metadata.fieldInfo
         inDir = self.localMetaSheetDir
         outDir = self.repoMetaSheetDir
@@ -419,7 +347,7 @@ class Make:
         fileCopy(f"{repoBase}/{fieldInfo}", f"{outDir}/{fieldInfo}")
 
     def compileMetaTables(self):
-        silent = self.silent
+        silent = self.flag_silent
         inDir = self.localMetaTableDir
         outDir = self.repoMetaTableDir
         initTree(outDir, fresh=False)
@@ -477,8 +405,9 @@ class Make:
             if not silent:
                 console(f" {len(outRows):>5} rows")
 
-    def compileMetaUsable(self, metaSkip=False):
-        silent = self.silent
+    def compileMetaUsable(self, skip=False):
+        silent = self.flag_silent
+        metaSkip = self.flag_metaskip
         cfg = self.cfg
         langMap = cfg.langMap
         sourceTables = cfg.metadata.sourceTables
@@ -487,7 +416,7 @@ class Make:
         inDir = self.repoMetaTableDir
         outFileBase = self.repoMetaDir
 
-        if metaSkip:
+        if skip or metaSkip:
             inFile = f"{outFileBase}/manifestations.yaml"
             self.manifestations = readYaml(asFile=inFile)
             return
@@ -636,8 +565,8 @@ class Make:
 
         self.manifestations = manifestations
 
-    def organizeData(self, tasks):
-        silent = self.silent
+    def doTask_data(self):
+        silent = self.flag_silent
         good = self.good
 
         if not good:
@@ -649,9 +578,8 @@ class Make:
 
         cfg = self.cfg
         skipDocs = set(cfg.skipDocs or [])
-        locations = cfg.locations
-        repoBase = locations.repoBase
-        srcPath = locations.localBase
+        repoBase = self.repoBase
+        srcPath = self.localBase
         sourceVersion = cfg.sourceVersion
         manifestations = self.manifestations
 
@@ -728,7 +656,7 @@ class Make:
 
     def organizeManifestation(self, version, man, manInfo):
         good = self.good
-        silent = self.silent
+        silent = self.flag_silent
 
         if not good:
             if not silent:
@@ -742,9 +670,7 @@ class Make:
         metadataFiles = self.metadataFiles
         metadataFields = self.metadataFields
         metadataDbFields = self.metadataDbFields
-        cfg = self.cfg
-        locations = cfg.locations
-        repoBase = locations.repoBase
+        repoBase = self.repoBase
         dstPath = f"{repoBase}/organized"
 
         dstTxPath = f"{dstPath}/source"
@@ -828,144 +754,37 @@ class Make:
             console(f"{kinds['page']:>4} pages")
         return True
 
-    def produceTf(self):
-        good = self.good
-        silent = self.silent
+    def doTask_meta(self):
+        return
 
-        if not good:
-            if not silent:
-                console("Skipping 'produce TF' because of an error condition")
-            return
-
-        tfVersion = self.tfVersion
-        cfg = self.cfg
-        locations = cfg.locations
-        repoBase = locations.repoBase
-        sourceDir = f"{repoBase}/organized/source"
-
-        console("Producing TF")
-
-        verbose = -1 if silent else 0
-
-        P = PageXML(sourceDir, repoBase, verbose=verbose, source=0, tf=tfVersion)
-
-        if not silent:
-            console("Converting PageXML to TF ...")
-
-        if not P.task(convert=True, verbose=verbose):
-            self.good = False
-            return
-
-        if not silent:
-            console("Precomputing and loading TF ...")
-
-        console("Loading TF")
-
-        if not P.task(load=True, verbose=verbose):
-            self.good = False
-            return
-
-        if not silent:
-            console("Set up TF-app ...")
-
-        if not P.task(app=True, verbose=verbose):
-            self.good = False
-            return
-
-        if not P.good:
-            self.good = False
-            return
-
-    def produceWatm(self):
-        good = self.good
-        silent = self.silent
-
-        if not good:
-            if not silent:
-                console("Skipping 'produce WATM' because of an error condition")
-            return
-
-        backend = self.backend
-        org = self.org
-        repo = self.repo
-
-        console("Producing WATM")
-
-        W = WATMS(org, repo, backend, "pagexml", silent=silent)
-        W.produce()
-
-    def run(self, tasks, silent):
-        self.silent = silent
-
+    def prepareRun(self, tasks):
         if "meta" in tasks:
             console("Making metadata")
             self.compileMetaSheets()
             self.compileMetaTables()
 
-        self.compileMetaUsable(metaSkip="meta" not in tasks)
-
-        if "data" in tasks:
-            self.organizeData(tasks)
-
-        if "tf" in tasks:
-            self.produceTf()
-
-        if "watm" in tasks:
-            self.produceWatm()
-
-        return 0 if self.good else 1
-
-
-def main(cargs=sys.argv[1:]):
-    if "--help" in cargs:
-        console(HELP)
-        return 0
-
-    unrecognized = set()
-    tasks = set()
-    silent = False
-    version = None
-
-    for carg in cargs:
-        if carg == "--silent":
-            silent = True
-        elif carg == "all":
-            for task in TASKS:
-                tasks.add(task)
-        elif carg == "organize":
-            for task in ["meta", "data"]:
-                tasks.add(task)
-        elif carg == "produce":
-            for task in ["tf", "watm"]:
-                tasks.add(task)
-        elif carg in TASKS:
-            tasks.add(carg)
-        elif "." in carg:
-            version = carg
-        else:
-            unrecognized.add(carg)
-
-    if version is None:
-        console(f"No version for the TF data given. Using default: {TF_VERSION}")
-    else:
-        console(f"Using TF version: {version}")
-
-    if len(unrecognized):
-        console(HELP)
-        console(f"Unrecognized arguments: {', '.join(sorted(unrecognized))}")
-        return -1
-
-    if len(tasks) == 0:
-        console("Nothing to do")
-        return 0
-
-    Mk = Make(version)
-    return Mk.run(tasks, silent)
-
-
-def run(cmdLine):
-    main(cargs=cmdLine.split())
+        self.compileMetaUsable(skip="meta" not in tasks)
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    Mk = Make(__file__)
+    Mk.setOptions(
+        taskSpecs=(
+            ("meta", "Get all metadata organized"),
+            ("data", "Get all data organized"),
+            ("page2tf", None),
+            ("watms", None),
+        ),
+        flagSpecs=(
+            ("silent", None),
+            (
+                "metaskip",
+                (
+                    "Skip the compilation of the metadata, "
+                    "assume there is a file manifestations.yaml"
+                ),
+            ),
+        ),
+        intro=INTRO,
+    )
+    sys.exit(Mk.main())
