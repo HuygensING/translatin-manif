@@ -784,6 +784,7 @@ if __name__ == "__main__":
                     "assume there is a file manifestations.yaml"
                 ),
             ),
+            ("prod", None),
         ),
         intro=INTRO,
     )
