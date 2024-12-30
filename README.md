@@ -47,7 +47,7 @@ This classification is not yet finished.
 The sources of Translatin, seen from the perspective of Team-Text, consist of 
 several directories on an
 ( 🆔
-[internal fileshare](https://code.huc.knaw.nl/tt/translatin/-/blob/main/source.yaml)
+[internal fileshare](https://code.huc.knaw.nl/tt/translatin2023/-/blob/main/source.yaml)
 🆔) (the link only works within the KNAW/HuC network). 
 
 There we find many zip files with page scans and corresponding PageXML data.

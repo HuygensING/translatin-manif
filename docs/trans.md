@@ -18,14 +18,14 @@ git clone http://gitlab.huc.knaw.nl/translatin/corpus.git
 The next step is to drag in the source data from the internal fileshare.
 
 This starts with cloning the internal
-[tt/translatin](https://code.huc.knaw.nl/tt/translatin)
+[tt/translatin](https://code.huc.knaw.nl/tt/translatin2023)
 repo to your computer.
 
 ```
 mkdir -p ~/code.huc.knaw.nl/tt
 cd ~/code.huc.knaw.nl/tt
-git clone http://code.huc.knaw.nl/tt/translatin.git
-cd translatin
+git clone http://code.huc.knaw.nl/tt/translatin2023.git
+cd translatin2023
 ```
 
 In the file
@@ -36,7 +36,7 @@ Ensure you have a login on that machine and that you can `ssh` into it.
 Now you can use the script `get.sh` to get the source data:
 
 ```
-cd ~/code.huc.knaw.nl/tt/translatin
+cd ~/code.huc.knaw.nl/tt/translatin2023
 ./get.sh dirkr
 ```
 
@@ -85,7 +85,7 @@ running the somewhat intricate `make` script for this. You put the data back by
 saying:
 
 ```
-cd ~/code.huc.knaw.nl/tt/translatin
+cd ~/code.huc.knaw.nl/tt/translatin2023
 ./putback.sh dirkr
 ```
 
@@ -93,7 +93,7 @@ If, later on, you or somebody else wants to retrieve this organized data,
 that can be done by
 
 ```
-cd ~/code.huc.knaw.nl/tt/translatin
+cd ~/code.huc.knaw.nl/tt/translatin2023
 ./getorganized.sh dirkr
 ```
 

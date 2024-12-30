@@ -30,7 +30,7 @@
 *   maintains the
     [public](https://gitlab.huc.knaw.nl/translatin/corpus)
     and
-    [private](https://code.huc.knaw.nl/tt/translatin)
+    [private](https://code.huc.knaw.nl/tt/translatin2023)
     repos for translatin;
 *   has written the scripts to transport and transform the data from source to
     text+annotations, using his own
