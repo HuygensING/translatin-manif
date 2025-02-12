@@ -1,6 +1,29 @@
-# TransLatin data
+# TransLatin overview
 
-## About
+There are three repositories in
+[GitHub/HuygensING](https://github.com/HuygensING)
+that contain data produced by the Translatin project:
+
+*   [translatin-wemi](https://github.com/HuygensING/translatin-wemi)
+    Metadata preparation and analysis to identify works, expressions, manifestations
+    and items (wemi), in the
+    [FRBR sense](https://en.wikipedia.org/wiki/Functional_Requirements_for_Bibliographic_Records)
+
+*   [translatin-manif](https://github.com/HuygensING/translatin-manif)
+    Publication of a selection of manifestations, as
+    [text-fabric](https://github.com/annotation/text-fabric) files, with an
+    [annotation](https://annotation.github.io/text-fabric/tf/convert/watm.html) export
+    to the publishing pipeline of TeamText of HuC-DI.
+
+*   [translatin](https://github.com/HuygensING/translatin)
+    Data production for the final published result of the project: a collection
+    of 100+ medieval, latin dramas.
+
+The most comprehensive information on Translatin, the project, the people involved,
+the data and the programs, is in
+*translatin-manif*, this repo, see below.
+
+## About this repo
 
 This repo contains processed data of documents produced by the
 
