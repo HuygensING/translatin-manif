@@ -111,6 +111,14 @@ organized | pagexml | 324
 text-fabric | tf | 68
 text+annotations | json | 323
 
+The source data is stored on [Surfdrive](https://surfdrive.surf.nl/index.php/apps/files/?dir=/Translatin-Manif&fileid=16987491959)
+
+There you find folders called `levering-1`, `levering-2` and `levering-3`
+`organized`.
+They used to resided in a non-version-controlled directory `local` at the toplevel
+of this repo.
+And there is a folder `organized` too, which used to reside in this repo, but not version-controlled.
+
 In [trans](docs/trans.md) we describe how to get the full data and produce a
 publishable subset of it.
 
